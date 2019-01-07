@@ -280,10 +280,10 @@
     "ordre": 1,
     "dateHeure": "2019-05-08T17:30:00.000Z",
     "idSalle": 2,
-    "idCopie": 17319,
+    "idCopie": 17307,
     "duree": 94,
     "version": "VO",
-    "format": "16 mm"
+    "format": "35 mm"
   },
   {
     "idCycle": 407,
@@ -382,7 +382,7 @@
     "idFilm": 30751,
     "idSeance": 29262,
     "ordre": 1,
-    "dateHeure": "2019-05-12T12:30:00.000Z",
+    "dateHeure": "2019-05-12T12:15:00.000Z",
     "idSalle": 1,
     "idCopie": 17782,
     "duree": 74,
@@ -395,7 +395,7 @@
     "idFilm": 72659,
     "idSeance": 29268,
     "ordre": 1,
-    "dateHeure": "2019-05-12T14:30:00.000Z",
+    "dateHeure": "2019-05-12T14:00:00.000Z",
     "idSalle": 1,
     "idCopie": 17516,
     "duree": 105,
@@ -408,7 +408,7 @@
     "idFilm": 35141,
     "idSeance": 29269,
     "ordre": 1,
-    "dateHeure": "2019-05-12T16:45:00.000Z",
+    "dateHeure": "2019-05-12T16:15:00.000Z",
     "idSalle": 1,
     "idCopie": 5903,
     "duree": 110,
@@ -421,12 +421,12 @@
     "idFilm": 36733,
     "idSeance": 29270,
     "ordre": 1,
-    "dateHeure": "2019-05-12T19:45:00.000Z",
+    "dateHeure": "2019-05-12T18:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 17319,
+    "idCopie": 17307,
     "duree": 94,
     "version": "VO",
-    "format": "16 mm"
+    "format": "35 mm"
   },
   {
     "idCycle": 407,
@@ -657,10 +657,10 @@
     "ordre": 1,
     "dateHeure": "2019-05-24T15:00:00.000Z",
     "idSalle": 1,
-    "idCopie": 17736,
+    "idCopie": 17946,
     "duree": 95,
-    "version": "VOSTF",
-    "format": "35 mm"
+    "version": "VO",
+    "format": "16 mm"
   },
   {
     "idCycle": 407,
@@ -746,7 +746,7 @@
     "idFilm": 35950,
     "idSeance": 29355,
     "ordre": 1,
-    "dateHeure": "2019-05-26T16:45:00.000Z",
+    "dateHeure": "2019-05-26T16:30:00.000Z",
     "idSalle": 1,
     "idCopie": 17499,
     "duree": 97,
@@ -759,7 +759,7 @@
     "idFilm": 35141,
     "idSeance": 29356,
     "ordre": 1,
-    "dateHeure": "2019-05-26T19:00:00.000Z",
+    "dateHeure": "2019-05-26T18:45:00.000Z",
     "idSalle": 1,
     "idCopie": 5903,
     "duree": 110,
@@ -789,7 +789,7 @@
     "idSalle": 2,
     "idCopie": 17615,
     "duree": 104,
-    "version": "VOSTF",
+    "version": "VO",
     "format": "35 mm"
   },
   {
@@ -933,7 +933,7 @@
     "idSalle": 1,
     "idCopie": 17615,
     "duree": 104,
-    "version": "VOSTF",
+    "version": "VO",
     "format": "35 mm"
   },
   {
@@ -944,10 +944,10 @@
     "ordre": 1,
     "dateHeure": "2019-05-18T15:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 17736,
+    "idCopie": 17946,
     "duree": 95,
-    "version": "VOSTF",
-    "format": "35 mm"
+    "version": "VO",
+    "format": "16 mm"
   },
   {
     "idCycle": 407,

@@ -202,9 +202,9 @@
     "ordre": 1,
     "dateHeure": "2019-01-23T16:15:00.000Z",
     "idSalle": 1,
-    "idCopie": 16450,
-    "duree": 0,
-    "version": "VOSTF",
+    "idCopie": 16469,
+    "duree": 125,
+    "version": "VO",
     "format": "35 mm"
   },
   {
@@ -774,9 +774,9 @@
     "ordre": 1,
     "dateHeure": "2019-02-08T18:30:00.000Z",
     "idSalle": 2,
-    "idCopie": 16450,
-    "duree": 0,
-    "version": "VOSTF",
+    "idCopie": 16469,
+    "duree": 125,
+    "version": "VO",
     "format": "35 mm"
   },
   {
@@ -790,6 +790,6 @@
     "idCopie": 16431,
     "duree": 21,
     "version": "VO",
-    "format": "16 mm"
+    "format": "Numérique"
   }
 ]

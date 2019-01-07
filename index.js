@@ -58,14 +58,18 @@ let cycleConfig = {
     // let f = await films(db, cycleConfig);
     let s = await seances(db, cycleConfig);
 
+    console.log(s);
+
     fs.writeFile(
       `data/json/CYCLE${cycleConfig.idCycleProg} ${cycleConfig.titreCycle} - seances.json`,
       JSON.stringify(s, null, 2),
       "utf8",
       () => {}
     );
-    console.log(s);
+
+    database.detach(db);
   } catch (e) {
     console.log(e);
+    database.detach(db);
   }
 })();
