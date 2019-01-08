@@ -1,67 +1,30 @@
 const fs = require("fs");
+const _ = require("lodash");
 const database = require("./lib/database");
 const config = require("./lib/config");
 const seances = require("./seances.js");
+const helpers = require("./lib/helpers.js");
 
-// const idCats = [1623, 1768, 1777, 1776, 1793]; // Rohmer
-// const idCats = [1588]; // Balzac
-// const idCats = [1730, 1733]; // Wilder
-// const idCats = [1828, 1849, 1866]; // Crawford
-
-let cycleConfig = {
-  idCycleProg: 379,
-  titreCycle: "Billy Wilder",
-  sousCycles: [{
-    "Les films": [1730, 1733]
-  }]
-};
-
-// let cycleConfig = {
-//   idCycleProg: 407,
-//   titreCycle: "Joan Crawford",
-//   sousCycles: [{
-//     "Les films": [1828, 1849, 1866]
-//   }]
-// };
-
-// let cycleConfig = {
-//   idCycleProg: 357,
-//   titreCycle: "Éric Rohmer",
-//   sousCycles: [{
-//       "Six contes moraux": [1768]
-//     },
-//     {
-//       "Comédies et proverbes": [1777]
-//     },
-//     {
-//       "Contes des quatre saisons": [1776]
-//     },
-//     {
-//       "Autres longs métrages": [1793]
-//     },
-//     {
-//       "Courts métrages": [1752]
-//     },
-//     {
-//       "Documentaires, films pédagogiques": [1755]
-//     },
-//     {
-//       "Autour d'Éric Rohmer": [1755]
-//     }
-//   ]
-// };
-
+const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramètre de ligne de commande
 
 (async function () {
+
+  const cyclesConfig = await helpers.readFileAsJson("./data/config/cycles.json");
+  let cycle = _(cyclesConfig).find({
+    idCycleProg: idCycle
+  });
+
+  console.log(JSON.stringify(cycle, null, 2));
+
   try {
     const db = await database.attach(config.db);
-    // let f = await films(db, cycleConfig);
-    let s = await seances(db, cycleConfig);
+    // let f = await films(db, cycle);
+    let s = await seances(db, cycle);
 
     console.log(s);
 
     fs.writeFile(
-      `data/json/CYCLE${cycleConfig.idCycleProg} ${cycleConfig.titreCycle} - seances.json`,
+      `data/json/CYCLE${cycle.idCycleProg} ${cycle.titreCycle} - seances.json`,
       JSON.stringify(s, null, 2),
       "utf8",
       () => {}

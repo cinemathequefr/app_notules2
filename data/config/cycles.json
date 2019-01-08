@@ -1,0 +1,78 @@
+[{
+    "idProg": 51,
+    "idCycleProg": 357,
+    "titreCycle": "Éric Rohmer",
+    "sousCycles": [{
+        "titre": "Six contes moraux",
+        "sousCycles": [1768],
+        "tri": 1
+      },
+      {
+        "titre": "Comédies et proverbes",
+        "sousCycles": [1777],
+        "tri": 1
+      },
+      {
+        "titre": "Contes des quatre saisons",
+        "sousCycles": [1776],
+        "tri": 1
+      },
+      {
+        "titre": "Autres longs métrages",
+        "sousCycles": [1793],
+        "tri": 1
+      },
+      {
+        "titre": "Courts métrages",
+        "sousCycles": [1752],
+        "tri": 2
+      },
+      {
+        "titre": "Documentaires, films pédagogiques",
+        "sousCycles": [1755],
+        "tri": 2
+      },
+      {
+        "titre": "Autour d'Éric Rohmer",
+        "sousCycles": [1755],
+        "tri": 2
+      }
+    ]
+  },
+  {
+    "idProg": 51,
+    "idCycleProg": 379,
+    "titleCycle": "Billy Wilder",
+    "sousCycles": [{
+      "titre": "Les films",
+      "cats": [1730, 1733],
+      "tri": 1
+    }]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 400,
+    "titreCycle": "Jerzy Skolimowski",
+    "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1810],
+        "tri": 1
+      },
+      {
+        "titre": "Autour de Jerzy Skolimowski",
+        "cats": [1850],
+        "tri": 1
+      }
+    ]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 407,
+    "titreCycle": "Joan Crawford",
+    "sousCycles": [{
+      "titre": "Les films",
+      "cats": [1828, 1849, 1866],
+      "tri": 1
+    }]
+  }
+]
