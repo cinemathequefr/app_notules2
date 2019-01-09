@@ -14,14 +14,14 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
     idCycleProg: idCycle
   });
 
-  console.log(JSON.stringify(cycle, null, 2));
+  // console.log(JSON.stringify(cycle, null, 2));
 
   try {
     const db = await database.attach(config.db);
     // let f = await films(db, cycle);
     let s = await seances(db, cycle);
 
-    console.log(s);
+    // console.log(s);
 
     fs.writeFile(
       `data/json/CYCLE${cycle.idCycleProg} ${cycle.titreCycle} - seances.json`,

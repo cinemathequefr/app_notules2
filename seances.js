@@ -7,7 +7,7 @@ const format = require("./lib/format");
 
 async function getSeancesFromCats(db, idCats) {
   let seances = await execQuery.single(db, queries.seancesFromCats, idCats);
-  return _(seances)
+  seances = _(seances)
     .map(d => helpers.keysToCamel(d))
     .map(d => _(d).assign({
         version: ((config.dict.version[d.version] || "") + (config.dict.sousTitres[d.sousTitres] || "") || (config.dict.intertitres[d.intertitres] || "")),
@@ -18,6 +18,17 @@ async function getSeancesFromCats(db, idCats) {
     )
     .groupBy(d => d.idSeance)
     .value();
+
+  // On transforme chaque séance pour passer d'une structure à plat à une structure hiérarchisée (une séances = un objet avec en-tête et liste d'items)
+  seances = _(seances).mapValues(d => {
+    return _({}).assign(
+      _(d[0]).pick(["idCycle", "idCategorie", "idSeance", "dateHeure", "idSalle"]).value(), {
+        items: _(d).map(e => _(e).omit(["idCycle", "idCategorie", "idSeance", "dateHeure", "idSalle"]).value()).sortBy("ordre").value()
+      }).value();
+  }).value();
+
+  return seances;
+
 }
 
 // Effectue une requête de mentions de séances et la transforme pour renvoyer un objet où
@@ -48,25 +59,27 @@ async function getSeancesMentionsFromCats(db, idCats) {
 }
 
 module.exports = async function (db, cycleConfig) {
-
   let idCats = helpers.getIdCats(cycleConfig);
-
-  // const db = await database.attach(config.db);
   let seances = await getSeancesFromCats(db, idCats);
   let seancesMentions = await getSeancesMentionsFromCats(db, idCats);
+
+  console.log(seances);
+  console.log(seancesMentions);
+
+  let seancesMerged = _.merge(seances, seancesMentions);
 
   // Pour fusionner les séances et les mentions, on ne peut pas utiliser un simple _.merge
   // car les objets séance contiennent un _tableau_ d'items.
   // On intègre la mention de séance dans chacun de ces items. On utilise pour cela _.mergeWith et une fonction ad hoc.
-  let seancesMerged = _.mergeWith(
-    seances,
-    seancesMentions,
-    (objValue, srcValue) =>
-    _(objValue).map(d =>
-      _(d).assign(srcValue).value()
-    )
-    .value()
-  );
+  // let seancesMerged = _.mergeWith(
+  //   seances,
+  //   seancesMentions,
+  //   (objValue, srcValue) =>
+  //   _(objValue).map(d =>
+  //     _(d).assign(srcValue).value()
+  //   )
+  //   .value()
+  // );
 
   seancesMerged = _(seancesMerged).map().flatten().value(); // Convertit en tableau (retire les clés de regroupement idSeance)
   return seancesMerged;

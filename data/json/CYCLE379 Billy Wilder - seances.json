@@ -2,794 +2,1004 @@
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36855,
     "idSeance": 26368,
-    "ordre": 1,
     "dateHeure": "2019-01-09T16:00:00.000Z",
     "idSalle": 1,
-    "idCopie": 13060,
-    "duree": 144,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36855,
+        "ordre": 1,
+        "idCopie": 13060,
+        "duree": 144,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36930,
     "idSeance": 26370,
-    "ordre": 1,
     "dateHeure": "2019-01-09T13:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 6433,
-    "duree": 110,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36930,
+        "ordre": 1,
+        "idCopie": 6433,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36831,
     "idSeance": 26381,
-    "ordre": 1,
     "dateHeure": "2019-01-11T13:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 16485,
-    "duree": 119,
-    "version": "VOSTF",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 36831,
+        "ordre": 1,
+        "idCopie": 16485,
+        "duree": 119,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36859,
     "idSeance": 26388,
-    "ordre": 1,
     "dateHeure": "2019-01-12T13:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 16496,
-    "duree": 108,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36859,
+        "ordre": 1,
+        "idCopie": 16496,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 72897,
     "idSeance": 26405,
-    "ordre": 1,
     "dateHeure": "2019-01-14T13:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 17279,
-    "duree": 98,
-    "version": "VO",
-    "format": ""
+    "items": [
+      {
+        "idFilm": 72897,
+        "ordre": 1,
+        "idCopie": 17279,
+        "duree": 98,
+        "version": "VO",
+        "format": ""
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36850,
     "idSeance": 26413,
-    "ordre": 1,
     "dateHeure": "2019-01-16T16:00:00.000Z",
     "idSalle": 1,
-    "idCopie": 10230,
-    "duree": 114,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36850,
+        "ordre": 1,
+        "idCopie": 10230,
+        "duree": 114,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1733,
-    "idFilm": 140050,
     "idSeance": 26416,
-    "ordre": 1,
     "dateHeure": "2019-01-16T19:30:00.000Z",
     "idSalle": 3,
-    "idCopie": 16950,
-    "duree": 67,
-    "version": "",
-    "format": "Vidéo"
+    "items": [
+      {
+        "idFilm": 140050,
+        "ordre": 1,
+        "idCopie": 16950,
+        "duree": 67,
+        "version": "",
+        "format": "Vidéo"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36894,
     "idSeance": 26417,
-    "ordre": 1,
     "dateHeure": "2019-01-17T19:15:00.000Z",
     "idSalle": 2,
-    "idCopie": 16410,
-    "duree": 125,
-    "version": "VOSTF",
-    "format": ""
+    "items": [
+      {
+        "idFilm": 36894,
+        "ordre": 1,
+        "idCopie": 16410,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": ""
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36852,
     "idSeance": 26418,
-    "ordre": 1,
     "dateHeure": "2019-01-17T13:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 16443,
-    "duree": 96,
-    "version": "VO",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 36852,
+        "ordre": 1,
+        "idCopie": 16443,
+        "duree": 96,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36857,
     "idSeance": 26423,
-    "ordre": 1,
     "dateHeure": "2019-01-17T16:30:00.000Z",
     "idSalle": 2,
-    "idCopie": 16482,
-    "duree": 130,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36857,
+        "ordre": 1,
+        "idCopie": 16482,
+        "duree": 130,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 39966,
     "idSeance": 26428,
-    "ordre": 1,
     "dateHeure": "2019-01-18T14:30:00.000Z",
     "idSalle": 2,
-    "idCopie": 16487,
-    "duree": 74,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 39966,
+        "ordre": 1,
+        "idCopie": 16487,
+        "duree": 74,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 51699,
     "idSeance": 26429,
-    "ordre": 1,
     "dateHeure": "2019-01-18T16:30:00.000Z",
     "idSalle": 2,
-    "idCopie": 16489,
-    "duree": 86,
-    "version": "VF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 51699,
+        "ordre": 1,
+        "idCopie": 16489,
+        "duree": 86,
+        "version": "VF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36858,
     "idSeance": 26432,
-    "ordre": 1,
     "dateHeure": "2019-01-19T18:30:00.000Z",
     "idSalle": 2,
-    "idCopie": 16497,
-    "duree": 100,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36858,
+        "ordre": 1,
+        "idCopie": 16497,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36847,
     "idSeance": 26445,
-    "ordre": 1,
     "dateHeure": "2019-01-20T15:45:00.000Z",
     "idSalle": 2,
-    "idCopie": 16440,
-    "duree": 105,
-    "version": "VO",
-    "format": "16 mm"
+    "items": [
+      {
+        "idFilm": 36847,
+        "ordre": 1,
+        "idCopie": 16440,
+        "duree": 105,
+        "version": "VO",
+        "format": "16 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36928,
     "idSeance": 26446,
-    "ordre": 1,
     "dateHeure": "2019-01-20T20:45:00.000Z",
     "idSalle": 2,
-    "idCopie": 16495,
-    "duree": 120,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36928,
+        "ordre": 1,
+        "idCopie": 16495,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 44999,
     "idSeance": 26454,
-    "ordre": 1,
     "dateHeure": "2019-01-23T16:15:00.000Z",
     "idSalle": 1,
-    "idCopie": 16469,
-    "duree": 125,
-    "version": "VO",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 44999,
+        "ordre": 1,
+        "idCopie": 16469,
+        "duree": 125,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36913,
     "idSeance": 26462,
-    "ordre": 1,
     "dateHeure": "2019-01-24T16:00:00.000Z",
     "idSalle": 1,
-    "idCopie": 16475,
-    "duree": 135,
-    "version": "VOSTF",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 36913,
+        "ordre": 1,
+        "idCopie": 16475,
+        "duree": 135,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36913,
-    "idSeance": 26462,
-    "ordre": 1,
-    "dateHeure": "2019-01-24T16:00:00.000Z",
-    "idSalle": 1,
-    "idCopie": 16491,
-    "duree": 0,
-    "version": "VOSTF",
-    "format": ""
-  },
-  {
-    "idCycle": 379,
-    "idCategorie": 1730,
-    "idFilm": 36838,
     "idSeance": 26470,
-    "ordre": 1,
     "dateHeure": "2019-01-25T20:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 11626,
-    "duree": 125,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36838,
+        "ordre": 1,
+        "idCopie": 11626,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36856,
     "idSeance": 26476,
-    "ordre": 1,
     "dateHeure": "2019-01-25T17:45:00.000Z",
     "idSalle": 1,
-    "idCopie": 16483,
-    "duree": 126,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36856,
+        "ordre": 1,
+        "idCopie": 16483,
+        "duree": 126,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36894,
     "idSeance": 26477,
-    "ordre": 1,
     "dateHeure": "2019-01-25T15:15:00.000Z",
     "idSalle": 1,
-    "idCopie": 16410,
-    "duree": 125,
-    "version": "VOSTF",
-    "format": ""
+    "items": [
+      {
+        "idFilm": 36894,
+        "ordre": 1,
+        "idCopie": 16410,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": ""
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36855,
     "idSeance": 26483,
-    "ordre": 1,
     "dateHeure": "2019-01-27T19:45:00.000Z",
     "idSalle": 1,
-    "idCopie": 13060,
-    "duree": 144,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36855,
+        "ordre": 1,
+        "idCopie": 13060,
+        "duree": 144,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36841,
     "idSeance": 26484,
-    "ordre": 1,
     "dateHeure": "2019-01-27T16:45:00.000Z",
     "idSalle": 1,
-    "idCopie": 16403,
-    "duree": 144,
-    "version": "VOSTF",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 36841,
+        "ordre": 1,
+        "idCopie": 16403,
+        "duree": 144,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 72897,
     "idSeance": 26497,
-    "ordre": 1,
     "dateHeure": "2019-01-30T16:15:00.000Z",
     "idSalle": 1,
-    "idCopie": 17279,
-    "duree": 98,
-    "version": "VO",
-    "format": ""
+    "items": [
+      {
+        "idFilm": 72897,
+        "ordre": 1,
+        "idCopie": 17279,
+        "duree": 98,
+        "version": "VO",
+        "format": ""
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36845,
     "idSeance": 26504,
-    "ordre": 1,
     "dateHeure": "2019-01-31T16:15:00.000Z",
     "idSalle": 1,
-    "idCopie": 998,
-    "duree": 100,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36845,
+        "ordre": 1,
+        "idCopie": 998,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36836,
     "idSeance": 26510,
-    "ordre": 1,
     "dateHeure": "2019-02-01T14:00:00.000Z",
     "idSalle": 1,
-    "idCopie": 16492,
-    "duree": 116,
-    "version": "VOSTF",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 36836,
+        "ordre": 1,
+        "idCopie": 16492,
+        "duree": 116,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36831,
     "idSeance": 26517,
-    "ordre": 1,
     "dateHeure": "2019-02-02T13:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 16485,
-    "duree": 119,
-    "version": "VOSTF",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 36831,
+        "ordre": 1,
+        "idCopie": 16485,
+        "duree": 119,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36928,
     "idSeance": 26518,
-    "ordre": 1,
     "dateHeure": "2019-02-02T16:15:00.000Z",
     "idSalle": 1,
-    "idCopie": 16495,
-    "duree": 120,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36928,
+        "ordre": 1,
+        "idCopie": 16495,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36930,
     "idSeance": 26526,
-    "ordre": 1,
     "dateHeure": "2019-02-03T16:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 6433,
-    "duree": 110,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36930,
+        "ordre": 1,
+        "idCopie": 6433,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 46138,
     "idSeance": 26533,
-    "ordre": 1,
     "dateHeure": "2019-02-04T13:30:00.000Z",
     "idSalle": 2,
-    "idCopie": 13061,
-    "duree": 116,
-    "version": "VO",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 46138,
+        "ordre": 1,
+        "idCopie": 13061,
+        "duree": 116,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36893,
     "idSeance": 27762,
-    "ordre": 1,
     "dateHeure": "2019-01-21T13:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 13376,
-    "duree": 113,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36893,
+        "ordre": 1,
+        "idCopie": 13376,
+        "duree": 113,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36853,
     "idSeance": 27765,
-    "ordre": 1,
     "dateHeure": "2019-01-19T20:45:00.000Z",
     "idSalle": 2,
-    "idCopie": 16417,
-    "duree": 105,
-    "version": "VO",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36853,
+        "ordre": 1,
+        "idCopie": 16417,
+        "duree": 105,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36846,
     "idSeance": 27793,
-    "ordre": 1,
     "dateHeure": "2019-01-12T15:45:00.000Z",
     "idSalle": 1,
-    "idCopie": 15561,
-    "duree": 106,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36846,
+        "ordre": 1,
+        "idCopie": 15561,
+        "duree": 106,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36928,
     "idSeance": 27808,
-    "ordre": 1,
     "dateHeure": "2019-01-10T20:15:00.000Z",
     "idSalle": 1,
-    "idCopie": 16495,
-    "duree": 120,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36928,
+        "ordre": 1,
+        "idCopie": 16495,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36908,
     "idSeance": 27834,
-    "ordre": 1,
     "dateHeure": "2019-01-03T19:00:00.000Z",
     "idSalle": 1,
-    "idCopie": 531,
-    "duree": 120,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36908,
+        "ordre": 1,
+        "idCopie": 531,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36846,
     "idSeance": 27835,
-    "ordre": 1,
     "dateHeure": "2019-01-04T18:00:00.000Z",
     "idSalle": 1,
-    "idCopie": 15561,
-    "duree": 106,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36846,
+        "ordre": 1,
+        "idCopie": 15561,
+        "duree": 106,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36906,
     "idSeance": 27836,
-    "ordre": 1,
     "dateHeure": "2019-01-04T20:15:00.000Z",
     "idSalle": 1,
-    "idCopie": 17092,
-    "duree": 105,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36906,
+        "ordre": 1,
+        "idCopie": 17092,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36852,
     "idSeance": 27840,
-    "ordre": 1,
     "dateHeure": "2019-01-05T15:45:00.000Z",
     "idSalle": 1,
-    "idCopie": 16443,
-    "duree": 96,
-    "version": "VO",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 36852,
+        "ordre": 1,
+        "idCopie": 16443,
+        "duree": 96,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36836,
     "idSeance": 27851,
-    "ordre": 1,
     "dateHeure": "2019-01-06T18:00:00.000Z",
     "idSalle": 1,
-    "idCopie": 16492,
-    "duree": 116,
-    "version": "VOSTF",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 36836,
+        "ordre": 1,
+        "idCopie": 16492,
+        "duree": 116,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 46138,
     "idSeance": 27852,
-    "ordre": 1,
     "dateHeure": "2019-01-06T20:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 13061,
-    "duree": 116,
-    "version": "VO",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 46138,
+        "ordre": 1,
+        "idCopie": 13061,
+        "duree": 116,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36847,
     "idSeance": 27856,
-    "ordre": 1,
     "dateHeure": "2019-01-09T18:00:00.000Z",
     "idSalle": 2,
-    "idCopie": 16440,
-    "duree": 105,
-    "version": "VO",
-    "format": "16 mm"
+    "items": [
+      {
+        "idFilm": 36847,
+        "ordre": 1,
+        "idCopie": 16440,
+        "duree": 105,
+        "version": "VO",
+        "format": "16 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36850,
     "idSeance": 27857,
-    "ordre": 1,
     "dateHeure": "2019-01-09T20:15:00.000Z",
     "idSalle": 2,
-    "idCopie": 10230,
-    "duree": 114,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36850,
+        "ordre": 1,
+        "idCopie": 10230,
+        "duree": 114,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36845,
     "idSeance": 27858,
-    "ordre": 1,
     "dateHeure": "2019-01-10T13:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 998,
-    "duree": 100,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36845,
+        "ordre": 1,
+        "idCopie": 998,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36913,
     "idSeance": 27860,
-    "ordre": 1,
     "dateHeure": "2019-01-11T20:15:00.000Z",
     "idSalle": 2,
-    "idCopie": 16475,
-    "duree": 135,
-    "version": "VOSTF",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 36913,
+        "ordre": 1,
+        "idCopie": 16475,
+        "duree": 135,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36913,
-    "idSeance": 27860,
-    "ordre": 1,
-    "dateHeure": "2019-01-11T20:15:00.000Z",
-    "idSalle": 2,
-    "idCopie": 16491,
-    "duree": 0,
-    "version": "VOSTF",
-    "format": ""
-  },
-  {
-    "idCycle": 379,
-    "idCategorie": 1730,
-    "idFilm": 36857,
     "idSeance": 27861,
-    "ordre": 1,
     "dateHeure": "2019-01-12T17:45:00.000Z",
     "idSalle": 2,
-    "idCopie": 16482,
-    "duree": 130,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36857,
+        "ordre": 1,
+        "idCopie": 16482,
+        "duree": 130,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36893,
     "idSeance": 27862,
-    "ordre": 1,
     "dateHeure": "2019-01-12T20:30:00.000Z",
     "idSalle": 2,
-    "idCopie": 13376,
-    "duree": 113,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36893,
+        "ordre": 1,
+        "idCopie": 13376,
+        "duree": 113,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36838,
     "idSeance": 27863,
-    "ordre": 1,
     "dateHeure": "2019-01-13T15:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 11626,
-    "duree": 125,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36838,
+        "ordre": 1,
+        "idCopie": 11626,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36853,
     "idSeance": 27864,
-    "ordre": 1,
     "dateHeure": "2019-01-13T20:30:00.000Z",
     "idSalle": 2,
-    "idCopie": 16417,
-    "duree": 105,
-    "version": "VO",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36853,
+        "ordre": 1,
+        "idCopie": 16417,
+        "duree": 105,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36841,
     "idSeance": 27865,
-    "ordre": 1,
     "dateHeure": "2019-01-11T17:15:00.000Z",
     "idSalle": 2,
-    "idCopie": 16403,
-    "duree": 144,
-    "version": "VOSTF",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 36841,
+        "ordre": 1,
+        "idCopie": 16403,
+        "duree": 144,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36859,
     "idSeance": 27879,
-    "ordre": 1,
     "dateHeure": "2019-01-06T15:45:00.000Z",
     "idSalle": 1,
-    "idCopie": 16496,
-    "duree": 108,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36859,
+        "ordre": 1,
+        "idCopie": 16496,
+        "duree": 108,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36908,
     "idSeance": 27904,
-    "ordre": 1,
     "dateHeure": "2019-01-31T18:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 531,
-    "duree": 120,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36908,
+        "ordre": 1,
+        "idCopie": 531,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36930,
     "idSeance": 27907,
-    "ordre": 1,
     "dateHeure": "2019-01-05T13:30:00.000Z",
     "idSalle": 1,
-    "idCopie": 6433,
-    "duree": 110,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36930,
+        "ordre": 1,
+        "idCopie": 6433,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36831,
     "idSeance": 27908,
-    "ordre": 1,
     "dateHeure": "2019-01-05T18:30:00.000Z",
     "idSalle": 2,
-    "idCopie": 16485,
-    "duree": 119,
-    "version": "VOSTF",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 36831,
+        "ordre": 1,
+        "idCopie": 16485,
+        "duree": 119,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36906,
     "idSeance": 28012,
-    "ordre": 1,
     "dateHeure": "2019-02-02T21:00:00.000Z",
     "idSalle": 1,
-    "idCopie": 17092,
-    "duree": 105,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36906,
+        "ordre": 1,
+        "idCopie": 17092,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36856,
     "idSeance": 28013,
-    "ordre": 1,
     "dateHeure": "2019-01-13T17:30:00.000Z",
     "idSalle": 2,
-    "idCopie": 16483,
-    "duree": 126,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36856,
+        "ordre": 1,
+        "idCopie": 16483,
+        "duree": 126,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36846,
     "idSeance": 28050,
-    "ordre": 1,
     "dateHeure": "2019-01-20T18:00:00.000Z",
     "idSalle": 1,
-    "idCopie": 15561,
-    "duree": 106,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36846,
+        "ordre": 1,
+        "idCopie": 15561,
+        "duree": 106,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 51699,
     "idSeance": 28176,
-    "ordre": 1,
     "dateHeure": "2019-01-07T14:00:00.000Z",
     "idSalle": 3,
-    "idCopie": 16489,
-    "duree": 86,
-    "version": "VF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 51699,
+        "ordre": 1,
+        "idCopie": 16489,
+        "duree": 86,
+        "version": "VF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 36858,
     "idSeance": 28177,
-    "ordre": 1,
     "dateHeure": "2019-01-07T16:00:00.000Z",
     "idSalle": 3,
-    "idCopie": 16497,
-    "duree": 100,
-    "version": "VOSTF",
-    "format": "DCP"
+    "items": [
+      {
+        "idFilm": 36858,
+        "ordre": 1,
+        "idCopie": 16497,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1730,
-    "idFilm": 44999,
     "idSeance": 28184,
-    "ordre": 1,
     "dateHeure": "2019-02-08T18:30:00.000Z",
     "idSalle": 2,
-    "idCopie": 16469,
-    "duree": 125,
-    "version": "VO",
-    "format": "35 mm"
+    "items": [
+      {
+        "idFilm": 44999,
+        "ordre": 1,
+        "idCopie": 16469,
+        "duree": 125,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ]
   },
   {
     "idCycle": 379,
     "idCategorie": 1733,
-    "idFilm": 129417,
     "idSeance": 28191,
-    "ordre": 1,
     "dateHeure": "2019-01-10T20:15:00.000Z",
     "idSalle": 1,
-    "idCopie": 16431,
-    "duree": 21,
-    "version": "VO",
-    "format": "Numérique"
+    "items": [
+      {
+        "idFilm": 129417,
+        "ordre": 1,
+        "idCopie": 16431,
+        "duree": 21,
+        "version": "VO",
+        "format": "Numérique"
+      }
+    ]
   }
 ]

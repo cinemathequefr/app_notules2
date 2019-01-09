@@ -4,37 +4,37 @@
     "titreCycle": "Éric Rohmer",
     "sousCycles": [{
         "titre": "Six contes moraux",
-        "sousCycles": [1768],
+        "cats": [1768],
         "tri": 1
       },
       {
         "titre": "Comédies et proverbes",
-        "sousCycles": [1777],
+        "cats": [1777],
         "tri": 1
       },
       {
         "titre": "Contes des quatre saisons",
-        "sousCycles": [1776],
+        "cats": [1776],
         "tri": 1
       },
       {
         "titre": "Autres longs métrages",
-        "sousCycles": [1793],
+        "cats": [1793],
         "tri": 1
       },
       {
         "titre": "Courts métrages",
-        "sousCycles": [1752],
+        "cats": [1752],
         "tri": 2
       },
       {
         "titre": "Documentaires, films pédagogiques",
-        "sousCycles": [1755],
+        "cats": [1755],
         "tri": 2
       },
       {
         "titre": "Autour d'Éric Rohmer",
-        "sousCycles": [1755],
+        "cats": [1755],
         "tri": 2
       }
     ]
@@ -42,7 +42,7 @@
   {
     "idProg": 51,
     "idCycleProg": 379,
-    "titleCycle": "Billy Wilder",
+    "titreCycle": "Billy Wilder",
     "sousCycles": [{
       "titre": "Les films",
       "cats": [1730, 1733],
