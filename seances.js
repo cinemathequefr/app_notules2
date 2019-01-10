@@ -34,11 +34,14 @@ async function getSeancesFromCats(db, idCats) {
 
   // On transforme chaque séance pour passer d'une structure à plat à une structure hiérarchisée (une séance = un objet avec en-tête et liste d'items)
   seances = _(seances).mapValues(d => {
-    return _({}).assign(
-      _(d[0]).pick(["idCycle", "idCategorie", "idEvenement", "idSeance", "dateHeure", "idSalle"]).value(), {
-        items: _(d).map(e => _(e).pick(["idFilm", "ordre"]).value()).sortBy("ordre").groupBy("idFilm").mapValues(e => e[0]).value()
-      }).value();
-  }).value();
+      return _({}).assign(
+          _(d[0]).pick(["idCycle", "idCategorie", "idEvenement", "idSeance", "dateHeure", "idSalle", "typeSeance"]).value(), {
+            items: _(d).map(e => _(e).pick(["idFilm", "ordre"]).value()).sortBy("ordre").groupBy("idFilm").mapValues(e => e[0]).value()
+          })
+        .value();
+    })
+    .value();
+
   return seances;
 }
 
@@ -125,6 +128,19 @@ module.exports = async function (db, cycleConfig) {
     }).value())
     .orderBy("dateHeure")
     .value()
+
+  // Traitement supplémentaire pour intégrer une mention de type typeSeance à `mention`
+  seancesMerged = _(seancesMerged).map(d => {
+    if (d.mention || d.typeSeance) {
+      return _(d).assign({
+          mention: format.joinLast("+", null, [config.dict.typeSeance[d.typeSeance], d.mention])
+        })
+        .omit("typeSeance")
+        .value();
+    } else {
+      return d;
+    }
+  }).value();
 
   return seancesMerged;
 }
