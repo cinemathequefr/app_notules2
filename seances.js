@@ -1,3 +1,14 @@
+/**
+ * Ce module exporte une fonction asynchrone servant à obtenir un objet (sérialisable en document JSON) des données de séances d'un cycle.
+ * Cette fonction reçoit 2 arguments : une instance de la base de données et un objet de configuration du cycle.
+ * L'objet de configuration du cycle est de la forme : { idProg: 55, idCycleProg: 413, titreCycle: "Michel Deville", sousCycles: [{ titre: "Les films", cats: [1844], tri: 1 }]}.
+ * Il liste en particulier les idCategorie qui servent de critère de requête sur la base.
+ * L'objet de retour est obtenu par la fusion de 3 opérations successives de requête sur la base + transformation lodash :
+ * - Obtention des données "générales de séance" (identifiants divers, date/heure, salle, items de la séance)
+ * - Obtention des données de mention de la séance ("séance présentée par"), mises en forme.
+ * - Obtention des données de copies des films de la séance (format, version, durée).
+ */
+
 const _ = require("lodash");
 const execQuery = require("./lib/exec_query");
 const config = require("./lib/config");
@@ -95,19 +106,25 @@ async function getSeancesCopiesFromCats(db, idCats) {
     .value();
 }
 
+
+/**
+ * @param {Object} db Instance de base de données
+ * @param {Object} cycleConfig Objet de configuration du cycle, de la forme : { idProg: 55, idCycleProg: 413, titreCycle: "Michel Deville", sousCycles: [{ titre: "Les films", cats: [1844], tri: 1 }]}.
+ * @returns {Object} Objet (séralisable en JSON) de données de cycle
+ */
 module.exports = async function (db, cycleConfig) {
   let idCats = helpers.getIdCats(cycleConfig);
-
   let seances = await getSeancesFromCats(db, idCats);
   let seancesMentions = await getSeancesMentionsFromCats(db, idCats);
   let seancesCopies = await getSeancesCopiesFromCats(db, idCats);
-
   let seancesMerged = _.merge(seances, seancesMentions, seancesCopies); // Fusionne les trois jeux de données
 
-  // Transforme des objets en tableaux : retire idSeances en clé de séance, et idFilm en clé d'item de séance
+  // Transforme des objets en tableaux : retire idSeances en clé de séance, et idFilm en clé d'item de séance + tri final
   seancesMerged = _(seancesMerged).map(d => _(d).mapValues((v, k) => {
-    return k === "items" ? _(v).map().orderBy("ordre").value() : v;
-  }).value()).value()
+      return k === "items" ? _(v).map().orderBy("ordre").value() : v;
+    }).value())
+    .orderBy("dateHeure")
+    .value()
 
   return seancesMerged;
 }

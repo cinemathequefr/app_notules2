@@ -1,0 +1,562 @@
+[
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18530,
+    "idSeance": 29205,
+    "dateHeure": "2019-05-09T18:00:00.000Z",
+    "idSalle": 1,
+    "items": [
+      {
+        "idFilm": 48109,
+        "ordre": 1,
+        "idSeance": 29205,
+        "idCopie": 10139,
+        "duree": 108,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18890,
+    "idSeance": 29823,
+    "dateHeure": "2019-05-10T17:30:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 52031,
+        "ordre": 1,
+        "idSeance": 29823,
+        "idCopie": 17914,
+        "duree": 100,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18517,
+    "idSeance": 29257,
+    "dateHeure": "2019-05-10T19:30:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48108,
+        "ordre": 1,
+        "idSeance": 29257,
+        "idCopie": 17418,
+        "duree": 103,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18535,
+    "idSeance": 29492,
+    "dateHeure": "2019-05-11T12:30:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48124,
+        "ordre": 1,
+        "idSeance": 29492,
+        "idCopie": 703,
+        "duree": 94,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18518,
+    "idSeance": 29264,
+    "dateHeure": "2019-05-11T16:00:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48103,
+        "ordre": 1,
+        "idSeance": 29264,
+        "idCopie": 17695,
+        "duree": 120,
+        "version": "",
+        "format": "35 mm"
+      }
+    ],
+    "mention": "Séance présentée par Macha Méril et Marina Vlady"
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18520,
+    "idSeance": 29696,
+    "dateHeure": "2019-05-11T18:45:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48102,
+        "ordre": 1,
+        "idSeance": 29696,
+        "idCopie": 17429,
+        "duree": 116,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18521,
+    "idSeance": 29274,
+    "dateHeure": "2019-05-12T15:15:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 132407,
+        "ordre": 1,
+        "idSeance": 29274,
+        "idCopie": 17829,
+        "duree": 26,
+        "version": "",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 48105,
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18524,
+    "idSeance": 29495,
+    "dateHeure": "2019-05-12T17:15:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48107,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18522,
+    "idSeance": 29277,
+    "dateHeure": "2019-05-12T19:30:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48112,
+        "ordre": 1,
+        "idSeance": 29277,
+        "idCopie": 17912,
+        "duree": 90,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18542,
+    "idSeance": 29490,
+    "dateHeure": "2019-05-13T17:00:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 82261,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18544,
+    "idSeance": 29491,
+    "dateHeure": "2019-05-15T17:00:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48115,
+        "ordre": 1,
+        "idSeance": 29491,
+        "idCopie": 17697,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm"
+      }
+    ],
+    "mention": "Séance présentée par Marina Vlady"
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18525,
+    "idSeance": 29446,
+    "dateHeure": "2019-05-15T19:15:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48123,
+        "ordre": 1,
+        "idSeance": 29446,
+        "idCopie": 17828,
+        "duree": 80,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18538,
+    "idSeance": 29489,
+    "dateHeure": "2019-05-17T17:30:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48127,
+        "ordre": 1,
+        "idSeance": 29489,
+        "idCopie": 9801,
+        "duree": 107,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18527,
+    "idSeance": 29308,
+    "dateHeure": "2019-05-17T19:45:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48111,
+        "ordre": 1,
+        "idSeance": 29308,
+        "idCopie": 17439,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18528,
+    "idSeance": 29316,
+    "dateHeure": "2019-05-18T15:00:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48113,
+        "ordre": 1,
+        "idSeance": 29316,
+        "idCopie": 17438,
+        "duree": 101,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18529,
+    "idSeance": 29317,
+    "dateHeure": "2019-05-18T17:15:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48106,
+        "ordre": 1,
+        "idSeance": 29317,
+        "idCopie": 1505,
+        "duree": 98,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18531,
+    "idSeance": 29328,
+    "dateHeure": "2019-05-18T19:30:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48128,
+        "ordre": 1,
+        "idSeance": 29328,
+        "idCopie": 17424,
+        "duree": 90,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18532,
+    "idSeance": 29329,
+    "dateHeure": "2019-05-19T15:00:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48110,
+        "ordre": 1,
+        "idSeance": 29329,
+        "idCopie": 17422,
+        "duree": 94,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Florence Delay"
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18534,
+    "idSeance": 29342,
+    "dateHeure": "2019-05-19T17:30:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 57612,
+        "ordre": 1,
+        "idSeance": 29342,
+        "idCopie": 17423,
+        "duree": 100,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18516,
+    "idSeance": 29496,
+    "dateHeure": "2019-05-19T19:45:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 57987,
+        "ordre": 1,
+        "idSeance": 29496,
+        "idCopie": 17417,
+        "duree": 85,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18536,
+    "idSeance": 29350,
+    "dateHeure": "2019-05-22T17:00:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 54728,
+        "ordre": 1,
+        "idSeance": 29350,
+        "idCopie": 17442,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm"
+      }
+    ],
+    "mention": "Séance présentée par Miou-Miou (sous réserve)"
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18537,
+    "idSeance": 29448,
+    "dateHeure": "2019-05-22T19:30:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48114,
+        "ordre": 1,
+        "idSeance": 29448,
+        "idCopie": 17447,
+        "duree": 85,
+        "version": "",
+        "format": "35 mm"
+      }
+    ],
+    "mention": "Séance présentée par Jean-Hugues Anglade"
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18539,
+    "idSeance": 29450,
+    "dateHeure": "2019-05-24T17:30:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 52044,
+        "ordre": 1,
+        "idSeance": 29450,
+        "idCopie": 17435,
+        "duree": 103,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18526,
+    "idSeance": 29493,
+    "dateHeure": "2019-05-24T19:45:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48126,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18540,
+    "idSeance": 29451,
+    "dateHeure": "2019-05-25T14:30:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 60793,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18541,
+    "idSeance": 29351,
+    "dateHeure": "2019-05-25T17:30:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 65004,
+        "ordre": 1,
+        "idSeance": 29351,
+        "idCopie": 17426,
+        "duree": 107,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18523,
+    "idSeance": 29494,
+    "dateHeure": "2019-05-25T19:45:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 52105,
+        "ordre": 1,
+        "idSeance": 29494,
+        "idCopie": 17693,
+        "duree": 90,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18533,
+    "idSeance": 29358,
+    "dateHeure": "2019-05-26T13:00:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48125,
+        "ordre": 1,
+        "idSeance": 29358,
+        "idCopie": 17425,
+        "duree": 92,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18543,
+    "idSeance": 29359,
+    "dateHeure": "2019-05-26T17:00:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 95796,
+        "ordre": 1,
+        "idSeance": 29359,
+        "idCopie": 17830,
+        "duree": 80,
+        "version": "",
+        "format": "35 mm"
+      }
+    ],
+    "mention": "Séance présentée par Pierre-William Glenn (sous réserve) et Dominique Blanc"
+  },
+  {
+    "idCycle": 413,
+    "idCategorie": 1844,
+    "idEvenement": 18530,
+    "idSeance": 29360,
+    "dateHeure": "2019-05-26T19:15:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 48109,
+        "ordre": 1,
+        "idSeance": 29360,
+        "idCopie": 10139,
+        "duree": 108,
+        "version": "VF",
+        "format": "35 mm"
+      }
+    ]
+  }
+]

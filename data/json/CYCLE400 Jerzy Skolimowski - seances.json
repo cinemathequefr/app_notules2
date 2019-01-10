@@ -16,6 +16,36 @@
   {
     "idCycle": 400,
     "idCategorie": 1810,
+    "idEvenement": 18604,
+    "idSeance": 29523,
+    "dateHeure": "2019-03-15T18:00:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 41108,
+        "ordre": 1
+      }
+    ],
+    "mention": "Séance présentée par Jerzy Skolimowski"
+  },
+  {
+    "idCycle": 400,
+    "idCategorie": 1810,
+    "idEvenement": 18599,
+    "idSeance": 29525,
+    "dateHeure": "2019-03-15T20:00:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 29677,
+        "ordre": 1
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Jerzy Skolimowski"
+  },
+  {
+    "idCycle": 400,
+    "idCategorie": 1810,
     "idEvenement": 18600,
     "idSeance": 28074,
     "dateHeure": "2019-03-16T15:45:00.000Z",
@@ -36,6 +66,34 @@
   {
     "idCycle": 400,
     "idCategorie": 1810,
+    "idEvenement": 18617,
+    "idSeance": 29528,
+    "dateHeure": "2019-03-16T19:00:00.000Z",
+    "idSalle": 4,
+    "items": [
+      {
+        "idFilm": 56920,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 400,
+    "idCategorie": 1810,
+    "idEvenement": 18623,
+    "idSeance": 29606,
+    "dateHeure": "2019-03-16T21:00:00.000Z",
+    "idSalle": 4,
+    "items": [
+      {
+        "idFilm": 41099,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 400,
+    "idCategorie": 1810,
     "idEvenement": 18616,
     "idSeance": 28081,
     "dateHeure": "2019-03-17T13:00:00.000Z",
@@ -44,6 +102,44 @@
       {
         "idFilm": 45046,
         "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 400,
+    "idCategorie": 1810,
+    "idEvenement": 18598,
+    "idSeance": 29607,
+    "dateHeure": "2019-03-17T16:00:00.000Z",
+    "idSalle": 1,
+    "items": [
+      {
+        "idFilm": 39977,
+        "ordre": 1,
+        "idSeance": 29607,
+        "idCopie": 17616,
+        "duree": 91,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 400,
+    "idCategorie": 1810,
+    "idEvenement": 18621,
+    "idSeance": 29783,
+    "dateHeure": "2019-03-20T16:00:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 54742,
+        "ordre": 1,
+        "idSeance": 29783,
+        "idCopie": 17658,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm"
       }
     ]
   },
@@ -115,6 +211,25 @@
   {
     "idCycle": 400,
     "idCategorie": 1810,
+    "idEvenement": 18600,
+    "idSeance": 29828,
+    "dateHeure": "2019-03-21T18:30:00.000Z",
+    "idSalle": 1,
+    "items": [
+      {
+        "idFilm": 37025,
+        "ordre": 1,
+        "idSeance": 29828,
+        "idCopie": 17605,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 400,
+    "idCategorie": 1810,
     "idEvenement": 18606,
     "idSeance": 28951,
     "dateHeure": "2019-03-22T13:30:00.000Z",
@@ -129,6 +244,20 @@
   {
     "idCycle": 400,
     "idCategorie": 1810,
+    "idEvenement": 18617,
+    "idSeance": 29837,
+    "dateHeure": "2019-03-22T16:00:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 56920,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 400,
+    "idCategorie": 1810,
     "idEvenement": 18607,
     "idSeance": 28958,
     "dateHeure": "2019-03-23T13:30:00.000Z",
@@ -136,6 +265,20 @@
     "items": [
       {
         "idFilm": 71896,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 400,
+    "idCategorie": 1810,
+    "idEvenement": 18604,
+    "idSeance": 29743,
+    "dateHeure": "2019-03-23T16:00:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 41108,
         "ordre": 1
       }
     ]
@@ -306,6 +449,67 @@
   {
     "idCycle": 400,
     "idCategorie": 1810,
+    "idEvenement": 18621,
+    "idSeance": 29772,
+    "dateHeure": "2019-03-28T13:30:00.000Z",
+    "idSalle": 1,
+    "items": [
+      {
+        "idFilm": 54742,
+        "ordre": 1,
+        "idSeance": 29772,
+        "idCopie": 17658,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 400,
+    "idCategorie": 1810,
+    "idEvenement": 18623,
+    "idSeance": 29742,
+    "dateHeure": "2019-03-31T15:30:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 41099,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 400,
+    "idCategorie": 1810,
+    "idEvenement": 18610,
+    "idSeance": 29593,
+    "dateHeure": "2019-03-31T20:00:00.000Z",
+    "idSalle": 2,
+    "items": [
+      {
+        "idFilm": 82614,
+        "ordre": 1,
+        "idSeance": 29593,
+        "idCopie": 17621,
+        "duree": 3,
+        "version": "VO",
+        "format": "35 mm"
+      },
+      {
+        "idFilm": 104697,
+        "ordre": 2,
+        "idSeance": 29593,
+        "idCopie": 17634,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": ""
+      }
+    ]
+  },
+  {
+    "idCycle": 400,
+    "idCategorie": 1810,
     "idEvenement": 18615,
     "idSeance": 29032,
     "dateHeure": "2019-04-04T15:00:00.000Z",
@@ -319,6 +523,20 @@
         "duree": 92,
         "version": "VOSTF",
         "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 400,
+    "idCategorie": 1810,
+    "idEvenement": 18607,
+    "idSeance": 29462,
+    "dateHeure": "2019-04-04T17:30:00.000Z",
+    "idSalle": 1,
+    "items": [
+      {
+        "idFilm": 71896,
+        "ordre": 1
       }
     ]
   },
@@ -407,229 +625,6 @@
       {
         "idFilm": 42473,
         "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1810,
-    "idEvenement": 18607,
-    "idSeance": 29462,
-    "dateHeure": "2019-04-04T17:30:00.000Z",
-    "idSalle": 1,
-    "items": [
-      {
-        "idFilm": 71896,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1810,
-    "idEvenement": 18604,
-    "idSeance": 29523,
-    "dateHeure": "2019-03-15T18:00:00.000Z",
-    "idSalle": 2,
-    "items": [
-      {
-        "idFilm": 41108,
-        "ordre": 1
-      }
-    ],
-    "mention": "Séance présentée par Jerzy Skolimowski"
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1810,
-    "idEvenement": 18599,
-    "idSeance": 29525,
-    "dateHeure": "2019-03-15T20:00:00.000Z",
-    "idSalle": 2,
-    "items": [
-      {
-        "idFilm": 29677,
-        "ordre": 1
-      }
-    ],
-    "mention": "Séance suivie d'une discussion avec Jerzy Skolimowski"
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1810,
-    "idEvenement": 18617,
-    "idSeance": 29528,
-    "dateHeure": "2019-03-16T19:00:00.000Z",
-    "idSalle": 4,
-    "items": [
-      {
-        "idFilm": 56920,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1850,
-    "idEvenement": 18596,
-    "idSeance": 29592,
-    "dateHeure": "2019-03-27T21:00:00.000Z",
-    "idSalle": 3,
-    "items": [
-      {
-        "idFilm": 94510,
-        "ordre": 1
-      },
-      {
-        "idFilm": 140541,
-        "ordre": 2
-      }
-    ],
-    "mention": "Séance présentée par Damien Bertrand"
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1810,
-    "idEvenement": 18610,
-    "idSeance": 29593,
-    "dateHeure": "2019-03-31T20:00:00.000Z",
-    "idSalle": 2,
-    "items": [
-      {
-        "idFilm": 82614,
-        "ordre": 1,
-        "idSeance": 29593,
-        "idCopie": 17621,
-        "duree": 3,
-        "version": "VO",
-        "format": "35 mm"
-      },
-      {
-        "idFilm": 104697,
-        "ordre": 2,
-        "idSeance": 29593,
-        "idCopie": 17634,
-        "duree": 87,
-        "version": "VOSTF",
-        "format": ""
-      }
-    ]
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1810,
-    "idEvenement": 18623,
-    "idSeance": 29606,
-    "dateHeure": "2019-03-16T21:00:00.000Z",
-    "idSalle": 4,
-    "items": [
-      {
-        "idFilm": 41099,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1810,
-    "idEvenement": 18598,
-    "idSeance": 29607,
-    "dateHeure": "2019-03-17T16:00:00.000Z",
-    "idSalle": 1,
-    "items": [
-      {
-        "idFilm": 39977,
-        "ordre": 1,
-        "idSeance": 29607,
-        "idCopie": 17616,
-        "duree": 91,
-        "version": "",
-        "format": "DCP"
-      }
-    ]
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1810,
-    "idEvenement": 18623,
-    "idSeance": 29742,
-    "dateHeure": "2019-03-31T15:30:00.000Z",
-    "idSalle": 2,
-    "items": [
-      {
-        "idFilm": 41099,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1810,
-    "idEvenement": 18604,
-    "idSeance": 29743,
-    "dateHeure": "2019-03-23T16:00:00.000Z",
-    "idSalle": 2,
-    "items": [
-      {
-        "idFilm": 41108,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1810,
-    "idEvenement": 18621,
-    "idSeance": 29772,
-    "dateHeure": "2019-03-28T13:30:00.000Z",
-    "idSalle": 1,
-    "items": [
-      {
-        "idFilm": 54742,
-        "ordre": 1,
-        "idSeance": 29772,
-        "idCopie": 17658,
-        "duree": 90,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1810,
-    "idEvenement": 18621,
-    "idSeance": 29783,
-    "dateHeure": "2019-03-20T16:00:00.000Z",
-    "idSalle": 2,
-    "items": [
-      {
-        "idFilm": 54742,
-        "ordre": 1,
-        "idSeance": 29783,
-        "idCopie": 17658,
-        "duree": 90,
-        "version": "VOSTF",
-        "format": "35 mm"
-      }
-    ]
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1810,
-    "idEvenement": 18600,
-    "idSeance": 29828,
-    "dateHeure": "2019-03-21T18:30:00.000Z",
-    "idSalle": 1,
-    "items": [
-      {
-        "idFilm": 37025,
-        "ordre": 1,
-        "idSeance": 29828,
-        "idCopie": 17605,
-        "duree": 87,
-        "version": "VOSTF",
-        "format": "DCP"
       }
     ]
   }

@@ -34,7 +34,7 @@
       },
       {
         "titre": "Autour d'Éric Rohmer",
-        "cats": [1755],
+        "cats": [1754],
         "tri": 2
       }
     ]
@@ -72,6 +72,16 @@
     "sousCycles": [{
       "titre": "Les films",
       "cats": [1828, 1849, 1866],
+      "tri": 1
+    }]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 413,
+    "titreCycle": "Michel Deville",
+    "sousCycles": [{
+      "titre": "Les films",
+      "cats": [1844],
       "tri": 1
     }]
   }
