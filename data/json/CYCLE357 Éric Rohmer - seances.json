@@ -4,8 +4,11 @@
     "idCategorie": 1777,
     "idEvenement": 17615,
     "idSeance": 26369,
-    "dateHeure": "2019-01-09T19:00:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-01-09T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 51037,
@@ -24,8 +27,11 @@
     "idCategorie": 1755,
     "idEvenement": 17590,
     "idSeance": 26374,
-    "dateHeure": "2019-01-10T14:00:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-10T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 125419,
@@ -43,8 +49,11 @@
     "idCategorie": 1793,
     "idEvenement": 17631,
     "idSeance": 27965,
-    "dateHeure": "2019-01-10T16:00:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-01-10T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 50966,
@@ -62,8 +71,11 @@
     "idCategorie": 1768,
     "idEvenement": 17584,
     "idSeance": 26382,
-    "dateHeure": "2019-01-10T18:30:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-01-10T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 50968,
@@ -91,8 +103,11 @@
     "idCategorie": 1755,
     "idEvenement": 18146,
     "idSeance": 27811,
-    "dateHeure": "2019-01-11T15:30:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-11T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 58539,
@@ -110,8 +125,11 @@
     "idCategorie": 1768,
     "idEvenement": 17601,
     "idSeance": 26383,
-    "dateHeure": "2019-01-11T18:00:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-01-11T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 51014,
@@ -129,8 +147,11 @@
     "idCategorie": 1768,
     "idEvenement": 17576,
     "idSeance": 26384,
-    "dateHeure": "2019-01-11T20:45:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-01-11T21:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 51010,
@@ -148,8 +169,11 @@
     "idCategorie": 1755,
     "idEvenement": 17589,
     "idSeance": 26392,
-    "dateHeure": "2019-01-12T14:00:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-12T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 125420,
@@ -176,8 +200,11 @@
     "idCategorie": 1777,
     "idEvenement": 17620,
     "idSeance": 27764,
-    "dateHeure": "2019-01-12T18:30:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-01-12T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 51040,
@@ -195,8 +222,11 @@
     "idCategorie": 1768,
     "idEvenement": 17591,
     "idSeance": 26396,
-    "dateHeure": "2019-01-13T13:30:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-01-13T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 54250,
@@ -214,8 +244,11 @@
     "idCategorie": 1777,
     "idEvenement": 17581,
     "idSeance": 26398,
-    "dateHeure": "2019-01-13T18:00:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-01-13T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 50967,
@@ -233,8 +266,11 @@
     "idCategorie": 1793,
     "idEvenement": 17621,
     "idSeance": 27987,
-    "dateHeure": "2019-01-13T20:00:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-01-13T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 51041,
@@ -252,8 +288,11 @@
     "idCategorie": 1793,
     "idEvenement": 17612,
     "idSeance": 27966,
-    "dateHeure": "2019-01-14T16:00:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-14T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 51016,
@@ -272,8 +311,11 @@
     "idCategorie": 1777,
     "idEvenement": 17575,
     "idSeance": 26406,
-    "dateHeure": "2019-01-14T18:15:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-14T19:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 50974,
@@ -291,8 +333,11 @@
     "idCategorie": 1793,
     "idEvenement": 17635,
     "idSeance": 26407,
-    "dateHeure": "2019-01-14T20:30:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-14T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 90170,
@@ -310,8 +355,11 @@
     "idCategorie": 1755,
     "idEvenement": 18151,
     "idSeance": 27967,
-    "dateHeure": "2019-01-16T13:30:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-16T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 140052,
@@ -328,8 +376,11 @@
     "idCategorie": 1768,
     "idEvenement": 17611,
     "idSeance": 26414,
-    "dateHeure": "2019-01-16T18:30:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-16T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 51015,
@@ -347,8 +398,11 @@
     "idCategorie": 1777,
     "idEvenement": 17599,
     "idSeance": 27970,
-    "dateHeure": "2019-01-16T20:45:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-16T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 51013,
@@ -366,8 +420,11 @@
     "idCategorie": 1755,
     "idEvenement": 18153,
     "idSeance": 27968,
-    "dateHeure": "2019-01-17T14:00:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-17T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 140061,
@@ -384,8 +441,11 @@
     "idCategorie": 1793,
     "idEvenement": 17578,
     "idSeance": 27683,
-    "dateHeure": "2019-01-17T18:30:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-01-17T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 102415,
@@ -403,8 +463,11 @@
     "idCategorie": 1793,
     "idEvenement": 17618,
     "idSeance": 27993,
-    "dateHeure": "2019-01-18T18:30:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-18T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 58085,
@@ -422,8 +485,11 @@
     "idCategorie": 1793,
     "idEvenement": 17627,
     "idSeance": 26427,
-    "dateHeure": "2019-01-18T20:00:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-01-18T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 50964,
@@ -441,8 +507,11 @@
     "idCategorie": 1793,
     "idEvenement": 17580,
     "idSeance": 27986,
-    "dateHeure": "2019-01-19T19:00:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-01-19T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 50963,
@@ -461,8 +530,11 @@
     "idCategorie": 1755,
     "idEvenement": 18223,
     "idSeance": 28090,
-    "dateHeure": "2019-01-20T18:30:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-20T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 140225,
@@ -480,8 +552,11 @@
     "idCategorie": 1776,
     "idEvenement": 17595,
     "idSeance": 26442,
-    "dateHeure": "2019-01-20T20:15:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-01-20T21:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 51012,
@@ -499,8 +574,11 @@
     "idCategorie": 1755,
     "idEvenement": 17603,
     "idSeance": 27901,
-    "dateHeure": "2019-01-21T15:30:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-21T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 125421,
@@ -536,8 +614,11 @@
     "idCategorie": 1776,
     "idEvenement": 17593,
     "idSeance": 26450,
-    "dateHeure": "2019-01-21T18:00:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-21T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 59940,
@@ -556,8 +637,11 @@
     "idCategorie": 1776,
     "idEvenement": 17594,
     "idSeance": 26449,
-    "dateHeure": "2019-01-21T20:30:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-21T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 51011,
@@ -576,8 +660,11 @@
     "idCategorie": 1755,
     "idEvenement": 17604,
     "idSeance": 26457,
-    "dateHeure": "2019-01-23T20:00:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-23T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 125424,
@@ -604,8 +691,11 @@
     "idCategorie": 1755,
     "idEvenement": 17608,
     "idSeance": 27985,
-    "dateHeure": "2019-01-24T16:30:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-24T17:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 65426,
@@ -618,8 +708,11 @@
     "idCategorie": 1776,
     "idEvenement": 17592,
     "idSeance": 26474,
-    "dateHeure": "2019-01-26T18:30:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-26T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 29520,
@@ -638,8 +731,11 @@
     "idCategorie": 1793,
     "idEvenement": 17630,
     "idSeance": 26472,
-    "dateHeure": "2019-01-26T20:45:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-26T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 57553,
@@ -657,8 +753,11 @@
     "idCategorie": 1793,
     "idEvenement": 17579,
     "idSeance": 26482,
-    "dateHeure": "2019-01-27T13:30:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-01-27T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 75244,
@@ -677,8 +776,11 @@
     "idCategorie": 1755,
     "idEvenement": 18147,
     "idSeance": 26491,
-    "dateHeure": "2019-01-28T16:15:00.000Z",
-    "idSalle": 3,
+    "dateHeure": "2019-01-28T17:15:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
     "items": [
       {
         "idFilm": 139028,
@@ -714,8 +816,11 @@
     "idCategorie": 1754,
     "idEvenement": 18020,
     "idSeance": 26492,
-    "dateHeure": "2019-01-28T18:00:00.000Z",
-    "idSalle": 3,
+    "dateHeure": "2019-01-28T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
     "items": [
       {
         "idFilm": 125401,
@@ -734,8 +839,11 @@
     "idCategorie": 1755,
     "idEvenement": 18015,
     "idSeance": 26493,
-    "dateHeure": "2019-01-28T20:15:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-28T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 140051,
@@ -749,8 +857,11 @@
     "idCategorie": 1754,
     "idEvenement": 18022,
     "idSeance": 26496,
-    "dateHeure": "2019-01-30T15:45:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-30T16:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 125398,
@@ -763,8 +874,11 @@
     "idCategorie": 1754,
     "idEvenement": 18018,
     "idSeance": 26500,
-    "dateHeure": "2019-01-30T18:00:00.000Z",
-    "idSalle": 3,
+    "dateHeure": "2019-01-30T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
     "items": [
       {
         "idFilm": 140053,
@@ -791,8 +905,11 @@
     "idCategorie": 1754,
     "idEvenement": 18019,
     "idSeance": 26501,
-    "dateHeure": "2019-01-30T20:30:00.000Z",
-    "idSalle": 3,
+    "dateHeure": "2019-01-30T21:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
     "items": [
       {
         "idFilm": 62575,
@@ -810,8 +927,11 @@
     "idCategorie": 1752,
     "idEvenement": 18227,
     "idSeance": 28091,
-    "dateHeure": "2019-01-31T13:30:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-31T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 125162,
@@ -865,8 +985,11 @@
     "idCategorie": 1755,
     "idEvenement": 18080,
     "idSeance": 27903,
-    "dateHeure": "2019-01-31T15:45:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-01-31T16:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 121765,
@@ -911,8 +1034,11 @@
     "idCategorie": 1755,
     "idEvenement": 18082,
     "idSeance": 27984,
-    "dateHeure": "2019-02-01T13:30:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-02-01T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 121762,
@@ -948,8 +1074,11 @@
     "idCategorie": 1752,
     "idEvenement": 18222,
     "idSeance": 28092,
-    "dateHeure": "2019-02-01T15:15:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-02-01T16:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 125130,
@@ -1012,8 +1141,11 @@
     "idCategorie": 1777,
     "idEvenement": 17629,
     "idSeance": 26522,
-    "dateHeure": "2019-02-02T19:00:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-02-02T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 50965,
@@ -1031,8 +1163,11 @@
     "idCategorie": 1752,
     "idEvenement": 17582,
     "idSeance": 27991,
-    "dateHeure": "2019-02-04T16:00:00.000Z",
-    "idSalle": 2,
+    "dateHeure": "2019-02-04T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
     "items": [
       {
         "idFilm": 75300,
@@ -1068,8 +1203,11 @@
     "idCategorie": 1755,
     "idEvenement": 17586,
     "idSeance": 26540,
-    "dateHeure": "2019-02-06T16:30:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-02-06T17:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 121760,
@@ -1105,8 +1243,11 @@
     "idCategorie": 1793,
     "idEvenement": 17580,
     "idSeance": 28190,
-    "dateHeure": "2019-02-07T18:30:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-02-07T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 50963,
@@ -1124,8 +1265,11 @@
     "idCategorie": 1755,
     "idEvenement": 17597,
     "idSeance": 26553,
-    "dateHeure": "2019-02-08T13:30:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-02-08T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 121768,
@@ -1152,8 +1296,11 @@
     "idCategorie": 1754,
     "idEvenement": 18357,
     "idSeance": 28128,
-    "dateHeure": "2019-02-09T17:00:00.000Z",
-    "idSalle": 3,
+    "dateHeure": "2019-02-09T18:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
     "items": [
       {
         "idFilm": 125166,
@@ -1207,8 +1354,11 @@
     "idCategorie": 1755,
     "idEvenement": 18158,
     "idSeance": 26576,
-    "dateHeure": "2019-02-11T13:30:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-02-11T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 140130,
@@ -1244,8 +1394,11 @@
     "idCategorie": 1752,
     "idEvenement": 17577,
     "idSeance": 27992,
-    "dateHeure": "2019-02-11T15:30:00.000Z",
-    "idSalle": 1,
+    "dateHeure": "2019-02-11T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
     "items": [
       {
         "idFilm": 77291,

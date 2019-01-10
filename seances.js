@@ -10,6 +10,7 @@
  */
 
 const _ = require("lodash");
+const moment = require("moment");
 const execQuery = require("./lib/exec_query");
 const config = require("./lib/config");
 const queries = require("./lib/queries");
@@ -36,7 +37,9 @@ async function getSeancesFromCats(db, idCats) {
   seances = _(seances).mapValues(d => {
       return _({}).assign(
           _(d[0]).pick(["idCycle", "idCategorie", "idEvenement", "idSeance", "dateHeure", "idSalle", "typeSeance"]).value(), {
-            items: _(d).map(e => _(e).pick(["idFilm", "ordre"]).value()).sortBy("ordre").groupBy("idFilm").mapValues(e => e[0]).value()
+            items: _(d).map(e => _(e).pick(["idFilm", "ordre"]).value()).sortBy("ordre").groupBy("idFilm").mapValues(e => e[0]).value(),
+            dateHeure: moment(d[0].dateHeure).format("YYYY-MM-DD[T]HH:mm:ss"),
+            idSalle: config.dict.salles[d[0].idSalle]
           })
         .value();
     })
