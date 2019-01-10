@@ -26,7 +26,6 @@
     "idSeance": 26374,
     "dateHeure": "2019-01-10T14:00:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 125419,
@@ -46,7 +45,6 @@
     "idSeance": 27965,
     "dateHeure": "2019-01-10T16:00:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 50966,
@@ -95,7 +93,6 @@
     "idSeance": 27811,
     "dateHeure": "2019-01-11T15:30:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 58539,
@@ -115,7 +112,6 @@
     "idSeance": 26383,
     "dateHeure": "2019-01-11T18:00:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 51014,
@@ -135,7 +131,6 @@
     "idSeance": 26384,
     "dateHeure": "2019-01-11T20:45:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 51010,
@@ -155,7 +150,6 @@
     "idSeance": 26392,
     "dateHeure": "2019-01-12T14:00:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 125420,
@@ -184,7 +178,6 @@
     "idSeance": 27764,
     "dateHeure": "2019-01-12T18:30:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 51040,
@@ -204,7 +197,6 @@
     "idSeance": 26396,
     "dateHeure": "2019-01-13T13:30:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 54250,
@@ -224,7 +216,6 @@
     "idSeance": 26398,
     "dateHeure": "2019-01-13T18:00:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 50967,
@@ -244,7 +235,6 @@
     "idSeance": 27987,
     "dateHeure": "2019-01-13T20:00:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 51041,
@@ -284,7 +274,6 @@
     "idSeance": 26406,
     "dateHeure": "2019-01-14T18:15:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 50974,
@@ -304,7 +293,6 @@
     "idSeance": 26407,
     "dateHeure": "2019-01-14T20:30:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 90170,
@@ -324,7 +312,6 @@
     "idSeance": 27967,
     "dateHeure": "2019-01-16T13:30:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 140052,
@@ -343,7 +330,6 @@
     "idSeance": 26414,
     "dateHeure": "2019-01-16T18:30:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 51015,
@@ -363,7 +349,6 @@
     "idSeance": 27970,
     "dateHeure": "2019-01-16T20:45:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 51013,
@@ -383,7 +368,6 @@
     "idSeance": 27968,
     "dateHeure": "2019-01-17T14:00:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 140061,
@@ -402,7 +386,6 @@
     "idSeance": 27683,
     "dateHeure": "2019-01-17T18:30:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 102415,
@@ -422,7 +405,6 @@
     "idSeance": 27993,
     "dateHeure": "2019-01-18T18:30:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 58085,
@@ -442,7 +424,6 @@
     "idSeance": 26427,
     "dateHeure": "2019-01-18T20:00:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 50964,
@@ -482,7 +463,6 @@
     "idSeance": 28090,
     "dateHeure": "2019-01-20T18:30:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 140225,
@@ -502,7 +482,6 @@
     "idSeance": 26442,
     "dateHeure": "2019-01-20T20:15:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 51012,
@@ -522,7 +501,6 @@
     "idSeance": 27901,
     "dateHeure": "2019-01-21T15:30:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 125421,
@@ -600,7 +578,6 @@
     "idSeance": 26457,
     "dateHeure": "2019-01-23T20:00:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 125424,
@@ -629,7 +606,6 @@
     "idSeance": 27985,
     "dateHeure": "2019-01-24T16:30:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 65426,
@@ -664,7 +640,6 @@
     "idSeance": 26472,
     "dateHeure": "2019-01-26T20:45:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 57553,
@@ -704,7 +679,6 @@
     "idSeance": 26491,
     "dateHeure": "2019-01-28T16:15:00.000Z",
     "idSalle": 3,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 139028,
@@ -777,7 +751,6 @@
     "idSeance": 26496,
     "dateHeure": "2019-01-30T15:45:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 125398,
@@ -792,7 +765,6 @@
     "idSeance": 26500,
     "dateHeure": "2019-01-30T18:00:00.000Z",
     "idSalle": 3,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 140053,
@@ -821,7 +793,6 @@
     "idSeance": 26501,
     "dateHeure": "2019-01-30T20:30:00.000Z",
     "idSalle": 3,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 62575,
@@ -841,7 +812,6 @@
     "idSeance": 28091,
     "dateHeure": "2019-01-31T13:30:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 125162,
@@ -897,7 +867,6 @@
     "idSeance": 27903,
     "dateHeure": "2019-01-31T15:45:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 121765,
@@ -944,7 +913,6 @@
     "idSeance": 27984,
     "dateHeure": "2019-02-01T13:30:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 121762,
@@ -982,7 +950,6 @@
     "idSeance": 28092,
     "dateHeure": "2019-02-01T15:15:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 125130,
@@ -1047,7 +1014,6 @@
     "idSeance": 26522,
     "dateHeure": "2019-02-02T19:00:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 50965,
@@ -1067,7 +1033,6 @@
     "idSeance": 27991,
     "dateHeure": "2019-02-04T16:00:00.000Z",
     "idSalle": 2,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 75300,
@@ -1105,7 +1070,6 @@
     "idSeance": 26540,
     "dateHeure": "2019-02-06T16:30:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 121760,
@@ -1143,7 +1107,6 @@
     "idSeance": 28190,
     "dateHeure": "2019-02-07T18:30:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 50963,
@@ -1163,7 +1126,6 @@
     "idSeance": 26553,
     "dateHeure": "2019-02-08T13:30:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 121768,
@@ -1192,7 +1154,6 @@
     "idSeance": 28128,
     "dateHeure": "2019-02-09T17:00:00.000Z",
     "idSalle": 3,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 125166,
@@ -1248,7 +1209,6 @@
     "idSeance": 26576,
     "dateHeure": "2019-02-11T13:30:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 140130,
@@ -1286,7 +1246,6 @@
     "idSeance": 27992,
     "dateHeure": "2019-02-11T15:30:00.000Z",
     "idSalle": 1,
-    "typeSeance": null,
     "items": [
       {
         "idFilm": 77291,

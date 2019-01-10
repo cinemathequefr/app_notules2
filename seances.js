@@ -131,16 +131,17 @@ module.exports = async function (db, cycleConfig) {
 
   // Traitement supplémentaire pour intégrer une mention de type typeSeance à `mention`
   seancesMerged = _(seancesMerged).map(d => {
-    if (d.mention || d.typeSeance) {
-      return _(d).assign({
-          mention: format.joinLast("+", null, [config.dict.typeSeance[d.typeSeance], d.mention])
-        })
-        .omit("typeSeance")
-        .value();
-    } else {
-      return d;
-    }
-  }).value();
+      if (d.mention || d.typeSeance) {
+        d = _(d).assign({
+            mention: format.joinLast("+", null, [config.dict.typeSeance[d.typeSeance], d.mention])
+          })
+          .omit("typeSeance")
+          .value();
+      }
+
+      return _(d).pickBy(_.identity).value();
+    })
+    .value();
 
   return seancesMerged;
 }
