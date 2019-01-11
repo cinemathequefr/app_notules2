@@ -136,7 +136,7 @@ module.exports = async function (db, cycleConfig) {
   seancesMerged = _(seancesMerged).map(d => {
       if (d.mention || d.typeSeance) {
         d = _(d).assign({
-            mention: format.joinLast("+", null, [config.dict.typeSeance[d.typeSeance], d.mention])
+            mention: format.joinLast(". ", null, [config.dict.typeSeance[d.typeSeance], d.mention])
           })
           .omit("typeSeance")
           .value();

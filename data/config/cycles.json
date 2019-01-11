@@ -84,5 +84,21 @@
       "cats": [1844],
       "tri": 1
     }]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 410,
+    "titreCycle": "Erich von Stroheim",
+    "sousCycles": [{
+        "titre": "Stroheim réalisateur",
+        "cats": [1841],
+        "tri": 1
+      },
+      {
+        "titre": "Stroheim acteur",
+        "cats": [1858],
+        "tri": 1
+      }
+    ]
   }
 ]
