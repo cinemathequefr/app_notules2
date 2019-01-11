@@ -8,7 +8,6 @@
  * - Obtention des données de mention de la séance ("séance présentée par"), mises en forme.
  * - Obtention des données de copies des films de la séance (format, version, durée).
  */
-
 const _ = require("lodash");
 const moment = require("moment");
 const execQuery = require("./lib/exec_query");
@@ -147,4 +146,4 @@ module.exports = async function (db, cycleConfig) {
     .value();
 
   return seancesMerged;
-}
+};
