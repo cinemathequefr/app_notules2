@@ -19,19 +19,24 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
 
   try {
     const db = await database.attach(config.db);
+
     let f = await films(db, cycleConfig);
+    fs.writeFile(
+      `data/json/CYCLE${cycleConfig.idCycleProg} ${cycleConfig.titreCycle} - films.json`,
+      JSON.stringify(f, null, 2),
+      "utf8",
+      () => {}
+    );
 
-    console.log(JSON.stringify(f, null, 2));
+    // console.log(JSON.stringify(f, null, 2));
 
-    // TEMPORAIREMENT DESACTIVE
-    // let s = await seances(db, cycleConfig);
-
-    // fs.writeFile(
-    //   `data/json/CYCLE${cycle.idCycleProg} ${cycle.titreCycle} - seances.json`,
-    //   JSON.stringify(s, null, 2),
-    //   "utf8",
-    //   () => {}
-    // );
+    let s = await seances(db, cycleConfig);
+    fs.writeFile(
+      `data/json/CYCLE${cycleConfig.idCycleProg} ${cycleConfig.titreCycle} - seances.json`,
+      JSON.stringify(s, null, 2),
+      "utf8",
+      () => {}
+    );
 
     database.detach(db);
   } catch (e) {
