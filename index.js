@@ -5,8 +5,17 @@ const config = require("./lib/config");
 const seances = require("./seances.js");
 const films = require("./films.js");
 const helpers = require("./lib/helpers.js");
+const {
+  promisify
+} = require("util"); // https://stackoverflow.com/questions/40593875/using-filesystem-in-node-js-with-async-await
+
+const writeFile = promisify(fs.writeFile);
+const copyFile = promisify(fs.copyFile);
 
 const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramètre de ligne de commande
+
+const timestamp = helpers.timestamp();
+
 
 (async function () {
 
@@ -15,27 +24,41 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
     idCycleProg: idCycle
   });
 
-  // console.log(JSON.stringify(cycle, null, 2));
 
   try {
     const db = await database.attach(config.db);
 
+    console.log(`Importation des données pour le cycle ${cycleConfig.idCycleProg} ${cycleConfig.titreCycle}.`);
+    console.log("Connecté à la base de données.");
+
+    // Films
     let f = await films(db, cycleConfig);
-    fs.writeFile(
-      `data/json/CYCLE${cycleConfig.idCycleProg} ${cycleConfig.titreCycle} - films.json`,
+    console.log(`Films : ${_.map(f).length} items.`);
+
+    await writeFile(
+      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_FILMS ${cycleConfig.titreCycle} ${timestamp}.json`,
       JSON.stringify(f, null, 2),
-      "utf8",
-      () => {}
+      "utf8"
     );
 
-    // console.log(JSON.stringify(f, null, 2));
+    await copyFile(
+      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_FILMS ${cycleConfig.titreCycle} ${timestamp}.json`,
+      `data/cycles/CYCLE${cycleConfig.idCycleProg}_FILMS ${cycleConfig.titreCycle}.json`
+    );
 
+    // Séances
     let s = await seances(db, cycleConfig);
-    fs.writeFile(
-      `data/json/CYCLE${cycleConfig.idCycleProg} ${cycleConfig.titreCycle} - seances.json`,
+    console.log(`Séances : ${s.length} items.`);
+
+    await writeFile(
+      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_SEANCES ${cycleConfig.titreCycle} ${timestamp}.json`,
       JSON.stringify(s, null, 2),
-      "utf8",
-      () => {}
+      "utf8"
+    );
+
+    await copyFile(
+      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_SEANCES ${cycleConfig.titreCycle} ${timestamp}.json`,
+      `data/cycles/CYCLE${cycleConfig.idCycleProg}_SEANCES ${cycleConfig.titreCycle}.json`
     );
 
     database.detach(db);

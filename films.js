@@ -104,5 +104,8 @@ module.exports = async function (db, cycleConfig) {
   let filmsTextes = await getFilmsTextesFromCats(db, idCats);
   let filmsGeneriques = await getFilmsGeneriquesFromCats(db, idCats);
   let filmsAdaptations = await getFilmsAdaptationsFromCats(db, idCats);
-  return _.merge(films, filmsTextes, filmsGeneriques, filmsAdaptations);
+  let filmsMerged = _.merge(films, filmsTextes, filmsGeneriques, filmsAdaptations);
+
+  filmsMerged = _(filmsMerged).map().orderBy(d => _.kebabCase(d.titre)).value();
+  return filmsMerged;
 };
