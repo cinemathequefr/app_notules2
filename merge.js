@@ -69,7 +69,7 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
 
   films = _(films).groupBy("idFilm").mapValues(e => e[0]).value();
 
-  seances = _(seances).orderBy("dateHeure").groupBy("idFilm").mapValues(e => {
+  seances = _(seances).groupBy("idFilm").mapValues(e => {
     return {
       seance: e
     }
@@ -80,6 +80,7 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
 
   // Répartition par sous-cycle (en suivant l'ordre indiqué par cycleConfig)
   // TODO: autres type de tri à l'intérieur de chaque sous-cycle
+  // TODO: dans le tri par titre, faire un tri des séances par dateTime.
   cycle = _(cycleConfig.sousCycles).map(d => {
     return {
       titreSousCycle: d.titre,
