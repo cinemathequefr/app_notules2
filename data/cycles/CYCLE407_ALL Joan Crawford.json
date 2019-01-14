@@ -1,0 +1,2085 @@
+[
+  {
+    "titreSousCycle": "Les films",
+    "items": [
+      {
+        "titre": "Above Suspicion",
+        "idFilm": 37506,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Richard Thorpe",
+        "annee": 1942,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "À la veille de la Seconde Guerre mondiale, deux Américains en voyage de noces en Europe sont chargés par les services secrets britanniques d'une mission de la plus haute importance : retrouver un agent anglais disparu."
+          }
+        ],
+        "generique": "Joan Crawford, Fred MacMurray, Conrad Veidt, Basil Rathbone",
+        "seance": [
+          {
+            "idFilm": 37506,
+            "ordre": 1,
+            "idSeance": 29798,
+            "idCopie": 17805,
+            "duree": 90,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18823,
+            "dateHeure": "2019-04-25T17:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 37506,
+            "ordre": 1,
+            "idSeance": 29333,
+            "idCopie": 17805,
+            "duree": 90,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18823,
+            "dateHeure": "2019-05-23T17:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Après nous le déluge",
+        "titreVo": "Today We Live",
+        "idFilm": 33152,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Howard Hawks, Richard Rosson",
+        "annee": 1933,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Durant la Première Guerre mondiale, une jeune femme promise à un officier de la marine anglaise tombe amoureuse d'un aviateur américain. Mais ce dernier doit repartir à la guerre. Un jour il est déclaré « tué en mission »."
+          }
+        ],
+        "generique": "Joan Crawford, Gary Cooper, Robert Young, Franchot Tone",
+        "adaptation": "D'après la nouvelle _Turn About_ de William Faulkner.",
+        "seance": [
+          {
+            "idFilm": 33152,
+            "ordre": 1,
+            "idSeance": 29420,
+            "idCopie": 17787,
+            "duree": 113,
+            "version": "VOAutres",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18244,
+            "dateHeure": "2019-04-26T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 33152,
+            "ordre": 1,
+            "idSeance": 29252,
+            "idCopie": 17787,
+            "duree": 113,
+            "version": "VOAutres",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18244,
+            "dateHeure": "2019-05-10T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Boulevard des passions",
+        "art": "Le",
+        "titreVo": "Flamingo Road",
+        "idFilm": 31396,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Michael Curtiz",
+        "annee": 1948,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une danseuse de cabaret sans-le-sou arrive dans la ville de Boldon. Carlisle, adjoint au shérif, la prend sous son aile et en tombe amoureux. Mais ce n'est pas au goût du shérif Titus Semple, qui veut faire de Carlisle un politicien en le mariant à une riche héritière."
+          }
+        ],
+        "generique": "Joan Crawford, Zachary Scott, Sydney Greenstreet",
+        "seance": [
+          {
+            "idFilm": 31396,
+            "ordre": 1,
+            "idSeance": 29179,
+            "idCopie": 17314,
+            "duree": 94,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18248,
+            "dateHeure": "2019-04-26T21:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 31396,
+            "ordre": 1,
+            "idSeance": 29311,
+            "idCopie": 17314,
+            "duree": 94,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18248,
+            "dateHeure": "2019-05-19T16:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Cage aux femmes",
+        "art": "La",
+        "titreVo": "Caretakers",
+        "artVo": "The",
+        "idFilm": 30419,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Hall Bartlett",
+        "annee": 1963,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Dans un hôpital psychiatrique, un jeune docteur optimiste veut créer des thérapies de groupe pour aider les patients. Il se heurte à l'infirmière en chef qui ne croit qu'aux méthodes traditionnelles et plus radicales."
+          }
+        ],
+        "generique": "Joan Crawford, Robert Stack, Polly Bergen, Janis Paige",
+        "adaptation": "D'après le roman _The Caretakers_ de Dariel Telfer.",
+        "seance": [
+          {
+            "idFilm": 30419,
+            "ordre": 1,
+            "idSeance": 29836,
+            "idCopie": 17266,
+            "duree": 95,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18249,
+            "dateHeure": "2019-05-11T15:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 30419,
+            "ordre": 1,
+            "idSeance": 29363,
+            "idCopie": 17266,
+            "duree": 95,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18249,
+            "dateHeure": "2019-05-27T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Cargo maudit",
+        "art": "Le",
+        "titreVo": "Strange Cargo",
+        "idFilm": 60820,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Frank Borzage",
+        "annee": 1939,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Sur une île pénitentiaire au large de la Guyane, une prostituée est embarquée dans une évasion au à bord d'un cargo en compagnie de six personnes, dont un homme qu'elle avait aidé auparavant et un mystérieux prophète."
+          }
+        ],
+        "generique": "Clark Gable, Joan Crawford, Peter Lorre, Paul Lukas",
+        "seance": [
+          {
+            "idFilm": 60820,
+            "ordre": 1,
+            "idSeance": 29221,
+            "idCopie": 17293,
+            "duree": 113,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18252,
+            "dateHeure": "2019-05-04T20:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 60820,
+            "ordre": 1,
+            "idSeance": 29292,
+            "idCopie": 17293,
+            "duree": 113,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18252,
+            "dateHeure": "2019-05-16T21:45:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Cercle de sang",
+        "art": "Le",
+        "titreVo": "Berserk",
+        "idFilm": 45561,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Jim O'Connolly",
+        "annee": 1966,
+        "pays": "Grande-Bretagne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un équilibriste meurt étrangement lors d'une représentation dans un grand cirque anglais. La directrice, une femme froide, ne tarde pas à trouver un remplaçant qui devient son amant. Les meurtres continuent."
+          }
+        ],
+        "generique": "Joan Crawford, Ty Hardin, Diana Dors, Michael Gough",
+        "seance": [
+          {
+            "idFilm": 45561,
+            "ordre": 1,
+            "idSeance": 29255,
+            "idCopie": 17294,
+            "duree": 85,
+            "version": "VO",
+            "format": "DCP",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18253,
+            "dateHeure": "2019-05-10T22:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Duel de femmes",
+        "titreVo": "When Ladies Meet",
+        "idFilm": 72659,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Robert Z. Leonard",
+        "annee": 1941,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une romancière à succès aux mœurs libérées tombe amoureuse de son éditeur, un homme marié. Son amant, jaloux et convaincu d'être l'homme qu'il lui faut, arrange une rencontre entre l'écrivaine et la femme de l'éditeur."
+          }
+        ],
+        "generique": "Joan Crawford, Robert Taylor, Greer Garson",
+        "seance": [
+          {
+            "idFilm": 72659,
+            "ordre": 1,
+            "idSeance": 29234,
+            "idCopie": 17516,
+            "duree": 105,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18255,
+            "dateHeure": "2019-05-06T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 72659,
+            "ordre": 1,
+            "idSeance": 29268,
+            "idCopie": 17516,
+            "duree": 105,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18255,
+            "dateHeure": "2019-05-12T16:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Ensorceleuse",
+        "art": "L'",
+        "titreVo": "Shining Hour",
+        "artVo": "The",
+        "idFilm": 30674,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Frank Borzage",
+        "annee": 1938,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un riche agriculteur demande en mariage une danseuse de night-club. Il l'emmène vivre avec lui dans la maison familiale présidée par la sœur de la fratrie, qui n'accepte pas la présence de la nouvelle épouse."
+          }
+        ],
+        "generique": "Robert Young, Joan Crawford, Melvyn Douglas, Margaret Sullavan",
+        "seance": [
+          {
+            "idFilm": 30674,
+            "ordre": 1,
+            "idSeance": 29170,
+            "idCopie": 17400,
+            "duree": 73,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18258,
+            "dateHeure": "2019-04-25T19:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 30674,
+            "ordre": 1,
+            "idSeance": 29797,
+            "idCopie": 17400,
+            "duree": 73,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18258,
+            "dateHeure": "2019-05-13T21:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Esclave du gang",
+        "art": "L'",
+        "titreVo": "Damned Don't Cry",
+        "artVo": "The",
+        "idFilm": 36693,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Vincent Sherman",
+        "annee": 1949,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un gangster est retrouvé mort. La police suspecte Lorna Hansen Forbes, figure mondaine qui se prétend fortunée. Mais Lorna a disparu. Réfugiée chez ses parents, elle se remémore son parcours ponctué de drames."
+          }
+        ],
+        "generique": "Joan Crawford, David Brian, Steve Cochran, Kent Smith",
+        "adaptation": "D'après la nouvelle _The Brooch_ de William Faulkner.",
+        "seance": [
+          {
+            "idFilm": 36693,
+            "ordre": 1,
+            "idSeance": 29222,
+            "idCopie": 17320,
+            "duree": 103,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18259,
+            "dateHeure": "2019-05-04T22:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 36693,
+            "ordre": 1,
+            "idSeance": 29313,
+            "idCopie": 17320,
+            "duree": 103,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18259,
+            "dateHeure": "2019-05-19T21:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Fascination",
+        "titreVo": "Possessed",
+        "idFilm": 30807,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Clarence Brown",
+        "annee": 1931,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une jeune ouvrière, lasse de son quotidien, rêve de mener la grande vie. Elle quitte fiancé et famille pour tenter sa chance à New York où elle devient la maîtresse d'un avocat fortuné."
+          }
+        ],
+        "generique": "Clark Gable, Joan Crawford, Wallace Ford",
+        "seance": [
+          {
+            "idFilm": 30807,
+            "ordre": 1,
+            "idSeance": 29183,
+            "idCopie": 17412,
+            "duree": 98,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18260,
+            "dateHeure": "2019-04-28T18:45:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 30807,
+            "ordre": 1,
+            "idSeance": 29839,
+            "idCopie": 17412,
+            "duree": 98,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18260,
+            "dateHeure": "2019-05-08T19:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Femme ou maîtresse",
+        "titreVo": "Daisy Kenyon",
+        "idFilm": 35815,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Otto Preminger",
+        "annee": 1947,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Daisy, dessinatrice réputée, est la maîtresse d'un puissant avocat, Dan O'Mara, qui ne se résout pas à quitter sa femme. Daisy accepte difficilement cette situation, remise en question par la présence d'un nouvel homme dans sa vie."
+          }
+        ],
+        "generique": "Joan Crawford, Dana Andrews, Henry Fonda, Ruth Warrick",
+        "adaptation": "D'après le roman _Daisy Kenyon_ d'Elizabeth Janeway.",
+        "seance": [
+          {
+            "idFilm": 35815,
+            "ordre": 1,
+            "idSeance": 29153,
+            "idCopie": 17318,
+            "duree": 99,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18263,
+            "dateHeure": "2019-04-24T20:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "mention": "Ouverture de la rétrospective"
+          },
+          {
+            "idFilm": 35815,
+            "ordre": 1,
+            "idSeance": 29312,
+            "idCopie": 17318,
+            "duree": 99,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18263,
+            "dateHeure": "2019-05-19T19:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Femmes",
+        "titreVo": "Women",
+        "artVo": "The",
+        "idFilm": 31479,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "George Cukor",
+        "annee": 1939,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une femme mariée retrouve régulièrement ses amies. Certaines d'entre elles sont au courant que son mari la trompe, ce qu'elle ignore."
+          }
+        ],
+        "generique": "Norma Shearer, Joan Crawford, Rosalind Russell, Mary Boland",
+        "seance": [
+          {
+            "idFilm": 31479,
+            "ordre": 1,
+            "idSeance": 29171,
+            "idCopie": 17317,
+            "duree": 134,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18264,
+            "dateHeure": "2019-04-25T21:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 31479,
+            "ordre": 1,
+            "idSeance": 29291,
+            "idCopie": 17317,
+            "duree": 134,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18264,
+            "dateHeure": "2019-05-17T21:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Feuilles d'automne",
+        "titreVo": "Autumn Leaves",
+        "idFilm": 30123,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Robert Aldrich",
+        "annee": 1955,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une femme accepte d'épouser un homme plus jeune qu'elle, mais le bonheur laisse vite place à la suspicion et à l'inquiétude. Elle découvre que son mari cache un lourd secret."
+          }
+        ],
+        "generique": "Joan Crawford, Cliff Robertson, Vera Miles, Lorne Greene",
+        "seance": [
+          {
+            "idFilm": 30123,
+            "ordre": 1,
+            "idSeance": 29220,
+            "idCopie": 17300,
+            "duree": 107,
+            "version": "VO",
+            "format": "DCP",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18265,
+            "dateHeure": "2019-05-04T14:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 30123,
+            "ordre": 1,
+            "idSeance": 29334,
+            "idCopie": 17300,
+            "duree": 107,
+            "version": "VO",
+            "format": "DCP",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18265,
+            "dateHeure": "2019-05-23T19:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Flamme du passé",
+        "art": "La",
+        "titreVo": "Goodbye My Fancy",
+        "idFilm": 36695,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Vincent Sherman",
+        "annee": 1950,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une femme députée retourne dans sa ville natale pour recevoir un diplôme d'honneur. Les retrouvailles avec son premier amour vont être bousculées par un reporter qui la suit dans ses moindres déplacements."
+          }
+        ],
+        "generique": "Joan Crawford, Robert Young, Frank Lovejoy",
+        "seance": [
+          {
+            "idFilm": 36695,
+            "ordre": 1,
+            "idSeance": 29190,
+            "idCopie": 17783,
+            "duree": 107,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18267,
+            "dateHeure": "2019-04-29T17:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 36695,
+            "ordre": 1,
+            "idSeance": 29320,
+            "idCopie": 17783,
+            "duree": 107,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18267,
+            "dateHeure": "2019-05-20T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Grand Hôtel",
+        "titreVo": "Grand Hotel",
+        "idFilm": 32993,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Edmund Goulding",
+        "annee": 1932,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Dans un grand hôtel de Berlin, les destins croisés d'une célèbre ballerine déchue, d'un baron ruiné, d'un riche industriel, d'un jeune comptable atteint d'une maladie incurable et d'une sténo-dactylo opportuniste."
+          }
+        ],
+        "generique": "Greta Garbo, Joan Crawford, Lionel Barrymore, John Barrymore",
+        "seance": [
+          {
+            "idFilm": 32993,
+            "ordre": 1,
+            "idSeance": 29208,
+            "idCopie": 17409,
+            "duree": 112,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18269,
+            "dateHeure": "2019-05-02T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 32993,
+            "ordre": 1,
+            "idSeance": 29841,
+            "idCopie": 17409,
+            "duree": 112,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18269,
+            "dateHeure": "2019-05-08T21:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Humoresque",
+        "idFilm": 56791,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Jean Negulesco",
+        "annee": 1945,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une riche épouse névrosée et infidèle tombe amoureuse d'un jeune violoniste passionné par son art. À défaut d'être sa maîtresse, elle devient son imprésario et lance sa carrière."
+          }
+        ],
+        "generique": "Joan Crawford, John Garfield, Oscar Levant, J. Carrol Naish",
+        "adaptation": "D'après la nouvelle _Humoresque_ de Fannie Hurst.",
+        "seance": [
+          {
+            "idFilm": 56791,
+            "ordre": 1,
+            "idSeance": 29310,
+            "idCopie": 17302,
+            "duree": 125,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18272,
+            "dateHeure": "2019-05-19T14:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 56791,
+            "ordre": 1,
+            "idSeance": 29842,
+            "idCopie": 17302,
+            "duree": 125,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18272,
+            "dateHeure": "2019-05-25T17:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Il était une fois",
+        "titreVo": "A Woman's Face",
+        "idFilm": 31406,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "George Cukor",
+        "annee": 1941,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Affreusement défigurée à la suite d'un accident survenu dans sa jeunesse, une jeune femme devient maître-chanteur par haine de la société qui la rejette. Un mystérieux et ambitieux docteur va lui offrir la possibilité de changer de visage..."
+          }
+        ],
+        "generique": "Joan Crawford, Melvyn Douglas, Conrad Veidt, Osa Massen",
+        "adaptation": "D'après la pièce _Il était une fois_ de Francis de Croisset.",
+        "seance": [
+          {
+            "idFilm": 31406,
+            "ordre": 1,
+            "idSeance": 29432,
+            "idCopie": 17490,
+            "duree": 105,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18273,
+            "dateHeure": "2019-05-05T17:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 31406,
+            "ordre": 1,
+            "idSeance": 29297,
+            "idCopie": 17490,
+            "duree": 105,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18273,
+            "dateHeure": "2019-05-17T19:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Inconnu",
+        "art": "L'",
+        "titreVo": "Unknown",
+        "artVo": "The",
+        "idFilm": 56580,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Tod Browning",
+        "annee": 1927,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un criminel se réfugie dans un cirque et devient un étonnant lanceur de couteaux. Il tombe rapidement sous le charme de la fille du directeur que convoite également Malabar, l'homme fort du cirque. Par amour pour elle, il prend une décision extrême."
+          }
+        ],
+        "generique": "Joan Crawford, Lon Chaney, Norman Kerry, Nick De Ruiz",
+        "seance": [
+          {
+            "idFilm": 56580,
+            "ordre": 1,
+            "idSeance": 29182,
+            "idCopie": 10199,
+            "duree": 60,
+            "version": "INT. FR.",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18274,
+            "dateHeure": "2019-04-28T17:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 56580,
+            "ordre": 1,
+            "idSeance": 29353,
+            "idCopie": 10199,
+            "duree": 60,
+            "version": "INT. FR.",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18274,
+            "dateHeure": "2019-05-26T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Johnny Guitare",
+        "titreVo": "Johnny Guitar",
+        "idFilm": 35504,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Nicholas Ray",
+        "annee": 1953,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Vienna, tenancière d'un saloon fréquenté par des hors-la-loi, embauche un cow-boy musicien qui fut son amant. Il va l'aider dans sa lutte qui l'oppose à un groupe d'éleveurs."
+          }
+        ],
+        "generique": "Joan Crawford, Sterling Hayden, Mercedes McCambridge, Ward Bond",
+        "adaptation": "D'après la nouvelle _Johnny Guitar_ de Roy Chanslor.",
+        "seance": [
+          {
+            "idFilm": 35504,
+            "ordre": 1,
+            "idSeance": 29428,
+            "idCopie": 17304,
+            "duree": 110,
+            "version": "VOSTF",
+            "format": "DCP",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18277,
+            "dateHeure": "2019-05-05T19:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 35504,
+            "ordre": 1,
+            "idSeance": 29456,
+            "idCopie": 17304,
+            "duree": 110,
+            "version": "VOSTF",
+            "format": "DCP",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18277,
+            "dateHeure": "2019-05-15T19:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 35504,
+            "ordre": 1,
+            "idSeance": 29340,
+            "idCopie": 17304,
+            "duree": 110,
+            "version": "VOSTF",
+            "format": "DCP",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18277,
+            "dateHeure": "2019-05-24T19:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Maison sur la plage",
+        "art": "La",
+        "titreVo": "Female on the Beach",
+        "idFilm": 35950,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Joseph Pevney",
+        "annee": 1954,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une veuve solitaire décide de se rendre dans la maison en bord de mer que lui a léguée son mari. Elle découvre que le lieu a été le théâtre d'une sordide affaire et se sent attirée par un séduisant et intriguant vagabond des plages."
+          }
+        ],
+        "generique": "Joan Crawford, Jeff Chandler, Jan Sterling",
+        "seance": [
+          {
+            "idFilm": 35950,
+            "ordre": 1,
+            "idSeance": 29321,
+            "idCopie": 17499,
+            "duree": 97,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18282,
+            "dateHeure": "2019-05-20T21:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 35950,
+            "ordre": 1,
+            "idSeance": 29355,
+            "idCopie": 17499,
+            "duree": 97,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18282,
+            "dateHeure": "2019-05-26T18:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Maman très chère",
+        "titreVo": "Mommie Dearest",
+        "idFilm": 34581,
+        "idCycle": 407,
+        "idCategorie": 1849,
+        "realisateurs": "Frank Perry",
+        "annee": 1981,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "N'ayant jamais pu avoir d'enfant, Joan Crawford, au faîte de sa gloire, décide d'adopter Christina et Christopher. Les névroses de la star hollywoodienne ne vont pas tarder à se répercuter sur les deux enfants..."
+          }
+        ],
+        "generique": "Faye Dunaway, Diana Scarwid, Steve Forrest",
+        "seance": [
+          {
+            "idFilm": 34581,
+            "ordre": 1,
+            "idSeance": 29354,
+            "idCopie": 17591,
+            "duree": 128,
+            "version": "VO",
+            "format": "DCP",
+            "idCycle": 407,
+            "idCategorie": 1849,
+            "idEvenement": 18636,
+            "dateHeure": "2019-05-26T16:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Mannequin",
+        "idFilm": 30636,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Frank Borzage",
+        "annee": 1937,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une jeune femme entretient sa famille dans un petit appartement. N'en pouvant plus, elle insiste auprès de son amoureux pour qu'ils se marient. Le soir de la noce, l'époux pousse la jeune femme à danser avec un riche armateur."
+          }
+        ],
+        "generique": "Spencer Tracy, Joan Crawford, Alan Curtis",
+        "seance": [
+          {
+            "idFilm": 30636,
+            "ordre": 1,
+            "idSeance": 29161,
+            "idCopie": 17410,
+            "duree": 94,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18283,
+            "dateHeure": "2019-04-27T21:45:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 30636,
+            "ordre": 1,
+            "idSeance": 29282,
+            "idCopie": 17410,
+            "duree": 94,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18283,
+            "dateHeure": "2019-05-15T17:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Masque arraché",
+        "art": "Le",
+        "titreVo": "Sudden Fear",
+        "idFilm": 35141,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "David Miller",
+        "annee": 1952,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Lester, un acteur dans le besoin, est marié à Myra, une célèbre dramaturge. Afin d'hériter de la fortune de sa femme, il projette de la supprimer avec l'aide de sa maîtresse."
+          }
+        ],
+        "generique": "Joan Crawford, Jack Palance, Gloria Grahame, Bruce Bennett",
+        "adaptation": "D'après le roman _Sudden Fear_ d'Edna Sherry.",
+        "seance": [
+          {
+            "idFilm": 35141,
+            "ordre": 1,
+            "idSeance": 29269,
+            "idCopie": 5903,
+            "duree": 110,
+            "version": "VO",
+            "format": "DCP",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18284,
+            "dateHeure": "2019-05-12T18:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 35141,
+            "ordre": 1,
+            "idSeance": 29356,
+            "idCopie": 5903,
+            "duree": 110,
+            "version": "VO",
+            "format": "DCP",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18284,
+            "dateHeure": "2019-05-26T20:45:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Meurtrière diabolique",
+        "art": "La",
+        "titreVo": "Strait-Jacket",
+        "idFilm": 30111,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "William Castle",
+        "annee": 1963,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Après avoir été internée pendant vingt ans pour l'assassinat de son mari et sa maîtresse devant sa petite fille Carol, alors âgée de trois ans, Lucy Harbin est libérée. Est-elle guérie de sa folie homicide ?"
+          }
+        ],
+        "generique": "Joan Crawford, Diane Baker, Leif Erickson, Howard St. John",
+        "seance": [
+          {
+            "idFilm": 30111,
+            "ordre": 1,
+            "idSeance": 29426,
+            "idCopie": 10431,
+            "duree": 92,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18285,
+            "dateHeure": "2019-05-03T20:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "mention": "Séance présentée par Yann Gonzalez"
+          }
+        ]
+      },
+      {
+        "titre": "Passagère",
+        "art": "La",
+        "titreVo": "Chained",
+        "idFilm": 30751,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Clarence Brown",
+        "annee": 1934,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une jeune femme est courtisée par un homme marié qui lui promet de divorcer. Lors d'un voyage en Amérique du Sud, elle rencontre le beau Mike Bradley et se sent tiraillée entre les deux hommes."
+          }
+        ],
+        "generique": "Clark Gable, Joan Crawford, Akim Tamiroff, Mickey Rooney",
+        "seance": [
+          {
+            "idFilm": 30751,
+            "ordre": 1,
+            "idSeance": 29202,
+            "idCopie": 17782,
+            "duree": 74,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18293,
+            "dateHeure": "2019-05-02T21:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 30751,
+            "ordre": 1,
+            "idSeance": 29262,
+            "idCopie": 17782,
+            "duree": 74,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18293,
+            "dateHeure": "2019-05-12T14:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Perfide",
+        "art": "La",
+        "titreVo": "Harriet Craig",
+        "idFilm": 36733,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Vincent Sherman",
+        "annee": 1950,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Harriet Craig est une épouse méticuleuse et austère qui accorde plus d'importance à ce qu'elle possède qu'aux êtres de son entourage. Alors que son monde ordonné risque d'être chamboulé, elle ne va pas hésiter à user de son pouvoir de manipulation."
+          }
+        ],
+        "generique": "Joan Crawford, Wendell Corey, Lucile Watson, Allyn Joslyn",
+        "adaptation": "D'après la pièce _Craig's Wife_ de George Kelly.",
+        "seance": [
+          {
+            "idFilm": 36733,
+            "ordre": 1,
+            "idSeance": 29270,
+            "idCopie": 17307,
+            "duree": 94,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18294,
+            "dateHeure": "2019-05-12T20:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 36733,
+            "ordre": 1,
+            "idSeance": 29840,
+            "idCopie": 17307,
+            "duree": 94,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18294,
+            "dateHeure": "2019-05-23T21:45:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Plein les bottes",
+        "titreVo": "Tramp, Tramp, Tramp",
+        "idFilm": 30999,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Harry Edwards",
+        "annee": 1926,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Harry Langdon est prêt à tout pour remporter une étonnante course à pied qui lui permettra de prouver la résistance des chaussures fabriquées par son père. Il compte bien aussi impressionner la femme qu'il aime."
+          }
+        ],
+        "generique": "Harry Langdon, Joan Crawford, Edwards Davis, Tom Murray",
+        "seance": [
+          {
+            "idFilm": 30999,
+            "ordre": 2,
+            "idSeance": 29181,
+            "idCopie": 8733,
+            "duree": 75,
+            "version": "INT. ANG.",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18646,
+            "dateHeure": "2019-04-28T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Pluie",
+        "titreVo": "Rain",
+        "idFilm": 35243,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Lewis Milestone",
+        "annee": 1932,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une jeune prostituée débarque sur une île dans le Pacifique en même temps qu'un missionnaire qui va tout faire pour « sauver son âme »."
+          }
+        ],
+        "generique": "Joan Crawford, Walter Huston, William Gargan",
+        "seance": [
+          {
+            "idFilm": 35243,
+            "ordre": 1,
+            "idSeance": 29184,
+            "idCopie": 17494,
+            "duree": 94,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18296,
+            "dateHeure": "2019-04-28T21:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 35243,
+            "ordre": 1,
+            "idSeance": 29341,
+            "idCopie": 17494,
+            "duree": 94,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18296,
+            "dateHeure": "2019-05-24T21:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Possédée",
+        "art": "La",
+        "titreVo": "Possessed",
+        "idFilm": 30789,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Curtis Bernhardt",
+        "annee": 1946,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une femme erre seule dans les rues de Los Angeles, appelant un certain David. Elle est emmenée dans un hôpital psychiatrique où elle révèle son histoire au docteur qui la soigne."
+          }
+        ],
+        "generique": "Joan Crawford, Van Heflin, Raymond Massey, Geraldine Brooks",
+        "adaptation": "D'après la nouvelle _One man's secret_ de Rita Weiman.",
+        "seance": [
+          {
+            "idFilm": 30789,
+            "ordre": 1,
+            "idSeance": 29302,
+            "idCopie": 17308,
+            "duree": 109,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18297,
+            "dateHeure": "2019-05-18T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 30789,
+            "ordre": 1,
+            "idSeance": 29345,
+            "idCopie": 17308,
+            "duree": 109,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18297,
+            "dateHeure": "2019-05-25T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Qu'est-il arrivé à Baby Jane ?",
+        "titreVo": "What Ever Happened to Baby Jane?",
+        "idFilm": 29830,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Robert Aldrich",
+        "annee": 1962,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "« Baby Jane » Hudson a été une enfant star dans les années 1910. Plus tard, sa sœur Blanche a connu elle aussi la gloire mais un étrange accident l'a rendue infirme, mettant fin à sa carrière. Désormais, elles vivent ensemble."
+          }
+        ],
+        "generique": "Bette Davis, Joan Crawford, Victor Buono, Marjorie Bennett",
+        "adaptation": "D'après le roman _Qu'est-il arrivé à Baby Jane ?_ de Henry Farrell.",
+        "seance": [
+          {
+            "idFilm": 29830,
+            "ordre": 1,
+            "idSeance": 29440,
+            "idCopie": 14584,
+            "duree": 132,
+            "version": "VOSTF",
+            "format": "DCP",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18298,
+            "dateHeure": "2019-04-27T16:45:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 29830,
+            "ordre": 1,
+            "idSeance": 29799,
+            "idCopie": 14584,
+            "duree": 132,
+            "version": "VOSTF",
+            "format": "DCP",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18298,
+            "dateHeure": "2019-05-27T15:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Reine du hold-up",
+        "art": "La",
+        "titreVo": "This Woman Is Dangerous",
+        "idFilm": 31167,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Felix E. Feist",
+        "annee": 1951,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Suite à un braquage, Beth Austin, cerveau d'un gang, doit aller à l'hôpital pour se faire opérer des yeux. Elle rencontre un docteur qui la trouble. Mais c'est compter sans la jalousie pulsionnelle de Matt Jackson, son amant."
+          }
+        ],
+        "generique": "Joan Crawford, Dennis Morgan, David Brian",
+        "seance": [
+          {
+            "idFilm": 31167,
+            "ordre": 1,
+            "idSeance": 29235,
+            "idCopie": 17322,
+            "duree": 92,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18299,
+            "dateHeure": "2019-05-06T21:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 31167,
+            "ordre": 1,
+            "idSeance": 29319,
+            "idCopie": 17322,
+            "duree": 92,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18299,
+            "dateHeure": "2019-05-20T17:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Rien n'est trop beau",
+        "titreVo": "Best of Everything",
+        "artVo": "The",
+        "idFilm": 34319,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Jean Negulesco",
+        "annee": 1959,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Trois jeunes secrétaires dans une maison d'édition emménagent dans le même appartement afin d'économiser de l'argent."
+          }
+        ],
+        "generique": "Hope Lange, Stephen Boyd, Suzy Parker, Martha Hyer",
+        "adaptation": "D'après le roman _The Best of Everything_ de Rona Jaffe.",
+        "seance": [
+          {
+            "idFilm": 34319,
+            "ordre": 1,
+            "idSeance": 29663,
+            "idCopie": 17803,
+            "duree": 122,
+            "version": "VOAutres",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18825,
+            "dateHeure": "2019-05-10T17:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 34319,
+            "ordre": 1,
+            "idSeance": 29296,
+            "idCopie": 17803,
+            "duree": 122,
+            "version": "VOAutres",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18825,
+            "dateHeure": "2019-05-17T16:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Roman de Mildred Pierce",
+        "art": "Le",
+        "titreVo": "Mildred Pierce",
+        "idFilm": 31482,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Michael Curtiz",
+        "annee": 1944,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Mildred Pierce est interrogée par un inspecteur après la mort de son mari. Elle lui raconte son histoire : de son premier mariage raté jusqu'à l'ouverture d'un restaurant, cette mère courage aura tout fait pour satisfaire les exigences de sa fille."
+          }
+        ],
+        "generique": "Joan Crawford, Jack Carson, Zachary Scott, Eve Arden",
+        "seance": [
+          {
+            "idFilm": 31482,
+            "ordre": 1,
+            "idSeance": 29178,
+            "idCopie": 11406,
+            "duree": 110,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18302,
+            "dateHeure": "2019-04-27T19:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 31482,
+            "ordre": 1,
+            "idSeance": 29298,
+            "idCopie": 11406,
+            "duree": 110,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18302,
+            "dateHeure": "2019-05-16T19:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Sadie McKee = Vivre et aimer",
+        "titreVo": "Sadie McKee",
+        "idFilm": 30826,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Clarence Brown",
+        "annee": 1934,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Sadie McKee travaille comme servante. Sa mère la pousse à une romance avec le jeune maître de la maison mais Sadie est amoureuse de Tommy. Elle décide de suivre ce dernier à New York où il va finalement la quitter pour une autre femme."
+          }
+        ],
+        "generique": "Joan Crawford, Akim Tamiroff, Gene Raymond, Franchot Tone",
+        "seance": [
+          {
+            "idFilm": 30826,
+            "ordre": 1,
+            "idSeance": 29192,
+            "idCopie": 17501,
+            "duree": 93,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18304,
+            "dateHeure": "2019-04-29T19:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idFilm": 30826,
+            "ordre": 1,
+            "idSeance": 29260,
+            "idCopie": 17501,
+            "duree": 93,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18304,
+            "dateHeure": "2019-05-11T17:45:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Scandale Costello",
+        "art": "Le",
+        "titreVo": "Story of Esther Costello",
+        "artVo": "The",
+        "idFilm": 41137,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "David Miller",
+        "annee": 1956,
+        "pays": "Grande-Bretagne-États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une jeune fille, orpheline à la suite d'un accident qui l'a rendue sourde, muette et aveugle, est confiée à une méchante femme. Le curé du village intervient afin de la faire soigner dans un centre de rééducation."
+          },
+          {
+            "typeTexte": 99,
+            "texte": "Sous réserve."
+          }
+        ],
+        "generique": "Joan Crawford, Rossano Brazzi, Heather Sears, Lee Patterson",
+        "adaptation": "D'après le roman _The Story of Esther Costello_ de Nicholas Monsarrat.",
+        "seance": [
+          {
+            "idFilm": 41137,
+            "ordre": 1,
+            "idSeance": 29664,
+            "idCopie": 17615,
+            "duree": 104,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18306,
+            "dateHeure": "2019-04-27T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 41137,
+            "ordre": 1,
+            "idSeance": 29364,
+            "idCopie": 17615,
+            "duree": 104,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18306,
+            "dateHeure": "2019-05-27T21:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Slippery Pearls = Stolen Jools",
+        "art": "The",
+        "idFilm": 80243,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "William McGann",
+        "annee": 1931,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Les bijoux de Norma Shearer ont été dérobés. Les enquêteurs interrogent les stars d'Hollywood qui assistaient à la fête. Film réalisé pour le « National Variety Artists Relief », avec la participation de vingt huit stars."
+          }
+        ],
+        "generique": "Gary Cooper, Buster Keaton, Stan Laurel, Oliver Hardy",
+        "seance": [
+          {
+            "idFilm": 80243,
+            "ordre": 1,
+            "idSeance": 29181,
+            "idCopie": 6512,
+            "duree": 20,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18646,
+            "dateHeure": "2019-04-28T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Souvent femme varie",
+        "titreVo": "Forsaking All Others",
+        "idFilm": 37607,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "W.S. Van Dyke",
+        "annee": 1934,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Mary, Jeff et Dill sont trois amis ayant grandi ensemble. Jeff est amoureux de Mary mais il est persuadé qu'elle éprouve des sentiments pour Dill. De retour d'un voyage en Europe, Jeff apprend que Mary et Dill sont sur le point de se marier."
+          }
+        ],
+        "generique": "Robert Montgomery, Joan Crawford, Clark Gable",
+        "seance": [
+          {
+            "idFilm": 37607,
+            "ordre": 1,
+            "idSeance": 29617,
+            "idCopie": 17781,
+            "duree": 80,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18309,
+            "dateHeure": "2019-05-05T21:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 37607,
+            "ordre": 1,
+            "idSeance": 29247,
+            "idCopie": 17781,
+            "duree": 80,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18309,
+            "dateHeure": "2019-05-09T17:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Susanne et ses idées",
+        "titreVo": "Susan and God",
+        "idFilm": 31519,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "George Cukor",
+        "annee": 1940,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une mondaine qui fait partie d'une secte est bien loin, dans sa vie privée, de mettre en pratique ce qu'elle prêche."
+          }
+        ],
+        "generique": "Joan Crawford, Fredric March, Ruth Hussey, John Carroll",
+        "adaptation": "D'après la pièce _Susan and God_ de Rachel Crothers."
+      },
+      {
+        "titre": "Trog",
+        "idFilm": 72663,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Freddie Francis",
+        "annee": 1969,
+        "pays": "Grande-Bretagne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un groupe de spéléologues découvre un troglodyte dans une caverne. Ils vont tenter de l'étudier et de le domestiquer. Un industriel sans scrupules, spéculant sur cette incroyable découverte, va réveiller la violence de l'être mi-homme mi-singe."
+          }
+        ],
+        "generique": "Joan Crawford, Michael Gough, Bernard Kay, David Griffin",
+        "seance": [
+          {
+            "idFilm": 72663,
+            "ordre": 1,
+            "idSeance": 29254,
+            "idCopie": 17335,
+            "duree": 93,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18317,
+            "dateHeure": "2019-05-10T20:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Tuer n'est pas jouer",
+        "titreVo": "I Saw What You Did",
+        "idFilm": 29603,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "William Castle",
+        "annee": 1964,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Trois jeunes filles s'amusent à appeler des personnes au hasard en leur disant : « Je sais ce que vous avez fait et je sais qui vous êtes ». Ce qui n'est qu'une plaisanterie va bientôt mettre en danger la vie des adolescentes."
+          }
+        ],
+        "generique": "Joan Crawford, John Ireland, Andi Garrett, Sarah Lane",
+        "adaptation": "D'après le roman _Out of the dark_ d'Ursula Curtiss.",
+        "seance": [
+          {
+            "idFilm": 29603,
+            "ordre": 1,
+            "idSeance": 29427,
+            "idCopie": 17321,
+            "duree": 81,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18318,
+            "dateHeure": "2019-05-03T22:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Une femme diabolique",
+        "titreVo": "Queen Bee",
+        "idFilm": 34824,
+        "idCycle": 407,
+        "idCategorie": 1828,
+        "realisateurs": "Ranald MacDougall",
+        "annee": 1955,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Dans une grande demeure du Sud, une femme tyrannique et amorale manipule de façon diabolique son entourage."
+          }
+        ],
+        "generique": "Joan Crawford, Barry Sullivan, Betsy Palmer, John Ireland",
+        "adaptation": "D'après le roman _The Queen Bee_ d'Edna Lee.",
+        "seance": [
+          {
+            "idFilm": 34824,
+            "ordre": 1,
+            "idSeance": 29773,
+            "idCopie": 17946,
+            "duree": 95,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18321,
+            "dateHeure": "2019-05-18T17:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 34824,
+            "ordre": 1,
+            "idSeance": 29339,
+            "idCopie": 17946,
+            "duree": 95,
+            "version": "VO",
+            "format": "16 mm",
+            "idCycle": 407,
+            "idCategorie": 1828,
+            "idEvenement": 18321,
+            "dateHeure": "2019-05-24T17:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      null
+    ]
+  }
+]

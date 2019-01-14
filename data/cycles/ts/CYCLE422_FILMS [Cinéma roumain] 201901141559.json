@@ -1,0 +1,164 @@
+[
+  {
+    "titre": "12 H 08 à l'est de Bucarest",
+    "titreVo": "A fost sau n-a fost ?",
+    "idFilm": 99840,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Corneliu Porumboiu",
+    "annee": 2005,
+    "pays": "Roumanie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans cette petite ville de province roumaine, on s'apprête à fêter Noël, seize ans après la Révolution. Virgile Jederescu, patron de la télévision locale, décide alors de confronter ses concitoyens à leur propre histoire, et organise un débat télévisé."
+      }
+    ],
+    "generique": "Mircea Andreescu, Teodor Corban, Ion Sapdaru, Cristina Ciofu"
+  },
+  {
+    "titre": "4 mois, 3 semaines, 2 jours",
+    "titreVo": "4 luni, 3 saptamini si 2 zile",
+    "idFilm": 102038,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Cristian Mungiu",
+    "annee": 2006,
+    "pays": "Roumanie-France-Belgique",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "1987, en Roumanie, quelques années avant la chute du communisme. Ottila et Gabita partagent une chambre dans la cité universitaire d'une petite ville. Gabita est enceinte et l'avortement est un crime. Les deux jeunes femmes font donc appel à un certain M. Bébé pour résoudre le problème."
+      }
+    ],
+    "generique": "Anamaria Marinca, Laura Vasiliu, Vlad Ivanov, Alexandru Potocean"
+  },
+  {
+    "titre": "Aurora",
+    "idFilm": 112398,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Cristi Puiu",
+    "annee": 2009,
+    "pays": "Roumanie-France-Suisse-Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "_Aurora_ est l'histoire de la chute d'un homme ordinaire, Viorel, dans Bucarest, pendant deux jours."
+      }
+    ],
+    "generique": "Cristi Puiu, Clara Voda, Valeria Seciu, Luminita Gheorghiu"
+  },
+  {
+    "titre": "Autobiographie de Nicolae Ceausescu",
+    "art": "L'",
+    "titreVo": "Autobiografia lui Nicolae Ceausescu",
+    "idFilm": 112425,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Andrei Ujica",
+    "annee": 2009,
+    "pays": "Roumanie"
+  },
+  {
+    "titre": "Baccalauréat",
+    "titreVo": "Bacalaureat",
+    "idFilm": 131579,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Cristian Mungiu",
+    "annee": 2015,
+    "pays": "Roumanie-France-Belgique",
+    "generique": "Adrian Titieni, Maria Dragus, Lia Bugnar, Malina Manovici"
+  },
+  {
+    "titre": "California dreamin'",
+    "titreVo": "Nesfarsit",
+    "idFilm": 102054,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Cristian Nemescu",
+    "annee": 2006,
+    "pays": "Roumanie",
+    "generique": "Armand Assante, Razvan Vasilescu, Jamie Elman, Maria Dinulescu"
+  },
+  {
+    "titre": "Etage du dessous",
+    "art": "L'",
+    "titreVo": "Un etaj mai jos",
+    "idFilm": 127024,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Radu Muntean",
+    "annee": 2014,
+    "pays": "Roumanie-France-Suède-Allemagne",
+    "generique": "Teodor Corban, Iulian Postelnicu, Oxana Moravec, Ionut Bora"
+  },
+  {
+    "titre": "Fille la plus heureuse du monde",
+    "art": "La",
+    "titreVo": "Cea mai fericita fata din lume",
+    "idFilm": 110107,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Radu Jude",
+    "annee": 2008,
+    "pays": "Roumanie",
+    "generique": "Andreea Bosneag, Vasile Muraru, Violeta Haret, Serban Pavlu"
+  },
+  {
+    "titre": "Fixeur",
+    "idFilm": 134660,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Adrian Sitaru",
+    "annee": 2016,
+    "pays": "Roumanie-France",
+    "generique": "Tudor Aaron Istodor, Mehdi Nebbou, Nicolas Wanczycki, Diana Spatarescu"
+  },
+  {
+    "titre": "Mère et fils",
+    "titreVo": "Pozitia copilului",
+    "idFilm": 121518,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Calin Peter Netzer",
+    "annee": 2012,
+    "pays": "Roumanie",
+    "generique": "Luminita Gheorghiu, Bogdan Dumitrache, Ilinca Goia, Natasa Raab"
+  },
+  {
+    "titre": "Mort de Dante Lazarescu",
+    "art": "La",
+    "titreVo": "Moartea domnului Lazarescu",
+    "idFilm": 96772,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Cristi Puiu",
+    "annee": 2004,
+    "pays": "Roumanie",
+    "generique": "Ion Fiscuteanu, Luminita Gheorghiu, Gabriel Spahiu, Doru Ana"
+  },
+  {
+    "titre": "Sieranevada",
+    "idFilm": 131582,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Cristi Puiu",
+    "annee": 2015,
+    "pays": "Roumanie-France",
+    "generique": "Mimi Branescu, Judith State, Bogdan Dumitrache, Dana Dogaru"
+  },
+  {
+    "titre": "Voyage de Monsieur Crulic",
+    "art": "Le",
+    "titreVo": "Crulic - Drumul spre dincolo",
+    "idFilm": 118074,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Anca Damian",
+    "annee": 2011,
+    "pays": "Roumanie-Pologne",
+    "generique": "Vlad Ivanov, Jamie Sives, Sandrine Bonnaire"
+  }
+]

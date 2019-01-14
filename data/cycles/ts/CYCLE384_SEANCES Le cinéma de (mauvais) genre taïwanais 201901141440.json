@@ -1,0 +1,369 @@
+[
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17851,
+    "idSeance": 29111,
+    "dateHeure": "2019-04-17T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 139792,
+        "ordre": 1
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17840,
+    "idSeance": 29116,
+    "dateHeure": "2019-04-18T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 139781,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17847,
+    "idSeance": 29127,
+    "dateHeure": "2019-04-19T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 139786,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17852,
+    "idSeance": 29128,
+    "dateHeure": "2019-04-19T22:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 139794,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17841,
+    "idSeance": 29134,
+    "dateHeure": "2019-04-20T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 139782,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17848,
+    "idSeance": 29135,
+    "dateHeure": "2019-04-20T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 139787,
+        "ordre": 1
+      }
+    ],
+    "mention": "Séance présentée par Corrado Neri"
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17853,
+    "idSeance": 29136,
+    "dateHeure": "2019-04-20T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 139795,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17850,
+    "idSeance": 29138,
+    "dateHeure": "2019-04-21T17:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 139790,
+        "ordre": 1
+      },
+      {
+        "idFilm": 139789,
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17845,
+    "idSeance": 29144,
+    "dateHeure": "2019-04-21T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 139784,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17854,
+    "idSeance": 29152,
+    "dateHeure": "2019-04-24T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 139797,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17846,
+    "idSeance": 29158,
+    "dateHeure": "2019-04-24T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 139785,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17851,
+    "idSeance": 29551,
+    "dateHeure": "2019-04-24T21:15:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 139792,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17850,
+    "idSeance": 29164,
+    "dateHeure": "2019-04-25T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 139790,
+        "ordre": 1
+      },
+      {
+        "idFilm": 139789,
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17841,
+    "idSeance": 29548,
+    "dateHeure": "2019-04-25T22:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 139782,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17842,
+    "idSeance": 29167,
+    "dateHeure": "2019-04-26T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 139783,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17854,
+    "idSeance": 29172,
+    "dateHeure": "2019-04-26T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 139797,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17842,
+    "idSeance": 29549,
+    "dateHeure": "2019-04-26T21:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 139783,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17853,
+    "idSeance": 29180,
+    "dateHeure": "2019-04-27T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 139795,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17840,
+    "idSeance": 29550,
+    "dateHeure": "2019-04-27T21:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 139781,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17845,
+    "idSeance": 29185,
+    "dateHeure": "2019-04-28T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 139784,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "idEvenement": 17848,
+    "idSeance": 29207,
+    "dateHeure": "2019-05-02T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 139787,
+        "ordre": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,778 @@
+[
+  {
+    "titreSousCycle": "Les films",
+    "items": [
+      {
+        "titre": "Baie des Anges",
+        "art": "La",
+        "idFilm": 48036,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Jacques Demy",
+        "annee": 1962,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Jean Fournier, un modeste employé de banque, découvre le monde du jeu et rencontre Jackie, une belle joueuse qui se dit « un personnage de roman ». Il en tombe éperdument amoureux."
+          }
+        ],
+        "generique": "Jeanne Moreau, Claude Mann, Paul Guers, Henri Nassiet",
+        "seance": [
+          {
+            "idFilm": 48036,
+            "ordre": 1,
+            "idSeance": 29028,
+            "idCopie": 778,
+            "duree": 82,
+            "version": "",
+            "format": "DCP",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18669,
+            "dateHeure": "2019-04-03T21:45:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Bonjour tristesse",
+        "titreVo": "Bonjour Tristesse",
+        "idFilm": 45923,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Otto Preminger",
+        "annee": 1957,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Cécile, 18 ans, vit avec son père Raymond, un riche et séduisant veuf. À l'exemple de son père, la vie de Cécile ne semble être que futilités. Car quelque chose s'est brisé en elle durant leurs dernières vacances."
+          }
+        ],
+        "generique": "Deborah Kerr, David Niven, Jean Seberg, Mylène Demongeot",
+        "adaptation": "D'après le roman _Bonjour tristesse_ de Françoise Sagan.",
+        "seance": [
+          {
+            "idFilm": 45923,
+            "ordre": 1,
+            "idSeance": 29532,
+            "idCopie": 5382,
+            "duree": 93,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18666,
+            "dateHeure": "2019-03-31T19:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Enfants du paradis",
+        "art": "Les",
+        "idFilm": 47284,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Marcel Carné",
+        "annee": 1943,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "À Paris, sur le boulevard du Crime, en 1828 et dans les années qui suivent, les destins croisés d'une belle foraine, Garance, d'un mime, Baptiste, d'un acteur renommé, Frédérick Lemaître, et d'un poète-assassin, Pierre François Lacenaire."
+          }
+        ],
+        "generique": "Arletty, Jean-Louis Barrault, Pierre Brasseur, Marcel Herrand",
+        "seance": [
+          {
+            "idFilm": 47284,
+            "ordre": 1,
+            "idSeance": 29716,
+            "idCopie": 292,
+            "duree": 195,
+            "version": "",
+            "format": "DCP",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18658,
+            "dateHeure": "2019-03-31T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Ernest le rebelle",
+        "idFilm": 47616,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Christian-Jaque",
+        "annee": 1938,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Ernest Pic, steward et accordéoniste à bord d'un navire de plaisance, multiplie les gaffes au grand désespoir de l'équipage et des passagers. Après une escale dans un port d'Amérique du Sud, le paquebot repart sans lui."
+          }
+        ],
+        "generique": "Fernandel, Pierre Alcover, Mona Goya, Rosita Montenegro",
+        "seance": [
+          {
+            "idFilm": 47616,
+            "ordre": 1,
+            "idSeance": 28989,
+            "idCopie": 11795,
+            "duree": 95,
+            "version": "VO",
+            "format": "35 mm",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18655,
+            "dateHeure": "2019-03-28T17:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Et Dieu créa la femme",
+        "idFilm": 51587,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Roger Vadim",
+        "annee": 1956,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Jeune fille à la beauté provocante, Juliette suscite le désir des hommes, en particulier celui d'Eric Carradine, le propriétaire d'une boîte de nuit très en vogue. Mais Juliette est amoureuse d'Antoine Tardieu, qui exploite un petit chantier naval. C'est pourtant son frère, Michel, qu'elle épouse par dépit, avant de devenir la maîtresse d'Antoine."
+          }
+        ],
+        "generique": "Brigitte Bardot, Curd Jürgens, Jean-Louis Trintignant, Mary Glory",
+        "seance": [
+          {
+            "idFilm": 51587,
+            "ordre": 1,
+            "idSeance": 29780,
+            "idCopie": 17662,
+            "duree": 90,
+            "version": "",
+            "format": "35 mm",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18665,
+            "dateHeure": "2019-04-04T22:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Fête espagnole",
+        "art": "La",
+        "idFilm": 48275,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Germaine Dulac",
+        "annee": 1919,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une ancienne danseuse est aimée de deux hommes. Elle les incite à se battre, promettant de se donner au vainqueur."
+          }
+        ],
+        "generique": "Ève Francis, Gaston Modot, Jean Toulout, Robert Delsol",
+        "seance": [
+          {
+            "idFilm": 48275,
+            "ordre": 1,
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18769,
+            "idSeance": 29538,
+            "dateHeure": "2019-03-30T15:00:00",
+            "idSalle": [
+              "JE",
+              "Jean Epstein"
+            ],
+            "mention": "Séance présentée par Emilie Cauquy"
+          }
+        ]
+      },
+      {
+        "titre": "Gossette",
+        "idFilm": 48277,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Germaine Dulac",
+        "annee": 1923,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une jeune orpheline est recueillie par un couple dont le fils, faussement accusé de meurtre, est en fuite. Lorsque les parents sont tués à leur tour, leur fils et la jeune fille parviennent, après bien des péripéties, à démasquer le vrai coupable. Tout finit par un mariage."
+          }
+        ],
+        "generique": "Régine Bouet, Régine Bouet, Maurice Schutz, Maurice Schutz",
+        "seance": [
+          {
+            "idFilm": 48277,
+            "ordre": 2,
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18769,
+            "idSeance": 29538,
+            "dateHeure": "2019-03-30T15:00:00",
+            "idSalle": [
+              "JE",
+              "Jean Epstein"
+            ],
+            "mention": "Séance présentée par Emilie Cauquy"
+          },
+          {
+            "idFilm": 48277,
+            "ordre": 1,
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18772,
+            "idSeance": 29672,
+            "dateHeure": "2019-03-30T17:45:00",
+            "idSalle": [
+              "JE",
+              "Jean Epstein"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Lola Montès",
+        "idFilm": 50426,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Max Ophuls",
+        "annee": 1955,
+        "pays": "France-RFA",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Sous un chapiteau de cirque, monsieur Loyal et toute sa troupe présentent le spectacle de _La Vie extraordinaire de Lola Montès_."
+          }
+        ],
+        "generique": "Martine Carol, Peter Ustinov, Anton Walbrook, Ivan Desny",
+        "adaptation": "D'après le roman _La Vie extraordinaire de Lola Montès_ de Cécil Saint-Laurent.",
+        "seance": [
+          {
+            "idFilm": 50426,
+            "ordre": 1,
+            "idSeance": 29658,
+            "idCopie": 1938,
+            "duree": 115,
+            "version": "",
+            "format": "35 mm",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18664,
+            "dateHeure": "2019-03-28T21:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Lumière d'été",
+        "idFilm": 48953,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Jean Grémillon",
+        "annee": 1942,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un châtelain désœuvré, un artiste alcoolique et un ingénieur tombent amoureux de la même femme.\n\nCopie restaurée par SNC et la Cinémathèque française."
+          }
+        ],
+        "generique": "Madeleine Renaud, Pierre Brasseur, Paul Bernard, Madeleine Robinson",
+        "seance": [
+          {
+            "idFilm": 48953,
+            "ordre": 1,
+            "idSeance": 28995,
+            "idCopie": 17687,
+            "duree": 112,
+            "version": "",
+            "format": "",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18657,
+            "dateHeure": "2019-03-29T16:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Main au collet",
+        "art": "La",
+        "titreVo": "To Catch a Thief",
+        "idFilm": 41594,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Alfred Hitchcock",
+        "annee": 1954,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Jadis célèbre cambrioleur surnommé « le Chat », John Robie profite d'une retraite paisible sur la côte d'Azur jusqu'au jour où il est suspecté d'être l'auteur d'une série de vols commis dans la région. Pour prouver son innocence, Robbie va devoir identifier le vrai coupable."
+          }
+        ],
+        "generique": "Cary Grant, Grace Kelly, Jessie Royce Landis, John Williams",
+        "adaptation": "D'après le roman _To catch a thief_ de David Dodge.",
+        "seance": [
+          {
+            "idFilm": 41594,
+            "ordre": 1,
+            "idSeance": 29657,
+            "idCopie": 4713,
+            "duree": 97,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18663,
+            "dateHeure": "2019-03-28T19:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Mains d'Orlac",
+        "art": "Les",
+        "idFilm": 49007,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Edmond T. Gréville",
+        "annee": 1960,
+        "pays": "France-Grande-Bretagne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un pianiste se fait greffer les mains d'un guillotiné. Malgré la réussite de l'opération, il ne peut rejouer, hanté par le passé de ses nouvelles mains."
+          }
+        ],
+        "generique": "Mel Ferrer, Lucile Saint-Simon, Dany Carrel, Christopher Lee",
+        "adaptation": "D'après le roman _Les Mains d'Orlac_ de Maurice Renard.",
+        "seance": [
+          {
+            "idFilm": 49007,
+            "ordre": 1,
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18668,
+            "idSeance": 29049,
+            "dateHeure": "2019-04-06T21:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Mon oncle",
+        "idFilm": 51367,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Jacques Tati",
+        "annee": 1957,
+        "pays": "France-Italie",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Gérard fuit la maison ultramoderne de ses parents pour passer du bon temps dans les rues avec son drôle d'oncle. Entre tradition et modernité, sa petite ville est revisitée par la fantaisie de Monsieur Hulot."
+          }
+        ],
+        "generique": "Jacques Tati, Jean-Pierre Zola, Adrienne Servantie, Alain Bécourt",
+        "seance": [
+          {
+            "idFilm": 51367,
+            "ordre": 1,
+            "idSeance": 29022,
+            "idCopie": 2783,
+            "duree": 120,
+            "version": "",
+            "format": "35 mm",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18667,
+            "dateHeure": "2019-04-03T15:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Nous irons à Monte-Carlo",
+        "idFilm": 47079,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Jean Boyer",
+        "annee": 1951,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Au moment de partir à Monte-Carlo, la troupe du musicien chef d'orchestre Ray Ventura prend en charge un bébé dont Max Elloy croit être le grand-père, mais tout l'orchestre veut adopter l'enfant et rivalise de bontés pour lui."
+          }
+        ],
+        "generique": "Jeannette Batti, Philippe Lemaire, Danielle Godet, Marcel Dalio",
+        "seance": [
+          {
+            "idFilm": 47079,
+            "ordre": 1,
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18660,
+            "idSeance": 29530,
+            "dateHeure": "2019-03-29T17:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Nuit américaine",
+        "art": "La",
+        "idFilm": 51577,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "François Truffaut",
+        "annee": 1972,
+        "pays": "France-Italie",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "À Nice, aux studios de la Victorine, Ferrand réalise son nouveau film J_e vous présente Pamela._"
+          }
+        ],
+        "generique": "Jacqueline Bisset, Jean-Pierre Aumont, Valentina Cortese, Jean-Pierre Léaud",
+        "seance": [
+          {
+            "idFilm": 51577,
+            "ordre": 1,
+            "idSeance": 29413,
+            "idCopie": 14526,
+            "duree": 115,
+            "version": "",
+            "format": "DCP",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18670,
+            "dateHeure": "2019-03-25T20:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idFilm": 51577,
+            "ordre": 1,
+            "idSeance": 29779,
+            "idCopie": 14526,
+            "duree": 115,
+            "version": "",
+            "format": "DCP",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18670,
+            "dateHeure": "2019-03-31T21:00:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Panique",
+        "idFilm": 48348,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Julien Duvivier",
+        "annee": 1946,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un crime est commis, et l'étrange Monsieur Hire est aussitôt soupçonné, par la police et par ses voisins."
+          }
+        ],
+        "generique": "Michel Simon, Viviane Romance, Paul Bernard, Charles Dorat",
+        "adaptation": "D'après le roman _Les Fiançailles de Monsieur Hire_ de Georges Simenon.",
+        "seance": [
+          {
+            "idFilm": 48348,
+            "ordre": 1,
+            "idSeance": 29660,
+            "idCopie": 17644,
+            "duree": 100,
+            "version": "",
+            "format": "DCP",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18659,
+            "dateHeure": "2019-03-29T22:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Plus escroc des deux",
+        "art": "Le",
+        "titreVo": "Dirty Rotten Scoundrels",
+        "idFilm": 35009,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Frank Oz",
+        "annee": 1988,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Sur la Côte d'Azur, un escroc qui soutire de l'argent aux riches Américaines voit son territoire envahi par un autre escroc américain."
+          }
+        ],
+        "generique": "Michael Caine, Steve Martin",
+        "seance": [
+          {
+            "idFilm": 35009,
+            "ordre": 1,
+            "idSeance": 29050,
+            "idCopie": 12772,
+            "duree": 110,
+            "version": "VOSTF",
+            "format": "35 mm",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18671,
+            "dateHeure": "2019-04-06T14:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Un balcon sur la mer",
+        "idFilm": 110931,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Nicole Garcia",
+        "annee": 2009,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Dans le sud de la France, Marc, marié et père de famille, agent immobilier, fait la rencontre d' une femme dont le visage lui est familier. Il pense reconnaître Cathy, l'amour de ses 12 ans dans une Algérie violente, à la fin de la guerre d'indépendance."
+          }
+        ],
+        "generique": "Jean Dujardin, Marie-Josée Croze, Toni Servillo, Sandrine Kiberlain",
+        "seance": [
+          {
+            "idFilm": 110931,
+            "ordre": 1,
+            "idSeance": 29673,
+            "idCopie": 17677,
+            "duree": 105,
+            "version": "",
+            "format": "DCP",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18673,
+            "dateHeure": "2019-04-07T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Vacances de Mr. Bean",
+        "art": "Les",
+        "titreVo": "Mr. Bean's holiday",
+        "idFilm": 101619,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Steve Bendelack",
+        "annee": 2006,
+        "pays": "Grande-Bretagne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Mr. Bean a gagné une semaine de vacances sur la Côte d'Azur, et une caméra vidéo. Il quitte son Angleterre natale pour la France."
+          },
+          {
+            "typeTexte": 203,
+            "texte": "Mr. Bean a gagné une semaine de vacances sur la Côte d'Azur et une caméra vidéo. Il quitte son Angleterre natale pour la France. Attention, Mr. Bean débarque!"
+          }
+        ],
+        "generique": "Rowan Atkinson, Max Baldry, Emma de Caunes, Willem Dafoe",
+        "seance": [
+          {
+            "idFilm": 101619,
+            "ordre": 1,
+            "idSeance": 29815,
+            "idCopie": 17682,
+            "duree": 89,
+            "version": "",
+            "format": "35 mm",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18672,
+            "dateHeure": "2019-04-07T15:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Vie d'un honnête homme",
+        "art": "La",
+        "idFilm": 49126,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Sacha Guitry",
+        "annee": 1952,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un homme comblé mais blasé prend l'identité de son frère jumeau, misérable voyou."
+          }
+        ],
+        "generique": "Michel Simon, Marguerite Pierry, François Guérin, Lana Marconi",
+        "seance": [
+          {
+            "idFilm": 49126,
+            "ordre": 1,
+            "idSeance": 29007,
+            "idCopie": 8995,
+            "duree": 85,
+            "version": "",
+            "format": "35 mm",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18662,
+            "dateHeure": "2019-03-30T21:00:00",
+            "idSalle": [
+              "JE",
+              "Jean Epstein"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Vénus aveugle",
+        "idFilm": 48693,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Abel Gance",
+        "annee": 1940,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Clarisse, belle jeune femme qui a posé pour la publicité des cigarettes « Vénus », apprend qu'elle va bientôt devenir aveugle. Pour éviter à son amant, Madère, la compagnie d'une infirme, elle simule une infidélité ce qui provoque leur rupture."
+          }
+        ],
+        "generique": "Viviane Romance, Georges Flamant, Henri Guisol, Lucienne Lemarchand",
+        "seance": [
+          {
+            "idFilm": 48693,
+            "ordre": 1,
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18656,
+            "idSeance": 29027,
+            "dateHeure": "2019-04-03T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "titre": "Vérité sur Bébé Donge",
+        "art": "La",
+        "idFilm": 47976,
+        "idCycle": 412,
+        "idCategorie": 1843,
+        "realisateurs": "Henri Decoin",
+        "annee": 1951,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "A l'hôpital, allongé sur son lit d'agonie, François Donge, que son épouse Elisabeth, dite « Bébé », a froidement empoisonné, revoit son passé."
+          }
+        ],
+        "generique": "Danielle Darrieux, Jean Gabin, Claude Génia, Gabrielle Dorziat",
+        "adaptation": "D'après le roman _La Vérité sur Bébé Donge_ de Georges Simenon.",
+        "seance": [
+          {
+            "idFilm": 47976,
+            "ordre": 1,
+            "idSeance": 29659,
+            "idCopie": 5805,
+            "duree": 104,
+            "version": "",
+            "format": "35 mm",
+            "idCycle": 412,
+            "idCategorie": 1843,
+            "idEvenement": 18661,
+            "dateHeure": "2019-03-29T19:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

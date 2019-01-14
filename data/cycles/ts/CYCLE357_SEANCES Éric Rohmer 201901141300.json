@@ -1,0 +1,1459 @@
+[
+  {
+    "idCycle": 357,
+    "idCategorie": 1777,
+    "idEvenement": 17615,
+    "idSeance": 26369,
+    "dateHeure": "2019-01-09T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 51037,
+        "ordre": 1,
+        "idSeance": 26369,
+        "idCopie": 16968,
+        "duree": 100,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 17590,
+    "idSeance": 26374,
+    "dateHeure": "2019-01-10T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 125419,
+        "ordre": 1,
+        "idSeance": 26374,
+        "idCopie": 17025,
+        "duree": 90,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1793,
+    "idEvenement": 17631,
+    "idSeance": 27965,
+    "dateHeure": "2019-01-10T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 50966,
+        "ordre": 1,
+        "idSeance": 27965,
+        "idCopie": 16949,
+        "duree": 102,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1768,
+    "idEvenement": 17584,
+    "idSeance": 26382,
+    "dateHeure": "2019-01-10T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 50968,
+        "ordre": 1,
+        "idSeance": 26382,
+        "idCopie": 16954,
+        "duree": 26,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 43655,
+        "ordre": 2,
+        "idSeance": 26382,
+        "idCopie": 16955,
+        "duree": 52,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Barbet Schroeder (sous réserve)"
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 18146,
+    "idSeance": 27811,
+    "dateHeure": "2019-01-11T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 58539,
+        "ordre": 1,
+        "idSeance": 27811,
+        "idCopie": 14992,
+        "duree": 65,
+        "version": "",
+        "format": "16 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1768,
+    "idEvenement": 17601,
+    "idSeance": 26383,
+    "dateHeure": "2019-01-11T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 51014,
+        "ordre": 1,
+        "idSeance": 26383,
+        "idCopie": 16959,
+        "duree": 105,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1768,
+    "idEvenement": 17576,
+    "idSeance": 26384,
+    "dateHeure": "2019-01-11T21:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 51010,
+        "ordre": 1,
+        "idSeance": 26384,
+        "idCopie": 16205,
+        "duree": 95,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 17589,
+    "idSeance": 26392,
+    "dateHeure": "2019-01-12T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 125420,
+        "ordre": 1,
+        "idSeance": 26392,
+        "idCopie": 9879,
+        "duree": 60,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 140127,
+        "ordre": 2,
+        "idSeance": 26392,
+        "idCopie": 17106,
+        "duree": 27,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1777,
+    "idEvenement": 17620,
+    "idSeance": 27764,
+    "dateHeure": "2019-01-12T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 51040,
+        "ordre": 1,
+        "idSeance": 27764,
+        "idCopie": 16967,
+        "duree": 100,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1768,
+    "idEvenement": 17591,
+    "idSeance": 26396,
+    "dateHeure": "2019-01-13T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 54250,
+        "ordre": 1,
+        "idSeance": 26396,
+        "idCopie": 16956,
+        "duree": 90,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1777,
+    "idEvenement": 17581,
+    "idSeance": 26398,
+    "dateHeure": "2019-01-13T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 50967,
+        "ordre": 1,
+        "idSeance": 26398,
+        "idCopie": 16966,
+        "duree": 95,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1793,
+    "idEvenement": 17621,
+    "idSeance": 27987,
+    "dateHeure": "2019-01-13T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 51041,
+        "ordre": 1,
+        "idSeance": 27987,
+        "idCopie": 16964,
+        "duree": 140,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1793,
+    "idEvenement": 17612,
+    "idSeance": 27966,
+    "dateHeure": "2019-01-14T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 51016,
+        "ordre": 1,
+        "idSeance": 27966,
+        "idCopie": 16962,
+        "duree": 105,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Margaret Ménégoz"
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1777,
+    "idEvenement": 17575,
+    "idSeance": 26406,
+    "dateHeure": "2019-01-14T19:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 50974,
+        "ordre": 1,
+        "idSeance": 26406,
+        "idCopie": 16952,
+        "duree": 100,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1793,
+    "idEvenement": 17635,
+    "idSeance": 26407,
+    "dateHeure": "2019-01-14T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 90170,
+        "ordre": 1,
+        "idSeance": 26407,
+        "idCopie": 16973,
+        "duree": 115,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 18151,
+    "idSeance": 27967,
+    "dateHeure": "2019-01-16T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 140052,
+        "ordre": 1
+      },
+      {
+        "idFilm": 140062,
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1768,
+    "idEvenement": 17611,
+    "idSeance": 26414,
+    "dateHeure": "2019-01-16T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 51015,
+        "ordre": 1,
+        "idSeance": 26414,
+        "idCopie": 4998,
+        "duree": 110,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1777,
+    "idEvenement": 17599,
+    "idSeance": 27970,
+    "dateHeure": "2019-01-16T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 51013,
+        "ordre": 1,
+        "idSeance": 27970,
+        "idCopie": 16965,
+        "duree": 104,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 18153,
+    "idSeance": 27968,
+    "dateHeure": "2019-01-17T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 140061,
+        "ordre": 1
+      },
+      {
+        "idFilm": 140063,
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1793,
+    "idEvenement": 17578,
+    "idSeance": 27683,
+    "dateHeure": "2019-01-17T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 102415,
+        "ordre": 1,
+        "idSeance": 27683,
+        "idCopie": 16961,
+        "duree": 110,
+        "version": "",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1793,
+    "idEvenement": 17618,
+    "idSeance": 27993,
+    "dateHeure": "2019-01-18T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 58085,
+        "ordre": 1,
+        "idSeance": 27993,
+        "idCopie": 17023,
+        "duree": 98,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1793,
+    "idEvenement": 17627,
+    "idSeance": 26427,
+    "dateHeure": "2019-01-18T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 50964,
+        "ordre": 1,
+        "idSeance": 26427,
+        "idCopie": 16970,
+        "duree": 100,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1793,
+    "idEvenement": 17580,
+    "idSeance": 27986,
+    "dateHeure": "2019-01-19T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 50963,
+        "ordre": 1,
+        "idSeance": 27986,
+        "idCopie": 16971,
+        "duree": 105,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Françoise Etchegaray et Pascal Greggory (sous réserve)"
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 18223,
+    "idSeance": 28090,
+    "dateHeure": "2019-01-20T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 140225,
+        "ordre": 1,
+        "idSeance": 28090,
+        "idCopie": 17139,
+        "duree": 75,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1776,
+    "idEvenement": 17595,
+    "idSeance": 26442,
+    "dateHeure": "2019-01-20T21:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 51012,
+        "ordre": 1,
+        "idSeance": 26442,
+        "idCopie": 7990,
+        "duree": 110,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 17603,
+    "idSeance": 27901,
+    "dateHeure": "2019-01-21T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 125421,
+        "ordre": 1,
+        "idSeance": 27901,
+        "idCopie": 17026,
+        "duree": 34,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 122477,
+        "ordre": 2,
+        "idSeance": 27901,
+        "idCopie": 17028,
+        "duree": 35,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 125422,
+        "ordre": 3,
+        "idSeance": 27901,
+        "idCopie": 17027,
+        "duree": 36,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1776,
+    "idEvenement": 17593,
+    "idSeance": 26450,
+    "dateHeure": "2019-01-21T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 59940,
+        "ordre": 1,
+        "idSeance": 26450,
+        "idCopie": 289,
+        "duree": 113,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Melvil Poupaud (sous réserve) et Amanda Langlet"
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1776,
+    "idEvenement": 17594,
+    "idSeance": 26449,
+    "dateHeure": "2019-01-21T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 51011,
+        "ordre": 1,
+        "idSeance": 26449,
+        "idCopie": 7989,
+        "duree": 114,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Charlotte Véry"
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 17604,
+    "idSeance": 26457,
+    "dateHeure": "2019-01-23T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 125424,
+        "ordre": 1,
+        "idSeance": 26457,
+        "idCopie": 17029,
+        "duree": 56,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 125426,
+        "ordre": 2,
+        "idSeance": 26457,
+        "idCopie": 17030,
+        "duree": 58,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 17608,
+    "idSeance": 27985,
+    "dateHeure": "2019-01-24T17:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 65426,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1776,
+    "idEvenement": 17592,
+    "idSeance": 26474,
+    "dateHeure": "2019-01-26T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 29520,
+        "ordre": 1,
+        "idSeance": 26474,
+        "idCopie": 7985,
+        "duree": 110,
+        "version": "",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Séance présentée par Diane Baratier"
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1793,
+    "idEvenement": 17630,
+    "idSeance": 26472,
+    "dateHeure": "2019-01-26T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 57553,
+        "ordre": 1,
+        "idSeance": 26472,
+        "idCopie": 16972,
+        "duree": 100,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1793,
+    "idEvenement": 17579,
+    "idSeance": 26482,
+    "dateHeure": "2019-01-27T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 75244,
+        "ordre": 1,
+        "idSeance": 26482,
+        "idCopie": 9943,
+        "duree": 129,
+        "version": "VO",
+        "format": "35 mm"
+      }
+    ],
+    "mention": "Séance présentée par Françoise Etchegaray"
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 18147,
+    "idSeance": 26491,
+    "dateHeure": "2019-01-28T17:15:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 139028,
+        "ordre": 1,
+        "idSeance": 26491,
+        "idCopie": 15662,
+        "duree": 30,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 121769,
+        "ordre": 2,
+        "idSeance": 26491,
+        "idCopie": 17024,
+        "duree": 17,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 139027,
+        "ordre": 3,
+        "idSeance": 26491,
+        "idCopie": 15763,
+        "duree": 27,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1754,
+    "idEvenement": 18020,
+    "idSeance": 26492,
+    "dateHeure": "2019-01-28T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 125401,
+        "ordre": 1,
+        "idSeance": 26492,
+        "idCopie": 17115,
+        "duree": 93,
+        "version": "",
+        "format": "Numérique"
+      }
+    ],
+    "mention": "Séance présentée par Françoise Etchegaray"
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 18015,
+    "idSeance": 26493,
+    "dateHeure": "2019-01-28T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 140051,
+        "ordre": 1
+      }
+    ],
+    "mention": "Séance présentée par Dominique Païni (sous réserve), Bulle Ogier et Emeraude Nicolas"
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1754,
+    "idEvenement": 18022,
+    "idSeance": 26496,
+    "dateHeure": "2019-01-30T16:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 125398,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1754,
+    "idEvenement": 18018,
+    "idSeance": 26500,
+    "dateHeure": "2019-01-30T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 140053,
+        "ordre": 1,
+        "idSeance": 26500,
+        "idCopie": 17117,
+        "duree": 28,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 140054,
+        "ordre": 2,
+        "idSeance": 26500,
+        "idCopie": 17118,
+        "duree": 90,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1754,
+    "idEvenement": 18019,
+    "idSeance": 26501,
+    "dateHeure": "2019-01-30T21:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 62575,
+        "ordre": 1,
+        "idSeance": 26501,
+        "idCopie": 17114,
+        "duree": 116,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1752,
+    "idEvenement": 18227,
+    "idSeance": 28091,
+    "dateHeure": "2019-01-31T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 125162,
+        "ordre": 1,
+        "idSeance": 28091,
+        "idCopie": 17160,
+        "duree": 15,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 81144,
+        "ordre": 2,
+        "idSeance": 28091,
+        "idCopie": 17161,
+        "duree": 21,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 125077,
+        "ordre": 3,
+        "idSeance": 28091,
+        "idCopie": 17162,
+        "duree": 17,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 140226,
+        "ordre": 4,
+        "idSeance": 28091,
+        "idCopie": 17159,
+        "duree": 28,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 125163,
+        "ordre": 5,
+        "idSeance": 28091,
+        "idCopie": 17163,
+        "duree": 24,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 18080,
+    "idSeance": 27903,
+    "dateHeure": "2019-01-31T16:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 121765,
+        "ordre": 1,
+        "idSeance": 27903,
+        "idCopie": 17019,
+        "duree": 23,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 121761,
+        "ordre": 2,
+        "idSeance": 27903,
+        "idCopie": 17020,
+        "duree": 23,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 121766,
+        "ordre": 3,
+        "idSeance": 27903,
+        "idCopie": 17022,
+        "duree": 22,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 121767,
+        "ordre": 4,
+        "idSeance": 27903,
+        "idCopie": 17037,
+        "duree": 27,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 18082,
+    "idSeance": 27984,
+    "dateHeure": "2019-02-01T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 121762,
+        "ordre": 1,
+        "idSeance": 27984,
+        "idCopie": 17021,
+        "duree": 25,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 121763,
+        "ordre": 2,
+        "idSeance": 27984,
+        "idCopie": 17038,
+        "duree": 20,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 121764,
+        "ordre": 3,
+        "idSeance": 27984,
+        "idCopie": 17039,
+        "duree": 26,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1752,
+    "idEvenement": 18222,
+    "idSeance": 28092,
+    "dateHeure": "2019-02-01T16:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 125130,
+        "ordre": 1,
+        "idSeance": 28092,
+        "idCopie": 17168,
+        "duree": 12,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 125131,
+        "ordre": 2,
+        "idSeance": 28092,
+        "idCopie": 17169,
+        "duree": 10,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 90101,
+        "ordre": 3,
+        "idSeance": 28092,
+        "idCopie": 17164,
+        "duree": 16,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 125132,
+        "ordre": 4,
+        "idSeance": 28092,
+        "idCopie": 17165,
+        "duree": 17,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 125160,
+        "ordre": 5,
+        "idSeance": 28092,
+        "idCopie": 17166,
+        "duree": 26,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 125161,
+        "ordre": 6,
+        "idSeance": 28092,
+        "idCopie": 17167,
+        "duree": 15,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1777,
+    "idEvenement": 17629,
+    "idSeance": 26522,
+    "dateHeure": "2019-02-02T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 50965,
+        "ordre": 1,
+        "idSeance": 26522,
+        "idCopie": 16969,
+        "duree": 90,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1752,
+    "idEvenement": 17582,
+    "idSeance": 27991,
+    "dateHeure": "2019-02-04T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 75300,
+        "ordre": 1,
+        "idSeance": 27991,
+        "idCopie": 3739,
+        "duree": 12,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 77290,
+        "ordre": 2,
+        "idSeance": 27991,
+        "idCopie": 16981,
+        "duree": 15,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 71752,
+        "ordre": 3,
+        "idSeance": 27991,
+        "idCopie": 16974,
+        "duree": 43,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 17586,
+    "idSeance": 26540,
+    "dateHeure": "2019-02-06T17:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 121760,
+        "ordre": 1,
+        "idSeance": 26540,
+        "idCopie": 16982,
+        "duree": 24,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 125423,
+        "ordre": 2,
+        "idSeance": 26540,
+        "idCopie": 17036,
+        "duree": 19,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 121759,
+        "ordre": 3,
+        "idSeance": 26540,
+        "idCopie": 17035,
+        "duree": 22,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1793,
+    "idEvenement": 17580,
+    "idSeance": 28190,
+    "dateHeure": "2019-02-07T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 50963,
+        "ordre": 1,
+        "idSeance": 28190,
+        "idCopie": 16971,
+        "duree": 105,
+        "version": "",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 17597,
+    "idSeance": 26553,
+    "dateHeure": "2019-02-08T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 121768,
+        "ordre": 1,
+        "idSeance": 26553,
+        "idCopie": 17034,
+        "duree": 29,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 101472,
+        "ordre": 2,
+        "idSeance": 26553,
+        "idCopie": 16983,
+        "duree": 21,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1754,
+    "idEvenement": 18357,
+    "idSeance": 28128,
+    "dateHeure": "2019-02-09T18:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 125166,
+        "ordre": 1,
+        "idSeance": 28128,
+        "idCopie": 17259,
+        "duree": 14,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 100041,
+        "ordre": 2,
+        "idSeance": 28128,
+        "idCopie": 8840,
+        "duree": 14,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 100040,
+        "ordre": 3,
+        "idSeance": 28128,
+        "idCopie": 17260,
+        "duree": 11,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 125165,
+        "ordre": 4,
+        "idSeance": 28128,
+        "idCopie": 17261,
+        "duree": 12,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 125167,
+        "ordre": 5,
+        "idSeance": 28128,
+        "idCopie": 17262,
+        "duree": 20,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1755,
+    "idEvenement": 18158,
+    "idSeance": 26576,
+    "dateHeure": "2019-02-11T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 140130,
+        "ordre": 1,
+        "idSeance": 26576,
+        "idCopie": 17107,
+        "duree": 28,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 140128,
+        "ordre": 2,
+        "idSeance": 26576,
+        "idCopie": 17108,
+        "duree": 29,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 140129,
+        "ordre": 3,
+        "idSeance": 26576,
+        "idCopie": 17109,
+        "duree": 29,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  },
+  {
+    "idCycle": 357,
+    "idCategorie": 1752,
+    "idEvenement": 17577,
+    "idSeance": 27992,
+    "dateHeure": "2019-02-11T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 77291,
+        "ordre": 1,
+        "idSeance": 27992,
+        "idCopie": 16975,
+        "duree": 18,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 77292,
+        "ordre": 2,
+        "idSeance": 27992,
+        "idCopie": 16976,
+        "duree": 13,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 77293,
+        "ordre": 3,
+        "idSeance": 27992,
+        "idCopie": 16977,
+        "duree": 13,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 77294,
+        "ordre": 4,
+        "idSeance": 27992,
+        "idCopie": 16978,
+        "duree": 13,
+        "version": "",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 111775,
+        "ordre": 5,
+        "idSeance": 27992,
+        "idCopie": 16980,
+        "duree": 3,
+        "version": "",
+        "format": "Numérique"
+      },
+      {
+        "idFilm": 125425,
+        "ordre": 6,
+        "idSeance": 27992,
+        "idCopie": 17018,
+        "duree": 5,
+        "version": "",
+        "format": "Numérique"
+      }
+    ]
+  }
+]

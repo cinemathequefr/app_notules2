@@ -1,3 +1,7 @@
+/**
+ * Ce script de ligne de commande fait des requêtes sur la base de données et
+ * génère les fichiers de données films et seances pour l'identifiant de cycle passé en paramètre.
+ */
 const fs = require("fs");
 const _ = require("lodash");
 const database = require("./lib/database");
@@ -13,9 +17,7 @@ const writeFile = promisify(fs.writeFile);
 const copyFile = promisify(fs.copyFile);
 
 const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramètre de ligne de commande
-
 const timestamp = helpers.timestamp();
-
 
 (async function () {
 

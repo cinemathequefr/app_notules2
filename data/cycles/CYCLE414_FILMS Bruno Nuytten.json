@@ -1,0 +1,373 @@
+[
+  {
+    "titre": "Albert souffre",
+    "idFilm": 50416,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Bruno Nuytten",
+    "annee": 1991,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Albert, vingt ans, se sépare dans un aéroport d'une belle hôtesse de l'air. Il décide alors de se rendre chez un couple d'amis à Bordeaux. Jérôme, son copain d'enfance et sa compagne Jeanne préparent un concours d'entrée dans une grande école. La présence d'Albert dérange leur travail, à tel point qu'ils échouent tous deux. Une violente altercation oppose alors Jérôme et Albert."
+      }
+    ],
+    "generique": "Julien Rassam, Estelle Skornik, Jean-Michel Portal, Collin Obomalayat"
+  },
+  {
+    "titre": "Assassin musicien",
+    "art": "L'",
+    "idFilm": 56992,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Benoît Jacquot",
+    "annee": 1974,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un jeune musicien, convaincu d'avoir un don exceptionnel, quitte la province et vient a Paris, ou refusant tout compromis, il sombre dans la schizophrénie."
+      }
+    ],
+    "generique": "Joël Bion, Anna Karina, Gunnar Larsen, Hélène Coulomb"
+  },
+  {
+    "titre": "Barocco",
+    "idFilm": 51416,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "André Téchiné",
+    "annee": 1976,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une grande ville portuaire. Un boxeur tente de vendre des informations compromettantes sur un candidat lors d'une élection."
+      }
+    ],
+    "generique": "Isabelle Adjani, Gérard Depardieu, Marie-France Pisier, Jean-Claude Brialy"
+  },
+  {
+    "titre": "Camille Claudel",
+    "idFilm": 50417,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Bruno Nuytten",
+    "annee": 1987,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Évocation des amours tumultueuses de Camille Claudel, sculpteur et sœur du poète avec Rodin."
+      }
+    ],
+    "generique": "Isabelle Adjani, Gérard Depardieu, Laurent Grevill, Alain Cuny"
+  },
+  {
+    "titre": "Camion",
+    "art": "Le",
+    "idFilm": 48211,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Marguerite Duras",
+    "annee": 1977,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une écrivain lit à un comédien le scénario de son prochain film. Il est question d'une femme prise en stop par un routier."
+      }
+    ],
+    "generique": "Marguerite Duras, Gérard Depardieu"
+  },
+  {
+    "titre": "Femme du Gange",
+    "art": "La",
+    "idFilm": 57707,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Marguerite Duras",
+    "annee": 1972,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme revient sur les lieux où il a vécu une grande et passionnante histoire d'amour avec une femme aujourd'hui décédée."
+      }
+    ],
+    "generique": "Catherine Sellers, Nicole Hiss, Gérard Depardieu, Christian Baltauss"
+  },
+  {
+    "titre": "Garde à vue",
+    "idFilm": 50169,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Claude Miller",
+    "annee": 1981,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un 31 décembre au soir, Jérôme Martinaud, un notaire, est convoqué au commissariat pour témoigner sur l'assassinat et le viol de deux petites filles. Les inspecteurs Gallien et Belmont, persuadés de la culpabilité du notable, le mettent en garde à vue."
+      }
+    ],
+    "generique": "Lino Ventura, Michel Serrault, Romy Schneider, Guy Marchand"
+  },
+  {
+    "titre": "Hôtel des Amériques",
+    "idFilm": 51418,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "André Téchiné",
+    "annee": 1981,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A Biarritz, Gilles est renversé accidentellement par la voiture que conduit Hélène. Gilles va tenter d'aimer cette femme prisonnière d'un amour passé qui le fascine."
+      }
+    ],
+    "generique": "Catherine Deneuve, Patrick Dewaere, Étienne Chicot, Josiane Balasko"
+  },
+  {
+    "titre": "India song",
+    "idFilm": 48298,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Marguerite Duras",
+    "annee": 1974,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Aux Indes, vers 1930, l'évocation d'une femme, épouse du Consul de France."
+      }
+    ],
+    "generique": "Delphine Seyrig, Michael Lonsdale, Claude Mann, Mathieu Carrière"
+  },
+  {
+    "titre": "Jean de Florette",
+    "idFilm": 50863,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Claude Berri",
+    "annee": 1985,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pour faire fortune en cultivant des œillets, Ugolin, conseillé par son oncle, le Papet, détourne la source de Jean de Florette, nouvellement installé au village avec sa femme et leur fille Manon."
+      }
+    ],
+    "generique": "Yves Montand, Daniel Auteuil, Gérard Depardieu, Elisabeth Depardieu"
+  },
+  {
+    "titre": "Manon des sources",
+    "idFilm": 55049,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Claude Berri",
+    "annee": 1985,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dix ans après la mort de son père Jean de Florette, Manon des Sources est gardienne de chèvres. De son côté, obsédé par son passé, Ugolin a fait fortune en cultivant des œillets avec le Papet. Mais, pour Manon, l'heure de la vengeance a sonné."
+      }
+    ],
+    "generique": "Yves Montand, Daniel Auteuil, Emmanuelle Béart, Hippolyte Girardot"
+  },
+  {
+    "titre": "Meilleure façon de marcher",
+    "art": "La",
+    "idFilm": 50170,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Claude Miller",
+    "annee": 1975,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Eté 1960. Marc et Philippe sont moniteurs dans une colonie de vacances en Auvergne. L'un est sportif, jouisseur, presque primaire, l'autre est plutôt romantique, plus secret, plus sentimental. Marc a surpris Philippe un soir en train de se déguiser en femme et va dès lors commencer à l'épier, le traquer et le faire souffrir."
+      }
+    ],
+    "generique": "Patrick Dewaere, Patrick Bouchitey, Christine Pascal, Claude Piéplu"
+  },
+  {
+    "titre": "Nathalie Granger",
+    "idFilm": 48301,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Marguerite Duras",
+    "annee": 1972,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jolie maison au bord d'une rivière où vivent deux femmes. L'une s'adonne aux travaux ménagers et au jardinage, assiste aux leçons de piano des enfants. L'autre, Madame Granger, s'inquiète de l'avenir de sa fille Nathalie, « d'une violence peu commune », a dit la maîtresse."
+      }
+    ],
+    "generique": "Lucia Bosè, Jeanne Moreau, Gérard Depardieu, Luce Garcia-Ville"
+  },
+  {
+    "titre": "Nuit tous les chats sont gris",
+    "art": "La",
+    "idFilm": 57098,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Gérard Zingg",
+    "annee": 1977,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En Angleterre, Watson raconte à sa nièce Lily des histoires à dormir debout. En France, puis en Suisse et à Salzbourg, ces histoires se matérialisent autour de la personne de Philibert, séduisant gigolo que son inventeur pousse au vol puis au crime."
+      }
+    ],
+    "generique": "Gérard Depardieu, Laura Betti, Robert Stephens, Charlotte Crow"
+  },
+  {
+    "titre": "Nuytten/Film",
+    "idFilm": 128837,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Caroline Champetier",
+    "annee": 2015,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "_« Dans les années 80, Bruno Nuytten était une star de la cinématographie. De Duras à Blier, de Téchiné à Berri, il créait des images qui rendent ces films inoubliables. Lui-même a réalisé trois films puis abandonné le cinéma. J'ai toujours voulu comprendre, sentant confusément la profondeur de cette désertion. De cela et du reste Bruno et moi avons parlé plusieurs jours. »_ Caroline Champetier"
+      }
+    ]
+  },
+  {
+    "titre": "Pirate",
+    "art": "La",
+    "idFilm": 52054,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Jacques Doillon",
+    "annee": 1984,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Déchirée entre l'amour qu'elle voue à son mari et la passion qui la lie à son amie Carol, Alma est plongée dans la confusion la plus totale."
+      }
+    ],
+    "generique": "Jane Birkin, Philippe Léotard, Maruschka Detmers, Laure Marsac"
+  },
+  {
+    "titre": "Possession",
+    "idFilm": 51832,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Andrzej Zulawski",
+    "annee": 1980,
+    "pays": "France-RFA",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "De retour d'un long voyage, Marc retrouve à Berlin sa femme Anna et son fils, Bob. Prise de crises violentes, Anna disparait. Marc engage un détective qui découvre bientôt qu'elle s'est réfugiée dans une étrange demeure où semble se cacher une créature surgie des ténèbres."
+      }
+    ],
+    "generique": "Isabelle Adjani, Sam Neill, Heinz Bennent, Margit Carstensen"
+  },
+  {
+    "titre": "Soeurs Brontë",
+    "art": "Les",
+    "idFilm": 51422,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "André Téchiné",
+    "annee": 1978,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "1854\\. Charlotte Brontë se souvient de sa vie avec son père, un pasteur, ses sœurs Emily et Anne, et surtout avec son frère Barnwell, un peintre qui mourut dans la déchéance et l'alcoolisme."
+      }
+    ],
+    "generique": "Isabelle Adjani, Marie-France Pisier, Isabelle Huppert, Pascal Greggory"
+  },
+  {
+    "titre": "Son nom de Venise dans Calcutta désert",
+    "idFilm": 53305,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Marguerite Duras",
+    "annee": 1976,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Reprenant la bande-son de son film _India Song_, Marguerite Duras y greffe des images nouvelles proposant une longue réflexion visuelle sur la mort."
+      }
+    ],
+    "generique": "Delphine Seyrig, Nicole Hiss, Sylvie Nuytten, Marie-Pierre Thiébaut"
+  },
+  {
+    "titre": "Tchao pantin",
+    "idFilm": 46826,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Claude Berri",
+    "annee": 1983,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Lambert, pompiste de nuit alcoolique et désabusé, se prend d'affection pour le jeune dealer Bensoussan. Un jour, Bensoussan se fait tuer sous le regard impuissant de son nouvel ami. Aidé par Lola, une jeune marginale, Lambert n'aura de cesse de vouloir venger sa mort."
+      }
+    ],
+    "generique": "Coluche, Richard Anconina, Agnès Soral, Philippe Léotard"
+  },
+  {
+    "titre": "Tortue sur le dos",
+    "art": "La",
+    "idFilm": 57305,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Luc Béraud",
+    "annee": 1977,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Paul, écrivain qui a connu son moment de notoriété plusieurs années auparavant, est en crise. Ne parvenant ni à écrire, ni à satisfaire physiquement sa femme Camille qui a abandonné ses études afin d'entretenir le ménage, il décide de modifier sa vie."
+      }
+    ],
+    "generique": "Jean-François Stévenin, Bernadette Lafont, Virginie Thévenet, Véronique Silver"
+  },
+  {
+    "titre": "Valseuses",
+    "art": "Les",
+    "idFilm": 45997,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Bertrand Blier",
+    "annee": 1973,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les aventures de deux petits voyous qui entraînent dans leur cavale une fille gentille et pas farouche."
+      }
+    ],
+    "generique": "Gérard Depardieu, Miou-Miou, Patrick Dewaere, Jeanne Moreau",
+    "adaptation": "D'après le roman _Les Valseuses_ de Bertrand Blier."
+  },
+  {
+    "titre": "Zoo zéro",
+    "idFilm": 48593,
+    "idCycle": 414,
+    "idCategorie": 1845,
+    "realisateurs": "Alain Fleischer",
+    "annee": 1977,
+    "pays": "France",
+    "generique": "Catherine Jourdan, Klaus Kinski, Christine Chappey, Pierre Clémenti"
+  }
+]

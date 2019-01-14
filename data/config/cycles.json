@@ -1,4 +1,161 @@
 [{
+    "idProg": 55,
+    "idCycleProg": 422,
+    "titreCycle": "[Cinéma roumain]",
+    "sousCycles": [{
+      "titre": "Les films",
+      "cats": [1875],
+      "tri": 1
+    }]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 417,
+    "titreCycle": "Week-end Jean-Max Causse",
+    "sousCycles": [{
+      "titre": "Les films",
+      "cats": [1860],
+      "tri": 1
+    }]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 415,
+    "titreCycle": "René Clair",
+    "sousCycles": [{
+      "titre": "Les films",
+      "cats": [1848],
+      "tri": 1
+    }, {
+      "titre": "Rencontres et conférences",
+      "cats": [1853],
+      "tri": 1
+    }]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 414,
+    "titreCycle": "Bruno Nuytten",
+    "sousCycles": [{
+      "titre": "Les films",
+      "cats": [1845],
+      "tri": 1
+    }, {
+      "titre": "Rencontres et conférences",
+      "cats": [1869],
+      "tri": 1
+    }]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 413,
+    "titreCycle": "Michel Deville",
+    "sousCycles": [{
+      "titre": "Les films",
+      "cats": [1844],
+      "tri": 1
+    }]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 412,
+    "titreCycle": "Centenaire des studios de la Victorine",
+    "sousCycles": [{
+      "titre": "Les films",
+      "cats": [1843],
+      "tri": 1
+    }]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 410,
+    "titreCycle": "Erich von Stroheim",
+    "sousCycles": [{
+        "titre": "Stroheim réalisateur",
+        "cats": [1841],
+        "tri": 1
+      },
+      {
+        "titre": "Stroheim acteur",
+        "cats": [1858],
+        "tri": 1
+      }
+    ]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 408,
+    "titreCycle": "Federico Fellini",
+    "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1837],
+        "tri": 1
+      },
+      {
+        "titre": "Autour de Federico Fellini",
+        "cats": [1867],
+        "tri": 1
+      },
+      {
+        "titre": "Rencontres et conférences",
+        "cats": [1837],
+        "tri": 1
+      }
+    ]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 407,
+    "titreCycle": "Joan Crawford",
+    "sousCycles": [{
+      "titre": "Les films",
+      "cats": [1828, 1849, 1866],
+      "tri": 1
+    }]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 400,
+    "titreCycle": "Jerzy Skolimowski",
+    "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1810],
+        "tri": 1
+      },
+      {
+        "titre": "Autour de Jerzy Skolimowski",
+        "cats": [1850],
+        "tri": 1
+      }
+    ]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 384,
+    "titreCycle": "Le cinéma de (mauvais) genre taïwanais",
+    "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1737],
+        "tri": 1
+      },
+      {
+        "titre": "Rencontres et conférences",
+        "cats": [1862],
+        "tri": 1
+      }
+    ]
+  },
+  {
+    "idProg": 51,
+    "idCycleProg": 379,
+    "titreCycle": "Billy Wilder",
+    "sousCycles": [{
+      "titre": "Les films",
+      "cats": [1730, 1733],
+      "tri": 1
+    }]
+  },
+  {
     "idProg": 51,
     "idCycleProg": 357,
     "titreCycle": "Éric Rohmer",
@@ -40,65 +197,13 @@
     ]
   },
   {
-    "idProg": 51,
-    "idCycleProg": 379,
-    "titreCycle": "Billy Wilder",
+    "idProg": 55,
+    "idCycleProg": 152,
+    "titreCycle": "Parlons cinéma avec Bertrand Mandico",
     "sousCycles": [{
       "titre": "Les films",
-      "cats": [1730, 1733],
+      "cats": [1857],
       "tri": 1
     }]
-  },
-  {
-    "idProg": 55,
-    "idCycleProg": 400,
-    "titreCycle": "Jerzy Skolimowski",
-    "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1810],
-        "tri": 1
-      },
-      {
-        "titre": "Autour de Jerzy Skolimowski",
-        "cats": [1850],
-        "tri": 1
-      }
-    ]
-  },
-  {
-    "idProg": 55,
-    "idCycleProg": 407,
-    "titreCycle": "Joan Crawford",
-    "sousCycles": [{
-      "titre": "Les films",
-      "cats": [1828, 1849, 1866],
-      "tri": 1
-    }]
-  },
-  {
-    "idProg": 55,
-    "idCycleProg": 413,
-    "titreCycle": "Michel Deville",
-    "sousCycles": [{
-      "titre": "Les films",
-      "cats": [1844],
-      "tri": 1
-    }]
-  },
-  {
-    "idProg": 55,
-    "idCycleProg": 410,
-    "titreCycle": "Erich von Stroheim",
-    "sousCycles": [{
-        "titre": "Stroheim réalisateur",
-        "cats": [1841],
-        "tri": 1
-      },
-      {
-        "titre": "Stroheim acteur",
-        "cats": [1858],
-        "tri": 1
-      }
-    ]
   }
 ]

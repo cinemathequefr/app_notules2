@@ -1,5 +1,4 @@
 const _ = require("lodash");
-const moment = require("moment");
 const execQuery = require("./lib/exec_query");
 const config = require("./lib/config");
 const queries = require("./lib/queries");
