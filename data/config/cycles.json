@@ -162,7 +162,7 @@
     "sousCycles": [{
         "titre": "Six contes moraux",
         "cats": [1768],
-        "tri": 1
+        "tri": 2
       },
       {
         "titre": "Comédies et proverbes",
@@ -182,12 +182,12 @@
       {
         "titre": "Courts métrages",
         "cats": [1752],
-        "tri": 2
+        "tri": 3
       },
       {
         "titre": "Documentaires, films pédagogiques",
         "cats": [1755],
-        "tri": 2
+        "tri": 3
       },
       {
         "titre": "Autour d'Éric Rohmer",

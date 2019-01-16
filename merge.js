@@ -79,11 +79,10 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
   cycle = _(cycle).map().value();
 
   // Répartition par sous-cycle (en suivant l'ordre indiqué par cycleConfig)
-  // TODO: autres type de tri à l'intérieur de chaque sous-cycle
-  // TODO: dans le tri par titre, faire un tri des séances par dateTime.
   cycle = _(cycleConfig.sousCycles).map(d => {
     return {
       titreSousCycle: d.titre,
+      tri: d.tri,
       items: _(d.cats).map(e =>
         _(cycle).groupBy("idCategorie").value()[e]
       ).flatten().orderBy("titre").value()

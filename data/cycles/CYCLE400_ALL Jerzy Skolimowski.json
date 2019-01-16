@@ -1,8 +1,7 @@
-[
-  {
+[{
     "titreSousCycle": "Les films",
-    "items": [
-      {
+    "tri": 1,
+    "items": [{
         "titre": "11 minutes",
         "titreVo": "11 minut",
         "idFilm": 132853,
@@ -11,15 +10,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 2014,
         "pays": "Pologne-Irlande",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Un mari jaloux, une actrice sexy, un réalisateur carnassier, un vendeur de drogue incontrôlable, une jeune femme désorientée, un ex-taulard devenu vendeur de hot-dog, un laveur de vitres, un peintre âgé, un étudiant, une équipe d'auxiliaires médicaux sous pression et un groupe de nonnes affamées. 11 moments de vie de citadins contemporains qui vont s'entrecroiser et s'entrelacer."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Un mari jaloux, une actrice sexy, un réalisateur carnassier, un vendeur de drogue incontrôlable, une jeune femme désorientée, un ex-taulard devenu vendeur de hot-dog, un laveur de vitres, un peintre âgé, un étudiant, une équipe d'auxiliaires médicaux sous pression et un groupe de nonnes affamées. 11 moments de vie de citadins contemporains qui vont s'entrecroiser et s'entrelacer."
+        }],
         "generique": "Richard Dormer, Paulina Chapko, Wojciech Mecwaldowski, Andrzej Chyra",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 132853,
             "ordre": 2,
             "idCycle": 400,
@@ -58,15 +54,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1968,
         "pays": "Grande-Bretagne-Italie-Suisse",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Un soldat des armées napoléoniennes est impliqué dans une affaire d'espionnage et devient agent double."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Un soldat des armées napoléoniennes est impliqué dans une affaire d'espionnage et devient agent double."
+        }],
         "generique": "Peter McEnery, Claudia Cardinale, Eli Wallach, Jack Hawkins",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 44835,
             "ordre": 1,
             "idCycle": 400,
@@ -104,15 +97,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1966,
         "pays": "Pologne",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Sur un coup de tête, un étudiant en médecine laisse tout tomber pour partir à la recherche d'une vie meilleure."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Sur un coup de tête, un étudiant en médecine laisse tout tomber pour partir à la recherche d'une vie meilleure."
+        }],
         "generique": "Jan Nowicki, Tadeusz Lomnicki, Joanna Szczerbic",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 29677,
             "ordre": 1,
             "idCycle": 400,
@@ -152,15 +142,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1985,
         "pays": "États-Unis",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Dans les années 1950, le capitaine d'un bateau-phare au passé douteux et en conflit avec son fils, un adolescent rebelle, recueille à son bord des gangsters en fuite."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Dans les années 1950, le capitaine d'un bateau-phare au passé douteux et en conflit avec son fils, un adolescent rebelle, recueille à son bord des gangsters en fuite."
+        }],
         "generique": "Klaus Maria Brandauer, Robert Duvall, Tom Bower",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 37025,
             "ordre": 1,
             "idSeance": 28074,
@@ -207,15 +194,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1959,
         "pays": "Pologne",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Claus, architecte, est dans une situation désespérée à tout point de vue. Soudain, une solution facile à tous ses problèmes se présente."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Claus, architecte, est dans une situation désespérée à tout point de vue. Soudain, une solution facile à tous ses problèmes se présente."
+        }],
         "generique": "Stanislaw Dygat, Bohdan Lazuka, Stefan Wiechecki",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 63053,
             "ordre": 1,
             "idCycle": 400,
@@ -254,15 +238,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1978,
         "pays": "Grande-Bretagne",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Charles Crossley, un voyageur dont le cri peut paralyser à tout instant, débarque dans la petite ville de Devon et décide de s'en prendre à un musicien et sa femme."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Charles Crossley, un voyageur dont le cri peut paralyser à tout instant, débarque dans la petite ville de Devon et décide de s'en prendre à un musicien et sa femme."
+        }],
         "generique": "Alan Bates, Susannah York, John Hurt, Robert Stephens",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 41108,
             "ordre": 1,
             "idCycle": 400,
@@ -299,32 +280,28 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1970,
         "pays": "RFA-États-Unis",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "À Londres, un jeune adolescent de quinze ans est engagé comme homme à tout faire dans une piscine publique. Il tombe amoureux d'une jeune femme qui y travaille au même endroit."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "À Londres, un jeune adolescent de quinze ans est engagé comme homme à tout faire dans une piscine publique. Il tombe amoureux d'une jeune femme qui y travaille au même endroit."
+        }],
         "generique": "Diana Dors, Jane Asher, John Moulder-Brown",
-        "seance": [
-          {
-            "idFilm": 39977,
-            "ordre": 1,
-            "idSeance": 29607,
-            "idCopie": 17616,
-            "duree": 91,
-            "version": "VOSTF",
-            "format": "DCP",
-            "idCycle": 400,
-            "idCategorie": 1810,
-            "idEvenement": 18598,
-            "dateHeure": "2019-03-17T17:00:00",
-            "idSalle": [
-              "HL",
-              "Henri Langlois"
-            ]
-          }
-        ]
+        "seance": [{
+          "idFilm": 39977,
+          "ordre": 1,
+          "idSeance": 29607,
+          "idCopie": 17616,
+          "duree": 91,
+          "version": "VOSTF",
+          "format": "DCP",
+          "idCycle": 400,
+          "idCategorie": 1810,
+          "idEvenement": 18598,
+          "dateHeure": "2019-03-17T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ]
+        }]
       },
       {
         "titre": "Dialog 20-40-60",
@@ -334,15 +311,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1968,
         "pays": "Tchécoslovaquie",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Adam, idole rock adulée des jeunes, rentre chez lui après un concert endiablé. Une surprise de taille l'attend : un couple d'inconnus a pris possession de son appartement pour y passer sa nuit de noces !"
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Adam, idole rock adulée des jeunes, rentre chez lui après un concert endiablé. Une surprise de taille l'attend : un couple d'inconnus a pris possession de son appartement pour y passer sa nuit de noces !"
+        }],
         "generique": "Jean-Pierre Léaud",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 71896,
             "ordre": 1,
             "idCycle": 400,
@@ -379,15 +353,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1967,
         "pays": "Belgique",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "À Bruxelles, Marc, jeune garçon coiffeur, rêve de participer à un rallye automobile. Ne pouvant emprunter la Porsche de son patron, il a deux jours pour trouver une voiture. Dans cet intervalle, il rencontre une jeune fille, Michèle."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "À Bruxelles, Marc, jeune garçon coiffeur, rêve de participer à un rallye automobile. Ne pouvant emprunter la Porsche de son patron, il a deux jours pour trouver une voiture. Dans cet intervalle, il rencontre une jeune fille, Michèle."
+        }],
         "generique": "Jean-Pierre Léaud, Catherine Duport, Jacqueline Bir, Paul Roland",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 39062,
             "ordre": 1,
             "idCycle": 400,
@@ -425,15 +396,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1988,
         "pays": "Italie-France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "En 1840, Dimitri Sanine, un jeune aristocrate russe, sentimental mais faible, tombe tour à tour amoureux, en Allemagne, d'une jeune pâtissière italienne, Gemma, et d'une comtesse russe, Maria. Partagé entre ces deux amours, il renonce à un choix impossible et s'en remet au destin."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "En 1840, Dimitri Sanine, un jeune aristocrate russe, sentimental mais faible, tombe tour à tour amoureux, en Allemagne, d'une jeune pâtissière italienne, Gemma, et d'une comtesse russe, Maria. Partagé entre ces deux amours, il renonce à un choix impossible et s'en remet au destin."
+        }],
         "generique": "Nastassja Kinski, Timothy Hutton, Valeria Golino",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 42473,
             "ordre": 1,
             "idCycle": 400,
@@ -469,15 +437,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1960,
         "pays": "Pologne",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Une jeune fille essuie son miroir lorsqu'elle y aperçoit le reflet d'un homme. Il commence à la courtiser de manière étrange. Mais cette apparition intrusive et déconcertante se transforme vite en cauchemar."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Une jeune fille essuie son miroir lorsqu'elle y aperçoit le reflet d'un homme. Il commence à la courtiser de manière étrange. Mais cette apparition intrusive et déconcertante se transforme vite en cauchemar."
+        }],
         "generique": "Elzbieta Czyzewska, Gustaw Holoubek",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 82614,
             "ordre": 1,
             "idSeance": 28966,
@@ -521,15 +486,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 2009,
         "pays": "Pologne-Norvège-Irlande-Hongrie",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Capturé par les forces américaines, Mohammed est envoyé dans un centre de détention tenu secret. Lors d'un transfert, il réchappe d'un accident et se retrouve en fuite dans une forêt inconnue."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Capturé par les forces américaines, Mohammed est envoyé dans un centre de détention tenu secret. Lors d'un transfert, il réchappe d'un accident et se retrouve en fuite dans une forêt inconnue."
+        }],
         "generique": "Vincent Gallo, Emmanuelle Seigner, Zach Cohen, Iftach Ofir",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 112994,
             "ordre": 2,
             "idCycle": 400,
@@ -565,15 +527,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1991,
         "pays": "France-Pologne",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "À Varsovie, en 1939, Joey, un jeune écrivain, est contraint par le professeur Pimko de retourner à l'école."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "À Varsovie, en 1939, Joey, un jeune écrivain, est contraint par le professeur Pimko de retourner à l'école."
+        }],
         "generique": "Iain Glen, Crispin Glover, Robert Stephens, Judith Godrèche",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 29678,
             "ordre": 1,
             "idSeance": 28964,
@@ -618,8 +577,7 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1967,
         "pays": "Pologne",
-        "textes": [
-          {
+        "textes": [{
             "typeTexte": 9,
             "texte": "Cinq anciens étudiants en médecine du début des années 1950 se réunissent une dizaine d'années plus tard pour une soirée amicale à l'invitation de l'un deux, devenu modeste médecin de campagne. Ses condisciples eux ont réussi leur carrière : luxueux cabinets urbains, voitures, etc."
           },
@@ -629,8 +587,7 @@
           }
         ],
         "generique": "Bruno Ganz, Fred Zinnemann, Jerzy Skolimowski, Alan Bates",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 52898,
             "ordre": 2,
             "idCycle": 400,
@@ -668,15 +625,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1959,
         "pays": "Pologne",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Un jeune homme au strabisme prononcé s'improvise lanceur de couteaux."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Un jeune homme au strabisme prononcé s'improvise lanceur de couteaux."
+        }],
         "generique": "Iwona Sloczynska, Wojciech Solarz",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 63057,
             "ordre": 1,
             "idSeance": 28972,
@@ -722,15 +676,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1959,
         "pays": "Pologne",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Au son d'un vieux gramophone, cinq jeunes rejouent à leur manière _Hamlet_, la célèbre pièce de Shakespeare. Peu à peu, la folie la plus totale finit par tous les ensorceler."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Au son d'un vieux gramophone, cinq jeunes rejouent à leur manière _Hamlet_, la célèbre pièce de Shakespeare. Peu à peu, la folie la plus totale finit par tous les ensorceler."
+        }],
         "generique": "Elzbieta Czyzewska, Wieslaw Golas, Zdzislaw Lesniak",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 63058,
             "ordre": 1,
             "idSeance": 28941,
@@ -775,15 +726,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 2007,
         "pays": "Pologne-France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Dans le passé, Léon a été témoin du viol d'Anna, une infirmière qui travaille dans le même hôpital que lui. Voyeuriste à la timidité maladive, il va espionner la jeune femme de jour comme de nuit."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Dans le passé, Léon a été témoin du viol d'Anna, une infirmière qui travaille dans le même hôpital que lui. Voyeuriste à la timidité maladive, il va espionner la jeune femme de jour comme de nuit."
+        }],
         "generique": "Artur Steranko, Kinga Preis",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 104697,
             "ordre": 2,
             "idSeance": 28966,
@@ -828,16 +776,13 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1971,
         "pays": "RFA-États-Unis",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Un adolescent myope et orphelin est recueilli par son oncle et se fait déniaiser par sa tante qui projette de supprimer son époux."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Un adolescent myope et orphelin est recueilli par son oncle et se fait déniaiser par sa tante qui projette de supprimer son époux."
+        }],
         "generique": "Gina Lollobrigida, David Niven, John Moulder-Brown, Mario Adorf",
         "adaptation": "D'après le roman _Roi, dame, valet_ de Vladimir Nabokov.",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 45045,
             "ordre": 1,
             "idSeance": 28980,
@@ -882,15 +827,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1962,
         "pays": "Pologne",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Quelques heures de la vie d'Andrzej, étudiant de vingt-quatre ans, à la veille de décider si, oui ou non, il va partir pour un service militaire de deux ans."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Quelques heures de la vie d'Andrzej, étudiant de vingt-quatre ans, à la veille de décider si, oui ou non, il va partir pour un service militaire de deux ans."
+        }],
         "generique": "Jerzy Skolimowski, Elzbieta Czyzewska",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 56920,
             "ordre": 1,
             "idCycle": 400,
@@ -928,15 +870,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1984,
         "pays": "Grande-Bretagne-France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Un célèbre metteur en scène de théâtre polonais exilé à Londres avec sa famille doit faire face à ses contradictions dénoncées par son fils, un adolescent qui veut retourner en Pologne."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Un célèbre metteur en scène de théâtre polonais exilé à Londres avec sa famille doit faire face à ses contradictions dénoncées par son fils, un adolescent qui veut retourner en Pologne."
+        }],
         "generique": "Michael York, Joanna Szczerbic, Michael Lyndon, Jerry Skol",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 54742,
             "ordre": 1,
             "idSeance": 29783,
@@ -981,15 +920,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1982,
         "pays": "Grande-Bretagne",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Trois maçons polonais et leur contremaître, Novak, viennent à Londres travailler au noir. Novak, autoritaire, est le seul à parler anglais. Lorsqu'il prend connaissance du coup d'État en Pologne, il tait la nouvelle à ses compatriotes."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Trois maçons polonais et leur contremaître, Novak, viennent à Londres travailler au noir. Novak, autoritaire, est le seul à parler anglais. Lorsqu'il prend connaissance du coup d'État en Pologne, il tait la nouvelle à ses compatriotes."
+        }],
         "generique": "Jeremy Irons, Eugene Lipinski, Jirí Stanislav, Eugeniusz Haczkiewicz",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 41099,
             "ordre": 1,
             "idCycle": 400,
@@ -1025,15 +961,12 @@
         "realisateurs": "Jerzy Skolimowski",
         "annee": 1965,
         "pays": "Pologne",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Andrzej Leszczyc, ancien boxeur, retrouve par hasard une femme qui l'a jadis trahi. Elle l'invite à l'accompagner dans sa journée et il en tombe amoureux. Mais une vieille connaissance le convainc de remonter sur le ring."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Andrzej Leszczyc, ancien boxeur, retrouve par hasard une femme qui l'a jadis trahi. Elle l'invite à l'accompagner dans sa journée et il en tombe amoureux. Mais une vieille connaissance le convainc de remonter sur le ring."
+        }],
         "generique": "Jerzy Skolimowski, Elzbieta Czyzewska",
-        "seance": [
-          {
+        "seance": [{
             "idFilm": 45046,
             "ordre": 1,
             "idCycle": 400,
@@ -1065,8 +998,8 @@
   },
   {
     "titreSousCycle": "Autour de Jerzy Skolimowski",
-    "items": [
-      {
+    "tri": 1,
+    "items": [{
         "titre": "Andrzej Trzaskowski, le cerveau du jazz polonais",
         "idFilm": 140541,
         "idCycle": 400,
@@ -1074,29 +1007,25 @@
         "realisateurs": "Damien Bertrand",
         "annee": 2006,
         "pays": "France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Le compositeur de _Walkower_ fut le véritable cerveau du jazz polonais. De l'époque de la guerre froide (où il introduisit en contrebande cette musique prohibée par le régime) à la chute du mur de Berlin, portrait d'un pianiste discret mais obstiné, avant-gardiste et lyrique, obsédé par le renouvellement du langage harmonique du jazz."
-          }
-        ],
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Le compositeur de _Walkower_ fut le véritable cerveau du jazz polonais. De l'époque de la guerre froide (où il introduisit en contrebande cette musique prohibée par le régime) à la chute du mur de Berlin, portrait d'un pianiste discret mais obstiné, avant-gardiste et lyrique, obsédé par le renouvellement du langage harmonique du jazz."
+        }],
         "generique": "Anrdrzej Trzaskowski, Teresa Trzaskowska, Jerzy Skolimowski, Ted Curson",
-        "seance": [
-          {
-            "idFilm": 140541,
-            "ordre": 2,
-            "idCycle": 400,
-            "idCategorie": 1850,
-            "idEvenement": 18596,
-            "idSeance": 28986,
-            "dateHeure": "2019-03-27T20:30:00",
-            "idSalle": [
-              "JE",
-              "Jean Epstein"
-            ],
-            "mention": "Séance présentée par Damien Bertrand"
-          }
-        ]
+        "seance": [{
+          "idFilm": 140541,
+          "ordre": 2,
+          "idCycle": 400,
+          "idCategorie": 1850,
+          "idEvenement": 18596,
+          "idSeance": 28986,
+          "dateHeure": "2019-03-27T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "mention": "Séance présentée par Damien Bertrand"
+        }]
       },
       {
         "titre": "Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste",
@@ -1106,28 +1035,24 @@
         "realisateurs": "Damien Bertrand",
         "annee": 2003,
         "pays": "France",
-        "textes": [
-          {
-            "typeTexte": 9,
-            "texte": "Embrassant dans un même mouvement films, poèmes et œuvre peinte, le documentaire ouvre un espace où Skolimowski se livre à un autoportrait et exprime, dans sa langue natale, le majestueux désespoir de sa condition d'artiste exilé."
-          }
-        ],
-        "seance": [
-          {
-            "idFilm": 94510,
-            "ordre": 1,
-            "idCycle": 400,
-            "idCategorie": 1850,
-            "idEvenement": 18596,
-            "idSeance": 28986,
-            "dateHeure": "2019-03-27T20:30:00",
-            "idSalle": [
-              "JE",
-              "Jean Epstein"
-            ],
-            "mention": "Séance présentée par Damien Bertrand"
-          }
-        ]
+        "textes": [{
+          "typeTexte": 9,
+          "texte": "Embrassant dans un même mouvement films, poèmes et œuvre peinte, le documentaire ouvre un espace où Skolimowski se livre à un autoportrait et exprime, dans sa langue natale, le majestueux désespoir de sa condition d'artiste exilé."
+        }],
+        "seance": [{
+          "idFilm": 94510,
+          "ordre": 1,
+          "idCycle": 400,
+          "idCategorie": 1850,
+          "idEvenement": 18596,
+          "idSeance": 28986,
+          "dateHeure": "2019-03-27T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "mention": "Séance présentée par Damien Bertrand"
+        }]
       }
     ]
   }
