@@ -6,8 +6,8 @@ const fs = require("fs");
 const _ = require("lodash");
 const database = require("./lib/database");
 const config = require("./lib/config");
-const seances = require("./seances.js");
-const films = require("./films.js");
+const seances = require("./lib/seances.js");
+const films = require("./lib/films.js");
 const helpers = require("./lib/helpers.js");
 const {
   promisify
@@ -38,14 +38,14 @@ const timestamp = helpers.timestamp();
     console.log(`Films : ${_.map(f).length} items.`);
 
     await writeFile(
-      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_FILMS ${cycleConfig.titreCycle} ${timestamp}.json`,
+      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_FILMS ${timestamp}.json`,
       JSON.stringify(f, null, 2),
       "utf8"
     );
 
     await copyFile(
-      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_FILMS ${cycleConfig.titreCycle} ${timestamp}.json`,
-      `data/cycles/CYCLE${cycleConfig.idCycleProg}_FILMS ${cycleConfig.titreCycle}.json`
+      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_FILMS ${timestamp}.json`,
+      `data/cycles/CYCLE${cycleConfig.idCycleProg}_FILMS.json`
     );
 
     // Séances
@@ -53,14 +53,14 @@ const timestamp = helpers.timestamp();
     console.log(`Séances : ${s.length} items.`);
 
     await writeFile(
-      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_SEANCES ${cycleConfig.titreCycle} ${timestamp}.json`,
+      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_SEANCES ${timestamp}.json`,
       JSON.stringify(s, null, 2),
       "utf8"
     );
 
     await copyFile(
-      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_SEANCES ${cycleConfig.titreCycle} ${timestamp}.json`,
-      `data/cycles/CYCLE${cycleConfig.idCycleProg}_SEANCES ${cycleConfig.titreCycle}.json`
+      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_SEANCES ${timestamp}.json`,
+      `data/cycles/CYCLE${cycleConfig.idCycleProg}_SEANCES.json`
     );
 
     database.detach(db);

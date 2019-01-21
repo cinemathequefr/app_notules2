@@ -1,4 +1,5 @@
-var path = "CYCLE370_ALL La Nouvelle Vague tchèque... et après.json";
+var path = "CYCLE370_ALL.json";
+// var path = "CYCLE370_ALL La Nouvelle Vague tchèque... et après.json";
 // var path = "CYCLE408_ALL Federico Fellini.json";
 // var path = "CYCLE400_ALL Jerzy Skolimowski.json";
 // var path = "CYCLE357_ALL Éric Rohmer.json";

@@ -176,21 +176,28 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
     .value();
 
   await writeFile(
-    `data/cycles/CYCLE${cycleConfig.idCycleProg}_ALL ${
-      cycleConfig.titreCycle
-    }.json`,
+    `data/cycles/CYCLE${cycleConfig.idCycleProg}_ALL.json`,
     JSON.stringify(cycle, null, 2),
     "utf8"
   );
 })();
 
-// Obtient les noms de fichiers json d'un cycle (qui incluent le titre du cycle en clair) à partir de son id et de l'objet de configuration des cycles.
-function getFilenameFromCycle(idCycle, cyclesConfig) {
-  let cycleConfig = _(cyclesConfig).find({
-    idCycleProg: idCycle
-  });
+// Obtient les noms de fichiers json d'un cycle à partir de son id.
+// NOTE: en replacement de la fonction renvoyant les titres avec le nom du cycle en clair.
+function getFilenameFromCycle(idCycle) {
   return {
-    films: `CYCLE${cycleConfig.idCycleProg}_FILMS ${cycleConfig.titreCycle}`,
-    seances: `CYCLE${cycleConfig.idCycleProg}_SEANCES ${cycleConfig.titreCycle}`
+    films: `CYCLE${idCycle}_FILMS`,
+    seances: `CYCLE${idCycle}_SEANCES`
   };
 }
+
+// Obtient les noms de fichiers json d'un cycle (qui incluent le titre du cycle en clair) à partir de son id et de l'objet de configuration des cycles.
+// function getFilenameFromCycle(idCycle, cyclesConfig) {
+//   let cycleConfig = _(cyclesConfig).find({
+//     idCycleProg: idCycle
+//   });
+//   return {
+//     films: `CYCLE${cycleConfig.idCycleProg}_FILMS ${cycleConfig.titreCycle}`,
+//     seances: `CYCLE${cycleConfig.idCycleProg}_SEANCES ${cycleConfig.titreCycle}`
+//   };
+// }
