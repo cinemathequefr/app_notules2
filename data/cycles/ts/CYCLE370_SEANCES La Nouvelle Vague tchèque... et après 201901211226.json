@@ -1,0 +1,989 @@
+[
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17398,
+    "idSeance": 27654,
+    "dateHeure": "2018-11-29T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 56428,
+        "ordre": 1,
+        "idSeance": 27654,
+        "idCopie": 13053,
+        "duree": 78,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17362,
+    "idSeance": 27686,
+    "dateHeure": "2018-11-30T17:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 83093,
+        "ordre": 1,
+        "idSeance": 27686,
+        "idCopie": 16366,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17359,
+    "idSeance": 27685,
+    "dateHeure": "2018-11-30T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 39272,
+        "ordre": 1,
+        "idSeance": 27685,
+        "idCopie": 16372,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17375,
+    "idSeance": 27721,
+    "dateHeure": "2018-11-30T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 40380,
+        "ordre": 1,
+        "idSeance": 27721,
+        "idCopie": 15976,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17363,
+    "idSeance": 27755,
+    "dateHeure": "2018-12-01T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 40372,
+        "ordre": 1,
+        "idSeance": 27755,
+        "idCopie": 16368,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17900,
+    "idSeance": 26135,
+    "dateHeure": "2018-12-01T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 39299,
+        "ordre": 1,
+        "idSeance": 26135,
+        "idCopie": 12661,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17901,
+    "idSeance": 27688,
+    "dateHeure": "2018-12-01T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 40414,
+        "ordre": 1,
+        "idSeance": 27688,
+        "idCopie": 16776,
+        "duree": 73,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17365,
+    "idSeance": 26136,
+    "dateHeure": "2018-12-01T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 40430,
+        "ordre": 1,
+        "idSeance": 26136,
+        "idCopie": 16364,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17364,
+    "idSeance": 26144,
+    "dateHeure": "2018-12-02T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 40416,
+        "ordre": 1,
+        "idSeance": 26144,
+        "idCopie": 16365,
+        "duree": 68,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 135928,
+        "ordre": 2,
+        "idSeance": 26144,
+        "idCopie": 16371,
+        "duree": 38,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17372,
+    "idSeance": 26145,
+    "dateHeure": "2018-12-02T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 38955,
+        "ordre": 1,
+        "idSeance": 26145,
+        "idCopie": 12662,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17373,
+    "idSeance": 26147,
+    "dateHeure": "2018-12-03T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 39306,
+        "ordre": 1,
+        "idSeance": 26147,
+        "idCopie": 14,
+        "duree": 73,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17369,
+    "idSeance": 26152,
+    "dateHeure": "2018-12-05T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 40389,
+        "ordre": 1,
+        "idSeance": 26152,
+        "idCopie": 16363,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17365,
+    "idSeance": 27731,
+    "dateHeure": "2018-12-06T16:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 40430,
+        "ordre": 1,
+        "idSeance": 27731,
+        "idCopie": 16364,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17374,
+    "idSeance": 26171,
+    "dateHeure": "2018-12-07T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 39283,
+        "ordre": 1,
+        "idSeance": 26171,
+        "idCopie": 15975,
+        "duree": 76,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17368,
+    "idSeance": 26178,
+    "dateHeure": "2018-12-08T18:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 40941,
+        "ordre": 1,
+        "idSeance": 26178,
+        "idCopie": 16367,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17367,
+    "idSeance": 26179,
+    "dateHeure": "2018-12-08T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 41296,
+        "ordre": 1,
+        "idSeance": 26179,
+        "idCopie": 16370,
+        "duree": 77,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17377,
+    "idSeance": 27708,
+    "dateHeure": "2018-12-09T17:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 139548,
+        "ordre": 1,
+        "idSeance": 27708,
+        "idCopie": 16375,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17366,
+    "idSeance": 26187,
+    "dateHeure": "2018-12-09T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 40359,
+        "ordre": 1,
+        "idSeance": 26187,
+        "idCopie": 16374,
+        "duree": 74,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17370,
+    "idSeance": 26188,
+    "dateHeure": "2018-12-09T22:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 52172,
+        "ordre": 1,
+        "idSeance": 26188,
+        "idCopie": 16369,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17899,
+    "idSeance": 26190,
+    "dateHeure": "2018-12-10T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 41277,
+        "ordre": 1,
+        "idSeance": 26190,
+        "idCopie": 16777,
+        "duree": 77,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17376,
+    "idSeance": 26191,
+    "dateHeure": "2018-12-10T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 139547,
+        "ordre": 1,
+        "idSeance": 26191,
+        "idCopie": 16361,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17371,
+    "idSeance": 26192,
+    "dateHeure": "2018-12-10T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 121414,
+        "ordre": 1,
+        "idSeance": 26192,
+        "idCopie": 16362,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17372,
+    "idSeance": 26201,
+    "dateHeure": "2018-12-12T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 38955,
+        "ordre": 1,
+        "idSeance": 26201,
+        "idCopie": 12662,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17375,
+    "idSeance": 26207,
+    "dateHeure": "2018-12-12T21:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 40380,
+        "ordre": 1,
+        "idSeance": 26207,
+        "idCopie": 15976,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17901,
+    "idSeance": 26244,
+    "dateHeure": "2018-12-13T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 40414,
+        "ordre": 1,
+        "idSeance": 26244,
+        "idCopie": 16776,
+        "duree": 73,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 18056,
+    "idSeance": 27775,
+    "dateHeure": "2018-12-13T21:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 39010,
+        "ordre": 1,
+        "idSeance": 27775,
+        "idCopie": 2356,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17364,
+    "idSeance": 26287,
+    "dateHeure": "2018-12-19T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 40416,
+        "ordre": 1,
+        "idSeance": 26287,
+        "idCopie": 16365,
+        "duree": 68,
+        "version": "VOSTF",
+        "format": "DCP"
+      },
+      {
+        "idFilm": 135928,
+        "ordre": 2,
+        "idSeance": 26287,
+        "idCopie": 16371,
+        "duree": 38,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 18056,
+    "idSeance": 26293,
+    "dateHeure": "2018-12-19T22:15:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 39010,
+        "ordre": 1,
+        "idSeance": 26293,
+        "idCopie": 2356,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17363,
+    "idSeance": 27867,
+    "dateHeure": "2018-12-20T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 40372,
+        "ordre": 1,
+        "idSeance": 27867,
+        "idCopie": 16368,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17366,
+    "idSeance": 27869,
+    "dateHeure": "2018-12-20T22:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 40359,
+        "ordre": 1,
+        "idSeance": 27869,
+        "idCopie": 16374,
+        "duree": 74,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17359,
+    "idSeance": 26251,
+    "dateHeure": "2018-12-21T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 39272,
+        "ordre": 1,
+        "idSeance": 26251,
+        "idCopie": 16372,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17362,
+    "idSeance": 26245,
+    "dateHeure": "2018-12-21T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 83093,
+        "ordre": 1,
+        "idSeance": 26245,
+        "idCopie": 16366,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17370,
+    "idSeance": 26301,
+    "dateHeure": "2018-12-22T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 52172,
+        "ordre": 1,
+        "idSeance": 26301,
+        "idCopie": 16369,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17899,
+    "idSeance": 26309,
+    "dateHeure": "2018-12-22T21:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 41277,
+        "ordre": 1,
+        "idSeance": 26309,
+        "idCopie": 16777,
+        "duree": 77,
+        "version": "VO",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17398,
+    "idSeance": 26344,
+    "dateHeure": "2018-12-26T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 56428,
+        "ordre": 1,
+        "idSeance": 26344,
+        "idCopie": 13053,
+        "duree": 78,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17374,
+    "idSeance": 26352,
+    "dateHeure": "2018-12-26T21:45:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 39283,
+        "ordre": 1,
+        "idSeance": 26352,
+        "idCopie": 15975,
+        "duree": 76,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17373,
+    "idSeance": 26373,
+    "dateHeure": "2018-12-27T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 39306,
+        "ordre": 1,
+        "idSeance": 26373,
+        "idCopie": 14,
+        "duree": 73,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17369,
+    "idSeance": 26379,
+    "dateHeure": "2018-12-27T21:45:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 40389,
+        "ordre": 1,
+        "idSeance": 26379,
+        "idCopie": 16363,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17368,
+    "idSeance": 27868,
+    "dateHeure": "2018-12-29T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 40941,
+        "ordre": 1,
+        "idSeance": 27868,
+        "idCopie": 16367,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17367,
+    "idSeance": 27870,
+    "dateHeure": "2018-12-29T22:15:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 41296,
+        "ordre": 1,
+        "idSeance": 27870,
+        "idCopie": 16370,
+        "duree": 77,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17900,
+    "idSeance": 26271,
+    "dateHeure": "2019-01-01T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 39299,
+        "ordre": 1,
+        "idSeance": 26271,
+        "idCopie": 12661,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17371,
+    "idSeance": 26327,
+    "dateHeure": "2019-01-02T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 121414,
+        "ordre": 1,
+        "idSeance": 26327,
+        "idCopie": 16362,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17377,
+    "idSeance": 27875,
+    "dateHeure": "2019-01-03T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 139548,
+        "ordre": 1,
+        "idSeance": 27875,
+        "idCopie": 16375,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  },
+  {
+    "idCycle": 370,
+    "idCategorie": 1671,
+    "idEvenement": 17376,
+    "idSeance": 26324,
+    "dateHeure": "2019-01-04T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 139547,
+        "ordre": 1,
+        "idSeance": 26324,
+        "idCopie": 16361,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "DCP"
+      }
+    ]
+  }
+]

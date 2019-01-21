@@ -20,12 +20,12 @@ p {
   font-weight: 600;
 }
 
-.film {
-  padding: 24px 0;
+.item {
+  padding: 12px 0;
 }
 
 .seance {
-  margin: 8px 0;
+  margin: 12px 0;
 }
 
 .salle {

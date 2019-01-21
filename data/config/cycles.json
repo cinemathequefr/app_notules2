@@ -157,6 +157,16 @@
   },
   {
     "idProg": 51,
+    "idCycleProg": 370,
+    "titreCycle": "La Nouvelle Vague tchèque... et après",
+    "sousCycles": [{
+      "titre": "Les films",
+      "cats": [1671],
+      "tri": 1
+    }]
+  },
+  {
+    "idProg": 51,
     "idCycleProg": 357,
     "titreCycle": "Éric Rohmer",
     "sousCycles": [{

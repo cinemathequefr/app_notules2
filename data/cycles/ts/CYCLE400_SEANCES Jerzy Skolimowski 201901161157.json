@@ -23,8 +23,8 @@
     "idSeance": 29523,
     "dateHeure": "2019-03-15T19:00:00",
     "idSalle": [
-      "LE",
-      "Lotte Eisner"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
@@ -39,7 +39,7 @@
     "idCategorie": 1810,
     "idEvenement": 18599,
     "idSeance": 29525,
-    "dateHeure": "2019-03-15T21:30:00",
+    "dateHeure": "2019-03-15T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -50,7 +50,7 @@
         "ordre": 1
       }
     ],
-    "mention": "Séance présentée par Jerzy Skolimowski"
+    "mention": "Séance suivie d'une discussion avec Jerzy Skolimowski"
   },
   {
     "idCycle": 400,
@@ -146,8 +146,7 @@
         "version": "VOSTF",
         "format": "DCP"
       }
-    ],
-    "mention": "Séance présentée par Jerzy Skolimowski"
+    ]
   },
   {
     "idCycle": 400,
@@ -447,12 +446,7 @@
     "items": [
       {
         "idFilm": 63053,
-        "ordre": 1,
-        "idSeance": 28973,
-        "idCopie": 17950,
-        "duree": 6,
-        "version": "VO",
-        "format": "DCP"
+        "ordre": 1
       },
       {
         "idFilm": 132853,
@@ -631,12 +625,7 @@
     "items": [
       {
         "idFilm": 63053,
-        "ordre": 1,
-        "idSeance": 29059,
-        "idCopie": 17950,
-        "duree": 6,
-        "version": "VO",
-        "format": "DCP"
+        "ordre": 1
       },
       {
         "idFilm": 132853,
