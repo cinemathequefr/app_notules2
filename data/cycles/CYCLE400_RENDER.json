@@ -1,0 +1,1036 @@
+[
+  {
+    "titreSousCycle": "Les films",
+    "tri": 1,
+    "items": [
+      {
+        "idCycle": 400,
+        "idFilm": 132853,
+        "titre": "11 minutes",
+        "titreVo": "11 minut",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 2014,
+        "pays": "Pologne-Irlande",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un mari jaloux, une actrice sexy, un réalisateur carnassier, un vendeur de drogue incontrôlable, une jeune femme désorientée, un ex-taulard devenu vendeur de hot-dog, un laveur de vitres, un peintre âgé, un étudiant, une équipe d'auxiliaires médicaux sous pression et un groupe de nonnes affamées. 11 moments de vie de citadins contemporains qui vont s'entrecroiser et s'entrelacer."
+          }
+        ],
+        "generique": [
+          "Richard Dormer",
+          "Paulina Chapko",
+          "Wojciech Mecwaldowski",
+          "Andrzej Chyra"
+        ],
+        "duree": 81,
+        "format": "DCP",
+        "version": "VOSTF",
+        "seance": [
+          {
+            "idSeance": 28973,
+            "ordre": 2,
+            "idEvenement": 18602,
+            "dateHeure": "2019-03-24T21:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "precedeSuivi": "Film précédé de _La Bourse ou la vie_."
+          },
+          {
+            "idSeance": 29059,
+            "ordre": 2,
+            "idEvenement": 18602,
+            "dateHeure": "2019-04-07T21:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "precedeSuivi": "Film précédé de _La Bourse ou la vie_."
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 44835,
+        "titre": "Aventures du brigadier Gérard",
+        "art": "Les",
+        "titreVo": "Adventures of Gerard",
+        "artVo": "The",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1968,
+        "pays": "Grande-Bretagne-Italie-Suisse",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un soldat des armées napoléoniennes est impliqué dans une affaire d'espionnage et devient agent double."
+          }
+        ],
+        "generique": [
+          "Peter McEnery",
+          "Claudia Cardinale",
+          "Eli Wallach",
+          "Jack Hawkins"
+        ],
+        "seance": [
+          {
+            "idSeance": 28942,
+            "ordre": 1,
+            "idEvenement": 18605,
+            "dateHeure": "2019-03-20T21:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idSeance": 29061,
+            "ordre": 1,
+            "idEvenement": 18605,
+            "dateHeure": "2019-04-08T17:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 29677,
+        "titre": "Barrière",
+        "art": "La",
+        "titreVo": "Bariera",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1966,
+        "pays": "Pologne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Sur un coup de tête, un étudiant en médecine laisse tout tomber pour partir à la recherche d'une vie meilleure."
+          }
+        ],
+        "generique": [
+          "Jan Nowicki",
+          "Tadeusz Lomnicki",
+          "Joanna Szczerbic"
+        ],
+        "seance": [
+          {
+            "idSeance": 29525,
+            "ordre": 1,
+            "idEvenement": 18599,
+            "dateHeure": "2019-03-14T18:00:00",
+            "idSalle": [
+              "LE",
+              "Lotte Eisner"
+            ],
+            "mention": "Séance suivie d'une discussion avec Jerzy Skolimowski"
+          },
+          {
+            "idSeance": 28946,
+            "ordre": 1,
+            "idEvenement": 18599,
+            "dateHeure": "2019-03-21T16:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 37025,
+        "titre": "Bateau-phare",
+        "art": "Le",
+        "titreVo": "Lightship",
+        "artVo": "The",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1985,
+        "pays": "États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Dans les années 1950, le capitaine d'un bateau-phare au passé douteux et en conflit avec son fils, un adolescent rebelle, recueille à son bord des gangsters en fuite."
+          }
+        ],
+        "generique": [
+          "Klaus Maria Brandauer",
+          "Robert Duvall",
+          "Tom Bower"
+        ],
+        "duree": 87,
+        "format": "DCP",
+        "version": "VOSTF",
+        "seance": [
+          {
+            "idSeance": 28074,
+            "ordre": 1,
+            "idEvenement": 18600,
+            "dateHeure": "2019-03-16T16:45:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "mention": "Séance présentée par Jerzy Skolimowski"
+          },
+          {
+            "idSeance": 29828,
+            "ordre": 1,
+            "idEvenement": 18600,
+            "dateHeure": "2019-03-21T19:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 63053,
+        "titre": "Bourse ou la vie",
+        "art": "La",
+        "titreVo": "Pieniadze albo zycie",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1959,
+        "pays": "Pologne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Claus, architecte, est dans une situation désespérée à tout point de vue. Soudain, une solution facile à tous ses problèmes se présente."
+          }
+        ],
+        "generique": [
+          "Stanislaw Dygat",
+          "Bohdan Lazuka",
+          "Stefan Wiechecki"
+        ],
+        "duree": 6,
+        "format": "DCP",
+        "version": "VO",
+        "seance": [
+          {
+            "idSeance": 28973,
+            "ordre": 1,
+            "idEvenement": 18602,
+            "dateHeure": "2019-03-24T21:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "precedeSuivi": "Film suivi de _11 minutes_."
+          },
+          {
+            "idSeance": 29059,
+            "ordre": 1,
+            "idEvenement": 18602,
+            "dateHeure": "2019-04-07T21:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "precedeSuivi": "Film suivi de _11 minutes_."
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 41108,
+        "titre": "Cri du sorcier",
+        "art": "Le",
+        "titreVo": "Shout",
+        "artVo": "The",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1978,
+        "pays": "Grande-Bretagne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Charles Crossley, un voyageur dont le cri peut paralyser à tout instant, débarque dans la petite ville de Devon et décide de s'en prendre à un musicien et sa femme."
+          }
+        ],
+        "generique": [
+          "Alan Bates",
+          "Susannah York",
+          "John Hurt",
+          "Robert Stephens"
+        ],
+        "seance": [
+          {
+            "idSeance": 29523,
+            "ordre": 1,
+            "idEvenement": 18604,
+            "dateHeure": "2019-03-15T21:45:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "mention": "Séance présentée par Jerzy Skolimowski"
+          },
+          {
+            "idSeance": 29743,
+            "ordre": 1,
+            "idEvenement": 18604,
+            "dateHeure": "2019-03-23T17:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 39977,
+        "titre": "Deep End",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1970,
+        "pays": "RFA-États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "À Londres, un jeune adolescent de quinze ans est engagé comme homme à tout faire dans une piscine publique. Il tombe amoureux d'une jeune femme qui y travaille au même endroit."
+          }
+        ],
+        "generique": [
+          "Diana Dors",
+          "Jane Asher",
+          "John Moulder-Brown"
+        ],
+        "duree": 91,
+        "format": "DCP",
+        "version": "VOSTF",
+        "seance": [
+          {
+            "idSeance": 29607,
+            "ordre": 1,
+            "idEvenement": 18598,
+            "dateHeure": "2019-03-17T17:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "mention": "Séance présentée par Jerzy Skolimowski"
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 71896,
+        "titre": "Dialog 20-40-60",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1968,
+        "pays": "Tchécoslovaquie",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Adam, idole rock adulée des jeunes, rentre chez lui après un concert endiablé. Une surprise de taille l'attend : un couple d'inconnus a pris possession de son appartement pour y passer sa nuit de noces !"
+          }
+        ],
+        "generique": [
+          "Jean-Pierre Léaud"
+        ],
+        "seance": [
+          {
+            "idSeance": 28958,
+            "ordre": 1,
+            "idEvenement": 18607,
+            "dateHeure": "2019-03-23T14:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 39062,
+        "titre": "Départ",
+        "art": "Le",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1967,
+        "pays": "Belgique",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "À Bruxelles, Marc, jeune garçon coiffeur, rêve de participer à un rallye automobile. Ne pouvant emprunter la Porsche de son patron, il a deux jours pour trouver une voiture. Dans cet intervalle, il rencontre une jeune fille, Michèle."
+          }
+        ],
+        "generique": [
+          "Jean-Pierre Léaud",
+          "Catherine Duport",
+          "Jacqueline Bir",
+          "Paul Roland"
+        ],
+        "seance": [
+          {
+            "idSeance": 28059,
+            "ordre": 1,
+            "idEvenement": 18606,
+            "dateHeure": "2019-03-14T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idSeance": 28951,
+            "ordre": 1,
+            "idEvenement": 18606,
+            "dateHeure": "2019-03-22T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 42473,
+        "titre": "Eaux printanières",
+        "art": "Les",
+        "titreVo": "Aqua di primavera",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1988,
+        "pays": "Italie-France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "En 1840, Dimitri Sanine, un jeune aristocrate russe, sentimental mais faible, tombe tour à tour amoureux, en Allemagne, d'une jeune pâtissière italienne, Gemma, et d'une comtesse russe, Maria. Partagé entre ces deux amours, il renonce à un choix impossible et s'en remet au destin."
+          }
+        ],
+        "generique": [
+          "Nastassja Kinski",
+          "Timothy Hutton",
+          "Valeria Golino"
+        ],
+        "seance": [
+          {
+            "idSeance": 28963,
+            "ordre": 1,
+            "idEvenement": 18609,
+            "dateHeure": "2019-03-23T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idSeance": 29063,
+            "ordre": 1,
+            "idEvenement": 18609,
+            "dateHeure": "2019-04-08T21:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 82614,
+        "titre": "Erotik",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1960,
+        "pays": "Pologne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Une jeune fille essuie son miroir lorsqu'elle y aperçoit le reflet d'un homme. Il commence à la courtiser de manière étrange. Mais cette apparition intrusive et déconcertante se transforme vite en cauchemar."
+          }
+        ],
+        "generique": [
+          "Elzbieta Czyzewska",
+          "Gustaw Holoubek"
+        ],
+        "duree": 3,
+        "format": "35 mm",
+        "version": "VO",
+        "seance": [
+          {
+            "idSeance": 28966,
+            "ordre": 1,
+            "idEvenement": 18610,
+            "dateHeure": "2019-03-24T14:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "precedeSuivi": "Film suivi de _Quatre nuits avec Anna_."
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 112994,
+        "titre": "Essential killing",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 2009,
+        "pays": "Pologne-Norvège-Irlande-Hongrie",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Capturé par les forces américaines, Mohammed est envoyé dans un centre de détention tenu secret. Lors d'un transfert, il réchappe d'un accident et se retrouve en fuite dans une forêt inconnue."
+          }
+        ],
+        "generique": [
+          "Vincent Gallo",
+          "Emmanuelle Seigner",
+          "Zach Cohen",
+          "Iftach Ofir"
+        ],
+        "seance": [
+          {
+            "idSeance": 28972,
+            "ordre": 2,
+            "idEvenement": 18618,
+            "dateHeure": "2019-03-24T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "precedeSuivi": "Film précédé de _L'Oeil torve_."
+          },
+          {
+            "idSeance": 29062,
+            "ordre": 2,
+            "idEvenement": 18618,
+            "dateHeure": "2019-04-08T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "precedeSuivi": "Film précédé de _L'Oeil torve_."
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 29678,
+        "titre": "Ferdydurke",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1991,
+        "pays": "France-Pologne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "À Varsovie, en 1939, Joey, un jeune écrivain, est contraint par le professeur Pimko de retourner à l'école."
+          }
+        ],
+        "generique": [
+          "Iain Glen",
+          "Crispin Glover",
+          "Robert Stephens",
+          "Judith Godrèche"
+        ],
+        "duree": 96,
+        "format": "35 mm",
+        "version": "VOSTF",
+        "seance": [
+          {
+            "idSeance": 28964,
+            "ordre": 1,
+            "idEvenement": 18612,
+            "dateHeure": "2019-03-23T21:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idSeance": 29058,
+            "ordre": 1,
+            "idEvenement": 18612,
+            "dateHeure": "2019-04-07T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 52898,
+        "titre": "Haut les mains",
+        "titreVo": "Rece do gory",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1967,
+        "pays": "Pologne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Cinq anciens étudiants en médecine du début des années 1950 se réunissent une dizaine d'années plus tard pour une soirée amicale à l'invitation de l'un deux, devenu modeste médecin de campagne. Ses condisciples eux ont réussi leur carrière : luxueux cabinets urbains, voitures, etc."
+          },
+          {
+            "typeTexte": 99,
+            "texte": "Le film, sélectionné au Festival de Venise en 1967, fut saisi par les autorités polonaises et interdit pendant quatorze ans.\n\nEn 1981, Jerzy Skolimowski put enfin présenter son film dans une nouvelle version, enrichie d'un prologue et d'un épilogue en couleur, avec un montage différent."
+          }
+        ],
+        "generique": [
+          "Bruno Ganz",
+          "Fred Zinnemann",
+          "Jerzy Skolimowski",
+          "Alan Bates"
+        ],
+        "seance": [
+          {
+            "idSeance": 28941,
+            "ordre": 2,
+            "idEvenement": 18619,
+            "dateHeure": "2019-03-20T19:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "precedeSuivi": "Film précédé de _Le Petit Hamlet_."
+          },
+          {
+            "idSeance": 28974,
+            "ordre": 2,
+            "idEvenement": 18619,
+            "dateHeure": "2019-03-25T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "precedeSuivi": "Film précédé de _Le Petit Hamlet_."
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 63057,
+        "titre": "Oeil torve",
+        "art": "L'",
+        "titreVo": "Oko wykol",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1959,
+        "pays": "Pologne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un jeune homme au strabisme prononcé s'improvise lanceur de couteaux."
+          }
+        ],
+        "generique": [
+          "Iwona Sloczynska",
+          "Wojciech Solarz"
+        ],
+        "duree": 3,
+        "format": "35 mm",
+        "version": "",
+        "seance": [
+          {
+            "idSeance": 28972,
+            "ordre": 1,
+            "idEvenement": 18618,
+            "dateHeure": "2019-03-24T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "precedeSuivi": "Film suivi d'_Essential killing_."
+          },
+          {
+            "idSeance": 29062,
+            "ordre": 1,
+            "idEvenement": 18618,
+            "dateHeure": "2019-04-08T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "precedeSuivi": "Film suivi d'_Essential killing_."
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 63058,
+        "titre": "Petit Hamlet",
+        "art": "Le",
+        "titreVo": "Hamles",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1959,
+        "pays": "Pologne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Au son d'un vieux gramophone, cinq jeunes rejouent à leur manière _Hamlet_, la célèbre pièce de Shakespeare. Peu à peu, la folie la plus totale finit par tous les ensorceler."
+          }
+        ],
+        "generique": [
+          "Elzbieta Czyzewska",
+          "Wieslaw Golas",
+          "Zdzislaw Lesniak"
+        ],
+        "duree": 8,
+        "format": "35 mm",
+        "version": "VO",
+        "seance": [
+          {
+            "idSeance": 28941,
+            "ordre": 1,
+            "idEvenement": 18619,
+            "dateHeure": "2019-03-20T19:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "precedeSuivi": "Film suivi de _Haut les mains_."
+          },
+          {
+            "idSeance": 28974,
+            "ordre": 1,
+            "idEvenement": 18619,
+            "dateHeure": "2019-03-25T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ],
+            "precedeSuivi": "Film suivi de _Haut les mains_."
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 104697,
+        "titre": "Quatre nuits avec Anna",
+        "titreVo": "Cztery noce z Anna",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 2007,
+        "pays": "Pologne-France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Dans le passé, Léon a été témoin du viol d'Anna, une infirmière qui travaille dans le même hôpital que lui. Voyeuriste à la timidité maladive, il va espionner la jeune femme de jour comme de nuit."
+          }
+        ],
+        "generique": [
+          "Artur Steranko",
+          "Kinga Preis"
+        ],
+        "duree": 87,
+        "format": "35 mm",
+        "version": "VOSTF",
+        "seance": [
+          {
+            "idSeance": 28966,
+            "ordre": 2,
+            "idEvenement": 18610,
+            "dateHeure": "2019-03-24T14:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ],
+            "precedeSuivi": "Film précédé d'_Erotik_."
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 45045,
+        "titre": "Roi, dame, valet",
+        "titreVo": "Herzbube = König, Dame, Bube",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1971,
+        "pays": "RFA-États-Unis",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un adolescent myope et orphelin est recueilli par son oncle et se fait déniaiser par sa tante qui projette de supprimer son époux."
+          }
+        ],
+        "adaptation": "D'après le roman _Roi, dame, valet_ de Vladimir Nabokov.",
+        "generique": [
+          "Gina Lollobrigida",
+          "David Niven",
+          "John Moulder-Brown",
+          "Mario Adorf"
+        ],
+        "duree": 92,
+        "format": "35 mm",
+        "version": "VOSTF",
+        "seance": [
+          {
+            "idSeance": 28980,
+            "ordre": 1,
+            "idEvenement": 18615,
+            "dateHeure": "2019-03-27T17:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idSeance": 29032,
+            "ordre": 1,
+            "idEvenement": 18615,
+            "dateHeure": "2019-04-04T16:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 56920,
+        "titre": "Signes particuliers : néant",
+        "titreVo": "Rysopis",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1962,
+        "pays": "Pologne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Quelques heures de la vie d'Andrzej, étudiant de vingt-quatre ans, à la veille de décider si, oui ou non, il va partir pour un service militaire de deux ans."
+          }
+        ],
+        "generique": [
+          "Jerzy Skolimowski",
+          "Elzbieta Czyzewska"
+        ],
+        "seance": [
+          {
+            "idSeance": 29528,
+            "ordre": 1,
+            "idEvenement": 18617,
+            "dateHeure": "2019-03-16T20:00:00",
+            "idSalle": [
+              "LE",
+              "Lotte Eisner"
+            ]
+          },
+          {
+            "idSeance": 29837,
+            "ordre": 1,
+            "idEvenement": 18617,
+            "dateHeure": "2019-03-22T17:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 54742,
+        "titre": "Succès à tout prix",
+        "art": "Le",
+        "titreVo": "Success Is the Best Revenge",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1984,
+        "pays": "Grande-Bretagne-France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Un célèbre metteur en scène de théâtre polonais exilé à Londres avec sa famille doit faire face à ses contradictions dénoncées par son fils, un adolescent qui veut retourner en Pologne."
+          }
+        ],
+        "generique": [
+          "Michael York",
+          "Joanna Szczerbic",
+          "Michael Lyndon",
+          "Jerry Skol"
+        ],
+        "duree": 90,
+        "format": "35 mm",
+        "version": "VOSTF",
+        "seance": [
+          {
+            "idSeance": 29783,
+            "ordre": 1,
+            "idEvenement": 18621,
+            "dateHeure": "2019-03-20T17:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          },
+          {
+            "idSeance": 29772,
+            "ordre": 1,
+            "idEvenement": 18621,
+            "dateHeure": "2019-03-28T14:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 41099,
+        "titre": "Travail au noir",
+        "titreVo": "Moonlighting",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1982,
+        "pays": "Grande-Bretagne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Trois maçons polonais et leur contremaître, Novak, viennent à Londres travailler au noir. Novak, autoritaire, est le seul à parler anglais. Lorsqu'il prend connaissance du coup d'État en Pologne, il tait la nouvelle à ses compatriotes."
+          }
+        ],
+        "generique": [
+          "Jeremy Irons",
+          "Eugene Lipinski",
+          "Jirí Stanislav",
+          "Eugeniusz Haczkiewicz"
+        ],
+        "seance": [
+          {
+            "idSeance": 29919,
+            "ordre": 1,
+            "idEvenement": 18623,
+            "dateHeure": "2019-03-14T20:00:00",
+            "idSalle": [
+              "LE",
+              "Lotte Eisner"
+            ],
+            "mention": "Séance présentée par Jerzy Skolimowski"
+          },
+          {
+            "idSeance": 29606,
+            "ordre": 1,
+            "idEvenement": 18623,
+            "dateHeure": "2019-03-16T22:00:00",
+            "idSalle": [
+              "LE",
+              "Lotte Eisner"
+            ]
+          },
+          {
+            "idSeance": 29875,
+            "ordre": 1,
+            "idEvenement": 18623,
+            "dateHeure": "2019-04-04T18:30:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 45046,
+        "titre": "Walkower",
+        "realisateurs": "Jerzy Skolimowski",
+        "annee": 1965,
+        "pays": "Pologne",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Andrzej Leszczyc, ancien boxeur, retrouve par hasard une femme qui l'a jadis trahi. Elle l'invite à l'accompagner dans sa journée et il en tombe amoureux. Mais une vieille connaissance le convainc de remonter sur le ring."
+          }
+        ],
+        "generique": [
+          "Jerzy Skolimowski",
+          "Elzbieta Czyzewska"
+        ],
+        "seance": [
+          {
+            "idSeance": 28081,
+            "ordre": 1,
+            "idEvenement": 18616,
+            "dateHeure": "2019-03-17T14:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          },
+          {
+            "idSeance": 28945,
+            "ordre": 1,
+            "idEvenement": 18616,
+            "dateHeure": "2019-03-21T14:15:00",
+            "idSalle": [
+              "HL",
+              "Henri Langlois"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titreSousCycle": "Autour de Jerzy Skolimowski",
+    "tri": 1,
+    "items": [
+      {
+        "idCycle": 400,
+        "idFilm": 140541,
+        "titre": "Andrzej Trzaskowski, le cerveau du jazz polonais",
+        "realisateurs": "Damien Bertrand",
+        "annee": 2006,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Le compositeur de _Walkower_ fut le véritable cerveau du jazz polonais. De l'époque de la guerre froide (où il introduisit en contrebande cette musique prohibée par le régime) à la chute du mur de Berlin, portrait d'un pianiste discret mais obstiné, avant-gardiste et lyrique, obsédé par le renouvellement du langage harmonique du jazz."
+          }
+        ],
+        "generique": [
+          "Anrdrzej Trzaskowski",
+          "Teresa Trzaskowska",
+          "Jerzy Skolimowski",
+          "Ted Curson"
+        ],
+        "seance": [
+          {
+            "idSeance": 28986,
+            "ordre": 2,
+            "idEvenement": 18596,
+            "dateHeure": "2019-03-27T20:30:00",
+            "idSalle": [
+              "JE",
+              "Jean Epstein"
+            ],
+            "mention": "Séance présentée par Damien Bertrand",
+            "precedeSuivi": "Film précédé de _Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste_."
+          }
+        ]
+      },
+      {
+        "idCycle": 400,
+        "idFilm": 94510,
+        "titre": "Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste",
+        "realisateurs": "Damien Bertrand",
+        "annee": 2003,
+        "pays": "France",
+        "textes": [
+          {
+            "typeTexte": 9,
+            "texte": "Embrassant dans un même mouvement films, poèmes et œuvre peinte, le documentaire ouvre un espace où Skolimowski se livre à un autoportrait et exprime, dans sa langue natale, le majestueux désespoir de sa condition d'artiste exilé."
+          }
+        ],
+        "seance": [
+          {
+            "idSeance": 28986,
+            "ordre": 1,
+            "idEvenement": 18596,
+            "dateHeure": "2019-03-27T20:30:00",
+            "idSalle": [
+              "JE",
+              "Jean Epstein"
+            ],
+            "mention": "Séance présentée par Damien Bertrand",
+            "precedeSuivi": "Film suivi d'_Andrzej Trzaskowski, le cerveau du jazz polonais_."
+          }
+        ]
+      }
+    ]
+  }
+]

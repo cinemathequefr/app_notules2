@@ -14,7 +14,12 @@
         "texte": "Un mari jaloux, une actrice sexy, un réalisateur carnassier, un vendeur de drogue incontrôlable, une jeune femme désorientée, un ex-taulard devenu vendeur de hot-dog, un laveur de vitres, un peintre âgé, un étudiant, une équipe d'auxiliaires médicaux sous pression et un groupe de nonnes affamées. 11 moments de vie de citadins contemporains qui vont s'entrecroiser et s'entrelacer."
       }
     ],
-    "generique": "Richard Dormer, Paulina Chapko, Wojciech Mecwaldowski, Andrzej Chyra"
+    "generique": [
+      "Richard Dormer",
+      "Paulina Chapko",
+      "Wojciech Mecwaldowski",
+      "Andrzej Chyra"
+    ]
   },
   {
     "titre": "Andrzej Trzaskowski, le cerveau du jazz polonais",
@@ -30,7 +35,12 @@
         "texte": "Le compositeur de _Walkower_ fut le véritable cerveau du jazz polonais. De l'époque de la guerre froide (où il introduisit en contrebande cette musique prohibée par le régime) à la chute du mur de Berlin, portrait d'un pianiste discret mais obstiné, avant-gardiste et lyrique, obsédé par le renouvellement du langage harmonique du jazz."
       }
     ],
-    "generique": "Anrdrzej Trzaskowski, Teresa Trzaskowska, Jerzy Skolimowski, Ted Curson"
+    "generique": [
+      "Anrdrzej Trzaskowski",
+      "Teresa Trzaskowska",
+      "Jerzy Skolimowski",
+      "Ted Curson"
+    ]
   },
   {
     "titre": "Aventures du brigadier Gérard",
@@ -49,7 +59,12 @@
         "texte": "Un soldat des armées napoléoniennes est impliqué dans une affaire d'espionnage et devient agent double."
       }
     ],
-    "generique": "Peter McEnery, Claudia Cardinale, Eli Wallach, Jack Hawkins"
+    "generique": [
+      "Peter McEnery",
+      "Claudia Cardinale",
+      "Eli Wallach",
+      "Jack Hawkins"
+    ]
   },
   {
     "titre": "Barrière",
@@ -67,7 +82,11 @@
         "texte": "Sur un coup de tête, un étudiant en médecine laisse tout tomber pour partir à la recherche d'une vie meilleure."
       }
     ],
-    "generique": "Jan Nowicki, Tadeusz Lomnicki, Joanna Szczerbic"
+    "generique": [
+      "Jan Nowicki",
+      "Tadeusz Lomnicki",
+      "Joanna Szczerbic"
+    ]
   },
   {
     "titre": "Bateau-phare",
@@ -86,7 +105,11 @@
         "texte": "Dans les années 1950, le capitaine d'un bateau-phare au passé douteux et en conflit avec son fils, un adolescent rebelle, recueille à son bord des gangsters en fuite."
       }
     ],
-    "generique": "Klaus Maria Brandauer, Robert Duvall, Tom Bower"
+    "generique": [
+      "Klaus Maria Brandauer",
+      "Robert Duvall",
+      "Tom Bower"
+    ]
   },
   {
     "titre": "Bourse ou la vie",
@@ -104,7 +127,11 @@
         "texte": "Claus, architecte, est dans une situation désespérée à tout point de vue. Soudain, une solution facile à tous ses problèmes se présente."
       }
     ],
-    "generique": "Stanislaw Dygat, Bohdan Lazuka, Stefan Wiechecki"
+    "generique": [
+      "Stanislaw Dygat",
+      "Bohdan Lazuka",
+      "Stefan Wiechecki"
+    ]
   },
   {
     "titre": "Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste",
@@ -138,7 +165,12 @@
         "texte": "Charles Crossley, un voyageur dont le cri peut paralyser à tout instant, débarque dans la petite ville de Devon et décide de s'en prendre à un musicien et sa femme."
       }
     ],
-    "generique": "Alan Bates, Susannah York, John Hurt, Robert Stephens"
+    "generique": [
+      "Alan Bates",
+      "Susannah York",
+      "John Hurt",
+      "Robert Stephens"
+    ]
   },
   {
     "titre": "Deep End",
@@ -154,7 +186,11 @@
         "texte": "À Londres, un jeune adolescent de quinze ans est engagé comme homme à tout faire dans une piscine publique. Il tombe amoureux d'une jeune femme qui y travaille au même endroit."
       }
     ],
-    "generique": "Diana Dors, Jane Asher, John Moulder-Brown"
+    "generique": [
+      "Diana Dors",
+      "Jane Asher",
+      "John Moulder-Brown"
+    ]
   },
   {
     "titre": "Départ",
@@ -171,7 +207,12 @@
         "texte": "À Bruxelles, Marc, jeune garçon coiffeur, rêve de participer à un rallye automobile. Ne pouvant emprunter la Porsche de son patron, il a deux jours pour trouver une voiture. Dans cet intervalle, il rencontre une jeune fille, Michèle."
       }
     ],
-    "generique": "Jean-Pierre Léaud, Catherine Duport, Jacqueline Bir, Paul Roland"
+    "generique": [
+      "Jean-Pierre Léaud",
+      "Catherine Duport",
+      "Jacqueline Bir",
+      "Paul Roland"
+    ]
   },
   {
     "titre": "Dialog 20-40-60",
@@ -187,7 +228,9 @@
         "texte": "Adam, idole rock adulée des jeunes, rentre chez lui après un concert endiablé. Une surprise de taille l'attend : un couple d'inconnus a pris possession de son appartement pour y passer sa nuit de noces !"
       }
     ],
-    "generique": "Jean-Pierre Léaud"
+    "generique": [
+      "Jean-Pierre Léaud"
+    ]
   },
   {
     "titre": "Eaux printanières",
@@ -205,7 +248,11 @@
         "texte": "En 1840, Dimitri Sanine, un jeune aristocrate russe, sentimental mais faible, tombe tour à tour amoureux, en Allemagne, d'une jeune pâtissière italienne, Gemma, et d'une comtesse russe, Maria. Partagé entre ces deux amours, il renonce à un choix impossible et s'en remet au destin."
       }
     ],
-    "generique": "Nastassja Kinski, Timothy Hutton, Valeria Golino"
+    "generique": [
+      "Nastassja Kinski",
+      "Timothy Hutton",
+      "Valeria Golino"
+    ]
   },
   {
     "titre": "Erotik",
@@ -221,7 +268,10 @@
         "texte": "Une jeune fille essuie son miroir lorsqu'elle y aperçoit le reflet d'un homme. Il commence à la courtiser de manière étrange. Mais cette apparition intrusive et déconcertante se transforme vite en cauchemar."
       }
     ],
-    "generique": "Elzbieta Czyzewska, Gustaw Holoubek"
+    "generique": [
+      "Elzbieta Czyzewska",
+      "Gustaw Holoubek"
+    ]
   },
   {
     "titre": "Essential killing",
@@ -237,7 +287,12 @@
         "texte": "Capturé par les forces américaines, Mohammed est envoyé dans un centre de détention tenu secret. Lors d'un transfert, il réchappe d'un accident et se retrouve en fuite dans une forêt inconnue."
       }
     ],
-    "generique": "Vincent Gallo, Emmanuelle Seigner, Zach Cohen, Iftach Ofir"
+    "generique": [
+      "Vincent Gallo",
+      "Emmanuelle Seigner",
+      "Zach Cohen",
+      "Iftach Ofir"
+    ]
   },
   {
     "titre": "Ferdydurke",
@@ -253,7 +308,12 @@
         "texte": "À Varsovie, en 1939, Joey, un jeune écrivain, est contraint par le professeur Pimko de retourner à l'école."
       }
     ],
-    "generique": "Iain Glen, Crispin Glover, Robert Stephens, Judith Godrèche"
+    "generique": [
+      "Iain Glen",
+      "Crispin Glover",
+      "Robert Stephens",
+      "Judith Godrèche"
+    ]
   },
   {
     "titre": "Haut les mains",
@@ -274,7 +334,12 @@
         "texte": "Le film, sélectionné au Festival de Venise en 1967, fut saisi par les autorités polonaises et interdit pendant quatorze ans.\n\nEn 1981, Jerzy Skolimowski put enfin présenter son film dans une nouvelle version, enrichie d'un prologue et d'un épilogue en couleur, avec un montage différent."
       }
     ],
-    "generique": "Bruno Ganz, Fred Zinnemann, Jerzy Skolimowski, Alan Bates"
+    "generique": [
+      "Bruno Ganz",
+      "Fred Zinnemann",
+      "Jerzy Skolimowski",
+      "Alan Bates"
+    ]
   },
   {
     "titre": "Oeil torve",
@@ -292,7 +357,10 @@
         "texte": "Un jeune homme au strabisme prononcé s'improvise lanceur de couteaux."
       }
     ],
-    "generique": "Iwona Sloczynska, Wojciech Solarz"
+    "generique": [
+      "Iwona Sloczynska",
+      "Wojciech Solarz"
+    ]
   },
   {
     "titre": "Petit Hamlet",
@@ -310,7 +378,11 @@
         "texte": "Au son d'un vieux gramophone, cinq jeunes rejouent à leur manière _Hamlet_, la célèbre pièce de Shakespeare. Peu à peu, la folie la plus totale finit par tous les ensorceler."
       }
     ],
-    "generique": "Elzbieta Czyzewska, Wieslaw Golas, Zdzislaw Lesniak"
+    "generique": [
+      "Elzbieta Czyzewska",
+      "Wieslaw Golas",
+      "Zdzislaw Lesniak"
+    ]
   },
   {
     "titre": "Quatre nuits avec Anna",
@@ -327,7 +399,10 @@
         "texte": "Dans le passé, Léon a été témoin du viol d'Anna, une infirmière qui travaille dans le même hôpital que lui. Voyeuriste à la timidité maladive, il va espionner la jeune femme de jour comme de nuit."
       }
     ],
-    "generique": "Artur Steranko, Kinga Preis"
+    "generique": [
+      "Artur Steranko",
+      "Kinga Preis"
+    ]
   },
   {
     "titre": "Roi, dame, valet",
@@ -344,7 +419,12 @@
         "texte": "Un adolescent myope et orphelin est recueilli par son oncle et se fait déniaiser par sa tante qui projette de supprimer son époux."
       }
     ],
-    "generique": "Gina Lollobrigida, David Niven, John Moulder-Brown, Mario Adorf",
+    "generique": [
+      "Gina Lollobrigida",
+      "David Niven",
+      "John Moulder-Brown",
+      "Mario Adorf"
+    ],
     "adaptation": "D'après le roman _Roi, dame, valet_ de Vladimir Nabokov."
   },
   {
@@ -362,7 +442,10 @@
         "texte": "Quelques heures de la vie d'Andrzej, étudiant de vingt-quatre ans, à la veille de décider si, oui ou non, il va partir pour un service militaire de deux ans."
       }
     ],
-    "generique": "Jerzy Skolimowski, Elzbieta Czyzewska"
+    "generique": [
+      "Jerzy Skolimowski",
+      "Elzbieta Czyzewska"
+    ]
   },
   {
     "titre": "Succès à tout prix",
@@ -380,7 +463,12 @@
         "texte": "Un célèbre metteur en scène de théâtre polonais exilé à Londres avec sa famille doit faire face à ses contradictions dénoncées par son fils, un adolescent qui veut retourner en Pologne."
       }
     ],
-    "generique": "Michael York, Joanna Szczerbic, Michael Lyndon, Jerry Skol"
+    "generique": [
+      "Michael York",
+      "Joanna Szczerbic",
+      "Michael Lyndon",
+      "Jerry Skol"
+    ]
   },
   {
     "titre": "Travail au noir",
@@ -397,7 +485,12 @@
         "texte": "Trois maçons polonais et leur contremaître, Novak, viennent à Londres travailler au noir. Novak, autoritaire, est le seul à parler anglais. Lorsqu'il prend connaissance du coup d'État en Pologne, il tait la nouvelle à ses compatriotes."
       }
     ],
-    "generique": "Jeremy Irons, Eugene Lipinski, Jirí Stanislav, Eugeniusz Haczkiewicz"
+    "generique": [
+      "Jeremy Irons",
+      "Eugene Lipinski",
+      "Jirí Stanislav",
+      "Eugeniusz Haczkiewicz"
+    ]
   },
   {
     "titre": "Walkower",
@@ -413,6 +506,9 @@
         "texte": "Andrzej Leszczyc, ancien boxeur, retrouve par hasard une femme qui l'a jadis trahi. Elle l'invite à l'accompagner dans sa journée et il en tombe amoureux. Mais une vieille connaissance le convainc de remonter sur le ring."
       }
     ],
-    "generique": "Jerzy Skolimowski, Elzbieta Czyzewska"
+    "generique": [
+      "Jerzy Skolimowski",
+      "Elzbieta Czyzewska"
+    ]
   }
 ]

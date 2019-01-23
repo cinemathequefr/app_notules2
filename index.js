@@ -6,8 +6,8 @@ const fs = require("fs");
 const _ = require("lodash");
 const database = require("./lib/database");
 const config = require("./lib/config");
-const seances = require("./lib/seances.js");
-const films = require("./lib/films.js");
+const seances = require("./lib/query/seances.js");
+const films = require("./lib/query/films.js");
 const helpers = require("./lib/helpers.js");
 const {
   promisify

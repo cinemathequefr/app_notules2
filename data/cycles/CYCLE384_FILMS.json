@@ -1,0 +1,280 @@
+[
+  {
+    "titre": "Best Secret Agent",
+    "art": "The",
+    "idFilm": 139784,
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "realisateurs": "Ying Chang",
+    "annee": 1964,
+    "pays": "Taïwan",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Qui est patriote ? Qui est collaborateur ? Et surtout qui est l'agent 001 ?"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Remake d'un film de 1945, The Best Secret Agent lance la mode des super espionnes dans le cinéma en taïwanais, avec deux grandes stars BAI Hong et Ko chun-hsiung."
+      }
+    ],
+    "generique": [
+      "Hong Bai",
+      "Chun-Hsiung Ko",
+      "Tsai-Tsai Ai",
+      "Ching Liu"
+    ]
+  },
+  {
+    "titre": "Cuo wu de di yi bu",
+    "idFilm": 139785,
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "realisateurs": "Yang-Ming Tsai",
+    "annee": 1979,
+    "pays": "Taïwan",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "La trajectoire de Ma Sha, petit voyou devenu assassin. Il s'évade de prison, est repris et finit par s'amender. Film qui lance la mode des films noirs."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Un film qui lance la mode des films noirs."
+      }
+    ],
+    "generique": [
+      "Hui-Shan Yang",
+      "Sha Ma",
+      "Hsiu-Shen Liang"
+    ]
+  },
+  {
+    "titre": "Da xia mei hua lu",
+    "idFilm": 139787,
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "realisateurs": "Ying Chang",
+    "annee": 1961,
+    "pays": "Taïwan",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une fantaisie animalière où les acteurs sont déguisés en animaux de la forêt. Sous couvert d'un conte avec de cruels loups et des daims, une métaphore plus ambiguë : un film anti-communiste ou un film anti-KMT ?"
+      }
+    ],
+    "generique": [
+      "Yun Ling",
+      "Hung Pai",
+      "Lin Lin",
+      "Hong Bai"
+    ]
+  },
+  {
+    "titre": "Dangerous Youth",
+    "idFilm": 139782,
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "realisateurs": "Chi Hsin",
+    "annee": 1969,
+    "pays": "Taïwan",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'innocente Chin-mi tombe amoureuse de Kuei-yuan, un mauvais garçon qui lui préfère bientôt Yu-chen, une hôtesse de bar. Il abandonne Chin-mi enceinte."
+      }
+    ],
+    "generique": [
+      "Ying Shih",
+      "Xiaofeng Zheng",
+      "Hsing-Chih Kao"
+    ]
+  },
+  {
+    "titre": "Di yu xin niang",
+    "idFilm": 139781,
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "realisateurs": "Chi Hsin",
+    "annee": 1965,
+    "pays": "Taïwan",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Sui-mi devient gouvernante dans une maison où l'épouse a mystérieusement disparu et semble hanter la maison. Elle mène l'enquête. Suspense, séduction et danger !"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Adapté d'un roman inspiré de _Jane Eyre_."
+      }
+    ],
+    "generique": [
+      "Mei Chin",
+      "Chun-Hsiung Ko",
+      "Wei Ou"
+    ]
+  },
+  {
+    "titre": "Elegant Mr. Hu",
+    "art": "The",
+    "idFilm": 139795,
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "realisateurs": "Fei-jian Wu",
+    "annee": 1966,
+    "pays": "Taïwan",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Kang-ding est cireur et croise souvent le riche M. Hu. Le jour où ce dernier offre par erreur une bague en toc à sa femme à la place de sa maîtresse, il aura besoin de Kang-ding pour s'en sortir."
+      }
+    ]
+  },
+  {
+    "titre": "End of the Track",
+    "art": "The",
+    "idFilm": 139790,
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "realisateurs": "Tun Fei Mou",
+    "annee": 1970,
+    "pays": "Taïwan",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Tong et Yong-sheng sont amis. Yong-sheng meurt dans un accident de sport et Tong est miné par la culpabilité."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film interdit au moment de sa sortie, une des rares œuvres de Mou Tun-fei."
+      }
+    ],
+    "generique": [
+      "Tun-fei Mou"
+    ]
+  },
+  {
+    "titre": "Foolish Bride, Naïve Bridegroom",
+    "idFilm": 139797,
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "realisateurs": "Chi Hsin",
+    "annee": 1968,
+    "pays": "Taïwan",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bun-de est la coqueluche des filles du quartier si bien que son père le claquemure à la maison, mais Gui-zu est prête à tout pour le conquérir et l'arracher aux griffes paternelles."
+      }
+    ]
+  },
+  {
+    "titre": "Lady Avenger",
+    "titreVo": "Feng huang nu sha xing",
+    "idFilm": 139794,
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "realisateurs": "Chia-yun Yang",
+    "annee": 1981,
+    "pays": "Taïwan",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une journaliste qui enquête sur un viol est elle-même violée par quatre hommes. Elle décide de se venger."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Un des rares _rape and revenge_ taïwanais tournés par une femme."
+      }
+    ],
+    "generique": [
+      "Hsiao-Fen Lu",
+      "Lun Hua",
+      "Nien-Kuo Kao"
+    ]
+  },
+  {
+    "titre": "Mountain",
+    "art": "The",
+    "idFilm": 139789,
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "realisateurs": "Richard Yao-chi Chen",
+    "annee": 1966,
+    "pays": "Taïwan",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Chen Yao-chi filme trois amis, dont Mou Tun-fei. Au son de _California Dreamin_, ils évoquent leur rêve de liberté pendant cette période dictatoriale."
+      }
+    ],
+    "generique": [
+      "Tun-fei Mou"
+    ]
+  },
+  {
+    "titre": "San feng zhen wu lin",
+    "idFilm": 139783,
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "realisateurs": "Hung Min Chen",
+    "annee": 1968,
+    "pays": "Taïwan",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Trois sœurs sont bien décidées à venger leurs parents assassinés."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Avec trois stars du cinéma en taïwanais dirigées par le monteur de King Hu."
+      }
+    ],
+    "generique": [
+      "Li-Hua Yang",
+      "Qing Liu",
+      "Mei Chin"
+    ]
+  },
+  {
+    "titre": "Tai feng",
+    "idFilm": 139792,
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "realisateurs": "Lei Pan",
+    "annee": 1962,
+    "pays": "Taïwan",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un gangster se réfugie au mont Ali accompagné d'une petite fugueuse qui se fait passer pour sa fille. Il séduit une femme alcoolique et frustrée, puis une jeune aborigène. Mais la police le traque toujours"
+      }
+    ],
+    "generique": [
+      "Ching Tang",
+      "Hong Mu",
+      "Bao-Yun Tang"
+    ]
+  },
+  {
+    "titre": "Woman Revenger",
+    "idFilm": 139786,
+    "idCycle": 384,
+    "idCategorie": 1737,
+    "realisateurs": "Chun Ouyang",
+    "annee": 1982,
+    "pays": "Taïwan",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ling-Ling essaie de sauver son amie d'enfance enfermée dans une maison close au Japon. Un groupe de jeunes femmes l'aidera dans sa vengeance sans merci."
+      }
+    ],
+    "generique": [
+      "Hui-Shan Yang",
+      "Yi-Fung Lu",
+      "Ying-Zhen Zhang",
+      "Te-Kai Liu"
+    ]
+  }
+]

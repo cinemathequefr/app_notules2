@@ -19,16 +19,34 @@
   {
     "idCycle": 400,
     "idCategorie": 1810,
-    "idEvenement": 18604,
-    "idSeance": 29523,
-    "dateHeure": "2019-03-15T19:00:00",
+    "idEvenement": 18599,
+    "idSeance": 29525,
+    "dateHeure": "2019-03-14T18:00:00",
     "idSalle": [
       "LE",
       "Lotte Eisner"
     ],
     "items": [
       {
-        "idFilm": 41108,
+        "idFilm": 29677,
+        "ordre": 1
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Jerzy Skolimowski"
+  },
+  {
+    "idCycle": 400,
+    "idCategorie": 1810,
+    "idEvenement": 18623,
+    "idSeance": 29919,
+    "dateHeure": "2019-03-14T20:00:00",
+    "idSalle": [
+      "LE",
+      "Lotte Eisner"
+    ],
+    "items": [
+      {
+        "idFilm": 41099,
         "ordre": 1
       }
     ],
@@ -37,16 +55,16 @@
   {
     "idCycle": 400,
     "idCategorie": 1810,
-    "idEvenement": 18599,
-    "idSeance": 29525,
-    "dateHeure": "2019-03-15T21:30:00",
+    "idEvenement": 18604,
+    "idSeance": 29523,
+    "dateHeure": "2019-03-15T21:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
     "items": [
       {
-        "idFilm": 29677,
+        "idFilm": 41108,
         "ordre": 1
       }
     ],
@@ -114,7 +132,7 @@
     "idCategorie": 1810,
     "idEvenement": 18616,
     "idSeance": 28081,
-    "dateHeure": "2019-03-17T14:00:00",
+    "dateHeure": "2019-03-17T14:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -131,7 +149,7 @@
     "idCategorie": 1810,
     "idEvenement": 18598,
     "idSeance": 29607,
-    "dateHeure": "2019-03-17T17:00:00",
+    "dateHeure": "2019-03-17T17:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
