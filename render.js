@@ -7,6 +7,7 @@ const {
 const helpers = require("./lib/helpers.js");
 const merge = require("./lib/transforms/merge.js");
 const render = require("./lib/transforms/render.js");
+const markdown = require("./lib/transforms/markdown.js");
 
 const writeFile = promisify(fs.writeFile);
 const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramètre de ligne de commande
@@ -36,11 +37,15 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
     data: cycle
   };
 
-  await writeFile(
-    `data/cycles/CYCLE${cycleConfig.idCycleProg}_RENDER.json`,
-    JSON.stringify(cycle, null, 2),
-    "utf8"
-  );
+  // await writeFile(
+  //   `data/cycles/CYCLE${cycleConfig.idCycleProg}_RENDER.json`,
+  //   JSON.stringify(cycle, null, 2),
+  //   "utf8"
+  // );
+
+  console.log(markdown(cycle));
+
+
 
 
 
