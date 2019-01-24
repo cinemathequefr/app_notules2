@@ -15,6 +15,7 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
   const cyclesConfig = await helpers.readFileAsJson(
     "./data/config/cycles.json"
   );
+
   let cycleConfig = _(cyclesConfig).find({
     idCycleProg: idCycle
   });
@@ -28,9 +29,12 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
     `./data/cycles/${filename.films}.json`
   );
 
-  let cycle = merge(cycleConfig, films, seances); // Fusion des données
-  // console.log(cycle.info);
+  let cycle = merge(cycleConfig, films, seances); // Fusion des données (renvoie `{data,info}`)
   cycle = render(cycle.data);
+  cycle = {
+    header: cycleConfig,
+    data: cycle
+  };
 
   await writeFile(
     `data/cycles/CYCLE${cycleConfig.idCycleProg}_RENDER.json`,
