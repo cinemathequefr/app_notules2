@@ -43,7 +43,13 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
   //   "utf8"
   // );
 
-  console.log(markdown(cycle));
+  let md = markdown(cycle);
+
+  await writeFile(
+    `data/cycles/CYCLE${cycleConfig.idCycleProg} ${cycleConfig.titreCycle}.md`,
+    md,
+    "utf8"
+  );
 
 
 
