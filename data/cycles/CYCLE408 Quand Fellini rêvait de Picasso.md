@@ -1,4 +1,4 @@
-# Federico Fellini
+# Quand Fellini rêvait de Picasso
 
 ## Les films
 
@@ -232,7 +232,7 @@ de Federico Fellini
 Italie / 1969 / 60 min / VOSTF / Numérique  
 Avec Federico Fellini, Giulietta Masina, Marcello Mastroianni, Marina Boratto.  
 Face aux décors d_'Il viaggio di G. Mastorna_, Fellini se souvient de ce projet abandonné et parle du film qu'il veut réaliser, _Fellini-Satyricon_.  
-Film suivi d'_Et Fellini a rêvé de Picasso_ (Isaki Lacuesta), _Publicités réalisées par Fellini_ (Federico Fellini).  
+Film suivi d'_Et Fellini a rêvé de Picasso_d'Isaki Lacuesta, _Publicités réalisées par Fellini_de Federico Fellini.  
 Jeu 9 mai 20h30 JE
 
 **Et Fellini a rêvé de Picasso**  
@@ -240,7 +240,7 @@ Jeu 9 mai 20h30 JE
 d'Isaki Lacuesta  
 Espagne / 2018 / 24 min / VOSTF / Numérique  
 Pour l'exposition _Et Fellini a rêvé de Picasso_ au musée Picasso de Málaga en 2018, Isaki Lacuesta rapproche les processus créatifs des deux artistes à partir de rêves récurrents du cinéaste sur sa rencontre avec le peintre.  
-Film précédé de _Block-notes di un regista_ (Federico Fellini) et suivi de de _Publicités réalisées par Fellini_ (Federico Fellini).  
+Film précédé de _Block-notes di un regista_ de Federico Fellini et suivi de de _Publicités réalisées par Fellini_de Federico Fellini.  
 Jeu 9 mai 20h30 JE
 
 **Fellini**  
@@ -259,7 +259,7 @@ Ven 3 mai 19h30 GF
 de Federico Fellini  
 Italie / 1970 / 9 min / VOSTF / Numérique  
 Spots publicitaires réalisés pour la Banca di Roma notamment (_Leone_, _Treno_, _Tunnel_)  
-Film précédé de _Block-notes di un regista_ (Federico Fellini), _Et Fellini a rêvé de Picasso_ (Isaki Lacuesta).  
+Film précédé de _Block-notes di un regista_ de Federico Fellini, _Et Fellini a rêvé de Picasso_ d'Isaki Lacuesta.  
 Jeu 9 mai 20h30 JE
 
 **Qu'il est étrange de s'appeler Federico**  

@@ -1,7 +1,7 @@
 [{
     "idProg": 55,
     "idCycleProg": 422,
-    "titreCycle": "[Cinéma roumain]",
+    "titreCycle": "Le nouveau cinéma roumain",
     "sousCycles": [{
       "titre": "Les films",
       "cats": [1875],
@@ -11,7 +11,7 @@
   {
     "idProg": 55,
     "idCycleProg": 417,
-    "titreCycle": "Week-end Jean-Max Causse",
+    "titreCycle": "Un week-end avec Jean-Max Causse",
     "sousCycles": [{
       "titre": "Les films",
       "cats": [1860],
@@ -37,14 +37,31 @@
     "idCycleProg": 414,
     "titreCycle": "Bruno Nuytten",
     "sousCycles": [{
-      "titre": "Les films",
-      "cats": [1845],
-      "tri": 1
-    }, {
-      "titre": "Rencontres et conférences",
-      "cats": [1869],
-      "tri": 1
-    }]
+        "titre": "Réalisateur",
+        "cats": [1903],
+        "tri": 1
+      },
+      {
+        "titre": "Directeur de la photographie",
+        "cats": [1845],
+        "tri": 1
+      },
+      {
+        "titre": "Courts métrages",
+        "cats": [1893],
+        "tri": 1
+      },
+      {
+        "titre": "Autour de Bruno Nuytten",
+        "cats": [1893],
+        "tri": 1
+      },
+      {
+        "titre": "Rencontres et conférences",
+        "cats": [1869],
+        "tri": 1
+      }
+    ]
   },
   {
     "idProg": 55,
@@ -85,7 +102,7 @@
   {
     "idProg": 55,
     "idCycleProg": 408,
-    "titreCycle": "Federico Fellini",
+    "titreCycle": "Quand Fellini rêvait de Picasso",
     "sousCycles": [{
         "titre": "Les films",
         "cats": [1837],
@@ -108,10 +125,22 @@
     "idCycleProg": 407,
     "titreCycle": "Joan Crawford",
     "sousCycles": [{
-      "titre": "Les films",
-      "cats": [1828, 1849, 1866],
-      "tri": 1
-    }]
+        "titre": "Les films",
+        "cats": [1828],
+        "tri": 1
+      },
+
+      {
+        "titre": "Autour de Joan Crawford",
+        "cats": [1849],
+        "tri": 1
+      },
+      {
+        "titre": "Rencontres et conférences",
+        "cats": [1866],
+        "tri": 1
+      }
+    ]
   },
   {
     "idProg": 55,

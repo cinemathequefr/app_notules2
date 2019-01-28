@@ -1,0 +1,1739 @@
+[
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18263,
+    "idSeance": 29153,
+    "dateHeure": "2019-04-24T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 35815,
+        "ordre": 1,
+        "idSeance": 29153,
+        "idCopie": 17318,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18823,
+    "idSeance": 29798,
+    "dateHeure": "2019-04-25T17:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 37506,
+        "ordre": 1,
+        "idSeance": 29798,
+        "idCopie": 17805,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18258,
+    "idSeance": 29170,
+    "dateHeure": "2019-04-25T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 30674,
+        "ordre": 1,
+        "idSeance": 29170,
+        "idCopie": 17400,
+        "duree": 73,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18264,
+    "idSeance": 29171,
+    "dateHeure": "2019-04-25T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 31479,
+        "ordre": 1,
+        "idSeance": 29171,
+        "idCopie": 17317,
+        "duree": 134,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18244,
+    "idSeance": 29420,
+    "dateHeure": "2019-04-26T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 33152,
+        "ordre": 1,
+        "idSeance": 29420,
+        "idCopie": 17787,
+        "duree": 113,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18248,
+    "idSeance": 29179,
+    "dateHeure": "2019-04-26T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 31396,
+        "ordre": 1,
+        "idSeance": 29179,
+        "idCopie": 17314,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18306,
+    "idSeance": 29664,
+    "dateHeure": "2019-04-27T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 41137,
+        "ordre": 1,
+        "idSeance": 29664,
+        "idCopie": 17615,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18298,
+    "idSeance": 29440,
+    "dateHeure": "2019-04-27T16:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 29830,
+        "ordre": 1,
+        "idSeance": 29440,
+        "idCopie": 14584,
+        "duree": 132,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18302,
+    "idSeance": 29178,
+    "dateHeure": "2019-04-27T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 31482,
+        "ordre": 1,
+        "idSeance": 29178,
+        "idCopie": 11406,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18283,
+    "idSeance": 29161,
+    "dateHeure": "2019-04-27T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 30636,
+        "ordre": 1,
+        "idSeance": 29161,
+        "idCopie": 17410,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18646,
+    "idSeance": 29181,
+    "dateHeure": "2019-04-28T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 80243,
+        "ordre": 1,
+        "idSeance": 29181,
+        "idCopie": 6512,
+        "duree": 20,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 30999,
+        "ordre": 2,
+        "idSeance": 29181,
+        "idCopie": 8733,
+        "duree": 75,
+        "version": "INT. ANG.",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18274,
+    "idSeance": 29182,
+    "dateHeure": "2019-04-28T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 56580,
+        "ordre": 1,
+        "idSeance": 29182,
+        "idCopie": 10199,
+        "duree": 60,
+        "version": "INT. FR.",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18260,
+    "idSeance": 29183,
+    "dateHeure": "2019-04-28T18:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 30807,
+        "ordre": 1,
+        "idSeance": 29183,
+        "idCopie": 17412,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18296,
+    "idSeance": 29184,
+    "dateHeure": "2019-04-28T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 35243,
+        "ordre": 1,
+        "idSeance": 29184,
+        "idCopie": 17494,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18267,
+    "idSeance": 29190,
+    "dateHeure": "2019-04-29T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 36695,
+        "ordre": 1,
+        "idSeance": 29190,
+        "idCopie": 17783,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18304,
+    "idSeance": 29192,
+    "dateHeure": "2019-04-29T19:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 30826,
+        "ordre": 1,
+        "idSeance": 29192,
+        "idCopie": 17501,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18269,
+    "idSeance": 29208,
+    "dateHeure": "2019-05-02T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 32993,
+        "ordre": 1,
+        "idSeance": 29208,
+        "idCopie": 17409,
+        "duree": 112,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18293,
+    "idSeance": 29202,
+    "dateHeure": "2019-05-02T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 30751,
+        "ordre": 1,
+        "idSeance": 29202,
+        "idCopie": 17782,
+        "duree": 74,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18285,
+    "idSeance": 29426,
+    "dateHeure": "2019-05-03T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 30111,
+        "ordre": 1,
+        "idSeance": 29426,
+        "idCopie": 10431,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Yann Gonzalez"
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18318,
+    "idSeance": 29427,
+    "dateHeure": "2019-05-03T22:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 29603,
+        "ordre": 1,
+        "idSeance": 29427,
+        "idCopie": 17321,
+        "duree": 81,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18265,
+    "idSeance": 29220,
+    "dateHeure": "2019-05-04T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 30123,
+        "ordre": 1,
+        "idSeance": 29220,
+        "idCopie": 17300,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18252,
+    "idSeance": 29221,
+    "dateHeure": "2019-05-04T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 60820,
+        "ordre": 1,
+        "idSeance": 29221,
+        "idCopie": 17293,
+        "duree": 113,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18259,
+    "idSeance": 29222,
+    "dateHeure": "2019-05-04T22:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 36693,
+        "ordre": 1,
+        "idSeance": 29222,
+        "idCopie": 17320,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18900,
+    "idSeance": 29910,
+    "dateHeure": "2019-05-05T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 31519,
+        "ordre": 1,
+        "idSeance": 29910,
+        "idCopie": 17945,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18273,
+    "idSeance": 29432,
+    "dateHeure": "2019-05-05T17:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 31406,
+        "ordre": 1,
+        "idSeance": 29432,
+        "idCopie": 17490,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18277,
+    "idSeance": 29428,
+    "dateHeure": "2019-05-05T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 35504,
+        "ordre": 1,
+        "idSeance": 29428,
+        "idCopie": 17304,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18309,
+    "idSeance": 29617,
+    "dateHeure": "2019-05-05T21:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 37607,
+        "ordre": 1,
+        "idSeance": 29617,
+        "idCopie": 17781,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18255,
+    "idSeance": 29234,
+    "dateHeure": "2019-05-06T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 72659,
+        "ordre": 1,
+        "idSeance": 29234,
+        "idCopie": 17516,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18299,
+    "idSeance": 29235,
+    "dateHeure": "2019-05-06T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 31167,
+        "ordre": 1,
+        "idSeance": 29235,
+        "idCopie": 17322,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18260,
+    "idSeance": 29839,
+    "dateHeure": "2019-05-08T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 30807,
+        "ordre": 1,
+        "idSeance": 29839,
+        "idCopie": 17412,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18269,
+    "idSeance": 29841,
+    "dateHeure": "2019-05-08T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 32993,
+        "ordre": 1,
+        "idSeance": 29841,
+        "idCopie": 17409,
+        "duree": 112,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18309,
+    "idSeance": 29247,
+    "dateHeure": "2019-05-09T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 37607,
+        "ordre": 1,
+        "idSeance": 29247,
+        "idCopie": 17781,
+        "duree": 80,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18244,
+    "idSeance": 29252,
+    "dateHeure": "2019-05-10T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 33152,
+        "ordre": 1,
+        "idSeance": 29252,
+        "idCopie": 17787,
+        "duree": 113,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18825,
+    "idSeance": 29663,
+    "dateHeure": "2019-05-10T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 34319,
+        "ordre": 1,
+        "idSeance": 29663,
+        "idCopie": 17803,
+        "duree": 122,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18317,
+    "idSeance": 29254,
+    "dateHeure": "2019-05-10T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 72663,
+        "ordre": 1,
+        "idSeance": 29254,
+        "idCopie": 17335,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18253,
+    "idSeance": 29255,
+    "dateHeure": "2019-05-10T22:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 45561,
+        "ordre": 1,
+        "idSeance": 29255,
+        "idCopie": 17294,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18249,
+    "idSeance": 29836,
+    "dateHeure": "2019-05-11T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 30419,
+        "ordre": 1,
+        "idSeance": 29836,
+        "idCopie": 17266,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18304,
+    "idSeance": 29260,
+    "dateHeure": "2019-05-11T17:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 30826,
+        "ordre": 1,
+        "idSeance": 29260,
+        "idCopie": 17501,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18900,
+    "idSeance": 29911,
+    "dateHeure": "2019-05-11T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 31519,
+        "ordre": 1,
+        "idSeance": 29911,
+        "idCopie": 17945,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18293,
+    "idSeance": 29262,
+    "dateHeure": "2019-05-12T14:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 30751,
+        "ordre": 1,
+        "idSeance": 29262,
+        "idCopie": 17782,
+        "duree": 74,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18255,
+    "idSeance": 29268,
+    "dateHeure": "2019-05-12T16:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 72659,
+        "ordre": 1,
+        "idSeance": 29268,
+        "idCopie": 17516,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18284,
+    "idSeance": 29269,
+    "dateHeure": "2019-05-12T18:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 35141,
+        "ordre": 1,
+        "idSeance": 29269,
+        "idCopie": 5903,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18294,
+    "idSeance": 29270,
+    "dateHeure": "2019-05-12T20:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 36733,
+        "ordre": 1,
+        "idSeance": 29270,
+        "idCopie": 17307,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18258,
+    "idSeance": 29797,
+    "dateHeure": "2019-05-13T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 30674,
+        "ordre": 1,
+        "idSeance": 29797,
+        "idCopie": 17400,
+        "duree": 73,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18283,
+    "idSeance": 29282,
+    "dateHeure": "2019-05-15T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 30636,
+        "ordre": 1,
+        "idSeance": 29282,
+        "idCopie": 17410,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18277,
+    "idSeance": 29456,
+    "dateHeure": "2019-05-15T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 35504,
+        "ordre": 1,
+        "idSeance": 29456,
+        "idCopie": 17304,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18302,
+    "idSeance": 29298,
+    "dateHeure": "2019-05-16T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 31482,
+        "ordre": 1,
+        "idSeance": 29298,
+        "idCopie": 11406,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18252,
+    "idSeance": 29292,
+    "dateHeure": "2019-05-16T21:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 60820,
+        "ordre": 1,
+        "idSeance": 29292,
+        "idCopie": 17293,
+        "duree": 113,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18825,
+    "idSeance": 29296,
+    "dateHeure": "2019-05-17T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 34319,
+        "ordre": 1,
+        "idSeance": 29296,
+        "idCopie": 17803,
+        "duree": 122,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18273,
+    "idSeance": 29297,
+    "dateHeure": "2019-05-17T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 31406,
+        "ordre": 1,
+        "idSeance": 29297,
+        "idCopie": 17490,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18264,
+    "idSeance": 29291,
+    "dateHeure": "2019-05-17T21:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 31479,
+        "ordre": 1,
+        "idSeance": 29291,
+        "idCopie": 17317,
+        "duree": 134,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18297,
+    "idSeance": 29302,
+    "dateHeure": "2019-05-18T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 30789,
+        "ordre": 1,
+        "idSeance": 29302,
+        "idCopie": 17308,
+        "duree": 109,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18321,
+    "idSeance": 29773,
+    "dateHeure": "2019-05-18T17:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 34824,
+        "ordre": 1,
+        "idSeance": 29773,
+        "idCopie": 17946,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18272,
+    "idSeance": 29310,
+    "dateHeure": "2019-05-19T14:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 56791,
+        "ordre": 1,
+        "idSeance": 29310,
+        "idCopie": 17302,
+        "duree": 125,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18248,
+    "idSeance": 29311,
+    "dateHeure": "2019-05-19T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 31396,
+        "ordre": 1,
+        "idSeance": 29311,
+        "idCopie": 17314,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18263,
+    "idSeance": 29312,
+    "dateHeure": "2019-05-19T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 35815,
+        "ordre": 1,
+        "idSeance": 29312,
+        "idCopie": 17318,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18259,
+    "idSeance": 29313,
+    "dateHeure": "2019-05-19T21:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 36693,
+        "ordre": 1,
+        "idSeance": 29313,
+        "idCopie": 17320,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18299,
+    "idSeance": 29319,
+    "dateHeure": "2019-05-20T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 31167,
+        "ordre": 1,
+        "idSeance": 29319,
+        "idCopie": 17322,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18267,
+    "idSeance": 29320,
+    "dateHeure": "2019-05-20T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 36695,
+        "ordre": 1,
+        "idSeance": 29320,
+        "idCopie": 17783,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18282,
+    "idSeance": 29321,
+    "dateHeure": "2019-05-20T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 35950,
+        "ordre": 1,
+        "idSeance": 29321,
+        "idCopie": 17499,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18823,
+    "idSeance": 29333,
+    "dateHeure": "2019-05-23T17:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 37506,
+        "ordre": 1,
+        "idSeance": 29333,
+        "idCopie": 17805,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18265,
+    "idSeance": 29334,
+    "dateHeure": "2019-05-23T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 30123,
+        "ordre": 1,
+        "idSeance": 29334,
+        "idCopie": 17300,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18294,
+    "idSeance": 29840,
+    "dateHeure": "2019-05-23T21:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 36733,
+        "ordre": 1,
+        "idSeance": 29840,
+        "idCopie": 17307,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18321,
+    "idSeance": 29339,
+    "dateHeure": "2019-05-24T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 34824,
+        "ordre": 1,
+        "idSeance": 29339,
+        "idCopie": 17946,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18277,
+    "idSeance": 29340,
+    "dateHeure": "2019-05-24T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 35504,
+        "ordre": 1,
+        "idSeance": 29340,
+        "idCopie": 17304,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18296,
+    "idSeance": 29341,
+    "dateHeure": "2019-05-24T21:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 35243,
+        "ordre": 1,
+        "idSeance": 29341,
+        "idCopie": 17494,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18297,
+    "idSeance": 29345,
+    "dateHeure": "2019-05-25T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 30789,
+        "ordre": 1,
+        "idSeance": 29345,
+        "idCopie": 17308,
+        "duree": 109,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18272,
+    "idSeance": 29842,
+    "dateHeure": "2019-05-25T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 56791,
+        "ordre": 1,
+        "idSeance": 29842,
+        "idCopie": 17302,
+        "duree": 125,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18274,
+    "idSeance": 29353,
+    "dateHeure": "2019-05-26T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 56580,
+        "ordre": 1,
+        "idSeance": 29353,
+        "idCopie": 10199,
+        "duree": 60,
+        "version": "INT. FR.",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1849,
+    "idEvenement": 18636,
+    "idSeance": 29354,
+    "dateHeure": "2019-05-26T16:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 34581,
+        "ordre": 1,
+        "idSeance": 29354,
+        "idCopie": 17591,
+        "duree": 128,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18282,
+    "idSeance": 29355,
+    "dateHeure": "2019-05-26T18:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 35950,
+        "ordre": 1,
+        "idSeance": 29355,
+        "idCopie": 17499,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18284,
+    "idSeance": 29356,
+    "dateHeure": "2019-05-26T20:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 35141,
+        "ordre": 1,
+        "idSeance": 29356,
+        "idCopie": 5903,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18298,
+    "idSeance": 29799,
+    "dateHeure": "2019-05-27T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 29830,
+        "ordre": 1,
+        "idSeance": 29799,
+        "idCopie": 14584,
+        "duree": 132,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18249,
+    "idSeance": 29363,
+    "dateHeure": "2019-05-27T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 30419,
+        "ordre": 1,
+        "idSeance": 29363,
+        "idCopie": 17266,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "idEvenement": 18306,
+    "idSeance": 29364,
+    "dateHeure": "2019-05-27T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 41137,
+        "ordre": 1,
+        "idSeance": 29364,
+        "idCopie": 17615,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  }
+]

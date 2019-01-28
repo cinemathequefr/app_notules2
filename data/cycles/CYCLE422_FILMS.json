@@ -1,0 +1,300 @@
+[
+  {
+    "titre": "12 H 08 à l'est de Bucarest",
+    "titreVo": "A fost sau n-a fost ?",
+    "idFilm": 99840,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Corneliu Porumboiu",
+    "annee": 2005,
+    "pays": "Roumanie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans cette petite ville de province roumaine, on s'apprête à fêter Noël, seize ans après la Révolution. Virgile Jederescu, patron de la télévision locale, décide alors de confronter ses concitoyens à leur propre histoire, et organise un débat télévisé."
+      }
+    ],
+    "generique": [
+      "Mircea Andreescu",
+      "Teodor Corban",
+      "Ion Sapdaru",
+      "Cristina Ciofu"
+    ]
+  },
+  {
+    "titre": "4 mois, 3 semaines, 2 jours",
+    "titreVo": "4 luni, 3 saptamini si 2 zile",
+    "idFilm": 102038,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Cristian Mungiu",
+    "annee": 2006,
+    "pays": "Roumanie-France-Belgique",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "1987, en Roumanie, quelques années avant la chute du communisme. Ottila et Gabita partagent une chambre dans la cité universitaire d'une petite ville. Gabita est enceinte et l'avortement est un crime. Les deux jeunes femmes font donc appel à un certain M. Bébé pour résoudre le problème."
+      }
+    ],
+    "generique": [
+      "Anamaria Marinca",
+      "Laura Vasiliu",
+      "Vlad Ivanov",
+      "Alexandru Potocean"
+    ]
+  },
+  {
+    "titre": "Aurora",
+    "idFilm": 112398,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Cristi Puiu",
+    "annee": 2009,
+    "pays": "Roumanie-France-Suisse-Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "_Aurora_ est l'histoire de la chute d'un homme ordinaire, Viorel, dans Bucarest, pendant deux jours."
+      }
+    ],
+    "generique": [
+      "Cristi Puiu",
+      "Clara Voda",
+      "Valeria Seciu",
+      "Luminita Gheorghiu"
+    ]
+  },
+  {
+    "titre": "Autobiographie de Nicolae Ceausescu",
+    "art": "L'",
+    "titreVo": "Autobiografia lui Nicolae Ceausescu",
+    "idFilm": 112425,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Andrei Ujica",
+    "annee": 2009,
+    "pays": "Roumanie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Au cours du procès sommaire auquel il a été soumis avec sa femme, Nicolae Ceausescu passe en revue la période de sa vie pendant laquelle il a été au pouvoir : 1965-1989."
+      }
+    ]
+  },
+  {
+    "titre": "Baccalauréat",
+    "titreVo": "Bacalaureat",
+    "idFilm": 131579,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Cristian Mungiu",
+    "annee": 2015,
+    "pays": "Roumanie-France-Belgique",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Romeo, médecin dans une petite ville de Transylvanie, a tout mis en œuvre pour que sa fille, Eliza, soit acceptée dans une université anglaise. Il ne reste plus à la jeune fille, très bonne élève, qu'une formalité qui ne devrait pas poser de problème : obtenir son baccalauréat. Mais Eliza se fait agresser."
+      }
+    ],
+    "generique": [
+      "Adrian Titieni",
+      "Maria Dragus",
+      "Lia Bugnar",
+      "Malina Manovici"
+    ]
+  },
+  {
+    "titre": "California dreamin'",
+    "titreVo": "Nesfarsit",
+    "idFilm": 102054,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Cristian Nemescu",
+    "annee": 2006,
+    "pays": "Roumanie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1999, dans un petit village roumain, le chef de gare, qui est en même temps la fripouille locale, arrête un train qui transporte des équipements militaires La cargaison, gardée par des soldats Américains, traverse la Roumanie sans avoir de papiers officiels, mais seulement l'accord verbal du gouvernement roumain."
+      }
+    ],
+    "generique": [
+      "Armand Assante",
+      "Razvan Vasilescu",
+      "Jamie Elman",
+      "Maria Dinulescu"
+    ]
+  },
+  {
+    "titre": "Etage du dessous",
+    "art": "L'",
+    "titreVo": "Un etaj mai jos",
+    "idFilm": 127024,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Radu Muntean",
+    "annee": 2014,
+    "pays": "Roumanie-France-Suède-Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En rentrant chez lui, Pătrașcu perçoit derrière une porte au deuxième étage de son immeuble les bruits d'une violente dispute amoureuse. Quelques heures plus tard le corps d'une femme est découvert. Ses soupçons se portent sur Vali, le voisin du premier."
+      }
+    ],
+    "generique": [
+      "Teodor Corban",
+      "Iulian Postelnicu",
+      "Oxana Moravec",
+      "Ionut Bora"
+    ]
+  },
+  {
+    "titre": "Fille la plus heureuse du monde",
+    "art": "La",
+    "titreVo": "Cea mai fericita fata din lume",
+    "idFilm": 110107,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Radu Jude",
+    "annee": 2008,
+    "pays": "Roumanie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Délia est la fille la plus heureuse du monde. Elle a 18 ans et vient de gagner une belle voiture grâce au jeu concours d'une marque de jus d'orange. Pour en prendre possession, elle doit tourner une pub afin de vanter les mérites du jus en question. Mais Délia n'est pas très bonne comédienne..."
+      }
+    ],
+    "generique": [
+      "Andreea Bosneag",
+      "Vasile Muraru",
+      "Violeta Haret",
+      "Serban Pavlu"
+    ]
+  },
+  {
+    "titre": "Fixeur",
+    "idFilm": 134660,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Adrian Sitaru",
+    "annee": 2016,
+    "pays": "Roumanie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Radu, un jeune et ambitieux journaliste veut se faire un nom dans la presse internationale. Quand deux prostituées mineures sont rapatriées de France, il est engagé comme fixeur dans l'équipe d'une chaîne de télévision française dirigée par un journaliste reconnu. Mais durant le voyage, les intentions, les ambitions et les limites de chacun vont se révéler."
+      }
+    ],
+    "generique": [
+      "Tudor Aaron Istodor",
+      "Mehdi Nebbou",
+      "Nicolas Wanczycki",
+      "Diana Spatarescu"
+    ]
+  },
+  {
+    "titre": "Mère et fils",
+    "titreVo": "Pozitia copilului",
+    "idFilm": 121518,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Calin Peter Netzer",
+    "annee": 2012,
+    "pays": "Roumanie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Cornelia, 60 ans, mène une vie privilégiée à Bucarest, entourée de ses amis riches et puissants. Pourtant, les relations tendues qu'elle entretient avec son fils la tourmentent. Celui-ci repousse autant qu'il peut la présence d'une mère possessive."
+      }
+    ],
+    "generique": [
+      "Luminita Gheorghiu",
+      "Bogdan Dumitrache",
+      "Ilinca Goia",
+      "Natasa Raab"
+    ]
+  },
+  {
+    "titre": "Mort de Dante Lazarescu",
+    "art": "La",
+    "titreVo": "Moartea domnului Lazarescu",
+    "idFilm": 96772,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Cristi Puiu",
+    "annee": 2004,
+    "pays": "Roumanie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Monsieur Lazarescu, 63 ans, vit dans un appartement avec ses trois chats. Un samedi soir, ce dernier ne se sent pas bien. Jusqu'à l'arrivée de l'ambulance, il essaye d'apaiser son mal avec les médicaments qu'il a sous la main. Puisqu'il n'a plus de pilules, il appelle ses voisins en aide."
+      }
+    ],
+    "generique": [
+      "Ion Fiscuteanu",
+      "Luminita Gheorghiu",
+      "Gabriel Spahiu",
+      "Doru Ana"
+    ]
+  },
+  {
+    "titre": "Sieranevada",
+    "idFilm": 131582,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Cristi Puiu",
+    "annee": 2015,
+    "pays": "Roumanie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Quelque part à Bucarest, trois jours après l'attentat contre Charlie Hebdo et quarante jours après la mort de son père, Lary – 40 ans, docteur en médecine – va passer son samedi au sein de la famille réunie à l'occasion de la commémoration du défunt. L'évènement, pourtant, ne se déroule pas comme prévu."
+      }
+    ],
+    "generique": [
+      "Mimi Branescu",
+      "Judith State",
+      "Bogdan Dumitrache",
+      "Dana Dogaru"
+    ]
+  },
+  {
+    "titre": "Testicules de Tarzan",
+    "art": "Les",
+    "titreVo": "Ouale lui Tarzan",
+    "idFilm": 140857,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Alexandru Solomon",
+    "annee": 2017,
+    "pays": "Roumanie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un film sur les utopies, un drame métaphorique qui tisse les destins parallèles des singes et des hommes."
+      }
+    ]
+  },
+  {
+    "titre": "Voyage de Monsieur Crulic",
+    "art": "Le",
+    "titreVo": "Crulic – Drumul spre dincolo",
+    "idFilm": 118074,
+    "idCycle": 422,
+    "idCategorie": 1875,
+    "realisateurs": "Anca Damian",
+    "annee": 2011,
+    "pays": "Roumanie-Pologne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'histoire vraie de Crulic, un Roumain de 33 ans, absurdement mort dans une prison polonaise à la suite d'une grève de la faim consécutive à une erreur judiciaire."
+      }
+    ],
+    "generique": [
+      "Vlad Ivanov",
+      "Jamie Sives",
+      "Sandrine Bonnaire"
+    ]
+  }
+]

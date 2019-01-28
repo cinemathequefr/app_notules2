@@ -128,6 +128,11 @@
         "typeTexte": 9,
         "texte": "Kang-ding est cireur et croise souvent le riche M. Hu. Le jour où ce dernier offre par erreur une bague en toc à sa femme à la place de sa maîtresse, il aura besoin de Kang-ding pour s'en sortir."
       }
+    ],
+    "generique": [
+      "Ding Kang",
+      "Zai-cai AI",
+      "Ling Ling"
     ]
   },
   {
@@ -166,6 +171,11 @@
         "typeTexte": 9,
         "texte": "Bun-de est la coqueluche des filles du quartier si bien que son père le claquemure à la maison, mais Gui-zu est prête à tout pour le conquérir et l'arracher aux griffes paternelles."
       }
+    ],
+    "generique": [
+      "Chun Shih",
+      "Mei Chin",
+      "Yue-fan Yang"
     ]
   },
   {

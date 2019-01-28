@@ -12,7 +12,13 @@
     "items": [
       {
         "idFilm": 139792,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29111,
+        "idCopie": 16714,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ],
     "mention": "Ouverture de la rétrospective"
@@ -30,7 +36,13 @@
     "items": [
       {
         "idFilm": 139781,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29116,
+        "idCopie": 16711,
+        "duree": 117,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -47,7 +59,13 @@
     "items": [
       {
         "idFilm": 139786,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29127,
+        "idCopie": 16708,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
       }
     ]
   },
@@ -64,7 +82,13 @@
     "items": [
       {
         "idFilm": 139794,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29128,
+        "idCopie": 16709,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 0
       }
     ]
   },
@@ -81,7 +105,13 @@
     "items": [
       {
         "idFilm": 139782,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29134,
+        "idCopie": 16705,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -98,7 +128,13 @@
     "items": [
       {
         "idFilm": 139787,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29135,
+        "idCopie": 16704,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ],
     "mention": "Séance présentée par Corrado Neri"
@@ -116,7 +152,13 @@
     "items": [
       {
         "idFilm": 139795,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29136,
+        "idCopie": 16715,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
       }
     ]
   },
@@ -133,11 +175,23 @@
     "items": [
       {
         "idFilm": 139790,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29138,
+        "idCopie": 16713,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       },
       {
         "idFilm": 139789,
-        "ordre": 2
+        "ordre": 2,
+        "idSeance": 29138,
+        "idCopie": 16712,
+        "duree": 19,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -154,7 +208,13 @@
     "items": [
       {
         "idFilm": 139784,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29144,
+        "idCopie": 16706,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -171,7 +231,13 @@
     "items": [
       {
         "idFilm": 139797,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29152,
+        "idCopie": 16717,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
       }
     ]
   },
@@ -188,7 +254,13 @@
     "items": [
       {
         "idFilm": 139785,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29158,
+        "idCopie": 16707,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
       }
     ]
   },
@@ -205,7 +277,13 @@
     "items": [
       {
         "idFilm": 139792,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29551,
+        "idCopie": 16714,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -222,11 +300,23 @@
     "items": [
       {
         "idFilm": 139790,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29164,
+        "idCopie": 16713,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       },
       {
         "idFilm": 139789,
-        "ordre": 2
+        "ordre": 2,
+        "idSeance": 29164,
+        "idCopie": 16712,
+        "duree": 19,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -243,7 +333,13 @@
     "items": [
       {
         "idFilm": 139782,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29548,
+        "idCopie": 16705,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -260,7 +356,13 @@
     "items": [
       {
         "idFilm": 139783,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29167,
+        "idCopie": 16703,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -277,7 +379,13 @@
     "items": [
       {
         "idFilm": 139797,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29172,
+        "idCopie": 16717,
+        "duree": 99,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
       }
     ]
   },
@@ -294,7 +402,13 @@
     "items": [
       {
         "idFilm": 139787,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29912,
+        "idCopie": 16704,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -311,7 +425,13 @@
     "items": [
       {
         "idFilm": 139795,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29180,
+        "idCopie": 16715,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
       }
     ]
   },
@@ -328,7 +448,13 @@
     "items": [
       {
         "idFilm": 139781,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29550,
+        "idCopie": 16711,
+        "duree": 117,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -345,7 +471,13 @@
     "items": [
       {
         "idFilm": 139784,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29185,
+        "idCopie": 16706,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -362,7 +494,13 @@
     "items": [
       {
         "idFilm": 139783,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29913,
+        "idCopie": 16703,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   }
