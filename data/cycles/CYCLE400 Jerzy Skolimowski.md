@@ -8,7 +8,7 @@ de Jerzy Skolimowski
 Pologne-Irlande / 2014 / 81 min / VOSTF / DCP  
 Avec Richard Dormer, Paulina Chapko, Wojciech Mecwaldowski, Andrzej Chyra.  
 Un mari jaloux, une actrice sexy, un réalisateur carnassier, un vendeur de drogue incontrôlable, une jeune femme désorientée, un ex-taulard devenu vendeur de hot-dog, un laveur de vitres, un peintre âgé, un étudiant, une équipe d'auxiliaires médicaux sous pression et un groupe de nonnes affamées. 11 moments de vie de citadins contemporains qui vont s'entrecroiser et s'entrelacer.  
-Film précédé de _La Bourse ou la vie_ (Jerzy Skolimowski).  
+Film précédé de _La Bourse ou la vie_ de Jerzy Skolimowski.  
 Dim 24 mar 21h00 GF  
 Dim 7 avr 21h30 GF
 
@@ -47,7 +47,7 @@ de Jerzy Skolimowski
 Pologne / 1959 / 6 min / VOSTF / DCP  
 Avec Stanislaw Dygat, Bohdan Lazuka, Stefan Wiechecki.  
 Claus, architecte, est dans une situation désespérée à tout point de vue. Soudain, une solution facile à tous ses problèmes se présente.  
-Film suivi de _11 minutes_ (Jerzy Skolimowski).  
+Film suivi de _11 minutes_de Jerzy Skolimowski.  
 Dim 24 mar 21h00 GF  
 Dim 7 avr 21h30 GF
 
@@ -98,7 +98,7 @@ de Jerzy Skolimowski
 Pologne / 1960 / 3 min / VOSTF / 35 mm  
 Avec Elzbieta Czyzewska, Gustaw Holoubek.  
 Une jeune fille essuie son miroir lorsqu'elle y aperçoit le reflet d'un homme. Il commence à la courtiser de manière étrange. Mais cette apparition intrusive et déconcertante se transforme vite en cauchemar.  
-Film suivi de _Quatre nuits avec Anna_ (Jerzy Skolimowski).  
+Film suivi de _Quatre nuits avec Anna_de Jerzy Skolimowski.  
 Dim 24 mar 14h30 GF  
 Dim 7 avr 17h15 GF
 
@@ -107,7 +107,7 @@ de Jerzy Skolimowski
 Pologne-Norvège-Irlande-Hongrie / 2009 / 83 min / VOSTF / DCP  
 Avec Vincent Gallo, Emmanuelle Seigner, Zach Cohen, Iftach Ofir.  
 Capturé par les forces américaines, Mohammed est envoyé dans un centre de détention tenu secret. Lors d'un transfert, il réchappe d'un accident et se retrouve en fuite dans une forêt inconnue.  
-Film précédé de _L'Œil torve_ (Jerzy Skolimowski).  
+Film précédé de _L'Œil torve_ de Jerzy Skolimowski.  
 Dim 24 mar 19h00 GF  
 Lun 8 avr 19h00 GF
 
@@ -128,7 +128,7 @@ Cinq anciens étudiants en médecine du début des années 1950 se réunissent u
 Le film, sélectionné au Festival de Venise en 1967, fut saisi par les autorités polonaises et interdit pendant quatorze ans.
 
 En 1981, Jerzy Skolimowski put enfin présenter son film dans une nouvelle version, enrichie d'un prologue et d'un épilogue en couleur, avec un montage différent.  
-Film précédé de _Le Petit Hamlet_ (Jerzy Skolimowski).  
+Film précédé de _Le Petit Hamlet_ de Jerzy Skolimowski.  
 Mer 20 mar 19h30 GF  
 Lun 25 mar 14h30 HL
 
@@ -138,7 +138,7 @@ de Jerzy Skolimowski
 Pologne / 1959 / 3 min / 35 mm  
 Avec Iwona Sloczynska, Wojciech Solarz.  
 Un jeune homme au strabisme prononcé s'improvise lanceur de couteaux.  
-Film suivi d'_Essential killing_ (Jerzy Skolimowski).  
+Film suivi d'_Essential killing_de Jerzy Skolimowski.  
 Dim 24 mar 19h00 GF  
 Lun 8 avr 19h00 GF
 
@@ -148,7 +148,7 @@ de Jerzy Skolimowski
 Pologne / 1959 / 8 min / VOSTF / 35 mm  
 Avec Elzbieta Czyzewska, Wieslaw Golas, Zdzislaw Lesniak.  
 Au son d'un vieux gramophone, cinq jeunes rejouent à leur manière _Hamlet_, la célèbre pièce de Shakespeare. Peu à peu, la folie la plus totale finit par tous les ensorceler.  
-Film suivi de _Haut les mains_ (Jerzy Skolimowski).  
+Film suivi de _Haut les mains_de Jerzy Skolimowski.  
 Mer 20 mar 19h30 GF  
 Lun 25 mar 14h30 HL
 
@@ -158,7 +158,7 @@ de Jerzy Skolimowski
 Pologne-France / 2007 / 87 min / VOSTF / 35 mm  
 Avec Artur Steranko, Kinga Preis.  
 Dans le passé, Léon a été témoin du viol d'Anna, une infirmière qui travaille dans le même hôpital que lui. Voyeuriste à la timidité maladive, il va espionner la jeune femme de jour comme de nuit.  
-Film précédé d'_Erotik_ (Jerzy Skolimowski).  
+Film précédé d'_Erotik_ de Jerzy Skolimowski.  
 Dim 24 mar 14h30 GF  
 Dim 7 avr 17h15 GF
 
@@ -220,7 +220,7 @@ de Damien Bertrand
 France / 2006 / 52 min / VOSTF / Numérique  
 Avec Anrdrzej Trzaskowski, Teresa Trzaskowska, Jerzy Skolimowski, Ted Curson.  
 Le compositeur de _Walkower_ fut le véritable cerveau du jazz polonais. De l'époque de la guerre froide (où il introduisit en contrebande cette musique prohibée par le régime) à la chute du mur de Berlin, portrait d'un pianiste discret mais obstiné, avant-gardiste et lyrique, obsédé par le renouvellement du langage harmonique du jazz.  
-Film précédé de _Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste_ (Damien Bertrand).  
+Film précédé de _Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste_ de Damien Bertrand.  
 Mer 27 mar 20h30 JE  
 Séance présentée par Damien Bertrand
 
@@ -228,7 +228,7 @@ Séance présentée par Damien Bertrand
 de Damien Bertrand  
 France / 2003 / 52 min / VOSTF / Numérique  
 Embrassant dans un même mouvement films, poèmes et œuvre peinte, le documentaire ouvre un espace où Skolimowski se livre à un autoportrait et exprime, dans sa langue natale, le majestueux désespoir de sa condition d'artiste exilé.  
-Film suivi d'_Andrzej Trzaskowski, le cerveau du jazz polonais_ (Damien Bertrand).  
+Film suivi d'_Andrzej Trzaskowski, le cerveau du jazz polonais_de Damien Bertrand.  
 Mer 27 mar 20h30 JE  
 Séance présentée par Damien Bertrand
 
