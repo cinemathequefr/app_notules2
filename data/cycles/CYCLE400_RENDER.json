@@ -63,14 +63,14 @@
               "idSeance": 29059,
               "ordre": 2,
               "idEvenement": 18602,
-              "dateHeure": "2019-04-07T21:15:00",
+              "dateHeure": "2019-04-07T21:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
               ]
             }
           ],
-          "precedeSuivi": "Film précédé de _La Bourse ou la vie_."
+          "precedeSuivi": "Film précédé de _La Bourse ou la vie_ de Jerzy Skolimowski."
         },
         {
           "idCycle": 400,
@@ -94,6 +94,9 @@
             "Eli Wallach",
             "Jack Hawkins"
           ],
+          "duree": 91,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 28942,
@@ -137,17 +140,20 @@
             "Tadeusz Lomnicki",
             "Joanna Szczerbic"
           ],
+          "duree": 83,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 29525,
+              "idSeance": 30323,
               "ordre": 1,
               "idEvenement": 18599,
-              "dateHeure": "2019-03-14T18:00:00",
+              "dateHeure": "2019-03-15T21:45:00",
               "idSalle": [
-                "LE",
-                "Lotte Eisner"
+                "GF",
+                "Georges Franju"
               ],
-              "mention": "Séance suivie d'une discussion avec Jerzy Skolimowski"
+              "mention": "Séance présentée par Jerzy Skolimowski"
             },
             {
               "idSeance": 28946,
@@ -175,6 +181,10 @@
             {
               "typeTexte": 9,
               "texte": "Dans les années 1950, le capitaine d'un bateau-phare au passé douteux et en conflit avec son fils, un adolescent rebelle, recueille à son bord des gangsters en fuite."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré en 4K par l'Atelier d'images et Malavida avec TitraFilm.\n\nRessortie en salles par Malavida le 3 avril 2019."
             }
           ],
           "generique": [
@@ -190,7 +200,7 @@
               "idSeance": 28074,
               "ordre": 1,
               "idEvenement": 18600,
-              "dateHeure": "2019-03-16T16:45:00",
+              "dateHeure": "2019-03-16T17:15:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -231,7 +241,7 @@
           ],
           "duree": 6,
           "format": "DCP",
-          "version": "VO",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 28973,
@@ -247,14 +257,14 @@
               "idSeance": 29059,
               "ordre": 1,
               "idEvenement": 18602,
-              "dateHeure": "2019-04-07T21:15:00",
+              "dateHeure": "2019-04-07T21:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
               ]
             }
           ],
-          "precedeSuivi": "Film suivi de _11 minutes_."
+          "precedeSuivi": "Film suivi de _11 minutes_ de Jerzy Skolimowski."
         },
         {
           "idCycle": 400,
@@ -278,17 +288,20 @@
             "John Hurt",
             "Robert Stephens"
           ],
+          "duree": 87,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 29523,
+              "idSeance": 30322,
               "ordre": 1,
               "idEvenement": 18604,
-              "dateHeure": "2019-03-15T21:45:00",
+              "dateHeure": "2019-03-14T18:00:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "LE",
+                "Lotte Eisner"
               ],
-              "mention": "Séance présentée par Jerzy Skolimowski"
+              "mention": "Séance suivie d'une discussion avec Jerzy Skolimowski"
             },
             {
               "idSeance": 29743,
@@ -339,35 +352,6 @@
         },
         {
           "idCycle": 400,
-          "idFilm": 71896,
-          "titre": "Dialog 20-40-60",
-          "realisateurs": "Jerzy Skolimowski",
-          "annee": 1968,
-          "pays": "Tchécoslovaquie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Adam, idole rock adulée des jeunes, rentre chez lui après un concert endiablé. Une surprise de taille l'attend : un couple d'inconnus a pris possession de son appartement pour y passer sa nuit de noces !"
-            }
-          ],
-          "generique": [
-            "Jean-Pierre Léaud"
-          ],
-          "seance": [
-            {
-              "idSeance": 28958,
-              "ordre": 1,
-              "idEvenement": 18607,
-              "dateHeure": "2019-03-23T14:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
-        },
-        {
-          "idCycle": 400,
           "idFilm": 39062,
           "titre": "Départ",
           "art": "Le",
@@ -378,6 +362,10 @@
             {
               "typeTexte": 9,
               "texte": "À Bruxelles, Marc, jeune garçon coiffeur, rêve de participer à un rallye automobile. Ne pouvant emprunter la Porsche de son patron, il a deux jours pour trouver une voiture. Dans cet intervalle, il rencontre une jeune fille, Michèle."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauration 2K financée par Malavida et réalisée par Titra films, à partir d'un fichier réétalonné et validé par Willy Kurant."
             }
           ],
           "generique": [
@@ -386,6 +374,9 @@
             "Jacqueline Bir",
             "Paul Roland"
           ],
+          "duree": 88,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 28059,
@@ -411,6 +402,38 @@
         },
         {
           "idCycle": 400,
+          "idFilm": 71896,
+          "titre": "Dialog 20-40-60",
+          "realisateurs": "Jerzy Skolimowski",
+          "annee": 1968,
+          "pays": "Tchécoslovaquie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Adam, idole rock adulée des jeunes, rentre chez lui après un concert endiablé. Une surprise de taille l'attend : un couple d'inconnus a pris possession de son appartement pour y passer sa nuit de noces !"
+            }
+          ],
+          "generique": [
+            "Jean-Pierre Léaud"
+          ],
+          "duree": 90,
+          "format": "Numérique",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28958,
+              "ordre": 1,
+              "idEvenement": 18607,
+              "dateHeure": "2019-03-23T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 400,
           "idFilm": 42473,
           "titre": "Eaux printanières",
           "art": "Les",
@@ -429,6 +452,9 @@
             "Timothy Hutton",
             "Valeria Golino"
           ],
+          "duree": 101,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 28963,
@@ -471,7 +497,7 @@
           ],
           "duree": 3,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 28966,
@@ -482,9 +508,19 @@
                 "GF",
                 "Georges Franju"
               ]
+            },
+            {
+              "idSeance": 30321,
+              "ordre": 1,
+              "idEvenement": 18610,
+              "dateHeure": "2019-04-07T17:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
             }
           ],
-          "precedeSuivi": "Film suivi de _Quatre nuits avec Anna_."
+          "precedeSuivi": "Film suivi de _Quatre nuits avec Anna_ de Jerzy Skolimowski."
         },
         {
           "idCycle": 400,
@@ -505,6 +541,9 @@
             "Zach Cohen",
             "Iftach Ofir"
           ],
+          "duree": 83,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 28972,
@@ -527,7 +566,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film précédé de _L'Oeil torve_."
+          "precedeSuivi": "Film précédé de _L'Œil torve_ de Jerzy Skolimowski."
         },
         {
           "idCycle": 400,
@@ -566,7 +605,7 @@
               "idSeance": 29058,
               "ordre": 1,
               "idEvenement": 18612,
-              "dateHeure": "2019-04-07T19:00:00",
+              "dateHeure": "2019-04-07T19:15:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -598,6 +637,9 @@
             "Jerzy Skolimowski",
             "Alan Bates"
           ],
+          "duree": 72,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 28941,
@@ -620,12 +662,12 @@
               ]
             }
           ],
-          "precedeSuivi": "Film précédé de _Le Petit Hamlet_."
+          "precedeSuivi": "Film précédé de _Le Petit Hamlet_ de Jerzy Skolimowski."
         },
         {
           "idCycle": 400,
           "idFilm": 63057,
-          "titre": "Oeil torve",
+          "titre": "Œil torve",
           "art": "L'",
           "titreVo": "Oko wykol",
           "realisateurs": "Jerzy Skolimowski",
@@ -666,7 +708,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film suivi d'_Essential killing_."
+          "precedeSuivi": "Film suivi d'_Essential killing_ de Jerzy Skolimowski."
         },
         {
           "idCycle": 400,
@@ -690,7 +732,7 @@
           ],
           "duree": 8,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 28941,
@@ -713,7 +755,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film suivi de _Haut les mains_."
+          "precedeSuivi": "Film suivi de _Haut les mains_ de Jerzy Skolimowski."
         },
         {
           "idCycle": 400,
@@ -746,9 +788,19 @@
                 "GF",
                 "Georges Franju"
               ]
+            },
+            {
+              "idSeance": 30321,
+              "ordre": 2,
+              "idEvenement": 18610,
+              "dateHeure": "2019-04-07T17:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
             }
           ],
-          "precedeSuivi": "Film précédé d'_Erotik_."
+          "precedeSuivi": "Film précédé d'_Erotik_ de Jerzy Skolimowski."
         },
         {
           "idCycle": 400,
@@ -809,22 +861,30 @@
             {
               "typeTexte": 9,
               "texte": "Quelques heures de la vie d'Andrzej, étudiant de vingt-quatre ans, à la veille de décider si, oui ou non, il va partir pour un service militaire de deux ans."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré en 4K par Kadr dans le cadre du programme Polish Film Classics.\n\nRessortie en salles par Malavida le 20 mars 2019."
             }
           ],
           "generique": [
             "Jerzy Skolimowski",
             "Elzbieta Czyzewska"
           ],
+          "duree": 76,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 29528,
+              "idSeance": 30337,
               "ordre": 1,
               "idEvenement": 18617,
-              "dateHeure": "2019-03-16T20:00:00",
+              "dateHeure": "2019-03-16T19:45:00",
               "idSalle": [
                 "LE",
                 "Lotte Eisner"
-              ]
+              ],
+              "mention": "Séance suivie d'une discussion avec Jerzy Skolimowski"
             },
             {
               "idSeance": 29837,
@@ -897,6 +957,10 @@
             {
               "typeTexte": 9,
               "texte": "Trois maçons polonais et leur contremaître, Novak, viennent à Londres travailler au noir. Novak, autoritaire, est le seul à parler anglais. Lorsqu'il prend connaissance du coup d'État en Pologne, il tait la nouvelle à ses compatriotes."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré en 2K par Goldcrestpour MK2.\n\nRessortie en salles par Malavida le 20 mars 2019."
             }
           ],
           "generique": [
@@ -905,12 +969,15 @@
             "Jirí Stanislav",
             "Eugeniusz Haczkiewicz"
           ],
+          "duree": 97,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 29919,
               "ordre": 1,
               "idEvenement": 18623,
-              "dateHeure": "2019-03-14T20:00:00",
+              "dateHeure": "2019-03-14T20:30:00",
               "idSalle": [
                 "LE",
                 "Lotte Eisner"
@@ -925,7 +992,8 @@
               "idSalle": [
                 "LE",
                 "Lotte Eisner"
-              ]
+              ],
+              "mention": "Séance présentée par Jerzy Skolimowski"
             },
             {
               "idSeance": 29875,
@@ -950,17 +1018,25 @@
             {
               "typeTexte": 9,
               "texte": "Andrzej Leszczyc, ancien boxeur, retrouve par hasard une femme qui l'a jadis trahi. Elle l'invite à l'accompagner dans sa journée et il en tombe amoureux. Mais une vieille connaissance le convainc de remonter sur le ring."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré en 4K par Kadr Film Studio dans le cadre du programme Polish Film Classics, à partir du négatif 35 mm original.\n\nRessortie en salles par Malavida le 3 avril 2019."
             }
           ],
           "generique": [
             "Jerzy Skolimowski",
             "Elzbieta Czyzewska"
           ],
+          "duree": 78,
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 28081,
               "ordre": 1,
               "idEvenement": 18616,
+              "titreEvenement": "Walkover",
               "dateHeure": "2019-03-17T14:15:00",
               "idSalle": [
                 "HL",
@@ -971,6 +1047,7 @@
               "idSeance": 28945,
               "ordre": 1,
               "idEvenement": 18616,
+              "titreEvenement": "Walkover",
               "dateHeure": "2019-03-21T14:15:00",
               "idSalle": [
                 "HL",
@@ -1004,6 +1081,9 @@
             "Jerzy Skolimowski",
             "Ted Curson"
           ],
+          "duree": 52,
+          "format": "Numérique",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 28986,
@@ -1017,7 +1097,7 @@
               "mention": "Séance présentée par Damien Bertrand"
             }
           ],
-          "precedeSuivi": "Film précédé de _Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste_."
+          "precedeSuivi": "Film précédé de _Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste_ de Damien Bertrand."
         },
         {
           "idCycle": 400,
@@ -1032,6 +1112,9 @@
               "texte": "Embrassant dans un même mouvement films, poèmes et œuvre peinte, le documentaire ouvre un espace où Skolimowski se livre à un autoportrait et exprime, dans sa langue natale, le majestueux désespoir de sa condition d'artiste exilé."
             }
           ],
+          "duree": 52,
+          "format": "Numérique",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 28986,
@@ -1045,7 +1128,7 @@
               "mention": "Séance présentée par Damien Bertrand"
             }
           ],
-          "precedeSuivi": "Film suivi d'_Andrzej Trzaskowski, le cerveau du jazz polonais_."
+          "precedeSuivi": "Film suivi d'_Andrzej Trzaskowski, le cerveau du jazz polonais_ de Damien Bertrand."
         }
       ]
     }

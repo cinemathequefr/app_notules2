@@ -9,6 +9,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Départ (Le)",
     "items": [
       {
         "idFilm": 39062,
@@ -32,6 +33,7 @@
       "LE",
       "Lotte Eisner"
     ],
+    "titreEvenement": "Cri du sorcier (Le)",
     "items": [
       {
         "idFilm": 41108,
@@ -56,6 +58,7 @@
       "LE",
       "Lotte Eisner"
     ],
+    "titreEvenement": "Travail au noir",
     "items": [
       {
         "idFilm": 41099,
@@ -75,11 +78,12 @@
     "idCategorie": 1810,
     "idEvenement": 18599,
     "idSeance": 30323,
-    "dateHeure": "2019-03-15T21:30:00",
+    "dateHeure": "2019-03-15T21:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Barrière (La)",
     "items": [
       {
         "idFilm": 29677,
@@ -99,11 +103,12 @@
     "idCategorie": 1810,
     "idEvenement": 18600,
     "idSeance": 28074,
-    "dateHeure": "2019-03-16T16:45:00",
+    "dateHeure": "2019-03-16T17:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Bateau-phare (Le)",
     "items": [
       {
         "idFilm": 37025,
@@ -128,34 +133,12 @@
       "LE",
       "Lotte Eisner"
     ],
+    "titreEvenement": "Signes particuliers : néant",
     "items": [
       {
         "idFilm": 56920,
         "ordre": 1,
         "idSeance": 30337,
-        "idCopie": 17601,
-        "duree": 76,
-        "version": "VOSTF",
-        "format": "DCP",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1810,
-    "idEvenement": 18617,
-    "idSeance": 29528,
-    "dateHeure": "2019-03-16T21:30:00",
-    "idSalle": [
-      "LE",
-      "Lotte Eisner"
-    ],
-    "items": [
-      {
-        "idFilm": 56920,
-        "ordre": 1,
-        "idSeance": 29528,
         "idCopie": 17601,
         "duree": 76,
         "version": "VOSTF",
@@ -169,35 +152,13 @@
     "idCycle": 400,
     "idCategorie": 1810,
     "idEvenement": 18623,
-    "idSeance": 30336,
-    "dateHeure": "2019-03-16T21:30:00",
-    "idSalle": [
-      "LE",
-      "Lotte Eisner"
-    ],
-    "items": [
-      {
-        "idFilm": 41099,
-        "ordre": 1,
-        "idSeance": 30336,
-        "idCopie": 17604,
-        "duree": 97,
-        "version": "VOSTF",
-        "format": "DCP",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 400,
-    "idCategorie": 1810,
-    "idEvenement": 18623,
     "idSeance": 29606,
     "dateHeure": "2019-03-16T22:00:00",
     "idSalle": [
       "LE",
       "Lotte Eisner"
     ],
+    "titreEvenement": "Travail au noir",
     "items": [
       {
         "idFilm": 41099,
@@ -222,6 +183,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Walkover",
     "items": [
       {
         "idFilm": 45046,
@@ -245,6 +207,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Deep End",
     "items": [
       {
         "idFilm": 39977,
@@ -269,6 +232,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Succès à tout prix (Le)",
     "items": [
       {
         "idFilm": 54742,
@@ -292,6 +256,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Petit Hamlet (Le) / Haut les mains",
     "items": [
       {
         "idFilm": 63058,
@@ -325,6 +290,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Aventures du brigadier Gérard (Les)",
     "items": [
       {
         "idFilm": 44835,
@@ -348,6 +314,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Walkover",
     "items": [
       {
         "idFilm": 45046,
@@ -371,6 +338,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Barrière (La)",
     "items": [
       {
         "idFilm": 29677,
@@ -394,6 +362,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Bateau-phare (Le)",
     "items": [
       {
         "idFilm": 37025,
@@ -417,6 +386,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Départ (Le)",
     "items": [
       {
         "idFilm": 39062,
@@ -440,6 +410,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Signes particuliers : néant",
     "items": [
       {
         "idFilm": 56920,
@@ -463,6 +434,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Dialog 20-40-60",
     "items": [
       {
         "idFilm": 71896,
@@ -486,6 +458,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Cri du sorcier (Le)",
     "items": [
       {
         "idFilm": 41108,
@@ -509,6 +482,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Eaux printanières (Les)",
     "items": [
       {
         "idFilm": 42473,
@@ -532,6 +506,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Ferdydurke",
     "items": [
       {
         "idFilm": 29678,
@@ -555,6 +530,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Erotik / Quatre nuits avec Anna",
     "items": [
       {
         "idFilm": 82614,
@@ -588,6 +564,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Oeil torve (L') / Essential killing",
     "items": [
       {
         "idFilm": 63057,
@@ -621,6 +598,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Bourse ou la vie (La) / 11 minutes",
     "items": [
       {
         "idFilm": 63053,
@@ -654,6 +632,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Petit Hamlet (Le) / Haut les mains",
     "items": [
       {
         "idFilm": 63058,
@@ -687,6 +666,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Roi, dame, valet",
     "items": [
       {
         "idFilm": 45045,
@@ -710,6 +690,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "titreEvenement": "Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste / Andrzej Trzaskowski, le cerveau du",
     "items": [
       {
         "idFilm": 94510,
@@ -744,6 +725,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Succès à tout prix (Le)",
     "items": [
       {
         "idFilm": 54742,
@@ -767,6 +749,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Roi, dame, valet",
     "items": [
       {
         "idFilm": 45045,
@@ -790,6 +773,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Travail au noir",
     "items": [
       {
         "idFilm": 41099,
@@ -813,6 +797,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Erotik / Quatre nuits avec Anna",
     "items": [
       {
         "idFilm": 82614,
@@ -846,6 +831,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Ferdydurke",
     "items": [
       {
         "idFilm": 29678,
@@ -869,6 +855,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Bourse ou la vie (La) / 11 minutes",
     "items": [
       {
         "idFilm": 63053,
@@ -902,6 +889,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Aventures du brigadier Gérard (Les)",
     "items": [
       {
         "idFilm": 44835,
@@ -925,6 +913,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Oeil torve (L') / Essential killing",
     "items": [
       {
         "idFilm": 63057,
@@ -958,6 +947,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Eaux printanières (Les)",
     "items": [
       {
         "idFilm": 42473,

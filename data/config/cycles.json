@@ -53,7 +53,7 @@
       },
       {
         "titre": "Autour de Bruno Nuytten",
-        "cats": [1893],
+        "cats": [1904],
         "tri": 1
       },
       {
@@ -221,17 +221,33 @@
       {
         "titre": "Courts métrages",
         "cats": [1752],
-        "tri": 3
+        "tri": 1
       },
       {
         "titre": "Documentaires, films pédagogiques",
         "cats": [1755],
-        "tri": 3
+        "tri": 1
       },
       {
         "titre": "Autour d'Éric Rohmer",
         "cats": [1754],
-        "tri": 2
+        "tri": 1
+      }
+    ]
+  },
+  {
+    "idProg": 55,
+    "idCycleProg": 340,
+    "titreCycle": "Youssef Chahine",
+    "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1781],
+        "tri": 1
+      },
+      {
+        "titre": "Documentaire",
+        "cats": [1859],
+        "tri": 1
       }
     ]
   },

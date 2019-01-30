@@ -171,5 +171,26 @@ Jeu 28 mar 19h30 GF
 
 ## Autour de Bruno Nuytten
 
+**Brubaker**  
+de Stuart Rosenberg  
+États-Unis / 1980 / 131 min / VOSTF  
+D'après le livre _Accomplices to the Crime: The Arkansas Prison Scandal_ de Thomas O. Murton et Joe Hyams.  
+Avec Robert Redford, Yaphet Kotto, Jane Alexander, Murray Hamilton.  
+Henry Brubaker, dissimulé pendant plusieurs jours parmi les trois cents détenus du pénitencier de Wakefield, est en fait le nouveau directeur de la prison, nommé pour réformer l'établissement.  
+Dim 24 mar 18h45 HL
+
+**Détective**  
+de Jean-Luc Godard  
+France / 1984 / 98 min / VF / 35 mm  
+Avec Nathalie Baye, Claude Brasseur, Johnny Hallyday, Jean-Pierre Léaud.  
+Dans un grand hôtel parisien, près de la gare St-Lazare, deux flics enquêtent sur la mort prématurée du Prince. Dans les couloirs, tel un labyrinthe, des personnages cherchent leur chemin. Et leurs histoires se croisent par instants.  
+Mer 27 mar 14h15 HL
+
+**Nuytten/Film**  
+de Caroline Champetier  
+France / 2015 / 80 min / DCP  
+_« Dans les années 80, Bruno Nuytten était une star de la cinématographie. De Duras à Blier, de Téchiné à Berri, il créait des images qui rendent ces films inoubliables. Lui-même a réalisé trois films puis abandonné le cinéma. J'ai toujours voulu comprendre, sentant confusément la profondeur de cette désertion. De cela et du reste Bruno et moi avons parlé plusieurs jours. »_ Caroline Champetier  
+Mer 3 avr 19h00 JE
+
 ## Rencontres et conférences
 

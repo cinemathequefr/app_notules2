@@ -6,6 +6,7 @@ const {
 
 const helpers = require("./lib/helpers.js");
 const merge = require("./lib/transforms/merge.js");
+const cleanTitreEvenement = require("./lib/transforms/clean_titre_evenement.js");
 const render = require("./lib/transforms/render.js");
 const markdown = require("./lib/transforms/markdown.js");
 
@@ -30,18 +31,21 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
     `./data/cycles/${filename.films}.json`
   );
 
-  let cycle = merge(cycleConfig, films, seances); // Fusion des données (renvoie `{data,info}`)
+  let cycle = merge(cycleConfig, films, seances); // Etape MERGE : fusion des données (renvoie `{data,info}`)
+
+  cycle = cleanTitreEvenement(cycle); // cf. journal 30/01/19
+
   cycle = render(cycle.data);
   cycle = {
     header: cycleConfig,
     data: cycle
   };
 
-  // await writeFile(
-  //   `data/cycles/CYCLE${cycleConfig.idCycleProg}_RENDER.json`,
-  //   JSON.stringify(cycle, null, 2),
-  //   "utf8"
-  // );
+  await writeFile(
+    `data/cycles/CYCLE${cycleConfig.idCycleProg}_RENDER.json`,
+    JSON.stringify(cycle, null, 2),
+    "utf8"
+  );
 
   let md = markdown(cycle);
 

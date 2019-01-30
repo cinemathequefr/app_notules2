@@ -27,7 +27,7 @@ de Jerzy Skolimowski
 Pologne / 1966 / 83 min / VOSTF / 35 mm  
 Avec Jan Nowicki, Tadeusz Lomnicki, Joanna Szczerbic.  
 Sur un coup de tête, un étudiant en médecine laisse tout tomber pour partir à la recherche d'une vie meilleure.  
-Ven 15 mar 21h30 GF  
+Ven 15 mar 21h45 GF  
 Séance présentée par Jerzy Skolimowski  
 Jeu 21 mar 16h15 HL
 
@@ -37,7 +37,10 @@ de Jerzy Skolimowski
 États-Unis / 1985 / 87 min / VOSTF / DCP  
 Avec Klaus Maria Brandauer, Robert Duvall, Tom Bower.  
 Dans les années 1950, le capitaine d'un bateau-phare au passé douteux et en conflit avec son fils, un adolescent rebelle, recueille à son bord des gangsters en fuite.  
-Sam 16 mar 16h45 HL  
+Film restauré en 4K par l'Atelier d'images et Malavida avec TitraFilm.
+
+Ressortie en salles par Malavida le 3 avril 2019.  
+Sam 16 mar 17h15 HL  
 Séance présentée par Jerzy Skolimowski  
 Jeu 21 mar 19h30 HL
 
@@ -47,7 +50,7 @@ de Jerzy Skolimowski
 Pologne / 1959 / 6 min / VOSTF / DCP  
 Avec Stanislaw Dygat, Bohdan Lazuka, Stefan Wiechecki.  
 Claus, architecte, est dans une situation désespérée à tout point de vue. Soudain, une solution facile à tous ses problèmes se présente.  
-Film suivi de _11 minutes_de Jerzy Skolimowski.  
+Film suivi de _11 minutes_ de Jerzy Skolimowski.  
 Dim 24 mar 21h00 GF  
 Dim 7 avr 21h30 GF
 
@@ -74,6 +77,7 @@ de Jerzy Skolimowski
 Belgique / 1967 / 88 min / VOSTF / DCP  
 Avec Jean-Pierre Léaud, Catherine Duport, Jacqueline Bir, Paul Roland.  
 À Bruxelles, Marc, jeune garçon coiffeur, rêve de participer à un rallye automobile. Ne pouvant emprunter la Porsche de son patron, il a deux jours pour trouver une voiture. Dans cet intervalle, il rencontre une jeune fille, Michèle.  
+Restauration 2K financée par Malavida et réalisée par Titra films, à partir d'un fichier réétalonné et validé par Willy Kurant.  
 Jeu 14 mar 14h30 HL  
 Ven 22 mar 14h30 HL
 
@@ -98,7 +102,7 @@ de Jerzy Skolimowski
 Pologne / 1960 / 3 min / VOSTF / 35 mm  
 Avec Elzbieta Czyzewska, Gustaw Holoubek.  
 Une jeune fille essuie son miroir lorsqu'elle y aperçoit le reflet d'un homme. Il commence à la courtiser de manière étrange. Mais cette apparition intrusive et déconcertante se transforme vite en cauchemar.  
-Film suivi de _Quatre nuits avec Anna_de Jerzy Skolimowski.  
+Film suivi de _Quatre nuits avec Anna_ de Jerzy Skolimowski.  
 Dim 24 mar 14h30 GF  
 Dim 7 avr 17h15 GF
 
@@ -138,7 +142,7 @@ de Jerzy Skolimowski
 Pologne / 1959 / 3 min / 35 mm  
 Avec Iwona Sloczynska, Wojciech Solarz.  
 Un jeune homme au strabisme prononcé s'improvise lanceur de couteaux.  
-Film suivi d'_Essential killing_de Jerzy Skolimowski.  
+Film suivi d'_Essential killing_ de Jerzy Skolimowski.  
 Dim 24 mar 19h00 GF  
 Lun 8 avr 19h00 GF
 
@@ -148,7 +152,7 @@ de Jerzy Skolimowski
 Pologne / 1959 / 8 min / VOSTF / 35 mm  
 Avec Elzbieta Czyzewska, Wieslaw Golas, Zdzislaw Lesniak.  
 Au son d'un vieux gramophone, cinq jeunes rejouent à leur manière _Hamlet_, la célèbre pièce de Shakespeare. Peu à peu, la folie la plus totale finit par tous les ensorceler.  
-Film suivi de _Haut les mains_de Jerzy Skolimowski.  
+Film suivi de _Haut les mains_ de Jerzy Skolimowski.  
 Mer 20 mar 19h30 GF  
 Lun 25 mar 14h30 HL
 
@@ -178,8 +182,10 @@ de Jerzy Skolimowski
 Pologne / 1962 / 76 min / VOSTF / DCP  
 Avec Jerzy Skolimowski, Elzbieta Czyzewska.  
 Quelques heures de la vie d'Andrzej, étudiant de vingt-quatre ans, à la veille de décider si, oui ou non, il va partir pour un service militaire de deux ans.  
+Film restauré en 4K par Kadr dans le cadre du programme Polish Film Classics.
+
+Ressortie en salles par Malavida le 20 mars 2019.  
 Sam 16 mar 19h45 LE  
-Sam 16 mar 21h30 LE  
 Séance suivie d'une discussion avec Jerzy Skolimowski  
 Ven 22 mar 17h00 GF
 
@@ -198,9 +204,11 @@ de Jerzy Skolimowski
 Grande-Bretagne / 1982 / 97 min / VOSTF / DCP  
 Avec Jeremy Irons, Eugene Lipinski, Jirí Stanislav, Eugeniusz Haczkiewicz.  
 Trois maçons polonais et leur contremaître, Novak, viennent à Londres travailler au noir. Novak, autoritaire, est le seul à parler anglais. Lorsqu'il prend connaissance du coup d'État en Pologne, il tait la nouvelle à ses compatriotes.  
+Film restauré en 2K par Goldcrestpour MK2.
+
+Ressortie en salles par Malavida le 20 mars 2019.  
 Jeu 14 mar 20h30 LE  
 Séance présentée par Jerzy Skolimowski  
-Sam 16 mar 21h30 LE  
 Sam 16 mar 22h00 LE  
 Séance présentée par Jerzy Skolimowski  
 Jeu 4 avr 18h30 HL
@@ -210,6 +218,9 @@ de Jerzy Skolimowski
 Pologne / 1965 / 78 min / VOSTF / DCP  
 Avec Jerzy Skolimowski, Elzbieta Czyzewska.  
 Andrzej Leszczyc, ancien boxeur, retrouve par hasard une femme qui l'a jadis trahi. Elle l'invite à l'accompagner dans sa journée et il en tombe amoureux. Mais une vieille connaissance le convainc de remonter sur le ring.  
+Film restauré en 4K par Kadr Film Studio dans le cadre du programme Polish Film Classics, à partir du négatif 35 mm original.
+
+Ressortie en salles par Malavida le 3 avril 2019.  
 Dim 17 mar 14h15 HL  
 Jeu 21 mar 14h15 HL
 
@@ -228,7 +239,7 @@ Séance présentée par Damien Bertrand
 de Damien Bertrand  
 France / 2003 / 52 min / VOSTF / Numérique  
 Embrassant dans un même mouvement films, poèmes et œuvre peinte, le documentaire ouvre un espace où Skolimowski se livre à un autoportrait et exprime, dans sa langue natale, le majestueux désespoir de sa condition d'artiste exilé.  
-Film suivi d'_Andrzej Trzaskowski, le cerveau du jazz polonais_de Damien Bertrand.  
+Film suivi d'_Andrzej Trzaskowski, le cerveau du jazz polonais_ de Damien Bertrand.  
 Mer 27 mar 20h30 JE  
 Séance présentée par Damien Bertrand
 

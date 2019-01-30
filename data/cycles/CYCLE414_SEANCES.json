@@ -209,6 +209,29 @@
   },
   {
     "idCycle": 414,
+    "idCategorie": 1904,
+    "idEvenement": 18994,
+    "idSeance": 29925,
+    "dateHeure": "2019-03-24T18:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 35497,
+        "ordre": 1,
+        "idSeance": 29925,
+        "idCopie": 18051,
+        "duree": 131,
+        "version": "VOSTF",
+        "format": "",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 414,
     "idCategorie": 1845,
     "idEvenement": 18568,
     "idSeance": 29874,
@@ -294,6 +317,29 @@
         "idCopie": 17699,
         "duree": 127,
         "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 414,
+    "idCategorie": 1904,
+    "idEvenement": 18995,
+    "idSeance": 29932,
+    "dateHeure": "2019-03-27T14:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 48843,
+        "ordre": 1,
+        "idSeance": 29932,
+        "idCopie": 15699,
+        "duree": 98,
+        "version": "VF",
         "format": "35 mm",
         "valide": 1
       }
@@ -525,6 +571,29 @@
         "duree": 90,
         "version": "",
         "format": "Vidéo",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 414,
+    "idCategorie": 1904,
+    "idEvenement": 18888,
+    "idSeance": 29870,
+    "dateHeure": "2019-04-03T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 128837,
+        "ordre": 1,
+        "idSeance": 29870,
+        "idCopie": 17899,
+        "duree": 80,
+        "version": "",
+        "format": "DCP",
         "valide": 1
       }
     ]
