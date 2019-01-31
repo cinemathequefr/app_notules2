@@ -9,6 +9,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Dolce vita (La)",
     "items": [
       {
         "idFilm": 43326,
@@ -32,6 +33,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Fellini Roma",
     "items": [
       {
         "idFilm": 43398,
@@ -55,6 +57,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Clowns (Les)",
     "items": [
       {
         "idFilm": 43316,
@@ -78,6 +81,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Les Vitelloni (Les)",
     "items": [
       {
         "idFilm": 43451,
@@ -101,6 +105,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Nuits de Cabiria (Les)",
     "items": [
       {
         "idFilm": 43378,
@@ -124,6 +129,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Bidone (Il)",
     "items": [
       {
         "idFilm": 43298,
@@ -147,6 +153,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Amarcord",
     "items": [
       {
         "idFilm": 43273,
@@ -170,6 +177,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Huit et demi",
     "items": [
       {
         "idFilm": 45182,
@@ -193,6 +201,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Juliette des esprits",
     "items": [
       {
         "idFilm": 43372,
@@ -216,6 +225,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Boccace 70",
     "items": [
       {
         "idFilm": 54133,
@@ -239,6 +249,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Feux du music-hall (Les)",
     "items": [
       {
         "idFilm": 42360,
@@ -262,6 +273,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Le Sheik blanc",
     "items": [
       {
         "idFilm": 43402,
@@ -285,6 +297,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Strada (La)",
     "items": [
       {
         "idFilm": 43408,
@@ -308,6 +321,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Nuits de Cabiria (Les)",
     "items": [
       {
         "idFilm": 43378,
@@ -331,6 +345,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Clowns (Les)",
     "items": [
       {
         "idFilm": 43316,
@@ -354,6 +369,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Amarcord",
     "items": [
       {
         "idFilm": 43273,
@@ -377,6 +393,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Intervista",
     "items": [
       {
         "idFilm": 43370,
@@ -400,6 +417,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Casanova de Fellini (Le)",
     "items": [
       {
         "idFilm": 43178,
@@ -423,6 +441,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Satyricon",
     "items": [
       {
         "idFilm": 43358,
@@ -446,6 +465,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Fellini Roma",
     "items": [
       {
         "idFilm": 43398,
@@ -469,6 +489,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Huit et demi",
     "items": [
       {
         "idFilm": 45182,
@@ -492,6 +513,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Strada (La)",
     "items": [
       {
         "idFilm": 43408,
@@ -515,6 +537,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Amour à la ville : Agence matrimoniale (L')",
     "items": [
       {
         "idFilm": 43286,
@@ -538,6 +561,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Sur les traces de Fellini",
     "items": [
       {
         "idFilm": 140626,
@@ -561,6 +585,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Répétition d'orchestre",
     "items": [
       {
         "idFilm": 43385,
@@ -584,6 +609,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Voce della luna (La)",
     "items": [
       {
         "idFilm": 43457,
@@ -607,6 +633,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Fellini",
     "items": [
       {
         "idFilm": 110587,
@@ -630,6 +657,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Bidone (Il)",
     "items": [
       {
         "idFilm": 43298,
@@ -653,6 +681,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Le Sheik blanc",
     "items": [
       {
         "idFilm": 43402,
@@ -676,6 +705,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Nuits de Cabiria (Les)",
     "items": [
       {
         "idFilm": 43378,
@@ -699,6 +729,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Cité des femmes (La)",
     "items": [
       {
         "idFilm": 43314,
@@ -722,6 +753,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Histoires extraordinaires",
     "items": [
       {
         "idFilm": 43320,
@@ -745,6 +777,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Les Vitelloni (Les)",
     "items": [
       {
         "idFilm": 43451,
@@ -768,6 +801,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Amarcord",
     "items": [
       {
         "idFilm": 43273,
@@ -791,6 +825,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Ginger et Fred",
     "items": [
       {
         "idFilm": 55717,
@@ -814,6 +849,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Répétition d'orchestre",
     "items": [
       {
         "idFilm": 43385,
@@ -837,6 +873,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Feux du music-hall (Les)",
     "items": [
       {
         "idFilm": 42360,
@@ -860,6 +897,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Cité des femmes (La)",
     "items": [
       {
         "idFilm": 43314,
@@ -883,6 +921,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Intervista",
     "items": [
       {
         "idFilm": 43370,
@@ -906,6 +945,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Histoires extraordinaires",
     "items": [
       {
         "idFilm": 43320,
@@ -929,6 +969,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Voce della luna (La)",
     "items": [
       {
         "idFilm": 43457,
@@ -952,6 +993,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Dolce vita (La)",
     "items": [
       {
         "idFilm": 43326,
@@ -975,6 +1017,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Amour à la ville : Agence matrimoniale (L')",
     "items": [
       {
         "idFilm": 43286,
@@ -998,6 +1041,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Clowns (Les)",
     "items": [
       {
         "idFilm": 43316,
@@ -1021,6 +1065,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Et vogue le navire",
     "items": [
       {
         "idFilm": 43327,
@@ -1044,6 +1089,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Il était une fois... la Dolce vita",
     "items": [
       {
         "idFilm": 116322,
@@ -1067,6 +1113,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Qu'il est étrange de s'appeler Federico",
     "items": [
       {
         "idFilm": 121475,
@@ -1090,6 +1137,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Ginger et Fred",
     "items": [
       {
         "idFilm": 55717,
@@ -1113,6 +1161,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Les Vitelloni (Les)",
     "items": [
       {
         "idFilm": 43451,
@@ -1136,6 +1185,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Le Sheik blanc",
     "items": [
       {
         "idFilm": 43402,
@@ -1159,6 +1209,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Sceicco ritrovato (Lo)",
     "items": [
       {
         "idFilm": 129055,
@@ -1182,6 +1233,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Huit et demi",
     "items": [
       {
         "idFilm": 45182,
@@ -1205,6 +1257,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "titreEvenement": "Bloc-notes d'un cinéaste / Et Fellini a rêvé de Picasso / Publicités réalisées par Fellini",
     "items": [
       {
         "idFilm": 65434,
@@ -1248,6 +1301,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Répétition d'orchestre",
     "items": [
       {
         "idFilm": 43385,
@@ -1271,6 +1325,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Strada (La)",
     "items": [
       {
         "idFilm": 43408,
@@ -1294,6 +1349,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Et vogue le navire",
     "items": [
       {
         "idFilm": 43327,
@@ -1317,6 +1373,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Bidone (Il)",
     "items": [
       {
         "idFilm": 43298,
@@ -1340,6 +1397,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Voce della luna (La)",
     "items": [
       {
         "idFilm": 43457,
@@ -1363,6 +1421,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Et vogue le navire",
     "items": [
       {
         "idFilm": 43327,
@@ -1386,6 +1445,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Ginger et Fred",
     "items": [
       {
         "idFilm": 55717,
@@ -1409,6 +1469,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Intervista",
     "items": [
       {
         "idFilm": 43370,
@@ -1432,6 +1493,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Dolce vita (La)",
     "items": [
       {
         "idFilm": 43326,
@@ -1455,6 +1517,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Sceicco ritrovato (Lo)",
     "items": [
       {
         "idFilm": 129055,

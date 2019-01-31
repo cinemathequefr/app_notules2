@@ -209,7 +209,7 @@ Film restauré en 2K par Goldcrestpour MK2.
 Ressortie en salles par Malavida le 20 mars 2019.  
 Jeu 14 mar 20h30 LE  
 Séance présentée par Jerzy Skolimowski  
-Sam 16 mar 22h00 LE  
+Sam 16 mar 21h30 LE  
 Séance présentée par Jerzy Skolimowski  
 Jeu 4 avr 18h30 HL
 

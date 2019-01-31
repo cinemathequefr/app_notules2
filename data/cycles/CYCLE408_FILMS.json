@@ -4,6 +4,7 @@
     "idFilm": 43273,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": 9,
     "realisateurs": "Federico Fellini",
     "annee": 1973,
     "pays": "Italie-France",
@@ -27,6 +28,7 @@
     "idFilm": 43286,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": null,
     "realisateurs": "Federico Fellini",
     "annee": 1953,
     "pays": "Italie",
@@ -49,6 +51,7 @@
     "idFilm": 43298,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": null,
     "realisateurs": "Federico Fellini",
     "annee": 1955,
     "pays": "Italie-France",
@@ -66,10 +69,12 @@
     ]
   },
   {
-    "titre": "Block-notes di un regista",
+    "titre": "Bloc-notes d'un cinéaste",
+    "titreVo": "Block-notes di un regista",
     "idFilm": 65434,
     "idCycle": 408,
     "idCategorie": 1867,
+    "ageMinimal": 0,
     "realisateurs": "Federico Fellini",
     "annee": 1969,
     "pays": "Italie",
@@ -92,6 +97,7 @@
     "idFilm": 54133,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": null,
     "realisateurs": "Mario Monicelli, Federico Fellini, Luchino Visconti, [etc.]",
     "annee": 1961,
     "pays": "Italie-France",
@@ -114,6 +120,7 @@
     "idFilm": 43178,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": 0,
     "realisateurs": "Federico Fellini",
     "annee": 1975,
     "pays": "Italie",
@@ -139,6 +146,7 @@
     "idFilm": 43314,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": null,
     "realisateurs": "Federico Fellini",
     "annee": 1979,
     "pays": "Italie-France",
@@ -165,6 +173,7 @@
     "idFilm": 43316,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": null,
     "realisateurs": "Federico Fellini",
     "annee": 1970,
     "pays": "Italie-France-RFA",
@@ -182,36 +191,12 @@
     ]
   },
   {
-    "titre": "Courrier du cœur = Le Sheik blanc",
-    "titreVo": "Sceicco bianco",
-    "artVo": "Lo",
-    "idFilm": 43402,
-    "idCycle": 408,
-    "idCategorie": 1837,
-    "realisateurs": "Federico Fellini",
-    "annee": 1951,
-    "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "En voyage de noces à Rome, Wanda, une lectrice passionnée de romans-photos, se perd et rencontre son héros sur la plage d'Ostie où se déroule un tournage."
-      }
-    ],
-    "generique": [
-      "Alberto Sordi",
-      "Brunella Bovo",
-      "Leopoldo Trieste",
-      "Giulietta Masina"
-    ]
-  },
-  {
-    "titre": "Douceur de vivre",
+    "titre": "Dolce vita",
     "art": "La",
-    "titreVo": "Dolce vita",
-    "artVo": "La",
     "idFilm": 43326,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": 0,
     "realisateurs": "Federico Fellini",
     "annee": 1959,
     "pays": "Italie-France",
@@ -238,6 +223,7 @@
     "idFilm": 140731,
     "idCycle": 408,
     "idCategorie": 1867,
+    "ageMinimal": null,
     "realisateurs": "Isaki Lacuesta",
     "annee": 2018,
     "pays": "Espagne",
@@ -254,6 +240,7 @@
     "idFilm": 43327,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": 0,
     "realisateurs": "Federico Fellini",
     "annee": 1982,
     "pays": "Italie-France",
@@ -275,6 +262,7 @@
     "idFilm": 110587,
     "idCycle": 408,
     "idCategorie": 1867,
+    "ageMinimal": null,
     "realisateurs": "André Delvaux",
     "annee": 1960,
     "pays": "Belgique",
@@ -291,6 +279,7 @@
     "idFilm": 43398,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": null,
     "realisateurs": "Federico Fellini",
     "annee": 1971,
     "pays": "Italie-France",
@@ -314,6 +303,7 @@
     "idFilm": 42360,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": 0,
     "realisateurs": "Federico Fellini, Alberto Lattuada",
     "annee": 1950,
     "pays": "Italie",
@@ -336,6 +326,7 @@
     "idFilm": 55717,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": null,
     "realisateurs": "Federico Fellini",
     "annee": 1985,
     "pays": "Italie-France-RFA",
@@ -353,10 +344,12 @@
     ]
   },
   {
-    "titre": "Histoires extraordinaires : Il ne faut jamais parier sa tête avec le diable",
+    "titre": "Histoires extraordinaires",
+    "titreVo": "Histoires extraordinaires : Il ne faut jamais parier sa tête avec le diable",
     "idFilm": 43320,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": 0,
     "realisateurs": "Federico Fellini",
     "annee": 1967,
     "pays": "France-Italie",
@@ -380,6 +373,7 @@
     "idFilm": 45182,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": null,
     "realisateurs": "Federico Fellini",
     "annee": 1962,
     "pays": "Italie-France",
@@ -401,6 +395,7 @@
     "idFilm": 116322,
     "idCycle": 408,
     "idCategorie": 1867,
+    "ageMinimal": null,
     "realisateurs": "Serge July, Antoine de Gaudemar, Marie Genin",
     "annee": 2009,
     "pays": "France",
@@ -416,6 +411,7 @@
     "idFilm": 43370,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": null,
     "realisateurs": "Federico Fellini",
     "annee": 1987,
     "pays": "Italie",
@@ -433,35 +429,12 @@
     ]
   },
   {
-    "titre": "Inutiles = Les Vitelloni",
-    "art": "Les",
-    "titreVo": "Vitelloni",
-    "artVo": "I",
-    "idFilm": 43451,
-    "idCycle": 408,
-    "idCategorie": 1837,
-    "realisateurs": "Federico Fellini",
-    "annee": 1953,
-    "pays": "Italie-France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "À la fin de l'été, dans les rues désertées de Pescara, une petite station balnéaire italienne. Cinq amis d'une trentaine d'années, surnommés « les vitelloni », se promènent sans rien faire, reculant sans cesse le moment d'affronter la vie d'adulte."
-      }
-    ],
-    "generique": [
-      "Franco Interlenghi",
-      "Franco Fabrizi",
-      "Alberto Sordi",
-      "Leopoldo Trieste"
-    ]
-  },
-  {
     "titre": "Juliette des esprits",
     "titreVo": "Giulietta degli spiriti",
     "idFilm": 43372,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": null,
     "realisateurs": "Federico Fellini",
     "annee": 1964,
     "pays": "Italie-France",
@@ -486,6 +459,7 @@
     "idFilm": 43378,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": 0,
     "realisateurs": "Federico Fellini",
     "annee": 1956,
     "pays": "Italie-France",
@@ -507,6 +481,7 @@
     "idFilm": 140730,
     "idCycle": 408,
     "idCategorie": 1867,
+    "ageMinimal": null,
     "realisateurs": "Federico Fellini",
     "annee": 1970,
     "pays": "Italie",
@@ -523,6 +498,7 @@
     "idFilm": 121475,
     "idCycle": 408,
     "idCategorie": 1867,
+    "ageMinimal": null,
     "realisateurs": "Ettore Scola",
     "annee": 2012,
     "pays": "Italie",
@@ -545,6 +521,7 @@
     "idFilm": 43385,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": null,
     "realisateurs": "Federico Fellini",
     "annee": 1978,
     "pays": "Italie-RFA",
@@ -567,6 +544,7 @@
     "idFilm": 43358,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": null,
     "realisateurs": "Federico Fellini",
     "annee": 1969,
     "pays": "Italie-France",
@@ -589,6 +567,7 @@
     "idFilm": 129055,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": null,
     "realisateurs": "Federico Fellini",
     "annee": 1952,
     "pays": "Italie",
@@ -600,11 +579,37 @@
     ]
   },
   {
+    "titre": "Sheik blanc",
+    "art": "Le",
+    "titreVo": "Sceicco bianco",
+    "artVo": "Lo",
+    "idFilm": 43402,
+    "idCycle": 408,
+    "idCategorie": 1837,
+    "ageMinimal": 0,
+    "realisateurs": "Federico Fellini",
+    "annee": 1951,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En voyage de noces à Rome, Wanda, une lectrice passionnée de romans-photos, se perd et rencontre son héros sur la plage d'Ostie où se déroule un tournage."
+      }
+    ],
+    "generique": [
+      "Alberto Sordi",
+      "Brunella Bovo",
+      "Leopoldo Trieste",
+      "Giulietta Masina"
+    ]
+  },
+  {
     "titre": "Strada",
     "art": "La",
     "idFilm": 43408,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": null,
     "realisateurs": "Federico Fellini",
     "annee": 1954,
     "pays": "Italie",
@@ -626,6 +631,7 @@
     "idFilm": 140626,
     "idCycle": 408,
     "idCategorie": 1867,
+    "ageMinimal": null,
     "realisateurs": "Gérald Morin",
     "annee": 2012,
     "pays": "Suisse",
@@ -637,11 +643,35 @@
     ]
   },
   {
+    "titre": "Vitelloni",
+    "art": "Les",
+    "idFilm": 43451,
+    "idCycle": 408,
+    "idCategorie": 1837,
+    "ageMinimal": 0,
+    "realisateurs": "Federico Fellini",
+    "annee": 1953,
+    "pays": "Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "À la fin de l'été, dans les rues désertées de Pescara, une petite station balnéaire italienne. Cinq amis d'une trentaine d'années, surnommés « les vitelloni », se promènent sans rien faire, reculant sans cesse le moment d'affronter la vie d'adulte."
+      }
+    ],
+    "generique": [
+      "Franco Interlenghi",
+      "Franco Fabrizi",
+      "Alberto Sordi",
+      "Leopoldo Trieste"
+    ]
+  },
+  {
     "titre": "Voce della luna",
     "art": "La",
     "idFilm": 43457,
     "idCycle": 408,
     "idCategorie": 1837,
+    "ageMinimal": 0,
     "realisateurs": "Federico Fellini",
     "annee": 1989,
     "pays": "Italie-France",

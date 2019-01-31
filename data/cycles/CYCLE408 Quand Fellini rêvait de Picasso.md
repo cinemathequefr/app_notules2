@@ -65,18 +65,7 @@ Ven 5 avr 15h00 GF
 Ven 12 avr 19h00 HL  
 Dim 28 avr 21h30 GF
 
-**Courrier du cœur = Le Sheik blanc**  
-**(Lo Sceicco bianco)**  
-de Federico Fellini  
-Italie / 1951 / 87 min / VOSTF / 35 mm  
-Avec Alberto Sordi, Brunella Bovo, Leopoldo Trieste, Giulietta Masina.  
-En voyage de noces à Rome, Wanda, une lectrice passionnée de romans-photos, se perd et rencontre son héros sur la plage d'Ostie où se déroule un tournage.  
-Mer 10 avr 21h45 GF  
-Jeu 18 avr 22h00 HL  
-Dim 5 mai 18h45 GF
-
-**La Douceur de vivre**  
-**(La Dolce vita)**  
+**La Dolce vita**  
 de Federico Fellini  
 Italie-France / 1959 / 172 min / VOSTF / DCP  
 Avec Marcello Mastroianni, Anita Ekberg, Anouk Aimée, Yvonne Furneaux.  
@@ -124,7 +113,8 @@ Dim 21 avr 19h30 HL
 Sam 4 mai 17h00 HL  
 Jeu 23 mai 14h30 HL
 
-**Histoires extraordinaires : Il ne faut jamais parier sa tête avec le diable**  
+**Histoires extraordinaires**  
+**(Histoires extraordinaires : Il ne faut jamais parier sa tête avec le diable)**  
 de Federico Fellini  
 France-Italie / 1967 / 120 min / VASTF / 35 mm  
 D'après la nouvelle _Il ne faut jamais parier sa tête avec le diable_ d'Edgar Allan Poe.  
@@ -151,16 +141,6 @@ Dans les studios de Cinecittà, Fellini répond aux questions de journalistes ja
 Sam 13 avr 14h30 HL  
 Lun 22 avr 21h45 GF  
 Ven 24 mai 14h30 HL
-
-**Les Inutiles = Les Vitelloni**  
-**(I Vitelloni)**  
-de Federico Fellini  
-Italie-France / 1953 / 107 min / VOSTF / 35 mm  
-Avec Franco Interlenghi, Franco Fabrizi, Alberto Sordi, Leopoldo Trieste.  
-À la fin de l'été, dans les rues désertées de Pescara, une petite station balnéaire italienne. Cinq amis d'une trentaine d'années, surnommés « les vitelloni », se promènent sans rien faire, reculant sans cesse le moment d'affronter la vie d'adulte.  
-Ven 5 avr 19h00 HL  
-Sam 20 avr 20h00 HL  
-Sam 4 mai 20h30 HL
 
 **Juliette des esprits**  
 **(Giulietta degli spiriti)**  
@@ -207,6 +187,16 @@ Moraldo Rossi, collaborateur de Federico Fellini sur _Le Cheik blanc,_ comment
 Dim 5 mai 20h45 GF  
 Lun 27 mai 14h30 GF
 
+**Le Sheik blanc**  
+**(Lo Sceicco bianco)**  
+de Federico Fellini  
+Italie / 1951 / 87 min / VOSTF / 35 mm  
+Avec Alberto Sordi, Brunella Bovo, Leopoldo Trieste, Giulietta Masina.  
+En voyage de noces à Rome, Wanda, une lectrice passionnée de romans-photos, se perd et rencontre son héros sur la plage d'Ostie où se déroule un tournage.  
+Mer 10 avr 21h45 GF  
+Jeu 18 avr 22h00 HL  
+Dim 5 mai 18h45 GF
+
 **La Strada**  
 de Federico Fellini  
 Italie / 1954 / 107 min / VOSTF / DCP  
@@ -215,6 +205,15 @@ Gelsomina est vendue par sa mère à Zampano, un saltimbanque qui la brutalise e
 Jeu 11 avr 16h30 HL  
 Lun 15 avr 14h30 HL  
 Mer 15 mai 14h30 GF
+
+**Les Vitelloni**  
+de Federico Fellini  
+Italie-France / 1953 / 107 min / VOSTF / 35 mm  
+Avec Franco Interlenghi, Franco Fabrizi, Alberto Sordi, Leopoldo Trieste.  
+À la fin de l'été, dans les rues désertées de Pescara, une petite station balnéaire italienne. Cinq amis d'une trentaine d'années, surnommés « les vitelloni », se promènent sans rien faire, reculant sans cesse le moment d'affronter la vie d'adulte.  
+Ven 5 avr 19h00 HL  
+Sam 20 avr 20h00 HL  
+Sam 4 mai 20h30 HL
 
 **La Voce della luna**  
 de Federico Fellini  
@@ -227,12 +226,13 @@ Lun 20 mai 14h30 HL
 
 ## Autour de Federico Fellini
 
-**Block-notes di un regista**  
+**Bloc-notes d'un cinéaste**  
+**(Block-notes di un regista)**  
 de Federico Fellini  
 Italie / 1969 / 60 min / VOSTF / Numérique  
 Avec Federico Fellini, Giulietta Masina, Marcello Mastroianni, Marina Boratto.  
 Face aux décors d_'Il viaggio di G. Mastorna_, Fellini se souvient de ce projet abandonné et parle du film qu'il veut réaliser, _Fellini-Satyricon_.  
-Film suivi d'_Et Fellini a rêvé de Picasso_d'Isaki Lacuesta, _Publicités réalisées par Fellini_de Federico Fellini.  
+Film suivi d'_Et Fellini a rêvé de Picasso_ d'Isaki Lacuesta, _Publicités réalisées par Fellini_ de Federico Fellini.  
 Jeu 9 mai 20h30 JE
 
 **Et Fellini a rêvé de Picasso**  
@@ -240,7 +240,7 @@ Jeu 9 mai 20h30 JE
 d'Isaki Lacuesta  
 Espagne / 2018 / 24 min / VOSTF / Numérique  
 Pour l'exposition _Et Fellini a rêvé de Picasso_ au musée Picasso de Málaga en 2018, Isaki Lacuesta rapproche les processus créatifs des deux artistes à partir de rêves récurrents du cinéaste sur sa rencontre avec le peintre.  
-Film précédé de _Block-notes di un regista_ de Federico Fellini et suivi de de _Publicités réalisées par Fellini_de Federico Fellini.  
+Film précédé de _Bloc-notes d'un cinéaste_ de Federico Fellini et suivi de de _Publicités réalisées par Fellini_ de Federico Fellini.  
 Jeu 9 mai 20h30 JE
 
 **Fellini**  
@@ -259,7 +259,7 @@ Ven 3 mai 19h30 GF
 de Federico Fellini  
 Italie / 1970 / 9 min / VOSTF / Numérique  
 Spots publicitaires réalisés pour la Banca di Roma notamment (_Leone_, _Treno_, _Tunnel_)  
-Film précédé de _Block-notes di un regista_ de Federico Fellini, _Et Fellini a rêvé de Picasso_ d'Isaki Lacuesta.  
+Film précédé de _Bloc-notes d'un cinéaste_ de Federico Fellini, _Et Fellini a rêvé de Picasso_ d'Isaki Lacuesta.  
 Jeu 9 mai 20h30 JE
 
 **Qu'il est étrange de s'appeler Federico**  

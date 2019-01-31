@@ -1,0 +1,1492 @@
+{
+  "header": {
+    "idProg": 55,
+    "idCycleProg": 408,
+    "titreCycle": "Quand Fellini rêvait de Picasso",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          1837
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Autour de Federico Fellini",
+        "cats": [
+          1867
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Rencontres et conférences",
+        "cats": [
+          1852
+        ],
+        "tri": 1
+      }
+    ]
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 408,
+          "idFilm": 43273,
+          "titre": "Amarcord",
+          "realisateurs": "Federico Fellini",
+          "annee": 1973,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À l'heure du fascisme triomphant, une année dans la petite ville de Rimini sur la côte adriatique. Une chronique vue au prisme de la famille de Titta, un collégien adepte de l'école buissonnière."
+            }
+          ],
+          "generique": [
+            "Bruno Zanin",
+            "Pupella Maggio",
+            "Armando Brancia",
+            "Stefano Proietti"
+          ],
+          "duree": 127,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29556,
+              "ordre": 1,
+              "idEvenement": 18392,
+              "dateHeure": "2019-04-06T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29083,
+              "ordre": 1,
+              "idEvenement": 18392,
+              "dateHeure": "2019-04-12T21:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29139,
+              "ordre": 1,
+              "idEvenement": 18392,
+              "dateHeure": "2019-04-21T16:45:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43286,
+          "titre": "Amour à la ville : Agence matrimoniale",
+          "art": "L'",
+          "titreVo": "Amore in città : Agenzia matrimoniale",
+          "realisateurs": "Federico Fellini",
+          "annee": 1953,
+          "pays": "Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "_Agence matrimoniale_, quatrième sketch de _L'Amour à la ville_, suit l'enquête d'un jeune journaliste sur les agences matrimoniales."
+            }
+          ],
+          "generique": [
+            "Antonio Cifariello",
+            "Livia Venturelli",
+            "Maresa Gallo",
+            "Angela Pierro"
+          ],
+          "duree": 85,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29105,
+              "ordre": 1,
+              "idEvenement": 18393,
+              "dateHeure": "2019-04-15T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 29187,
+              "ordre": 1,
+              "idEvenement": 18393,
+              "dateHeure": "2019-04-28T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43298,
+          "titre": "Bidone",
+          "art": "Il",
+          "realisateurs": "Federico Fellini",
+          "annee": 1955,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Trois misérables escrocs, Augusto, Picasso et Roberto, se déguisent en prêtres pour voler les pauvres. C'est ainsi qu'Augusto « travaille » aussi à assurer l'avenir de sa fille."
+            }
+          ],
+          "generique": [
+            "Broderick Crawford",
+            "Giulietta Masina",
+            "Richard Basehart",
+            "Franco Fabrizi"
+          ],
+          "duree": 108,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29044,
+              "ordre": 1,
+              "idEvenement": 18394,
+              "dateHeure": "2019-04-06T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29787,
+              "ordre": 1,
+              "idEvenement": 18394,
+              "dateHeure": "2019-04-18T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29665,
+              "ordre": 1,
+              "idEvenement": 18394,
+              "dateHeure": "2019-05-18T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 54133,
+          "titre": "Boccace 70",
+          "titreVo": "Boccaccio '70",
+          "realisateurs": "Mario Monicelli, Federico Fellini, Luchino Visconti, [etc.]",
+          "annee": 1961,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Quatre adaptations modernes des contes pour adultes de Boccace qui mettent en scène des femmes fatales, dont _Les_ _Tentations_ _du docteur Antoine_ de Fellini: un jour, on placarde en face de la maison d'un farouche défenseur de la vertu un immense panneau publicitaire où une femme plantureuse vante les bienfaits du lait."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "_sous réserve_"
+            }
+          ],
+          "duree": 200,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29054,
+              "ordre": 1,
+              "idEvenement": 18396,
+              "dateHeure": "2019-04-07T19:45:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43178,
+          "titre": "Casanova de Fellini = Casanova",
+          "art": "Le",
+          "titreVo": "Casanova di Federico Fellini",
+          "artVo": "Il",
+          "realisateurs": "Federico Fellini",
+          "annee": 1975,
+          "pays": "Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le séducteur mythique, Giacomo Casanova, est emprisonné à Venise à la suite d'un scandale. Il s'évade et voyage d'une cour européenne à l'autre."
+            }
+          ],
+          "adaptation": "D'après _Storia della mia vita_ de Giacomo Casanova.",
+          "generique": [
+            "Donald Sutherland",
+            "Tina Aumont",
+            "Cicely Browne",
+            "Carmen Scarpitta"
+          ],
+          "duree": 150,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29468,
+              "ordre": 1,
+              "idEvenement": 18398,
+              "titreEvenement": "Casanova de Fellini (Le)",
+              "dateHeure": "2019-04-13T18:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43314,
+          "titre": "Cité des femmes",
+          "art": "La",
+          "titreVo": "Citta delle donne",
+          "artVo": "La",
+          "realisateurs": "Federico Fellini",
+          "annee": 1979,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un vieux séducteur descend d'un train en pleine campagne pour suivre une belle voyageuse. Il se retrouve au cœur d'un congrès féministe."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Numérisé en 2K par Gaumont."
+            }
+          ],
+          "generique": [
+            "Marcello Mastroianni",
+            "Ettore Manni",
+            "Bernice Stegers",
+            "Anna Prucnal"
+          ],
+          "duree": 137,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29786,
+              "ordre": 1,
+              "idEvenement": 18399,
+              "dateHeure": "2019-04-19T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29486,
+              "ordre": 1,
+              "idEvenement": 18399,
+              "dateHeure": "2019-04-22T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43316,
+          "titre": "Clowns",
+          "art": "Les",
+          "realisateurs": "Federico Fellini",
+          "annee": 1970,
+          "pays": "Italie-France-RFA",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'enfant Fellini évoque la découverte du cirque et la magie des clowns de Rimini. L'adulte Fellini entreprend un voyage nostalgique à la rencontre d'anciens clowns et de leurs souvenirs."
+            }
+          ],
+          "generique": [
+            "Liana Orfei",
+            "Rinaldo Orfei",
+            "Nando Orfei",
+            "Franco Migliorini"
+          ],
+          "duree": 93,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29784,
+              "ordre": 1,
+              "idEvenement": 18400,
+              "dateHeure": "2019-04-05T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 29484,
+              "ordre": 1,
+              "idEvenement": 18400,
+              "dateHeure": "2019-04-12T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29559,
+              "ordre": 1,
+              "idEvenement": 18400,
+              "dateHeure": "2019-04-28T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43326,
+          "titre": "Dolce vita",
+          "art": "La",
+          "realisateurs": "Federico Fellini",
+          "annee": 1959,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un journaliste traverse avec désinvolture et amertume la folle vie nocturne de la _jet set_ romaine."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Copie restaurée par Pathé."
+            }
+          ],
+          "generique": [
+            "Marcello Mastroianni",
+            "Anita Ekberg",
+            "Anouk Aimée",
+            "Yvonne Furneaux"
+          ],
+          "duree": 172,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29025,
+              "ordre": 1,
+              "idEvenement": 18402,
+              "dateHeure": "2019-04-03T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29735,
+              "ordre": 1,
+              "idEvenement": 18402,
+              "dateHeure": "2019-04-27T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29666,
+              "ordre": 1,
+              "idEvenement": 18402,
+              "dateHeure": "2019-05-25T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43327,
+          "titre": "Et vogue le navire",
+          "titreVo": "E la nave va",
+          "realisateurs": "Federico Fellini",
+          "annee": 1982,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À la veille de la Première Guerre mondiale, un paquebot prend la mer pour déverser en plein océan les cendres d'une cantatrice célèbre."
+            }
+          ],
+          "generique": [
+            "Freddie Jones",
+            "Barbara Jefford",
+            "Victor Poletti",
+            "Peter Cellier"
+          ],
+          "duree": 128,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29827,
+              "ordre": 1,
+              "idEvenement": 18403,
+              "dateHeure": "2019-05-02T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29289,
+              "ordre": 1,
+              "idEvenement": 18403,
+              "dateHeure": "2019-05-16T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29327,
+              "ordre": 1,
+              "idEvenement": 18403,
+              "dateHeure": "2019-05-22T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43398,
+          "titre": "Fellini Roma",
+          "titreVo": "Roma",
+          "realisateurs": "Federico Fellini",
+          "annee": 1971,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Rome de 1930 à nos jours vue par un de ses admirateurs, Federico Fellini. Fresque monumentale où réalité et fantasme sont étroitement mêlés."
+            }
+          ],
+          "generique": [
+            "Federico Fellini",
+            "Marcello Mastroianni",
+            "Anna Magnani",
+            "Gore Vidal"
+          ],
+          "duree": 119,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29463,
+              "ordre": 1,
+              "idEvenement": 18404,
+              "dateHeure": "2019-04-04T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29095,
+              "ordre": 1,
+              "idEvenement": 18404,
+              "dateHeure": "2019-04-14T16:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 42360,
+          "titre": "Feux du music-hall",
+          "art": "Les",
+          "titreVo": "Luci del varietà",
+          "realisateurs": "Federico Fellini, Alberto Lattuada",
+          "annee": 1950,
+          "pays": "Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans l'Italie provinciale des années 1930, une petite troupe de théâtre ambulant accueille une jeune et belle danseuse, Liliana, attirée par le monde des paillettes."
+            }
+          ],
+          "generique": [
+            "Carla Del Poggio",
+            "Peppino De Filippo",
+            "Giulietta Masina",
+            "John Kitzmiller"
+          ],
+          "duree": 100,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29070,
+              "ordre": 1,
+              "idEvenement": 18405,
+              "dateHeure": "2019-04-10T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 29147,
+              "ordre": 1,
+              "idEvenement": 18405,
+              "dateHeure": "2019-04-22T16:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 55717,
+          "titre": "Ginger et Fred",
+          "titreVo": "Ginger e Fred",
+          "realisateurs": "Federico Fellini",
+          "annee": 1985,
+          "pays": "Italie-France-RFA",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Deux danseurs, qui imitaient trente ans auparavant le couple Ginger Rogers/Fred Astaire, se retrouvent à l'occasion d'une émission de télévision invitant des sosies d'artistes."
+            }
+          ],
+          "generique": [
+            "Marcello Mastroianni",
+            "Giulietta Masina",
+            "Franco Fabrizi",
+            "Frederick Ledebur"
+          ],
+          "duree": 127,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29140,
+              "ordre": 1,
+              "idEvenement": 18406,
+              "dateHeure": "2019-04-21T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29835,
+              "ordre": 1,
+              "idEvenement": 18406,
+              "dateHeure": "2019-05-04T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29332,
+              "ordre": 1,
+              "idEvenement": 18406,
+              "dateHeure": "2019-05-23T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43320,
+          "titre": "Histoires extraordinaires",
+          "titreVo": "Histoires extraordinaires : Il ne faut jamais parier sa tête avec le diable",
+          "realisateurs": "Federico Fellini",
+          "annee": 1967,
+          "pays": "France-Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Toby Dammit, un acteur britannique, se rend à Rome pour tourner un western à l'italienne. Lors d'une étrange soirée, durant laquelle défilent prêtres et journalistes, il est tourmenté par les apparitions d'une mystérieuse fillette."
+            }
+          ],
+          "adaptation": "D'après la nouvelle _Il ne faut jamais parier sa tête avec le diable_ d'Edgar Allan Poe.",
+          "generique": [
+            "Terence Stamp",
+            "Salvo Randone",
+            "Antonia Pietrosi",
+            "Polidor"
+          ],
+          "duree": 120,
+          "format": "35 mm",
+          "version": "VASTF",
+          "seance": [
+            {
+              "idSeance": 29131,
+              "ordre": 1,
+              "idEvenement": 18407,
+              "dateHeure": "2019-04-20T17:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29156,
+              "ordre": 1,
+              "idEvenement": 18407,
+              "dateHeure": "2019-04-24T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 45182,
+          "titre": "Huit et demi",
+          "titreVo": "Otto e mezzo",
+          "realisateurs": "Federico Fellini",
+          "annee": 1962,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le cinéaste Guido Anselmi, en cure dans une station thermale, éprouve la crise du créateur. Alors qu'il cherche l'inspiration pour son prochain film, il se trouve happé par ses souvenirs et ses fantasmes."
+            }
+          ],
+          "generique": [
+            "Marcello Mastroianni",
+            "Claudia Cardinale",
+            "Anouk Aimée",
+            "Sandra Milo"
+          ],
+          "duree": 128,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29046,
+              "ordre": 1,
+              "idEvenement": 18408,
+              "dateHeure": "2019-04-06T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29483,
+              "ordre": 1,
+              "idEvenement": 18408,
+              "dateHeure": "2019-04-14T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29554,
+              "ordre": 1,
+              "idEvenement": 18408,
+              "dateHeure": "2019-05-08T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43370,
+          "titre": "Intervista",
+          "realisateurs": "Federico Fellini",
+          "annee": 1987,
+          "pays": "Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans les studios de Cinecittà, Fellini répond aux questions de journalistes japonais tandis qu'il prépare une adaptation de _L'Amérique_ de Franz Kafka."
+            }
+          ],
+          "generique": [
+            "Federico Fellini",
+            "Sergio Rubini",
+            "Antonella Ponziani",
+            "Maurizio Mein"
+          ],
+          "duree": 106,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29097,
+              "ordre": 1,
+              "idEvenement": 18409,
+              "dateHeure": "2019-04-13T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29120,
+              "ordre": 1,
+              "idEvenement": 18409,
+              "dateHeure": "2019-04-22T21:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 29338,
+              "ordre": 1,
+              "idEvenement": 18409,
+              "dateHeure": "2019-05-24T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43372,
+          "titre": "Juliette des esprits",
+          "titreVo": "Giulietta degli spiriti",
+          "realisateurs": "Federico Fellini",
+          "annee": 1964,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le jour où Juliette, bourgeoise et conformiste, se met à soupçonner son mari de vouloir la quitter, son extravagante voisine l'entraîne alors dans un monde onirique et fantasmagorique."
+            }
+          ],
+          "generique": [
+            "Giulietta Masina",
+            "Sandra Milo",
+            "Mario Pisu",
+            "Sylva Koscina"
+          ],
+          "duree": 129,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29053,
+              "ordre": 1,
+              "idEvenement": 18411,
+              "dateHeure": "2019-04-07T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43378,
+          "titre": "Nuits de Cabiria",
+          "art": "Les",
+          "titreVo": "Notti di Cabiria",
+          "artVo": "Le",
+          "realisateurs": "Federico Fellini",
+          "annee": 1956,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une petite prostituée romaine croit découvrir l'amour avec un homme qui se révèle être un escroc."
+            }
+          ],
+          "generique": [
+            "Giulietta Masina",
+            "François Périer",
+            "Franca Marzi",
+            "Dorian Gray"
+          ],
+          "duree": 115,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29435,
+              "ordre": 1,
+              "idEvenement": 18412,
+              "dateHeure": "2019-04-05T21:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29073,
+              "ordre": 1,
+              "idEvenement": 18412,
+              "dateHeure": "2019-04-11T21:45:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29785,
+              "ordre": 1,
+              "idEvenement": 18412,
+              "dateHeure": "2019-04-19T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43385,
+          "titre": "Répétition d'orchestre",
+          "titreVo": "Prova d'orchestra",
+          "realisateurs": "Federico Fellini",
+          "annee": 1978,
+          "pays": "Italie-RFA",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une équipe de télévision fait un reportage dans un monastère sur la préparation d'un concert par un orchestre réputé. Un groupe de musiciens se révolte contre le pouvoir tyrannique du chef d'orchestre."
+            }
+          ],
+          "generique": [
+            "Balduin Baas",
+            "Clara Colosimo",
+            "Elizabeth Labi",
+            "Ronaldo Bonacchi"
+          ],
+          "duree": 70,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29114,
+              "ordre": 1,
+              "idEvenement": 18413,
+              "dateHeure": "2019-04-17T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 29485,
+              "ordre": 1,
+              "idEvenement": 18413,
+              "dateHeure": "2019-04-21T22:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29789,
+              "ordre": 1,
+              "idEvenement": 18413,
+              "dateHeure": "2019-05-13T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43358,
+          "titre": "Satyricon",
+          "titreVo": "Fellini Satyricon",
+          "realisateurs": "Federico Fellini",
+          "annee": 1969,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans la Rome antique, Encolpe et Ascylte, deux étudiants du quartier souterrain de Subure où ils vivent de rapines, se disputent les faveurs de leur jeune esclave, Giton. Les trois comparses, tour à tour désunis et réunis, vivent différentes histoires au gré de leurs rencontres."
+            }
+          ],
+          "generique": [
+            "Martin Potter",
+            "Hiram Keller",
+            "Max Born",
+            "Luigi Fanfulla"
+          ],
+          "duree": 138,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29467,
+              "ordre": 1,
+              "idEvenement": 18414,
+              "dateHeure": "2019-04-13T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 129055,
+          "titre": "Sceicco ritrovato",
+          "art": "Lo",
+          "realisateurs": "Federico Fellini",
+          "annee": 1952,
+          "pays": "Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Moraldo Rossi, collaborateur de Federico Fellini sur _Le Cheik blanc,_ commente et compare les scènes coupées par Fellini avant la présentation du film à Venise avec la version définitive.\n\n."
+            }
+          ],
+          "duree": 50,
+          "format": "Vidéo",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29231,
+              "ordre": 1,
+              "idEvenement": 18415,
+              "dateHeure": "2019-05-05T20:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 29362,
+              "ordre": 1,
+              "idEvenement": 18415,
+              "dateHeure": "2019-05-27T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43402,
+          "titre": "Sheik blanc",
+          "art": "Le",
+          "titreVo": "Sceicco bianco",
+          "artVo": "Lo",
+          "realisateurs": "Federico Fellini",
+          "annee": 1951,
+          "pays": "Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En voyage de noces à Rome, Wanda, une lectrice passionnée de romans-photos, se perd et rencontre son héros sur la plage d'Ostie où se déroule un tournage."
+            }
+          ],
+          "generique": [
+            "Alberto Sordi",
+            "Brunella Bovo",
+            "Leopoldo Trieste",
+            "Giulietta Masina"
+          ],
+          "duree": 87,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29071,
+              "ordre": 1,
+              "idEvenement": 18401,
+              "titreEvenement": "Le Sheik blanc",
+              "dateHeure": "2019-04-10T21:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 29149,
+              "ordre": 1,
+              "idEvenement": 18401,
+              "titreEvenement": "Le Sheik blanc",
+              "dateHeure": "2019-04-18T22:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29230,
+              "ordre": 1,
+              "idEvenement": 18401,
+              "titreEvenement": "Le Sheik blanc",
+              "dateHeure": "2019-05-05T18:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43408,
+          "titre": "Strada",
+          "art": "La",
+          "realisateurs": "Federico Fellini",
+          "annee": 1954,
+          "pays": "Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Gelsomina est vendue par sa mère à Zampano, un saltimbanque qui la brutalise et ne cesse de la tromper. Ils partent ensemble sur les routes, vivant misérablement du numéro de Zampano. Surgit le Fou, violoniste et poète, qui seul sait parler à Gelsomina."
+            }
+          ],
+          "generique": [
+            "Giulietta Masina",
+            "Anthony Quinn",
+            "Richard Basehart",
+            "Aldo Silvani"
+          ],
+          "duree": 107,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29074,
+              "ordre": 1,
+              "idEvenement": 18416,
+              "dateHeure": "2019-04-11T16:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29103,
+              "ordre": 1,
+              "idEvenement": 18416,
+              "dateHeure": "2019-04-15T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29284,
+              "ordre": 1,
+              "idEvenement": 18416,
+              "dateHeure": "2019-05-15T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43451,
+          "titre": "Vitelloni",
+          "art": "Les",
+          "realisateurs": "Federico Fellini",
+          "annee": 1953,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À la fin de l'été, dans les rues désertées de Pescara, une petite station balnéaire italienne. Cinq amis d'une trentaine d'années, surnommés « les vitelloni », se promènent sans rien faire, reculant sans cesse le moment d'affronter la vie d'adulte."
+            }
+          ],
+          "generique": [
+            "Franco Interlenghi",
+            "Franco Fabrizi",
+            "Alberto Sordi",
+            "Leopoldo Trieste"
+          ],
+          "duree": 107,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29434,
+              "ordre": 1,
+              "idEvenement": 18410,
+              "titreEvenement": "Les Vitelloni (Les)",
+              "dateHeure": "2019-04-05T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29555,
+              "ordre": 1,
+              "idEvenement": 18410,
+              "titreEvenement": "Les Vitelloni (Les)",
+              "dateHeure": "2019-04-20T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29736,
+              "ordre": 1,
+              "idEvenement": 18410,
+              "titreEvenement": "Les Vitelloni (Les)",
+              "dateHeure": "2019-05-04T20:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 43457,
+          "titre": "Voce della luna",
+          "art": "La",
+          "realisateurs": "Federico Fellini",
+          "annee": 1989,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Ivo Salvini, un vagabond, part pour une étrange contrée rendre un escarpin d'argent à la blonde Aldina, si belle qu'il la prend pour la lune."
+            }
+          ],
+          "generique": [
+            "Roberto Benigni",
+            "Paolo Villaggio",
+            "Nadia Ottaviani",
+            "Marisa Tomasi"
+          ],
+          "duree": 120,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29669,
+              "ordre": 1,
+              "idEvenement": 18417,
+              "dateHeure": "2019-04-17T21:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 29157,
+              "ordre": 1,
+              "idEvenement": 18417,
+              "dateHeure": "2019-04-24T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 29318,
+              "ordre": 1,
+              "idEvenement": 18417,
+              "dateHeure": "2019-05-20T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Autour de Federico Fellini",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 408,
+          "idFilm": 65434,
+          "titre": "Bloc-notes d'un cinéaste",
+          "titreVo": "Block-notes di un regista",
+          "realisateurs": "Federico Fellini",
+          "annee": 1969,
+          "pays": "Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Face aux décors d_'Il viaggio di G. Mastorna_, Fellini se souvient de ce projet abandonné et parle du film qu'il veut réaliser, _Fellini-Satyricon_."
+            }
+          ],
+          "generique": [
+            "Federico Fellini",
+            "Giulietta Masina",
+            "Marcello Mastroianni",
+            "Marina Boratto"
+          ],
+          "duree": 60,
+          "format": "Numérique",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29825,
+              "ordre": 1,
+              "idEvenement": 18395,
+              "dateHeure": "2019-05-09T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film suivi d'_Et Fellini a rêvé de Picasso_ d'Isaki Lacuesta, _Publicités réalisées par Fellini_ de Federico Fellini."
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 140731,
+          "titre": "Et Fellini a rêvé de Picasso",
+          "titreVo": "Y Fellini sono con Picasso",
+          "realisateurs": "Isaki Lacuesta",
+          "annee": 2018,
+          "pays": "Espagne",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pour l'exposition _Et Fellini a rêvé de Picasso_ au musée Picasso de Málaga en 2018, Isaki Lacuesta rapproche les processus créatifs des deux artistes à partir de rêves récurrents du cinéaste sur sa rencontre avec le peintre."
+            }
+          ],
+          "duree": 24,
+          "format": "Numérique",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29825,
+              "ordre": 2,
+              "idEvenement": 18395,
+              "dateHeure": "2019-05-09T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé de _Bloc-notes d'un cinéaste_ de Federico Fellini et suivi de de _Publicités réalisées par Fellini_ de Federico Fellini."
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 110587,
+          "titre": "Fellini",
+          "realisateurs": "André Delvaux",
+          "annee": 1960,
+          "pays": "Belgique",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Documentaire en quatre épisodes, conçu à partir de longs entretiens et rencontres avec Fellini, réalisé entre 1960 et 1962 pour la RTBF et la Cinémathèque Royale de Belgique."
+            }
+          ],
+          "duree": 187,
+          "format": "16 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29818,
+              "ordre": 1,
+              "idEvenement": 18901,
+              "dateHeure": "2019-04-18T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 116322,
+          "titre": "Il était une fois : La Dolce vita TV",
+          "realisateurs": "Serge July, Antoine de Gaudemar, Marie Genin",
+          "annee": 2009,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Antoine de Gaudemar convoque de nombreux témoins (Anouk Aimée, Antonio Tabucchi...) pour évoquer ce film mythique, récit de l'errance d'un journaliste « de fête en fête, de nuit en nuit et de femme en femme »."
+            }
+          ],
+          "duree": 52,
+          "format": "Numérique",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29213,
+              "ordre": 1,
+              "idEvenement": 18780,
+              "titreEvenement": "Il était une fois... la Dolce vita",
+              "dateHeure": "2019-05-03T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 140730,
+          "titre": "Publicités réalisées par Fellini",
+          "realisateurs": "Federico Fellini",
+          "annee": 1970,
+          "pays": "Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Spots publicitaires réalisés pour la Banca di Roma notamment (_Leone_, _Treno_, _Tunnel_)"
+            }
+          ],
+          "duree": 9,
+          "format": "Numérique",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29825,
+              "ordre": 3,
+              "idEvenement": 18395,
+              "dateHeure": "2019-05-09T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé de _Bloc-notes d'un cinéaste_ de Federico Fellini, _Et Fellini a rêvé de Picasso_ d'Isaki Lacuesta."
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 121475,
+          "titre": "Qu'il est étrange de s'appeler Federico",
+          "titreVo": "Che strano chiamarsi Federico ! Scola racconta Fellini",
+          "realisateurs": "Ettore Scola",
+          "annee": 2012,
+          "pays": "Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans ce film hommage, Ettore Scola revient sur sa rencontre avec Federico Fellini, au journal Marc'Aurelio dans les Années 50, sur leurs amis communs, parmi lesquels Marcello Mastroianni, et leur passion commune du cinéma."
+            }
+          ],
+          "generique": [
+            "Tommaso Lazzotti",
+            "Maurizio De Santis",
+            "Giacomo Lazotti",
+            "Giulio Forges Davanzati"
+          ],
+          "duree": 93,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29214,
+              "ordre": 1,
+              "idEvenement": 18779,
+              "dateHeure": "2019-05-03T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 408,
+          "idFilm": 140626,
+          "titre": "Sur les traces de Fellini",
+          "realisateurs": "Gérald Morin",
+          "annee": 2012,
+          "pays": "Suisse",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Gérald Morin, ancien assistant de Fellini, retourne en Italie sur ses traces et fait appel à certains de ses anciens collaborateurs pour évoquer le « Maestro »."
+            }
+          ],
+          "duree": 80,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29824,
+              "ordre": 1,
+              "idEvenement": 18778,
+              "dateHeure": "2019-04-15T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 1,
+      "items": []
+    }
+  ]
+}
