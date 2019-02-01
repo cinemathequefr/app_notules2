@@ -49,7 +49,7 @@
       {
         "titre": "Courts métrages",
         "cats": [1893],
-        "tri": 1
+        "tri": 3
       },
       {
         "titre": "Autour de Bruno Nuytten",
@@ -154,7 +154,7 @@
       {
         "titre": "Autour de Jerzy Skolimowski",
         "cats": [1850],
-        "tri": 1
+        "tri": 3
       }
     ]
   },
@@ -221,17 +221,17 @@
       {
         "titre": "Courts métrages",
         "cats": [1752],
-        "tri": 1
+        "tri": 3
       },
       {
         "titre": "Documentaires, films pédagogiques",
         "cats": [1755],
-        "tri": 1
+        "tri": 3
       },
       {
         "titre": "Autour d'Éric Rohmer",
         "cats": [1754],
-        "tri": 1
+        "tri": 3
       }
     ]
   },

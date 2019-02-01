@@ -27,7 +27,7 @@ de Jerzy Skolimowski
 Pologne / 1966 / 83 min / VOSTF / 35 mm  
 Avec Jan Nowicki, Tadeusz Lomnicki, Joanna Szczerbic.  
 Sur un coup de tête, un étudiant en médecine laisse tout tomber pour partir à la recherche d'une vie meilleure.  
-Ven 15 mar 21h45 GF  
+Ven 15 mar 21h15 GF  
 Séance présentée par Jerzy Skolimowski  
 Jeu 21 mar 16h15 HL
 
@@ -226,20 +226,17 @@ Jeu 21 mar 14h15 HL
 
 ## Autour de Jerzy Skolimowski
 
-**Andrzej Trzaskowski, le cerveau du jazz polonais**  
-de Damien Bertrand  
-France / 2006 / 52 min / VOSTF / Numérique  
-Avec Anrdrzej Trzaskowski, Teresa Trzaskowska, Jerzy Skolimowski, Ted Curson.  
-Le compositeur de _Walkower_ fut le véritable cerveau du jazz polonais. De l'époque de la guerre froide (où il introduisit en contrebande cette musique prohibée par le régime) à la chute du mur de Berlin, portrait d'un pianiste discret mais obstiné, avant-gardiste et lyrique, obsédé par le renouvellement du langage harmonique du jazz.  
-Film précédé de _Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste_ de Damien Bertrand.  
-Mer 27 mar 20h30 JE  
-Séance présentée par Damien Bertrand
-
 **Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste**  
 de Damien Bertrand  
 France / 2003 / 52 min / VOSTF / Numérique  
 Embrassant dans un même mouvement films, poèmes et œuvre peinte, le documentaire ouvre un espace où Skolimowski se livre à un autoportrait et exprime, dans sa langue natale, le majestueux désespoir de sa condition d'artiste exilé.  
-Film suivi d'_Andrzej Trzaskowski, le cerveau du jazz polonais_ de Damien Bertrand.  
+suivi de  
+**Andrzej Trzaskowski, le cerveau du jazz polonais**  
+de Damien Bertrand  
+France / 2006 / 52 min / VOSTF / Numérique  
+Avec Anrdrzej Trzaskowski, Teresa Trzaskowska, Jerzy Skolimowski, Ted Curson.  
+Le compositeur de _Walkower_ fut le véritable cerveau du jazz polonais. De l'époque de la guerre froide (où il introduisit en contrebande cette musique prohibée par le régime) à la chute du mur de Berlin, portrait d'un pianiste discret mais obstiné, avant-gardiste et lyrique, obsédé par le renouvellement du langage harmonique du jazz.
+
 Mer 27 mar 20h30 JE  
 Séance présentée par Damien Bertrand
 

@@ -1,5 +1,4 @@
-[
-  {
+[{
     "idCycle": 357,
     "idCategorie": 1777,
     "idEvenement": 17615,
@@ -10,18 +9,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Nuits de la pleine lune (Les)",
-    "items": [
-      {
-        "idFilm": 51037,
-        "ordre": 1,
-        "idSeance": 26369,
-        "idCopie": 16968,
-        "duree": 100,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ],
+    "items": [{
+      "idFilm": 51037,
+      "ordre": 1,
+      "idSeance": 26369,
+      "idCopie": 16968,
+      "duree": 100,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }],
     "mention": "Ouverture de la rétrospective"
   },
   {
@@ -35,18 +32,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme #6: Cinéastes de notre temps : Le celluloïd et le marbre",
-    "items": [
-      {
-        "idFilm": 125419,
-        "ordre": 1,
-        "idSeance": 26374,
-        "idCopie": 17025,
-        "duree": 90,
-        "version": "",
-        "format": "Numérique",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 125419,
+      "ordre": 1,
+      "idSeance": 26374,
+      "idCopie": 17025,
+      "duree": 90,
+      "version": "",
+      "format": "Numérique",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -59,18 +54,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Signe du lion (Le)",
-    "items": [
-      {
-        "idFilm": 50966,
-        "ordre": 1,
-        "idSeance": 27965,
-        "idCopie": 16949,
-        "duree": 102,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 50966,
+      "ordre": 1,
+      "idSeance": 27965,
+      "idCopie": 16949,
+      "duree": 102,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -83,8 +76,7 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Boulangère de Monceau (La) / Carrière de Suzanne (La)",
-    "items": [
-      {
+    "items": [{
         "idFilm": 50968,
         "ordre": 1,
         "idSeance": 26382,
@@ -118,18 +110,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme #3 : Louis Lumière",
-    "items": [
-      {
-        "idFilm": 58539,
-        "ordre": 1,
-        "idSeance": 27811,
-        "idCopie": 14992,
-        "duree": 65,
-        "version": "",
-        "format": "16 mm",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 58539,
+      "ordre": 1,
+      "idSeance": 27811,
+      "idCopie": 14992,
+      "duree": 65,
+      "version": "",
+      "format": "16 mm",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -142,18 +132,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Genou de Claire (Le)",
-    "items": [
-      {
-        "idFilm": 51014,
-        "ordre": 1,
-        "idSeance": 26383,
-        "idCopie": 16959,
-        "duree": 105,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 51014,
+      "ordre": 1,
+      "idSeance": 26383,
+      "idCopie": 16959,
+      "duree": 105,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -166,18 +154,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Amour l'après-midi (L')",
-    "items": [
-      {
-        "idFilm": 51010,
-        "ordre": 1,
-        "idSeance": 26384,
-        "idCopie": 16205,
-        "duree": 95,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 51010,
+      "ordre": 1,
+      "idSeance": 26384,
+      "idCopie": 16205,
+      "duree": 95,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -190,8 +176,7 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme #5: Cinéastes de notre temps",
-    "items": [
-      {
+    "items": [{
         "idFilm": 125420,
         "ordre": 1,
         "idSeance": 26392,
@@ -224,18 +209,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Pauline à la plage",
-    "items": [
-      {
-        "idFilm": 51040,
-        "ordre": 1,
-        "idSeance": 27764,
-        "idCopie": 16967,
-        "duree": 100,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 51040,
+      "ordre": 1,
+      "idSeance": 27764,
+      "idCopie": 16967,
+      "duree": 100,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -248,18 +231,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Collectionneuse (La)",
-    "items": [
-      {
-        "idFilm": 54250,
-        "ordre": 1,
-        "idSeance": 26396,
-        "idCopie": 16956,
-        "duree": 90,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 54250,
+      "ordre": 1,
+      "idSeance": 26396,
+      "idCopie": 16956,
+      "duree": 90,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -272,18 +253,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Beau mariage (Le)",
-    "items": [
-      {
-        "idFilm": 50967,
-        "ordre": 1,
-        "idSeance": 26398,
-        "idCopie": 16966,
-        "duree": 95,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 50967,
+      "ordre": 1,
+      "idSeance": 26398,
+      "idCopie": 16966,
+      "duree": 95,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -296,18 +275,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Perceval le Gallois",
-    "items": [
-      {
-        "idFilm": 51041,
-        "ordre": 1,
-        "idSeance": 27987,
-        "idCopie": 16964,
-        "duree": 140,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 51041,
+      "ordre": 1,
+      "idSeance": 27987,
+      "idCopie": 16964,
+      "duree": 140,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -320,18 +297,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Marquise d'O (La)",
-    "items": [
-      {
-        "idFilm": 51016,
-        "ordre": 1,
-        "idSeance": 27966,
-        "idCopie": 16962,
-        "duree": 105,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ],
+    "items": [{
+      "idFilm": 51016,
+      "ordre": 1,
+      "idSeance": 27966,
+      "idCopie": 16962,
+      "duree": 105,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }],
     "mention": "Séance présentée par Margaret Ménégoz"
   },
   {
@@ -345,18 +320,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Ami de mon amie (L')",
-    "items": [
-      {
-        "idFilm": 50974,
-        "ordre": 1,
-        "idSeance": 26406,
-        "idCopie": 16952,
-        "duree": 100,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 50974,
+      "ordre": 1,
+      "idSeance": 26406,
+      "idCopie": 16952,
+      "duree": 100,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -369,18 +342,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Triple agent",
-    "items": [
-      {
-        "idFilm": 90170,
-        "ordre": 1,
-        "idSeance": 26407,
-        "idCopie": 16973,
-        "duree": 115,
-        "version": "",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 90170,
+      "ordre": 1,
+      "idSeance": 26407,
+      "idCopie": 16973,
+      "duree": 115,
+      "version": "",
+      "format": "35 mm",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -393,8 +364,7 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme #15: Ville nouvelle : L'Enfance d'une ville / La Diversité du paysage urbain",
-    "items": [
-      {
+    "items": [{
         "idFilm": 140052,
         "ordre": 1,
         "idSeance": 27967,
@@ -427,18 +397,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Ma nuit chez Maud",
-    "items": [
-      {
-        "idFilm": 51015,
-        "ordre": 1,
-        "idSeance": 26414,
-        "idCopie": 4998,
-        "duree": 110,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 51015,
+      "ordre": 1,
+      "idSeance": 26414,
+      "idCopie": 4998,
+      "duree": 110,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -451,18 +419,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Femme de l'aviateur (La)",
-    "items": [
-      {
-        "idFilm": 51013,
-        "ordre": 1,
-        "idSeance": 27970,
-        "idCopie": 16965,
-        "duree": 104,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 51013,
+      "ordre": 1,
+      "idSeance": 27970,
+      "idCopie": 16965,
+      "duree": 104,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -475,8 +441,7 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme # 16: Ville nouvelle : La Forme de la ville / Le Logement à la demande",
-    "items": [
-      {
+    "items": [{
         "idFilm": 140061,
         "ordre": 1,
         "idSeance": 27968,
@@ -509,18 +474,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Amours d'Astrée et de Céladon (Les)",
-    "items": [
-      {
-        "idFilm": 102415,
-        "ordre": 1,
-        "idSeance": 27683,
-        "idCopie": 16961,
-        "duree": 110,
-        "version": "",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 102415,
+      "ordre": 1,
+      "idSeance": 27683,
+      "idCopie": 16961,
+      "duree": 110,
+      "version": "",
+      "format": "35 mm",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -533,18 +496,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Paris vu par",
-    "items": [
-      {
-        "idFilm": 58085,
-        "ordre": 1,
-        "idSeance": 27993,
-        "idCopie": 17023,
-        "duree": 98,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 58085,
+      "ordre": 1,
+      "idSeance": 27993,
+      "idCopie": 17023,
+      "duree": 98,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -557,18 +518,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Quatre aventures de Reinette et Mirabelle",
-    "items": [
-      {
-        "idFilm": 50964,
-        "ordre": 1,
-        "idSeance": 26427,
-        "idCopie": 16970,
-        "duree": 100,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 50964,
+      "ordre": 1,
+      "idSeance": 26427,
+      "idCopie": 16970,
+      "duree": 100,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -581,18 +540,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Arbre, le maire et la médiathèque (L')",
-    "items": [
-      {
-        "idFilm": 50963,
-        "ordre": 1,
-        "idSeance": 27986,
-        "idCopie": 16971,
-        "duree": 105,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ],
+    "items": [{
+      "idFilm": 50963,
+      "ordre": 1,
+      "idSeance": 27986,
+      "idCopie": 16971,
+      "duree": 105,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }],
     "mention": "Séance présentée par Françoise Etchegaray et Pascal Greggory (sous réserve)"
   },
   {
@@ -606,18 +563,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme #2: Trio en Mi bémol",
-    "items": [
-      {
-        "idFilm": 140225,
-        "ordre": 1,
-        "idSeance": 28090,
-        "idCopie": 17139,
-        "duree": 75,
-        "version": "",
-        "format": "Numérique",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 140225,
+      "ordre": 1,
+      "idSeance": 28090,
+      "idCopie": 17139,
+      "duree": 75,
+      "version": "",
+      "format": "Numérique",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -630,18 +585,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Conte de printemps",
-    "items": [
-      {
-        "idFilm": 51012,
-        "ordre": 1,
-        "idSeance": 26442,
-        "idCopie": 7990,
-        "duree": 110,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 51012,
+      "ordre": 1,
+      "idSeance": 26442,
+      "idCopie": 7990,
+      "duree": 110,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -654,8 +607,7 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme #12: série civilisations 1",
-    "items": [
-      {
+    "items": [{
         "idFilm": 125421,
         "ordre": 1,
         "idSeance": 27901,
@@ -698,18 +650,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Conte d'été",
-    "items": [
-      {
-        "idFilm": 59940,
-        "ordre": 1,
-        "idSeance": 26450,
-        "idCopie": 289,
-        "duree": 113,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ],
+    "items": [{
+      "idFilm": 59940,
+      "ordre": 1,
+      "idSeance": 26450,
+      "idCopie": 289,
+      "duree": 113,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }],
     "mention": "Séance présentée par Melvil Poupaud (sous réserve) et Amanda Langlet"
   },
   {
@@ -723,18 +673,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Conte d'hiver",
-    "items": [
-      {
-        "idFilm": 51011,
-        "ordre": 1,
-        "idSeance": 26449,
-        "idCopie": 7989,
-        "duree": 114,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ],
+    "items": [{
+      "idFilm": 51011,
+      "ordre": 1,
+      "idSeance": 26449,
+      "idCopie": 7989,
+      "duree": 114,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }],
     "mention": "Séance présentée par Charlotte Véry"
   },
   {
@@ -748,8 +696,7 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme #13: série civilisations 2",
-    "items": [
-      {
+    "items": [{
         "idFilm": 125424,
         "ordre": 1,
         "idSeance": 26457,
@@ -782,18 +729,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme #14: Jeux de société",
-    "items": [
-      {
-        "idFilm": 65426,
-        "ordre": 1,
-        "idSeance": 27985,
-        "idCopie": 17031,
-        "duree": 57,
-        "version": "",
-        "format": "Numérique",
-        "valide": 0
-      }
-    ]
+    "items": [{
+      "idFilm": 65426,
+      "ordre": 1,
+      "idSeance": 27985,
+      "idCopie": 17031,
+      "duree": 57,
+      "version": "",
+      "format": "Numérique",
+      "valide": 0
+    }]
   },
   {
     "idCycle": 357,
@@ -806,18 +751,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Conte d'automne",
-    "items": [
-      {
-        "idFilm": 29520,
-        "ordre": 1,
-        "idSeance": 26474,
-        "idCopie": 7985,
-        "duree": 110,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ],
+    "items": [{
+      "idFilm": 29520,
+      "ordre": 1,
+      "idSeance": 26474,
+      "idCopie": 7985,
+      "duree": 110,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }],
     "mention": "Séance présentée par Diane Baratier"
   },
   {
@@ -831,18 +774,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Rendez-vous de Paris (Les)",
-    "items": [
-      {
-        "idFilm": 57553,
-        "ordre": 1,
-        "idSeance": 26472,
-        "idCopie": 16972,
-        "duree": 100,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 57553,
+      "ordre": 1,
+      "idSeance": 26472,
+      "idCopie": 16972,
+      "duree": 100,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -855,18 +796,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Anglaise et le duc (L')",
-    "items": [
-      {
-        "idFilm": 75244,
-        "ordre": 1,
-        "idSeance": 26482,
-        "idCopie": 9943,
-        "duree": 129,
-        "version": "VO",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ],
+    "items": [{
+      "idFilm": 75244,
+      "ordre": 1,
+      "idSeance": 26482,
+      "idCopie": 9943,
+      "duree": 129,
+      "version": "VO",
+      "format": "35 mm",
+      "valide": 1
+    }],
     "mention": "Séance présentée par Françoise Etchegaray"
   },
   {
@@ -880,8 +819,7 @@
       "Jean Epstein"
     ],
     "titreEvenement": "Programme #4 : Postfaces cinéma",
-    "items": [
-      {
+    "items": [{
         "idFilm": 139028,
         "ordre": 1,
         "idSeance": 26491,
@@ -924,18 +862,16 @@
       "Jean Epstein"
     ],
     "titreEvenement": "Fabrique du Conte d'été (La)",
-    "items": [
-      {
-        "idFilm": 125401,
-        "ordre": 1,
-        "idSeance": 26492,
-        "idCopie": 17115,
-        "duree": 93,
-        "version": "",
-        "format": "Numérique",
-        "valide": 1
-      }
-    ],
+    "items": [{
+      "idFilm": 125401,
+      "ordre": 1,
+      "idSeance": 26492,
+      "idCopie": 17115,
+      "duree": 93,
+      "version": "",
+      "format": "Numérique",
+      "valide": 1
+    }],
     "mention": "Séance présentée par Françoise Etchegaray"
   },
   {
@@ -949,18 +885,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme #1: Catherine de Heilbronn",
-    "items": [
-      {
-        "idFilm": 140051,
-        "ordre": 1,
-        "idSeance": 26493,
-        "idCopie": 16953,
-        "duree": 138,
-        "version": "",
-        "format": "Numérique",
-        "valide": 0
-      }
-    ],
+    "items": [{
+      "idFilm": 140051,
+      "ordre": 1,
+      "idSeance": 26493,
+      "idCopie": 16953,
+      "duree": 138,
+      "version": "",
+      "format": "Numérique",
+      "valide": 0
+    }],
     "mention": "Séance présentée par Dominique Païni (sous réserve), Bulle Ogier et Emeraude Nicolas"
   },
   {
@@ -974,18 +908,16 @@
       "Georges Franju"
     ],
     "titreEvenement": "En compagnie d'Eric Rohmer",
-    "items": [
-      {
-        "idFilm": 125398,
-        "ordre": 1,
-        "idSeance": 26496,
-        "idCopie": 17116,
-        "duree": 86,
-        "version": "",
-        "format": "Numérique",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 125398,
+      "ordre": 1,
+      "idSeance": 26496,
+      "idCopie": 17116,
+      "duree": 86,
+      "version": "",
+      "format": "Numérique",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -998,8 +930,7 @@
       "Jean Epstein"
     ],
     "titreEvenement": "En répétant Perceval / Les Contes secrets ou les Rohmériens",
-    "items": [
-      {
+    "items": [{
         "idFilm": 140053,
         "ordre": 1,
         "idSeance": 26500,
@@ -1032,18 +963,16 @@
       "Jean Epstein"
     ],
     "titreEvenement": "Eric Rohmer : Preuves à l'appui",
-    "items": [
-      {
-        "idFilm": 62575,
-        "ordre": 1,
-        "idSeance": 26501,
-        "idCopie": 17114,
-        "duree": 116,
-        "version": "",
-        "format": "Numérique",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 62575,
+      "ordre": 1,
+      "idSeance": 26501,
+      "idCopie": 17114,
+      "duree": 116,
+      "version": "",
+      "format": "Numérique",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -1056,8 +985,7 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme de courts métrages #3: Anniversaires",
-    "items": [
-      {
+    "items": [{
         "idFilm": 125162,
         "ordre": 1,
         "idSeance": 28091,
@@ -1120,8 +1048,7 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme #7: Lettres 1",
-    "items": [
-      {
+    "items": [{
         "idFilm": 121765,
         "ordre": 1,
         "idSeance": 27903,
@@ -1174,8 +1101,7 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme # 8 : Lettres 2",
-    "items": [
-      {
+    "items": [{
         "idFilm": 121762,
         "ordre": 1,
         "idSeance": 27984,
@@ -1218,8 +1144,7 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme de courts métrages #4: Le Modèle",
-    "items": [
-      {
+    "items": [{
         "idFilm": 125130,
         "ordre": 1,
         "idSeance": 28092,
@@ -1292,18 +1217,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Rayon vert (Le)",
-    "items": [
-      {
-        "idFilm": 50965,
-        "ordre": 1,
-        "idSeance": 26522,
-        "idCopie": 16969,
-        "duree": 90,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 50965,
+      "ordre": 1,
+      "idSeance": 26522,
+      "idCopie": 16969,
+      "duree": 90,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -1316,8 +1239,7 @@
       "Georges Franju"
     ],
     "titreEvenement": "Programme de courts métrages #2",
-    "items": [
-      {
+    "items": [{
         "idFilm": 75300,
         "ordre": 1,
         "idSeance": 27991,
@@ -1360,8 +1282,7 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Programme #10: sciences et philosophie",
-    "items": [
-      {
+    "items": [{
         "idFilm": 121760,
         "ordre": 1,
         "idSeance": 26540,
@@ -1404,18 +1325,16 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Arbre, le maire et la médiathèque (L')",
-    "items": [
-      {
-        "idFilm": 50963,
-        "ordre": 1,
-        "idSeance": 28190,
-        "idCopie": 16971,
-        "duree": 105,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 50963,
+      "ordre": 1,
+      "idSeance": 28190,
+      "idCopie": 16971,
+      "duree": 105,
+      "version": "",
+      "format": "DCP",
+      "valide": 1
+    }]
   },
   {
     "idCycle": 357,
@@ -1428,8 +1347,7 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Programme #11: Entretien sur le béton / Métamorphoses du paysage",
-    "items": [
-      {
+    "items": [{
         "idFilm": 121768,
         "ordre": 1,
         "idSeance": 26553,
@@ -1462,8 +1380,7 @@
       "Jean Epstein"
     ],
     "titreEvenement": "Les aventures de Rosette ",
-    "items": [
-      {
+    "items": [{
         "idFilm": 125166,
         "ordre": 1,
         "idSeance": 28128,
@@ -1526,8 +1443,7 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Programme #9 : Linguistique",
-    "items": [
-      {
+    "items": [{
         "idFilm": 140130,
         "ordre": 1,
         "idSeance": 26576,
@@ -1569,9 +1485,7 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Programme de courts métrages #1",
-    "items": [
-      {
+    "items": [{
         "idFilm": 77291,
         "ordre": 1,
         "idSeance": 27992,

@@ -16,7 +16,7 @@
         "cats": [
           1850
         ],
-        "tri": 1
+        "tri": 3
       }
     ]
   },
@@ -148,7 +148,7 @@
               "idSeance": 30323,
               "ordre": 1,
               "idEvenement": 18599,
-              "dateHeure": "2019-03-15T21:45:00",
+              "dateHeure": "2019-03-15T21:15:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -319,6 +319,7 @@
           "idCycle": 400,
           "idFilm": 39977,
           "titre": "Deep End",
+          "titreVo": "",
           "realisateurs": "Jerzy Skolimowski",
           "annee": 1970,
           "pays": "RFA-États-Unis",
@@ -355,6 +356,7 @@
           "idFilm": 39062,
           "titre": "Départ",
           "art": "Le",
+          "titreVo": "",
           "realisateurs": "Jerzy Skolimowski",
           "annee": 1967,
           "pays": "Belgique",
@@ -404,6 +406,7 @@
           "idCycle": 400,
           "idFilm": 71896,
           "titre": "Dialog 20-40-60",
+          "titreVo": "",
           "realisateurs": "Jerzy Skolimowski",
           "annee": 1968,
           "pays": "Tchécoslovaquie",
@@ -482,6 +485,7 @@
           "idCycle": 400,
           "idFilm": 82614,
           "titre": "Erotik",
+          "titreVo": "",
           "realisateurs": "Jerzy Skolimowski",
           "annee": 1960,
           "pays": "Pologne",
@@ -526,6 +530,7 @@
           "idCycle": 400,
           "idFilm": 112994,
           "titre": "Essential killing",
+          "titreVo": "",
           "realisateurs": "Jerzy Skolimowski",
           "annee": 2009,
           "pays": "Pologne-Norvège-Irlande-Hongrie",
@@ -572,6 +577,7 @@
           "idCycle": 400,
           "idFilm": 29678,
           "titre": "Ferdydurke",
+          "titreVo": "",
           "realisateurs": "Jerzy Skolimowski",
           "annee": 1991,
           "pays": "France-Pologne",
@@ -1011,6 +1017,7 @@
           "idCycle": 400,
           "idFilm": 45046,
           "titre": "Walkower",
+          "titreVo": "",
           "realisateurs": "Jerzy Skolimowski",
           "annee": 1965,
           "pays": "Pologne",
@@ -1060,35 +1067,58 @@
     },
     {
       "titreSousCycle": "Autour de Jerzy Skolimowski",
-      "tri": 1,
+      "tri": 3,
       "items": [
         {
           "idCycle": 400,
-          "idFilm": 140541,
-          "titre": "Andrzej Trzaskowski, le cerveau du jazz polonais",
-          "realisateurs": "Damien Bertrand",
-          "annee": 2006,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 1850,
+          "idEvenement": 18596,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Le compositeur de _Walkower_ fut le véritable cerveau du jazz polonais. De l'époque de la guerre froide (où il introduisit en contrebande cette musique prohibée par le régime) à la chute du mur de Berlin, portrait d'un pianiste discret mais obstiné, avant-gardiste et lyrique, obsédé par le renouvellement du langage harmonique du jazz."
+              "idFilm": 94510,
+              "titre": "Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste",
+              "titreVo": "",
+              "realisateurs": "Damien Bertrand",
+              "annee": 2003,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Embrassant dans un même mouvement films, poèmes et œuvre peinte, le documentaire ouvre un espace où Skolimowski se livre à un autoportrait et exprime, dans sa langue natale, le majestueux désespoir de sa condition d'artiste exilé."
+                }
+              ],
+              "duree": 52,
+              "format": "Numérique",
+              "version": "VOSTF",
+              "ordre": 1
+            },
+            {
+              "idFilm": 140541,
+              "titre": "Andrzej Trzaskowski, le cerveau du jazz polonais",
+              "titreVo": "",
+              "realisateurs": "Damien Bertrand",
+              "annee": 2006,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Le compositeur de _Walkower_ fut le véritable cerveau du jazz polonais. De l'époque de la guerre froide (où il introduisit en contrebande cette musique prohibée par le régime) à la chute du mur de Berlin, portrait d'un pianiste discret mais obstiné, avant-gardiste et lyrique, obsédé par le renouvellement du langage harmonique du jazz."
+                }
+              ],
+              "generique": [
+                "Anrdrzej Trzaskowski",
+                "Teresa Trzaskowska",
+                "Jerzy Skolimowski",
+                "Ted Curson"
+              ],
+              "duree": 52,
+              "format": "Numérique",
+              "version": "VOSTF",
+              "ordre": 2
             }
           ],
-          "generique": [
-            "Anrdrzej Trzaskowski",
-            "Teresa Trzaskowska",
-            "Jerzy Skolimowski",
-            "Ted Curson"
-          ],
-          "duree": 52,
-          "format": "Numérique",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 28986,
-              "ordre": 2,
-              "idEvenement": 18596,
               "dateHeure": "2019-03-27T20:30:00",
               "idSalle": [
                 "JE",
@@ -1096,39 +1126,7 @@
               ],
               "mention": "Séance présentée par Damien Bertrand"
             }
-          ],
-          "precedeSuivi": "Film précédé de _Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste_ de Damien Bertrand."
-        },
-        {
-          "idCycle": 400,
-          "idFilm": 94510,
-          "titre": "Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste",
-          "realisateurs": "Damien Bertrand",
-          "annee": 2003,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Embrassant dans un même mouvement films, poèmes et œuvre peinte, le documentaire ouvre un espace où Skolimowski se livre à un autoportrait et exprime, dans sa langue natale, le majestueux désespoir de sa condition d'artiste exilé."
-            }
-          ],
-          "duree": 52,
-          "format": "Numérique",
-          "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 28986,
-              "ordre": 1,
-              "idEvenement": 18596,
-              "dateHeure": "2019-03-27T20:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ],
-              "mention": "Séance présentée par Damien Bertrand"
-            }
-          ],
-          "precedeSuivi": "Film suivi d'_Andrzej Trzaskowski, le cerveau du jazz polonais_ de Damien Bertrand."
+          ]
         }
       ]
     }

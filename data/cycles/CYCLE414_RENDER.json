@@ -1,0 +1,1012 @@
+{
+  "header": {
+    "idProg": 55,
+    "idCycleProg": 414,
+    "titreCycle": "Bruno Nuytten",
+    "sousCycles": [
+      {
+        "titre": "Réalisateur",
+        "cats": [
+          1903
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Directeur de la photographie",
+        "cats": [
+          1845
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Courts métrages",
+        "cats": [
+          1893
+        ],
+        "tri": 3
+      },
+      {
+        "titre": "Autour de Bruno Nuytten",
+        "cats": [
+          1904
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Rencontres et conférences",
+        "cats": [
+          1869
+        ],
+        "tri": 1
+      }
+    ]
+  },
+  "data": [
+    {
+      "titreSousCycle": "Réalisateur",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 414,
+          "idFilm": 50416,
+          "titre": "Albert souffre",
+          "titreVo": "",
+          "realisateurs": "Bruno Nuytten",
+          "annee": 1991,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Albert, vingt ans, se sépare dans un aéroport d'une belle hôtesse de l'air. Il décide alors de se rendre chez un couple d'amis à Bordeaux. Jérôme, son copain d'enfance et sa compagne Jeanne préparent un concours d'entrée dans une grande école. La présence d'Albert dérange leur travail, à tel point qu'ils échouent tous deux. Une violente altercation oppose alors Jérôme et Albert."
+            }
+          ],
+          "generique": [
+            "Julien Rassam",
+            "Estelle Skornik",
+            "Jean-Michel Portal",
+            "Collin Obomalayat"
+          ],
+          "duree": 105,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29876,
+              "ordre": 1,
+              "idEvenement": 18860,
+              "dateHeure": "2019-03-31T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 50417,
+          "titre": "Camille Claudel",
+          "titreVo": "",
+          "realisateurs": "Bruno Nuytten",
+          "annee": 1987,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Évocation des amours tumultueuses de Camille Claudel, sculpteur et sœur du poète avec Rodin."
+            }
+          ],
+          "generique": [
+            "Isabelle Adjani",
+            "Gérard Depardieu",
+            "Laurent Grevill",
+            "Alain Cuny"
+          ],
+          "duree": 175,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29929,
+              "ordre": 1,
+              "idEvenement": 18575,
+              "dateHeure": "2019-03-30T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 140854,
+          "titre": "Jim, la nuit",
+          "titreVo": "",
+          "realisateurs": "Bruno Nuytten",
+          "annee": 2002,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Jim est une adolescente d'origine africaine, adoptée par une famille française après le massacre de sa famille. Sa seule passion? La chanteuse Björk et les ours polaires d'Islande. Elle va bientôt commencer un grand voyage de Paris à Reykjavik via Hambourg, l'Angleterre et les îles Faroe. Mais tout cela est-il réel ou le fruit de son imagination?"
+            }
+          ],
+          "generique": [
+            "Fatoumata Sissoko",
+            "Chems Dahmani"
+          ],
+          "duree": 90,
+          "format": "Vidéo",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29892,
+              "ordre": 1,
+              "idEvenement": 18944,
+              "dateHeure": "2019-04-03T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Directeur de la photographie",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 414,
+          "idFilm": 56992,
+          "titre": "Assassin musicien",
+          "art": "L'",
+          "titreVo": "",
+          "realisateurs": "Benoît Jacquot",
+          "annee": 1974,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un jeune musicien, convaincu d'avoir un don exceptionnel, quitte la province et vient a Paris, ou refusant tout compromis, il sombre dans la schizophrénie."
+            }
+          ],
+          "generique": [
+            "Joël Bion",
+            "Anna Karina",
+            "Gunnar Larsen",
+            "Hélène Coulomb"
+          ],
+          "duree": 118,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29678,
+              "ordre": 1,
+              "idEvenement": 18560,
+              "dateHeure": "2019-03-21T21:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 48211,
+          "titre": "Camion",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Marguerite Duras",
+          "annee": 1977,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une écrivain lit à un comédien le scénario de son prochain film. Il est question d'une femme prise en stop par un routier."
+            }
+          ],
+          "generique": [
+            "Marguerite Duras",
+            "Gérard Depardieu"
+          ],
+          "duree": 78,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29866,
+              "ordre": 1,
+              "idEvenement": 18564,
+              "dateHeure": "2019-03-24T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 48297,
+          "titre": "Enfants",
+          "art": "Les",
+          "titreVo": "",
+          "realisateurs": "Marguerite Duras",
+          "annee": 1984,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A 7 ans, Ernesto a le physique d'un trentenaire. L'enfant précoce annonce à sa mère qu'il ne retournera plus à l'école, car « on y apprend des choses que je ne sais pas »."
+            }
+          ],
+          "generique": [
+            "Alexander Bougosslavsky",
+            "Daniel Gélin",
+            "Tatiana Moukhine",
+            "Martine Chevallier"
+          ],
+          "duree": 90,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29884,
+              "ordre": 1,
+              "idEvenement": 18922,
+              "dateHeure": "2019-03-31T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 53201,
+          "titre": "Fort Saganne",
+          "titreVo": "",
+          "realisateurs": "Alain Corneau",
+          "annee": 1983,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Juillet 1911. Le lieutenant Charles Saganne quitte une morne vie de garnison, son père et son jeune frère Lucien pour s'engager dans une grande aventure saharienne."
+            }
+          ],
+          "generique": [
+            "Gérard Depardieu",
+            "Catherine Deneuve",
+            "Philippe Noiret",
+            "Sophie Marceau"
+          ],
+          "duree": 180,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29931,
+              "ordre": 1,
+              "idEvenement": 18920,
+              "dateHeure": "2019-03-23T20:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 50169,
+          "titre": "Garde à vue",
+          "titreVo": "",
+          "realisateurs": "Claude Miller",
+          "annee": 1981,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un 31 décembre au soir, Jérôme Martinaud, un notaire, est convoqué au commissariat pour témoigner sur l'assassinat et le viol de deux petites filles. Les inspecteurs Gallien et Belmont, persuadés de la culpabilité du notable, le mettent en garde à vue."
+            }
+          ],
+          "generique": [
+            "Lino Ventura",
+            "Michel Serrault",
+            "Romy Schneider",
+            "Guy Marchand"
+          ],
+          "duree": 90,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29921,
+              "ordre": 1,
+              "idEvenement": 18689,
+              "dateHeure": "2019-03-25T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 51418,
+          "titre": "Hôtel des Amériques",
+          "titreVo": "",
+          "realisateurs": "André Téchiné",
+          "annee": 1981,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A Biarritz, Gilles est renversé accidentellement par la voiture que conduit Hélène. Gilles va tenter d'aimer cette femme prisonnière d'un amour passé qui le fascine."
+            }
+          ],
+          "generique": [
+            "Catherine Deneuve",
+            "Patrick Dewaere",
+            "Étienne Chicot",
+            "Josiane Balasko"
+          ],
+          "duree": 95,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29923,
+              "ordre": 1,
+              "idEvenement": 18570,
+              "dateHeure": "2019-03-25T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 48298,
+          "titre": "India song",
+          "titreVo": "",
+          "realisateurs": "Marguerite Duras",
+          "annee": 1974,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Aux Indes, vers 1930, l'évocation d'une femme, épouse du Consul de France."
+            }
+          ],
+          "generique": [
+            "Delphine Seyrig",
+            "Michael Lonsdale",
+            "Claude Mann",
+            "Mathieu Carrière"
+          ],
+          "duree": 120,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29782,
+              "ordre": 1,
+              "idEvenement": 18559,
+              "dateHeure": "2019-03-21T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 50863,
+          "titre": "Jean de Florette",
+          "titreVo": "",
+          "realisateurs": "Claude Berri",
+          "annee": 1985,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pour faire fortune en cultivant des œillets, Ugolin, conseillé par son oncle, le Papet, détourne la source de Jean de Florette, nouvellement installé au village avec sa femme et leur fille Manon."
+            }
+          ],
+          "generique": [
+            "Yves Montand",
+            "Daniel Auteuil",
+            "Gérard Depardieu",
+            "Elisabeth Depardieu"
+          ],
+          "duree": 120,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29881,
+              "ordre": 1,
+              "idEvenement": 18574,
+              "dateHeure": "2019-03-27T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 55049,
+          "titre": "Manon des sources",
+          "titreVo": "",
+          "realisateurs": "Claude Berri",
+          "annee": 1985,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dix ans après la mort de son père Jean de Florette, Manon des Sources est gardienne de chèvres. De son côté, obsédé par son passé, Ugolin a fait fortune en cultivant des œillets avec le Papet. Mais, pour Manon, l'heure de la vengeance a sonné."
+            }
+          ],
+          "generique": [
+            "Yves Montand",
+            "Daniel Auteuil",
+            "Emmanuelle Béart",
+            "Hippolyte Girardot"
+          ],
+          "duree": 120,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29882,
+              "ordre": 1,
+              "idEvenement": 18573,
+              "dateHeure": "2019-03-27T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 50170,
+          "titre": "Meilleure façon de marcher",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Claude Miller",
+          "annee": 1975,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Eté 1960. Marc et Philippe sont moniteurs dans une colonie de vacances en Auvergne. L'un est sportif, jouisseur, presque primaire, l'autre est plutôt romantique, plus secret, plus sentimental. Marc a surpris Philippe un soir en train de se déguiser en femme et va dès lors commencer à l'épier, le traquer et le faire souffrir."
+            }
+          ],
+          "generique": [
+            "Patrick Dewaere",
+            "Patrick Bouchitey",
+            "Christine Pascal",
+            "Claude Piéplu"
+          ],
+          "duree": 82,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29680,
+              "ordre": 1,
+              "idEvenement": 18561,
+              "dateHeure": "2019-03-22T21:45:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 48301,
+          "titre": "Nathalie Granger",
+          "titreVo": "",
+          "realisateurs": "Marguerite Duras",
+          "annee": 1972,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une jolie maison au bord d'une rivière où vivent deux femmes. L'une s'adonne aux travaux ménagers et au jardinage, assiste aux leçons de piano des enfants. L'autre, Madame Granger, s'inquiète de l'avenir de sa fille Nathalie, « d'une violence peu commune », a dit la maîtresse."
+            }
+          ],
+          "generique": [
+            "Lucia Bosè",
+            "Jeanne Moreau",
+            "Gérard Depardieu",
+            "Luce Garcia-Ville"
+          ],
+          "duree": 83,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29861,
+              "ordre": 1,
+              "idEvenement": 18862,
+              "dateHeure": "2019-03-20T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 57098,
+          "titre": "Nuit tous les chats sont gris",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Gérard Zingg",
+          "annee": 1977,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En Angleterre, Watson raconte à sa nièce Lily des histoires à dormir debout. En France, puis en Suisse et à Salzbourg, ces histoires se matérialisent autour de la personne de Philibert, séduisant gigolo que son inventeur pousse au vol puis au crime."
+            }
+          ],
+          "generique": [
+            "Gérard Depardieu",
+            "Laura Betti",
+            "Robert Stephens",
+            "Charlotte Crow"
+          ],
+          "duree": 124,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29928,
+              "ordre": 1,
+              "idEvenement": 18567,
+              "dateHeure": "2019-03-31T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 52054,
+          "titre": "Pirate",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Jacques Doillon",
+          "annee": 1984,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Déchirée entre l'amour qu'elle voue à son mari et la passion qui la lie à son amie Carol, Alma est plongée dans la confusion la plus totale."
+            }
+          ],
+          "generique": [
+            "Jane Birkin",
+            "Philippe Léotard",
+            "Maruschka Detmers",
+            "Laure Marsac"
+          ],
+          "duree": 90,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29930,
+              "ordre": 1,
+              "idEvenement": 18572,
+              "dateHeure": "2019-03-23T18:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 51832,
+          "titre": "Possession",
+          "titreVo": "",
+          "realisateurs": "Andrzej Zulawski",
+          "annee": 1980,
+          "pays": "France-RFA",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "De retour d'un long voyage, Marc retrouve à Berlin sa femme Anna et son fils, Bob. Prise de crises violentes, Anna disparait. Marc engage un détective qui découvre bientôt qu'elle s'est réfugiée dans une étrange demeure où semble se cacher une créature surgie des ténèbres."
+            }
+          ],
+          "generique": [
+            "Isabelle Adjani",
+            "Sam Neill",
+            "Heinz Bennent",
+            "Margit Carstensen"
+          ],
+          "duree": 127,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29924,
+              "ordre": 1,
+              "idEvenement": 18569,
+              "dateHeure": "2019-03-25T21:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 51422,
+          "titre": "Sœurs Brontë",
+          "art": "Les",
+          "titreVo": "",
+          "realisateurs": "André Téchiné",
+          "annee": 1978,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "1854\\. Charlotte Brontë se souvient de sa vie avec son père, un pasteur, ses sœurs Emily et Anne, et surtout avec son frère Barnwell, un peintre qui mourut dans la déchéance et l'alcoolisme."
+            }
+          ],
+          "generique": [
+            "Isabelle Adjani",
+            "Marie-France Pisier",
+            "Isabelle Huppert",
+            "Pascal Greggory"
+          ],
+          "duree": 115,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29874,
+              "ordre": 1,
+              "idEvenement": 18568,
+              "dateHeure": "2019-03-24T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 53305,
+          "titre": "Son nom de Venise dans Calcutta désert",
+          "titreVo": "",
+          "realisateurs": "Marguerite Duras",
+          "annee": 1976,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Reprenant la bande-son de son film _India Song_, Marguerite Duras y greffe des images nouvelles proposant une longue réflexion visuelle sur la mort."
+            }
+          ],
+          "generique": [
+            "Delphine Seyrig",
+            "Nicole Hiss",
+            "Sylvie Nuytten",
+            "Marie-Pierre Thiébaut"
+          ],
+          "duree": 120,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29863,
+              "ordre": 1,
+              "idEvenement": 18562,
+              "dateHeure": "2019-03-23T15:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 46826,
+          "titre": "Tchao pantin",
+          "titreVo": "",
+          "realisateurs": "Claude Berri",
+          "annee": 1983,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lambert, pompiste de nuit alcoolique et désabusé, se prend d'affection pour le jeune dealer Bensoussan. Un jour, Bensoussan se fait tuer sous le regard impuissant de son nouvel ami. Aidé par Lola, une jeune marginale, Lambert n'aura de cesse de vouloir venger sa mort."
+            }
+          ],
+          "generique": [
+            "Coluche",
+            "Richard Anconina",
+            "Agnès Soral",
+            "Philippe Léotard"
+          ],
+          "duree": 93,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29001,
+              "ordre": 1,
+              "idEvenement": 18571,
+              "dateHeure": "2019-03-30T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 57305,
+          "titre": "Tortue sur le dos",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Luc Béraud",
+          "annee": 1977,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Paul, écrivain qui a connu son moment de notoriété plusieurs années auparavant, est en crise. Ne parvenant ni à écrire, ni à satisfaire physiquement sa femme Camille qui a abandonné ses études afin d'entretenir le ménage, il décide de modifier sa vie."
+            }
+          ],
+          "generique": [
+            "Jean-François Stévenin",
+            "Bernadette Lafont",
+            "Virginie Thévenet",
+            "Véronique Silver"
+          ],
+          "duree": 110,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29927,
+              "ordre": 1,
+              "idEvenement": 18566,
+              "dateHeure": "2019-03-27T16:45:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 45997,
+          "titre": "Valseuses",
+          "art": "Les",
+          "titreVo": "",
+          "realisateurs": "Bertrand Blier",
+          "annee": 1973,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les aventures de deux petits voyous qui entraînent dans leur cavale une fille gentille et pas farouche."
+            }
+          ],
+          "adaptation": "D'après le roman _Les Valseuses_ de Bertrand Blier.",
+          "generique": [
+            "Gérard Depardieu",
+            "Miou-Miou",
+            "Patrick Dewaere",
+            "Jeanne Moreau"
+          ],
+          "duree": 118,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29781,
+              "ordre": 1,
+              "idEvenement": 18558,
+              "dateHeure": "2019-03-22T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 48593,
+          "titre": "Zoo zéro",
+          "titreVo": "",
+          "realisateurs": "Alain Fleischer",
+          "annee": 1977,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Après son récital, une chanteuse de cabaret zoophile se rend dans un zoo. Elle y retrouve ses prétendants."
+            }
+          ],
+          "generique": [
+            "Catherine Jourdan",
+            "Klaus Kinski",
+            "Christine Chappey",
+            "Pierre Clémenti"
+          ],
+          "duree": 95,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 28993,
+              "ordre": 1,
+              "idEvenement": 18565,
+              "dateHeure": "2019-03-28T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Courts métrages",
+      "tri": 3,
+      "items": []
+    },
+    {
+      "titreSousCycle": "Autour de Bruno Nuytten",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 414,
+          "idFilm": 35497,
+          "titre": "Brubaker",
+          "titreVo": "",
+          "realisateurs": "Stuart Rosenberg",
+          "annee": 1980,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Henry Brubaker, dissimulé pendant plusieurs jours parmi les trois cents détenus du pénitencier de Wakefield, est en fait le nouveau directeur de la prison, nommé pour réformer l'établissement."
+            }
+          ],
+          "adaptation": "D'après le livre _Accomplices to the Crime: The Arkansas Prison Scandal_ de Thomas O. Murton et Joe Hyams.",
+          "generique": [
+            "Robert Redford",
+            "Yaphet Kotto",
+            "Jane Alexander",
+            "Murray Hamilton"
+          ],
+          "duree": 131,
+          "format": "",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29925,
+              "ordre": 1,
+              "idEvenement": 18994,
+              "dateHeure": "2019-03-24T18:45:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 48843,
+          "titre": "Détective",
+          "titreVo": "",
+          "realisateurs": "Jean-Luc Godard",
+          "annee": 1984,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans un grand hôtel parisien, près de la gare St-Lazare, deux flics enquêtent sur la mort prématurée du Prince. Dans les couloirs, tel un labyrinthe, des personnages cherchent leur chemin. Et leurs histoires se croisent par instants."
+            }
+          ],
+          "generique": [
+            "Nathalie Baye",
+            "Claude Brasseur",
+            "Johnny Hallyday",
+            "Jean-Pierre Léaud"
+          ],
+          "duree": 98,
+          "format": "35 mm",
+          "version": "VF",
+          "seance": [
+            {
+              "idSeance": 29932,
+              "ordre": 1,
+              "idEvenement": 18995,
+              "dateHeure": "2019-03-27T14:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 414,
+          "idFilm": 128837,
+          "titre": "Nuytten/Film",
+          "titreVo": "",
+          "realisateurs": "Caroline Champetier",
+          "annee": 2015,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "_« Dans les années 80, Bruno Nuytten était une star de la cinématographie. De Duras à Blier, de Téchiné à Berri, il créait des images qui rendent ces films inoubliables. Lui-même a réalisé trois films puis abandonné le cinéma. J'ai toujours voulu comprendre, sentant confusément la profondeur de cette désertion. De cela et du reste Bruno et moi avons parlé plusieurs jours. »_ Caroline Champetier"
+            }
+          ],
+          "duree": 80,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29870,
+              "ordre": 1,
+              "idEvenement": 18888,
+              "dateHeure": "2019-04-03T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 1,
+      "items": []
+    }
+  ]
+}

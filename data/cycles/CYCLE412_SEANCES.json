@@ -9,6 +9,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Nuit américaine (La)",
     "items": [
       {
         "idFilm": 51577,
@@ -32,6 +33,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Ernest le rebelle",
     "items": [
       {
         "idFilm": 47616,
@@ -55,6 +57,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Main au collet (La)",
     "items": [
       {
         "idFilm": 41594,
@@ -78,6 +81,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Lola Montès",
     "items": [
       {
         "idFilm": 50426,
@@ -101,6 +105,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Lumière d'été",
     "items": [
       {
         "idFilm": 48953,
@@ -124,6 +129,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Nous irons à Monte-Carlo",
     "items": [
       {
         "idFilm": 47079,
@@ -147,6 +153,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Vérité sur Bébé Donge (La)",
     "items": [
       {
         "idFilm": 47976,
@@ -155,7 +162,7 @@
         "idCopie": 5805,
         "duree": 104,
         "version": "",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 1
       }
     ]
@@ -170,6 +177,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Panique",
     "items": [
       {
         "idFilm": 48348,
@@ -193,6 +201,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "titreEvenement": "Fête espagnole (La) / Gossette (1ère partie)",
     "items": [
       {
         "idFilm": 48275,
@@ -227,6 +236,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "titreEvenement": "Gossette (2ème partie)",
     "items": [
       {
         "idFilm": 48277,
@@ -250,6 +260,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "titreEvenement": "Vie d'un honnête homme (La)",
     "items": [
       {
         "idFilm": 49126,
@@ -273,6 +284,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Enfants du paradis (Les)",
     "items": [
       {
         "idFilm": 47284,
@@ -296,6 +308,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Bonjour tristesse",
     "items": [
       {
         "idFilm": 45923,
@@ -319,6 +332,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Nuit américaine (La)",
     "items": [
       {
         "idFilm": 51577,
@@ -342,6 +356,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Mon oncle",
     "items": [
       {
         "idFilm": 51367,
@@ -365,6 +380,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Vénus aveugle",
     "items": [
       {
         "idFilm": 48693,
@@ -388,6 +404,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Baie des Anges (La)",
     "items": [
       {
         "idFilm": 48036,
@@ -411,6 +428,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Et Dieu créa la femme",
     "items": [
       {
         "idFilm": 51587,
@@ -419,7 +437,7 @@
         "idCopie": 17662,
         "duree": 90,
         "version": "",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 1
       }
     ]
@@ -434,6 +452,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Plus escroc des deux (Le)",
     "items": [
       {
         "idFilm": 35009,
@@ -457,6 +476,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Mains d'Orlac (Les)",
     "items": [
       {
         "idFilm": 49007,
@@ -480,6 +500,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "titreEvenement": "Un balcon sur la mer",
     "items": [
       {
         "idFilm": 110931,
@@ -503,6 +524,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Vacances de Mr. Bean (Les)",
     "items": [
       {
         "idFilm": 101619,

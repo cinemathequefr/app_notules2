@@ -1,15 +1,20 @@
-[{
+[
+  {
     "titre": "Albert souffre",
+    "titreVo": "",
     "idFilm": 50416,
     "idCycle": 414,
     "idCategorie": 1903,
+    "ageMinimal": null,
     "realisateurs": "Bruno Nuytten",
     "annee": 1991,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Albert, vingt ans, se sépare dans un aéroport d'une belle hôtesse de l'air. Il décide alors de se rendre chez un couple d'amis à Bordeaux. Jérôme, son copain d'enfance et sa compagne Jeanne préparent un concours d'entrée dans une grande école. La présence d'Albert dérange leur travail, à tel point qu'ils échouent tous deux. Une violente altercation oppose alors Jérôme et Albert."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Albert, vingt ans, se sépare dans un aéroport d'une belle hôtesse de l'air. Il décide alors de se rendre chez un couple d'amis à Bordeaux. Jérôme, son copain d'enfance et sa compagne Jeanne préparent un concours d'entrée dans une grande école. La présence d'Albert dérange leur travail, à tel point qu'ils échouent tous deux. Une violente altercation oppose alors Jérôme et Albert."
+      }
+    ],
     "generique": [
       "Julien Rassam",
       "Estelle Skornik",
@@ -20,16 +25,20 @@
   {
     "titre": "Assassin musicien",
     "art": "L'",
+    "titreVo": "",
     "idFilm": 56992,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Benoît Jacquot",
     "annee": 1974,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Un jeune musicien, convaincu d'avoir un don exceptionnel, quitte la province et vient a Paris, ou refusant tout compromis, il sombre dans la schizophrénie."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un jeune musicien, convaincu d'avoir un don exceptionnel, quitte la province et vient a Paris, ou refusant tout compromis, il sombre dans la schizophrénie."
+      }
+    ],
     "generique": [
       "Joël Bion",
       "Anna Karina",
@@ -39,16 +48,20 @@
   },
   {
     "titre": "Brubaker",
+    "titreVo": "",
     "idFilm": 35497,
     "idCycle": 414,
     "idCategorie": 1904,
+    "ageMinimal": null,
     "realisateurs": "Stuart Rosenberg",
     "annee": 1980,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Henry Brubaker, dissimulé pendant plusieurs jours parmi les trois cents détenus du pénitencier de Wakefield, est en fait le nouveau directeur de la prison, nommé pour réformer l'établissement."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Henry Brubaker, dissimulé pendant plusieurs jours parmi les trois cents détenus du pénitencier de Wakefield, est en fait le nouveau directeur de la prison, nommé pour réformer l'établissement."
+      }
+    ],
     "generique": [
       "Robert Redford",
       "Yaphet Kotto",
@@ -59,16 +72,20 @@
   },
   {
     "titre": "Camille Claudel",
+    "titreVo": "",
     "idFilm": 50417,
     "idCycle": 414,
     "idCategorie": 1903,
+    "ageMinimal": 0,
     "realisateurs": "Bruno Nuytten",
     "annee": 1987,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Évocation des amours tumultueuses de Camille Claudel, sculpteur et sœur du poète avec Rodin."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Évocation des amours tumultueuses de Camille Claudel, sculpteur et sœur du poète avec Rodin."
+      }
+    ],
     "generique": [
       "Isabelle Adjani",
       "Gérard Depardieu",
@@ -79,16 +96,20 @@
   {
     "titre": "Camion",
     "art": "Le",
+    "titreVo": "",
     "idFilm": 48211,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Marguerite Duras",
     "annee": 1977,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Une écrivain lit à un comédien le scénario de son prochain film. Il est question d'une femme prise en stop par un routier."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une écrivain lit à un comédien le scénario de son prochain film. Il est question d'une femme prise en stop par un routier."
+      }
+    ],
     "generique": [
       "Marguerite Duras",
       "Gérard Depardieu"
@@ -96,16 +117,20 @@
   },
   {
     "titre": "Détective",
+    "titreVo": "",
     "idFilm": 48843,
     "idCycle": 414,
     "idCategorie": 1904,
+    "ageMinimal": null,
     "realisateurs": "Jean-Luc Godard",
     "annee": 1984,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Dans un grand hôtel parisien, près de la gare St-Lazare, deux flics enquêtent sur la mort prématurée du Prince. Dans les couloirs, tel un labyrinthe, des personnages cherchent leur chemin. Et leurs histoires se croisent par instants."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans un grand hôtel parisien, près de la gare St-Lazare, deux flics enquêtent sur la mort prématurée du Prince. Dans les couloirs, tel un labyrinthe, des personnages cherchent leur chemin. Et leurs histoires se croisent par instants."
+      }
+    ],
     "generique": [
       "Nathalie Baye",
       "Claude Brasseur",
@@ -116,16 +141,20 @@
   {
     "titre": "Enfants",
     "art": "Les",
+    "titreVo": "",
     "idFilm": 48297,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Marguerite Duras",
     "annee": 1984,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "A 7 ans, Ernesto a le physique d'un trentenaire. L'enfant précoce annonce à sa mère qu'il ne retournera plus à l'école, car « on y apprend des choses que je ne sais pas »."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A 7 ans, Ernesto a le physique d'un trentenaire. L'enfant précoce annonce à sa mère qu'il ne retournera plus à l'école, car « on y apprend des choses que je ne sais pas »."
+      }
+    ],
     "generique": [
       "Alexander Bougosslavsky",
       "Daniel Gélin",
@@ -135,16 +164,20 @@
   },
   {
     "titre": "Fort Saganne",
+    "titreVo": "",
     "idFilm": 53201,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Alain Corneau",
     "annee": 1983,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Juillet 1911. Le lieutenant Charles Saganne quitte une morne vie de garnison, son père et son jeune frère Lucien pour s'engager dans une grande aventure saharienne."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Juillet 1911. Le lieutenant Charles Saganne quitte une morne vie de garnison, son père et son jeune frère Lucien pour s'engager dans une grande aventure saharienne."
+      }
+    ],
     "generique": [
       "Gérard Depardieu",
       "Catherine Deneuve",
@@ -154,16 +187,20 @@
   },
   {
     "titre": "Garde à vue",
+    "titreVo": "",
     "idFilm": 50169,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Claude Miller",
     "annee": 1981,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Un 31 décembre au soir, Jérôme Martinaud, un notaire, est convoqué au commissariat pour témoigner sur l'assassinat et le viol de deux petites filles. Les inspecteurs Gallien et Belmont, persuadés de la culpabilité du notable, le mettent en garde à vue."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un 31 décembre au soir, Jérôme Martinaud, un notaire, est convoqué au commissariat pour témoigner sur l'assassinat et le viol de deux petites filles. Les inspecteurs Gallien et Belmont, persuadés de la culpabilité du notable, le mettent en garde à vue."
+      }
+    ],
     "generique": [
       "Lino Ventura",
       "Michel Serrault",
@@ -173,16 +210,20 @@
   },
   {
     "titre": "Hôtel des Amériques",
+    "titreVo": "",
     "idFilm": 51418,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "André Téchiné",
     "annee": 1981,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "A Biarritz, Gilles est renversé accidentellement par la voiture que conduit Hélène. Gilles va tenter d'aimer cette femme prisonnière d'un amour passé qui le fascine."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A Biarritz, Gilles est renversé accidentellement par la voiture que conduit Hélène. Gilles va tenter d'aimer cette femme prisonnière d'un amour passé qui le fascine."
+      }
+    ],
     "generique": [
       "Catherine Deneuve",
       "Patrick Dewaere",
@@ -192,16 +233,20 @@
   },
   {
     "titre": "India song",
+    "titreVo": "",
     "idFilm": 48298,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Marguerite Duras",
     "annee": 1974,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Aux Indes, vers 1930, l'évocation d'une femme, épouse du Consul de France."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Aux Indes, vers 1930, l'évocation d'une femme, épouse du Consul de France."
+      }
+    ],
     "generique": [
       "Delphine Seyrig",
       "Michael Lonsdale",
@@ -211,16 +256,20 @@
   },
   {
     "titre": "Jean de Florette",
+    "titreVo": "",
     "idFilm": 50863,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Claude Berri",
     "annee": 1985,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Pour faire fortune en cultivant des œillets, Ugolin, conseillé par son oncle, le Papet, détourne la source de Jean de Florette, nouvellement installé au village avec sa femme et leur fille Manon."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pour faire fortune en cultivant des œillets, Ugolin, conseillé par son oncle, le Papet, détourne la source de Jean de Florette, nouvellement installé au village avec sa femme et leur fille Manon."
+      }
+    ],
     "generique": [
       "Yves Montand",
       "Daniel Auteuil",
@@ -230,16 +279,20 @@
   },
   {
     "titre": "Jim, la nuit",
+    "titreVo": "",
     "idFilm": 140854,
     "idCycle": 414,
     "idCategorie": 1903,
+    "ageMinimal": null,
     "realisateurs": "Bruno Nuytten",
     "annee": 2002,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Jim est une adolescente d'origine africaine, adoptée par une famille française après le massacre de sa famille. Sa seule passion? La chanteuse Björk et les ours polaires d'Islande. Elle va bientôt commencer un grand voyage de Paris à Reykjavik via Hambourg, l'Angleterre et les îles Faroe. Mais tout cela est-il réel ou le fruit de son imagination?"
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Jim est une adolescente d'origine africaine, adoptée par une famille française après le massacre de sa famille. Sa seule passion? La chanteuse Björk et les ours polaires d'Islande. Elle va bientôt commencer un grand voyage de Paris à Reykjavik via Hambourg, l'Angleterre et les îles Faroe. Mais tout cela est-il réel ou le fruit de son imagination?"
+      }
+    ],
     "generique": [
       "Fatoumata Sissoko",
       "Chems Dahmani"
@@ -247,16 +300,20 @@
   },
   {
     "titre": "Manon des sources",
+    "titreVo": "",
     "idFilm": 55049,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Claude Berri",
     "annee": 1985,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Dix ans après la mort de son père Jean de Florette, Manon des Sources est gardienne de chèvres. De son côté, obsédé par son passé, Ugolin a fait fortune en cultivant des œillets avec le Papet. Mais, pour Manon, l'heure de la vengeance a sonné."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dix ans après la mort de son père Jean de Florette, Manon des Sources est gardienne de chèvres. De son côté, obsédé par son passé, Ugolin a fait fortune en cultivant des œillets avec le Papet. Mais, pour Manon, l'heure de la vengeance a sonné."
+      }
+    ],
     "generique": [
       "Yves Montand",
       "Daniel Auteuil",
@@ -267,16 +324,20 @@
   {
     "titre": "Meilleure façon de marcher",
     "art": "La",
+    "titreVo": "",
     "idFilm": 50170,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Claude Miller",
     "annee": 1975,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Eté 1960. Marc et Philippe sont moniteurs dans une colonie de vacances en Auvergne. L'un est sportif, jouisseur, presque primaire, l'autre est plutôt romantique, plus secret, plus sentimental. Marc a surpris Philippe un soir en train de se déguiser en femme et va dès lors commencer à l'épier, le traquer et le faire souffrir."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Eté 1960. Marc et Philippe sont moniteurs dans une colonie de vacances en Auvergne. L'un est sportif, jouisseur, presque primaire, l'autre est plutôt romantique, plus secret, plus sentimental. Marc a surpris Philippe un soir en train de se déguiser en femme et va dès lors commencer à l'épier, le traquer et le faire souffrir."
+      }
+    ],
     "generique": [
       "Patrick Dewaere",
       "Patrick Bouchitey",
@@ -287,16 +348,20 @@
   {
     "titre": "Mort de Janis Joplin",
     "art": "La",
+    "titreVo": "",
     "idFilm": 140856,
     "idCycle": 414,
     "idCategorie": 1893,
+    "ageMinimal": null,
     "realisateurs": "Pascal Kané",
     "annee": 1972,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Biographie imaginaire d'une vedette du show business."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Biographie imaginaire d'une vedette du show business."
+      }
+    ],
     "generique": [
       "Myriam Mézières",
       "Jean Ganeval"
@@ -304,16 +369,20 @@
   },
   {
     "titre": "Nathalie Granger",
+    "titreVo": "",
     "idFilm": 48301,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Marguerite Duras",
     "annee": 1972,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Une jolie maison au bord d'une rivière où vivent deux femmes. L'une s'adonne aux travaux ménagers et au jardinage, assiste aux leçons de piano des enfants. L'autre, Madame Granger, s'inquiète de l'avenir de sa fille Nathalie, « d'une violence peu commune », a dit la maîtresse."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jolie maison au bord d'une rivière où vivent deux femmes. L'une s'adonne aux travaux ménagers et au jardinage, assiste aux leçons de piano des enfants. L'autre, Madame Granger, s'inquiète de l'avenir de sa fille Nathalie, « d'une violence peu commune », a dit la maîtresse."
+      }
+    ],
     "generique": [
       "Lucia Bosè",
       "Jeanne Moreau",
@@ -324,16 +393,20 @@
   {
     "titre": "Nuit tous les chats sont gris",
     "art": "La",
+    "titreVo": "",
     "idFilm": 57098,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Gérard Zingg",
     "annee": 1977,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "En Angleterre, Watson raconte à sa nièce Lily des histoires à dormir debout. En France, puis en Suisse et à Salzbourg, ces histoires se matérialisent autour de la personne de Philibert, séduisant gigolo que son inventeur pousse au vol puis au crime."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En Angleterre, Watson raconte à sa nièce Lily des histoires à dormir debout. En France, puis en Suisse et à Salzbourg, ces histoires se matérialisent autour de la personne de Philibert, séduisant gigolo que son inventeur pousse au vol puis au crime."
+      }
+    ],
     "generique": [
       "Gérard Depardieu",
       "Laura Betti",
@@ -343,30 +416,38 @@
   },
   {
     "titre": "Nuytten/Film",
+    "titreVo": "",
     "idFilm": 128837,
     "idCycle": 414,
     "idCategorie": 1904,
+    "ageMinimal": null,
     "realisateurs": "Caroline Champetier",
     "annee": 2015,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "_« Dans les années 80, Bruno Nuytten était une star de la cinématographie. De Duras à Blier, de Téchiné à Berri, il créait des images qui rendent ces films inoubliables. Lui-même a réalisé trois films puis abandonné le cinéma. J'ai toujours voulu comprendre, sentant confusément la profondeur de cette désertion. De cela et du reste Bruno et moi avons parlé plusieurs jours. »_ Caroline Champetier"
-    }]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "_« Dans les années 80, Bruno Nuytten était une star de la cinématographie. De Duras à Blier, de Téchiné à Berri, il créait des images qui rendent ces films inoubliables. Lui-même a réalisé trois films puis abandonné le cinéma. J'ai toujours voulu comprendre, sentant confusément la profondeur de cette désertion. De cela et du reste Bruno et moi avons parlé plusieurs jours. »_ Caroline Champetier"
+      }
+    ]
   },
   {
     "titre": "Pirate",
     "art": "La",
+    "titreVo": "",
     "idFilm": 52054,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Jacques Doillon",
     "annee": 1984,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Déchirée entre l'amour qu'elle voue à son mari et la passion qui la lie à son amie Carol, Alma est plongée dans la confusion la plus totale."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Déchirée entre l'amour qu'elle voue à son mari et la passion qui la lie à son amie Carol, Alma est plongée dans la confusion la plus totale."
+      }
+    ],
     "generique": [
       "Jane Birkin",
       "Philippe Léotard",
@@ -376,16 +457,20 @@
   },
   {
     "titre": "Possession",
+    "titreVo": "",
     "idFilm": 51832,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Andrzej Zulawski",
     "annee": 1980,
     "pays": "France-RFA",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "De retour d'un long voyage, Marc retrouve à Berlin sa femme Anna et son fils, Bob. Prise de crises violentes, Anna disparait. Marc engage un détective qui découvre bientôt qu'elle s'est réfugiée dans une étrange demeure où semble se cacher une créature surgie des ténèbres."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "De retour d'un long voyage, Marc retrouve à Berlin sa femme Anna et son fils, Bob. Prise de crises violentes, Anna disparait. Marc engage un détective qui découvre bientôt qu'elle s'est réfugiée dans une étrange demeure où semble se cacher une créature surgie des ténèbres."
+      }
+    ],
     "generique": [
       "Isabelle Adjani",
       "Sam Neill",
@@ -396,16 +481,20 @@
   {
     "titre": "Poule",
     "art": "La",
+    "titreVo": "",
     "idFilm": 65812,
     "idCycle": 414,
     "idCategorie": 1893,
+    "ageMinimal": null,
     "realisateurs": "Luc Béraud",
     "annee": 1970,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Ce couple heureux n'a pas d'histoire. Sauf que... Madame a peut-être bien plus de talent que Monsieur...?"
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ce couple heureux n'a pas d'histoire. Sauf que... Madame a peut-être bien plus de talent que Monsieur...?"
+      }
+    ],
     "generique": [
       "Michael Lonsdale",
       "Catherine de Seynes",
@@ -415,16 +504,20 @@
   {
     "titre": "Quille, Bon Dieu !",
     "art": "La",
+    "titreVo": "",
     "idFilm": 140855,
     "idCycle": 414,
     "idCategorie": 1893,
+    "ageMinimal": null,
     "realisateurs": "Gérard Zingg",
     "annee": 1971,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Premier court métrage de Gérard Zingg, première collaboration avec Bruno Nuytten"
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Premier court métrage de Gérard Zingg, première collaboration avec Bruno Nuytten"
+      }
+    ],
     "generique": [
       "Edgar Baum",
       "Olivier Granier",
@@ -435,16 +528,20 @@
   {
     "titre": "Sœurs Brontë",
     "art": "Les",
+    "titreVo": "",
     "idFilm": 51422,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "André Téchiné",
     "annee": 1978,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "1854\\. Charlotte Brontë se souvient de sa vie avec son père, un pasteur, ses sœurs Emily et Anne, et surtout avec son frère Barnwell, un peintre qui mourut dans la déchéance et l'alcoolisme."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "1854\\. Charlotte Brontë se souvient de sa vie avec son père, un pasteur, ses sœurs Emily et Anne, et surtout avec son frère Barnwell, un peintre qui mourut dans la déchéance et l'alcoolisme."
+      }
+    ],
     "generique": [
       "Isabelle Adjani",
       "Marie-France Pisier",
@@ -454,16 +551,20 @@
   },
   {
     "titre": "Son nom de Venise dans Calcutta désert",
+    "titreVo": "",
     "idFilm": 53305,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Marguerite Duras",
     "annee": 1976,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Reprenant la bande-son de son film _India Song_, Marguerite Duras y greffe des images nouvelles proposant une longue réflexion visuelle sur la mort."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Reprenant la bande-son de son film _India Song_, Marguerite Duras y greffe des images nouvelles proposant une longue réflexion visuelle sur la mort."
+      }
+    ],
     "generique": [
       "Delphine Seyrig",
       "Nicole Hiss",
@@ -473,16 +574,20 @@
   },
   {
     "titre": "Tchao pantin",
+    "titreVo": "",
     "idFilm": 46826,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Claude Berri",
     "annee": 1983,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Lambert, pompiste de nuit alcoolique et désabusé, se prend d'affection pour le jeune dealer Bensoussan. Un jour, Bensoussan se fait tuer sous le regard impuissant de son nouvel ami. Aidé par Lola, une jeune marginale, Lambert n'aura de cesse de vouloir venger sa mort."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Lambert, pompiste de nuit alcoolique et désabusé, se prend d'affection pour le jeune dealer Bensoussan. Un jour, Bensoussan se fait tuer sous le regard impuissant de son nouvel ami. Aidé par Lola, une jeune marginale, Lambert n'aura de cesse de vouloir venger sa mort."
+      }
+    ],
     "generique": [
       "Coluche",
       "Richard Anconina",
@@ -493,16 +598,20 @@
   {
     "titre": "Tortue sur le dos",
     "art": "La",
+    "titreVo": "",
     "idFilm": 57305,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Luc Béraud",
     "annee": 1977,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Paul, écrivain qui a connu son moment de notoriété plusieurs années auparavant, est en crise. Ne parvenant ni à écrire, ni à satisfaire physiquement sa femme Camille qui a abandonné ses études afin d'entretenir le ménage, il décide de modifier sa vie."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Paul, écrivain qui a connu son moment de notoriété plusieurs années auparavant, est en crise. Ne parvenant ni à écrire, ni à satisfaire physiquement sa femme Camille qui a abandonné ses études afin d'entretenir le ménage, il décide de modifier sa vie."
+      }
+    ],
     "generique": [
       "Jean-François Stévenin",
       "Bernadette Lafont",
@@ -513,16 +622,20 @@
   {
     "titre": "Valseuses",
     "art": "Les",
+    "titreVo": "",
     "idFilm": 45997,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": 0,
     "realisateurs": "Bertrand Blier",
     "annee": 1973,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Les aventures de deux petits voyous qui entraînent dans leur cavale une fille gentille et pas farouche."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les aventures de deux petits voyous qui entraînent dans leur cavale une fille gentille et pas farouche."
+      }
+    ],
     "generique": [
       "Gérard Depardieu",
       "Miou-Miou",
@@ -533,16 +646,20 @@
   },
   {
     "titre": "Zoo zéro",
+    "titreVo": "",
     "idFilm": 48593,
     "idCycle": 414,
     "idCategorie": 1845,
+    "ageMinimal": null,
     "realisateurs": "Alain Fleischer",
     "annee": 1977,
     "pays": "France",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Après son récital, une chanteuse de cabaret zoophile se rend dans un zoo. Elle y retrouve ses prétendants."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Après son récital, une chanteuse de cabaret zoophile se rend dans un zoo. Elle y retrouve ses prétendants."
+      }
+    ],
     "generique": [
       "Catherine Jourdan",
       "Klaus Kinski",

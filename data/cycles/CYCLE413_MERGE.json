@@ -1,0 +1,1098 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idFilm": 48102,
+          "ordre": 1,
+          "idSeance": 29696,
+          "idCopie": 17429,
+          "duree": 116,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18520,
+          "dateHeure": "2019-05-11T20:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "A cause, à cause d'une femme",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1962,
+          "pays": "France",
+          "generique": [
+            "Jacques Charrier",
+            "Mylène Demongeot",
+            "Jill Haworth",
+            "Marie Laforêt"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Rémi est un jeune homme volage qui passe d'une fille à une autre sans en aimer aucune. Mais un jour, il est soupçonné d'un meurtre."
+            }
+          ]
+        },
+        {
+          "idFilm": 48103,
+          "ordre": 1,
+          "idSeance": 29264,
+          "idCopie": 17695,
+          "duree": 120,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18518,
+          "dateHeure": "2019-05-11T18:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par Macha Méril et Marina Vlady",
+          "titre": "Adorable menteuse",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1961,
+          "pays": "France",
+          "generique": [
+            "Marina Vlady",
+            "Macha Méril",
+            "Michel Vitold",
+            "Jean-Marc Bory"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Juliette et Sophie sont deux sœurs aussi belles que différentes : autant la première est coutumière du mensonge, la seconde pèche par excès de franchise. L'amour va les mettre à l'épreuve."
+            }
+          ]
+        },
+        {
+          "idFilm": 48105,
+          "ordre": 1,
+          "idSeance": 29914,
+          "idCopie": 18049,
+          "duree": 95,
+          "version": "",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18992,
+          "dateHeure": "2019-05-12T17:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Appartement des filles",
+          "art": "L'",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1963,
+          "pays": "France-Italie-RFA",
+          "generique": [
+            "Sami Frey",
+            "Mylène Demongeot",
+            "Sylva Koscina",
+            "Renata Ewert"
+          ],
+          "adaptation": "D'après le roman _L'Appartement des filles_ de Jacques Robert.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Jeune trafiquant charmeur, Tibère, séduit Elena, une hôtesse de l'air susceptible de l'aider à acheminer en fraude de l'or vers Bombay. La jeune femme partage son appartement avec deux autres hôtesses, Lolotte et Mélanie. L'amour va s'en mêler et transformer les plans de Tibère.\n\nFilm sous réserve"
+            }
+          ]
+        },
+        {
+          "idFilm": 48106,
+          "ordre": 1,
+          "idSeance": 29317,
+          "idCopie": 1505,
+          "duree": 98,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18529,
+          "dateHeure": "2019-05-18T19:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Apprenti salaud",
+          "art": "L'",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1976,
+          "pays": "France",
+          "generique": [
+            "Robert Lamoureux",
+            "Christine Dejoux",
+            "Claude Piéplu",
+            "Georges Wilson"
+          ],
+          "adaptation": "D'après le roman _Bien mal acquis_ de Frank Neville.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La vie tranquille d'un quadragénaire célibataire, vendeur dans une quincaillerie, prend un nouveau tournant lorsque sa mère décède. À l'enterrement, sa rencontre avec une jeune femme lui donnera quelques idées pour s'enrichir."
+            }
+          ]
+        },
+        {
+          "idFilm": 52044,
+          "ordre": 1,
+          "idSeance": 29450,
+          "idCopie": 17435,
+          "duree": 103,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18539,
+          "dateHeure": "2019-05-24T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Aux petits bonheurs",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1993,
+          "pays": "France",
+          "generique": [
+            "Anémone",
+            "Xavier Beauvois",
+            "André Dussollier",
+            "Nicole Garcia"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Quelques amis se retrouvent aux premiers beaux jours dans une maison qu'ils ont acheté en commun."
+            }
+          ]
+        },
+        {
+          "idFilm": 48107,
+          "ordre": 1,
+          "idSeance": 29495,
+          "idCopie": 18050,
+          "duree": 100,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18524,
+          "dateHeure": "2019-05-12T19:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Benjamin ou les mémoires d'un puceau",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1967,
+          "pays": "France",
+          "generique": [
+            "Michèle Morgan",
+            "Michel Piccoli",
+            "Catherine Deneuve",
+            "Pierre Clémenti"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un jeune homme de dix-sept ans fait l'apprentissage de l'amour auprès de sa tante, la comtesse de Valandry."
+            }
+          ]
+        },
+        {
+          "idFilm": 52031,
+          "ordre": 1,
+          "idSeance": 29823,
+          "idCopie": 17914,
+          "duree": 100,
+          "version": "",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18890,
+          "dateHeure": "2019-05-10T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Bye bye Barbara",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1968,
+          "pays": "France",
+          "generique": [
+            "Philippe Avron",
+            "Ewa Swann",
+            "Bruno Cremer",
+            "Michel Duchaussoy"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un journaliste sportif, spécialiste de rugby, grand séducteur, voit apparaître un soir, dans un bar de Biarritz, une mystérieuse jeune femme, toute vêtue de blanc. C'est le coup de foudre. Jérôme tombe amoureux fou et emmène la jeune femme avec lui à Paris..."
+            }
+          ]
+        },
+        {
+          "idFilm": 48108,
+          "ordre": 1,
+          "idSeance": 29257,
+          "idCopie": 17418,
+          "duree": 103,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18517,
+          "dateHeure": "2019-05-10T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Ce soir ou jamais",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1960,
+          "pays": "France",
+          "generique": [
+            "Anna Karina",
+            "Claude Rich",
+            "Georges Descrières",
+            "Jacqueline Danno"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Laurent, affichiste publicitaire, a organisé une soirée chez lui pour fêter le début des répétitions du premier spectacle qu'il monte. Mais sa vedette, Juliette, est victime d'un accident et Laurent doit trouver d'urgence une remplaçante. Pour sa petite amie Valérie, élève du Conservatoire, cela va être «  ce soir ou jamais  »"
+            }
+          ]
+        },
+        {
+          "idFilm": 60793,
+          "ordre": 1,
+          "idSeance": 29451,
+          "idCopie": 17824,
+          "duree": 98,
+          "version": "",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18540,
+          "dateHeure": "2019-05-25T16:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Divine poursuite",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1996,
+          "pays": "France",
+          "generique": [
+            "Antoine de Caunes",
+            "Emmanuelle Seigner",
+            "Élodie Bouchez",
+            "Denis Podalydès"
+          ],
+          "adaptation": "D'après le roman _Aztèques dansants_ de Donald E. Westlake.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A la suite d'un quiproquo, la très chère statuette originale du dieu dansant, volée au Mali, se trouve mêlée à neuf copies expédiées à Lyon. L'un des généreux membres du comité Squash pour tous reçoit l'original à la place d'une copie et l'ignore. Personne ne sait d'ailleurs qui a la vraie statuette. De l'organisateur de la combine au transporteur, en passant par l'attaché de presse du « comité cambriole », tous sont à la recherche du dieu dansant."
+            }
+          ]
+        },
+        {
+          "idFilm": 48109,
+          "ordre": 1,
+          "idSeance": 29205,
+          "idCopie": 17956,
+          "duree": 108,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18530,
+          "dateHeure": "2019-05-09T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "mention": "Ouverture de la rétrospective",
+          "titre": "Dossier 51",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1978,
+          "pays": "France-RFA",
+          "generique": [
+            "François Marthouret",
+            "Roger Planchon",
+            "Claude Marcault",
+            "Isabelle Ganz"
+          ],
+          "adaptation": "D'après le roman _Le Dossier 51_ de Gilles Perrault.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un diplomate est mis sous surveillance par les services secrets, qui désirent trouver la faille existante dans sa vie pour le faire chanter."
+            }
+          ]
+        },
+        {
+          "idFilm": 48109,
+          "ordre": 1,
+          "idSeance": 29360,
+          "idCopie": 17956,
+          "duree": 108,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18530,
+          "dateHeure": "2019-05-26T21:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Dossier 51",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1978,
+          "pays": "France-RFA",
+          "generique": [
+            "François Marthouret",
+            "Roger Planchon",
+            "Claude Marcault",
+            "Isabelle Ganz"
+          ],
+          "adaptation": "D'après le roman _Le Dossier 51_ de Gilles Perrault.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un diplomate est mis sous surveillance par les services secrets, qui désirent trouver la faille existante dans sa vie pour le faire chanter."
+            }
+          ]
+        },
+        {
+          "idFilm": 48110,
+          "ordre": 1,
+          "idSeance": 29329,
+          "idCopie": 17422,
+          "duree": 94,
+          "version": "",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18532,
+          "dateHeure": "2019-05-19T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par Florence Delay",
+          "titre": "Eaux profondes",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1981,
+          "pays": "France",
+          "generique": [
+            "Isabelle Huppert",
+            "Jean-Louis Trintignant",
+            "Sandrine Kljajic",
+            "Philippe Clévenot"
+          ],
+          "adaptation": "D'après le roman _Eaux profondes_ de Patricia Highsmith.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A Jersey, Mélanie et Vic forment un couple particulier, malgré tout intégré à la population locale. Mélanie a pour habitude de séduire les jeunes gens sous les yeux de son mari jaloux mais silencieux."
+            }
+          ]
+        },
+        {
+          "idFilm": 48111,
+          "ordre": 1,
+          "idSeance": 29308,
+          "idCopie": 17439,
+          "duree": 95,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18527,
+          "dateHeure": "2019-05-17T21:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Femme en bleu",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1972,
+          "pays": "France-Italie",
+          "generique": [
+            "Michel Piccoli",
+            "Lea Massari",
+            "Michel Aumont",
+            "Simone Simon"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un musicien comblé et heureux en amour, s'éprend éperdument d'une inconnue vêtue de bleu, entraperçue, puis idéalisée."
+            }
+          ]
+        },
+        {
+          "idFilm": 54728,
+          "ordre": 1,
+          "idSeance": 29350,
+          "idCopie": 17442,
+          "duree": 95,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18536,
+          "dateHeure": "2019-05-22T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par Miou-Miou (sous réserve)",
+          "titre": "Lectrice",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1988,
+          "pays": "France",
+          "generique": [
+            "Miou-Miou",
+            "Patrick Chesnais",
+            "Maria Casarès",
+            "Pierre Dux"
+          ],
+          "adaptation": "D'après le roman _La Lectrice_ de Raymond Jean.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Passionnée par l'héroïne du roman La Lectrice à laquelle elle s'identifie, Constance décide à son tour de faire la lecture à domicile à des gens seuls."
+            }
+          ]
+        },
+        {
+          "idFilm": 48112,
+          "ordre": 1,
+          "idSeance": 29277,
+          "idCopie": 17912,
+          "duree": 90,
+          "version": "",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18522,
+          "dateHeure": "2019-05-12T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Lucky Jo",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1964,
+          "pays": "France",
+          "generique": [
+            "Eddie Constantine",
+            "Françoise Arnoul",
+            "Pierre Brasseur",
+            "Claude Brasseur"
+          ],
+          "adaptation": "D'après le roman _Main pleine_ de Pierre Vial-Lesou.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Jo est un truand malchanceux qui porte malchance à tous ceux qu'il approche. A l'instar de son ami Simon impliqué dans un hold-up dont il est innocent."
+            }
+          ]
+        },
+        {
+          "idFilm": 65004,
+          "ordre": 1,
+          "idSeance": 29351,
+          "idCopie": 17905,
+          "duree": 107,
+          "version": "VO",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18541,
+          "dateHeure": "2019-05-25T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Maladie de Sachs",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1999,
+          "pays": "France",
+          "generique": [
+            "Albert Dupontel",
+            "Valérie Dréville",
+            "Dominique Reymond",
+            "Etienne Bierry"
+          ],
+          "adaptation": "D'après le roman _La Maladie de Sachs_ de Martin Winckler.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le quotidien d'un médecin de campagne confronté à la souffrance, à l'angoisse, à la violence des rapports humains, à tout ce qui rend malade."
+            }
+          ]
+        },
+        {
+          "idFilm": 52105,
+          "ordre": 1,
+          "idSeance": 29494,
+          "idCopie": 17693,
+          "duree": 90,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18523,
+          "dateHeure": "2019-05-25T21:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Martin soldat",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1966,
+          "pays": "France",
+          "generique": [
+            "Robert Hirsch",
+            "Véronique Vendell",
+            "Marlène Jobert",
+            "Walter Rilla"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Peu de temps après le débarquement allié, les mésaventures d'un comédien enrôlé dans l'armée, successivement arrêté par les Américains et les Allemands, puis finalement envoyé en mission."
+            }
+          ]
+        },
+        {
+          "idFilm": 48113,
+          "ordre": 1,
+          "idSeance": 29316,
+          "idCopie": 17438,
+          "duree": 101,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18528,
+          "dateHeure": "2019-05-18T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Mouton enragé",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1973,
+          "pays": "France-Italie",
+          "generique": [
+            "Jean-Louis Trintignant",
+            "Romy Schneider",
+            "Jean-Pierre Cassel",
+            "Jane Birkin"
+          ],
+          "adaptation": "D'après le roman _Le Mouton enragé_ de Roger Blondel.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'ascension fulgurante d'un employé de banque, conseillé par un ancien camarade de lycée, et s'appuyant sur les femmes qu'il séduit presque involontairement."
+            }
+          ]
+        },
+        {
+          "idFilm": 48114,
+          "ordre": 1,
+          "idSeance": 29448,
+          "idCopie": 17447,
+          "duree": 85,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18537,
+          "dateHeure": "2019-05-22T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par Jean-Hugues Anglade",
+          "titre": "Nuit d'été en ville",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1990,
+          "pays": "France",
+          "generique": [
+            "Jean-Hugues Anglade",
+            "Marie Trintignant"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une chaude nuit d'été, dans un appartement, un homme et une femme se rencontrent, s'aiment et se découvrent."
+            }
+          ]
+        },
+        {
+          "idFilm": 48115,
+          "ordre": 1,
+          "idSeance": 29491,
+          "idCopie": 17697,
+          "duree": 95,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18544,
+          "dateHeure": "2019-05-15T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par Marina Vlady",
+          "titre": "On a volé la Joconde",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1965,
+          "pays": "France-Italie",
+          "generique": [
+            "Marina Vlady",
+            "George Chakiris",
+            "Jean Lefebvre",
+            "Paul Frankeur"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "1910\\. Un escroc captivé par la Joconde, dérobe la célèbre toile du Louvre, et enlève simultanément le sosie de Mona Lisa, une employée d'hôtel rencontrée par hasard."
+            }
+          ]
+        },
+        {
+          "idFilm": 48123,
+          "ordre": 1,
+          "idSeance": 29446,
+          "idCopie": 17828,
+          "duree": 80,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18525,
+          "dateHeure": "2019-05-15T21:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Ours et la poupée",
+          "art": "L'",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1969,
+          "pays": "France",
+          "generique": [
+            "Brigitte Bardot",
+            "Jean-Pierre Cassel",
+            "Daniel Ceccaldi",
+            "Xavier Gélin"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Musicien rêveur, Gaspard est séparé de sa femme et élève seul son fils Arthur. Un jour, sa 2CV est emboutie par la Rolls d'une riche oisive, Félicia, qui va entreprendre de le séduire."
+            }
+          ]
+        },
+        {
+          "idFilm": 48124,
+          "ordre": 1,
+          "idSeance": 29492,
+          "idCopie": 703,
+          "duree": 94,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18535,
+          "dateHeure": "2019-05-11T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Paltoquet",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1986,
+          "pays": "France",
+          "generique": [
+            "Fanny Ardant",
+            "Daniel Auteuil",
+            "Richard Bohringer",
+            "Philippe Léotard"
+          ],
+          "adaptation": "D'après le roman _On a tué pendant l'escale_ de Franz-Rudolf Falk.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une tenancière, un serveur, un bar insolite et ses fidèles. Et une créature de rêve qui transforme la réalité en cauchemar policier."
+            }
+          ]
+        },
+        {
+          "idFilm": 48125,
+          "ordre": 1,
+          "idSeance": 29358,
+          "idCopie": 17425,
+          "duree": 92,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18533,
+          "dateHeure": "2019-05-26T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Petite bande",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1982,
+          "pays": "France",
+          "generique": [
+            "François Marthouret",
+            "Roland Amstutz",
+            "Nathalie Bécue",
+            "Françoise Lugagne"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Sept petits Anglais âgés de sept à dix ans partent à l'aventure, se nourrissant sans un centime en poche, échappant aux gendarmes, visitant les combles d'un château, déjouant même une machine à vieillir."
+            },
+            {
+              "typeTexte": 203,
+              "texte": "Petite fable toute en musique qui met en scène sept petits Anglais, âgés de sept à dix ans Les enfants partent à l'aventure en France et perturbent l'ordre établi pour le plus grand plaisir des spectateurs.\n\nÀ l'occasion de la rétrospective consacrée à Michel Deville, un film étonnant sur l'enfance."
+            }
+          ]
+        },
+        {
+          "idFilm": 57612,
+          "ordre": 1,
+          "idSeance": 29342,
+          "idCopie": 17423,
+          "duree": 100,
+          "version": "",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18534,
+          "dateHeure": "2019-05-19T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Péril en la demeure",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1984,
+          "pays": "France",
+          "generique": [
+            "Nicole Garcia",
+            "Christophe Malavoy",
+            "Michel Piccoli",
+            "Anémone"
+          ],
+          "adaptation": "D'après le roman _Sur la terre comme au ciel_ de René Belletto.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "David, jeune professeur de musique, a une liaison avec Julia, la mère de son élève. Un soir, il est sauvagement agressé par un inconnu, et sauvé par Daniel, un tueur à gages chargé d'assassiner le mari de Julia et de lui dérober des microfilms."
+            }
+          ]
+        },
+        {
+          "idFilm": 48126,
+          "ordre": 1,
+          "idSeance": 29493,
+          "idCopie": 17878,
+          "duree": 110,
+          "version": "VFSTA",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18526,
+          "dateHeure": "2019-05-24T21:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Raphaël ou le débauché",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1970,
+          "pays": "France",
+          "generique": [
+            "Maurice Ronet",
+            "Françoise Fabian",
+            "Jean Vilar",
+            "Brigitte Fossey"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Vers 1830, une jeune veuve intelligente, spirituelle, vertueuse et sensuelle s'éprend follement d'un dandy désespéré, cynique et jouisseur."
+            }
+          ]
+        },
+        {
+          "idFilm": 48127,
+          "ordre": 1,
+          "idSeance": 29489,
+          "idCopie": 9801,
+          "duree": 107,
+          "version": "VO",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18538,
+          "dateHeure": "2019-05-17T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Toutes peines confondues",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1991,
+          "pays": "France",
+          "generique": [
+            "Patrick Bruel",
+            "Mathilda May",
+            "Jacques Dutronc",
+            "Bruce Myers"
+          ],
+          "adaptation": "D'après le roman _Coeur tendre_ d'Andrew Coburn.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Christophe, jeune inspecteur de police, est chargé par Thurston, son supérieur aux méthodes peu orthodoxes, d'enquêter sur de mystérieux meurtres dans un village des Alpes suisses."
+            }
+          ]
+        },
+        {
+          "idFilm": 95796,
+          "ordre": 1,
+          "idSeance": 29359,
+          "idCopie": 17830,
+          "duree": 80,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18543,
+          "dateHeure": "2019-05-26T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par Pierre-William Glenn (sous réserve) et Dominique Blanc",
+          "titre": "Un fil à la patte",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 2004,
+          "pays": "France",
+          "generique": [
+            "Emmanuelle Béart",
+            "Charles Berling",
+            "Dominique Blanc",
+            "Jacques Bonnaffé"
+          ],
+          "adaptation": "D'après la pièce _Un fil à la patte_ de Georges Feydeau.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Bois d'Enghien, un jeune homme sans fortune, se rend chez sa maîtresse, Lucette, chanteuse de music-hall, avec la ferme intention de rompre, car l'après-midi même, il doit signer son contrat de mariage avec la charmante Viviane, fille de la très riche baronne Duverger. Pour que sa maîtresse accepte facilement la rupture, Bois d'Enghien doit lui trouver au plus vite un autre amant."
+            }
+          ]
+        },
+        {
+          "idFilm": 82261,
+          "ordre": 1,
+          "idSeance": 29490,
+          "idCopie": 17831,
+          "duree": 93,
+          "version": "",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18542,
+          "dateHeure": "2019-05-13T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Un monde presque paisible",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 2002,
+          "pays": "France",
+          "generique": [
+            "Simon Abkarian",
+            "Lubna Azabal",
+            "Zabou Breitman",
+            "Clotilde Courau"
+          ],
+          "adaptation": "D'après le roman _Quoi de neuf sur la guerre ?_ de Robert Bober.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Août 46, dans un atelier de confection pour dames, à Paris, dans le quartier des tailleurs juifs. Quatre femmes, cinq hommes et quelques enfants essaient de rapprendre à vivre."
+            }
+          ]
+        },
+        {
+          "idFilm": 57987,
+          "ordre": 1,
+          "idSeance": 29496,
+          "idCopie": 17417,
+          "duree": 85,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18516,
+          "dateHeure": "2019-05-19T21:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Une balle dans le canon",
+          "titreVo": "",
+          "realisateurs": "Michel Deville, Charles Gérard",
+          "annee": 1958,
+          "pays": "France",
+          "generique": [
+            "Pierre Vaneck",
+            "Mijanou Bardot",
+            "Roger Hanin",
+            "Colette Duval"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "De retour d'Indochine, Tony et Dick, deux soldats français, ont sont désormais en possession de plus de 20 millions, acquis frauduleusement pour le compte d'un trafiquant. Ils achètent une boîte de nuit dans le quartier de Montparnasse mais sont bientôt pourchassés par le trafiquant qui veut récupérer son argent."
+            }
+          ]
+        },
+        {
+          "idFilm": 48128,
+          "ordre": 1,
+          "idSeance": 29328,
+          "idCopie": 17424,
+          "duree": 90,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 413,
+          "idCategorie": 1844,
+          "idEvenement": 18531,
+          "dateHeure": "2019-05-18T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Voyage en douce",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1979,
+          "pays": "France",
+          "generique": [
+            "Dominique Sanda",
+            "Geraldine Chaplin",
+            "Jacques Zabor",
+            "Jean Crubelier"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Après s'être disputée avec son mari, Lucie va se réfugier chez son amie Hélène. Les deux jeunes femmes partent quelques jours en Provence."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "info": {}
+}

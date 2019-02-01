@@ -24,6 +24,7 @@
   },
   {
     "titre": "Andrzej Trzaskowski, le cerveau du jazz polonais",
+    "titreVo": "",
     "idFilm": 140541,
     "idCycle": 400,
     "idCategorie": 1850,
@@ -145,6 +146,7 @@
   },
   {
     "titre": "Contre la montre... Jerzy Skolimowski, peintre, poète, cinéaste",
+    "titreVo": "",
     "idFilm": 94510,
     "idCycle": 400,
     "idCategorie": 1850,
@@ -186,6 +188,7 @@
   },
   {
     "titre": "Deep End",
+    "titreVo": "",
     "idFilm": 39977,
     "idCycle": 400,
     "idCategorie": 1810,
@@ -208,6 +211,7 @@
   {
     "titre": "Départ",
     "art": "Le",
+    "titreVo": "",
     "idFilm": 39062,
     "idCycle": 400,
     "idCategorie": 1810,
@@ -234,6 +238,7 @@
   },
   {
     "titre": "Dialog 20-40-60",
+    "titreVo": "",
     "idFilm": 71896,
     "idCycle": 400,
     "idCategorie": 1810,
@@ -276,6 +281,7 @@
   },
   {
     "titre": "Erotik",
+    "titreVo": "",
     "idFilm": 82614,
     "idCycle": 400,
     "idCategorie": 1810,
@@ -296,6 +302,7 @@
   },
   {
     "titre": "Essential killing",
+    "titreVo": "",
     "idFilm": 112994,
     "idCycle": 400,
     "idCategorie": 1810,
@@ -318,6 +325,7 @@
   },
   {
     "titre": "Ferdydurke",
+    "titreVo": "",
     "idFilm": 29678,
     "idCycle": 400,
     "idCategorie": 1810,
@@ -533,6 +541,7 @@
   },
   {
     "titre": "Walkower",
+    "titreVo": "",
     "idFilm": 45046,
     "idCycle": 400,
     "idCategorie": 1810,

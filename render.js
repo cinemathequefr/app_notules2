@@ -32,8 +32,16 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
   );
 
   let cycle = merge(cycleConfig, films, seances); // Etape MERGE : fusion des données (renvoie `{data,info}`)
+  cycle = cleanTitreEvenement(cycle);
 
-  cycle = cleanTitreEvenement(cycle); // cf. journal 30/01/19
+  // Pour test, on peut sérialiser le cycle à l'étape MERGE ici.
+  await writeFile(
+    `data/cycles/CYCLE${cycleConfig.idCycleProg}_MERGE.json`,
+    JSON.stringify(cycle, null, 2),
+    "utf8"
+  );
+
+
 
   cycle = render(cycle.data);
   cycle = {

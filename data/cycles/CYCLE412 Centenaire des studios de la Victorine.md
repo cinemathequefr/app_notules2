@@ -9,8 +9,7 @@ Avec Jeanne Moreau, Claude Mann, Paul Guers, Henri Nassiet.
 Jean Fournier, un modeste employé de banque, découvre le monde du jeu et rencontre Jackie, une belle joueuse qui se dit « un personnage de roman ». Il en tombe éperdument amoureux.  
 Mer 3 avr 21h45 GF
 
-**Bonjour tristesse**  
-**(Bonjour Tristesse)**  
+**Bonjour Tristesse**  
 d'Otto Preminger  
 États-Unis / 1957 / 93 min / VOSTF / 35 mm  
 D'après le roman _Bonjour tristesse_ de Françoise Sagan.  
@@ -34,7 +33,7 @@ Jeu 28 mar 17h00 HL
 
 **Et Dieu créa la femme**  
 de Roger Vadim  
-France / 1956 / 90 min / 35 mm  
+France / 1956 / 90 min / DCP  
 Avec Brigitte Bardot, Curd Jürgens, Jean-Louis Trintignant, Mary Glory.  
 Jeune fille à la beauté provocante, Juliette suscite le désir des hommes, en particulier celui d'Eric Carradine, le propriétaire d'une boîte de nuit très en vogue. Mais Juliette est amoureuse d'Antoine Tardieu, qui exploite un petit chantier naval. C'est pourtant son frère, Michel, qu'elle épouse par dépit, avant de devenir la maîtresse d'Antoine.  
 Jeu 4 avr 22h00 GF
@@ -44,7 +43,7 @@ de Germaine Dulac
 France / 1919 / 9 min / 35 mm  
 Avec Ève Francis, Gaston Modot, Jean Toulout, Robert Delsol.  
 Une ancienne danseuse est aimée de deux hommes. Elle les incite à se battre, promettant de se donner au vainqueur.  
-Film suivi de _Gossette_de Germaine Dulac.  
+Film suivi de _Gossette_ de Germaine Dulac.  
 Sam 30 mar 15h00 JE  
 Séance présentée par Emilie Cauquy
 
@@ -143,7 +142,7 @@ de Steve Bendelack
 Grande-Bretagne / 2006 / 89 min / 35 mm  
 Avec Rowan Atkinson, Max Baldry, Emma de Caunes, Willem Dafoe.  
 Mr. Bean a gagné une semaine de vacances sur la Côte d'Azur, et une caméra vidéo. Il quitte son Angleterre natale pour la France.  
-Mr. Bean a gagné une semaine de vacances sur la Côte d'Azur et une caméra vidéo. Il quitte son Angleterre natale pour la France. Attention, Mr. Bean débarque!  
+[JP] Mr. Bean a gagné une semaine de vacances sur la Côte d'Azur et une caméra vidéo. Il quitte son Angleterre natale pour la France. Attention, Mr. Bean débarque!  
 Dim 7 avr 15h00 GF
 
 **Vénus aveugle**  
@@ -155,7 +154,7 @@ Mer 3 avr 19h00 GF
 
 **La Vérité sur Bébé Donge**  
 de Henri Decoin  
-France / 1951 / 104 min / 35 mm  
+France / 1951 / 104 min / DCP  
 D'après le roman _La Vérité sur Bébé Donge_ de Georges Simenon.  
 Avec Danielle Darrieux, Jean Gabin, Claude Génia, Gabrielle Dorziat.  
 A l'hôpital, allongé sur son lit d'agonie, François Donge, que son épouse Elisabeth, dite « Bébé », a froidement empoisonné, revoit son passé.  
