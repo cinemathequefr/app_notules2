@@ -1,6 +1,6 @@
 /**
  * Ce script de ligne de commande fait des requêtes sur la base de données et
- * génère les fichiers de données films et seances pour l'identifiant de cycle passé en paramètre.
+ * génère les fichiers de données films et seances correspondant au programme et cycle passé en paramètres.
  */
 const fs = require("fs");
 const _ = require("lodash");
@@ -16,18 +16,25 @@ const {
 const writeFile = promisify(fs.writeFile);
 const copyFile = promisify(fs.copyFile);
 
-const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramètre de ligne de commande
+const idProg = parseInt(process.argv[2], 10); // Id de programme saisi en paramètre de ligne de commande
+const idCycle = parseInt(process.argv[3], 10); // Id de saisi en paramètre de ligne de commande
+
 const timestamp = helpers.timestamp();
 
 (async function () {
 
-  const cyclesConfig = await helpers.readFileAsJson("./data/config/cycles.json");
-  let cycleConfig = _(cyclesConfig).find({
-    idCycleProg: idCycle
-  });
+  const cyclesConfig = await helpers.readFileAsJson(`./data/config/prog${idProg}.json`);
 
+  let cycleConfig = _(cyclesConfig).mapValues(d => _(d).find(e => e.idCycleProg === idCycle)).value();
+  // let cycleConfig = _(cyclesConfig).thru(d => d[idProg]).find({
+  //   idCycleProg: idCycle
+  // });
+  console.log(cycleConfig);
 
   try {
+
+    throw ("Erreur volontaire");
+
     const db = await database.attach(config.db);
 
     console.log(`Importation des données pour le cycle ${cycleConfig.idCycleProg} ${cycleConfig.titreCycle}.`);

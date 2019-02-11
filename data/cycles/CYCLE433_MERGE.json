@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idFilm": 35020,
+          "ordre": 1,
+          "idSeance": 30390,
+          "idCopie": 14593,
+          "duree": 138,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 433,
+          "idCategorie": 1934,
+          "idEvenement": 19065,
+          "dateHeure": "2019-02-23T14:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Hommes du président",
+          "art": "Les",
+          "titreVo": "All the President's Men",
+          "realisateurs": "Alan J. Pakula",
+          "annee": 1975,
+          "pays": "États-Unis",
+          "generique": [
+            "Dustin Hoffman",
+            "Robert Redford",
+            "Jack Warden",
+            "Martin Balsam"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Bob Woodward et Carl Bernstein, journalistes du « Washington Post », dévoilent les détails du scandale du Watergate qui mène à la démission du président Richard Nixon."
+            }
+          ]
+        },
+        {
+          "idFilm": 55332,
+          "ordre": 1,
+          "idSeance": 30391,
+          "idCopie": 18109,
+          "duree": 133,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 433,
+          "idCategorie": 1934,
+          "idEvenement": 19064,
+          "dateHeure": "2019-02-23T18:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Quiz Show",
+          "titreVo": "",
+          "realisateurs": "Robert Redford",
+          "annee": 1994,
+          "pays": "États-Unis",
+          "generique": [
+            "John Turturro",
+            "Rob Morrow",
+            "Ralph Fiennes",
+            "Paul Scofield"
+          ],
+          "adaptation": "D'après le livre _Remembering America : A Voice From the Sixties_ de Richard N. Goodwin.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Fin des années 50, Charles Van Doren devient une star en éliminant du fameux jeu télévisé _Twenty One_ Herbert Stempel, jusque là invaincu. Mais tout cela est-il bien régulier ?..."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "info": {}
+}

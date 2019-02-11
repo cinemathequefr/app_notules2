@@ -270,5 +270,15 @@
       "cats": [1857],
       "tri": 1
     }]
+  },
+  {
+    "idProg": 51,
+    "idCycleProg": 433,
+    "titreCycle": "Hommage à Robert Redford",
+    "sousCycles": [{
+      "titre": "Les films",
+      "cats": [1934],
+      "tri": 1
+    }]
   }
 ]
