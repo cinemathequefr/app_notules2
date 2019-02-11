@@ -159,6 +159,16 @@
     ]
   },
   {
+    "idProg": 56,
+    "idCycleProg": 399,
+    "titreCycle": "Toute la mémoire du monde 2019",
+    "sousCycles": [{
+      "titre": "Hommage à Nicolas Winding Refn",
+      "cats": [1809, 1905, 1906, 1913, 1914, 1915, 1916],
+      "tri": 1
+    }]
+  },
+  {
     "idProg": 55,
     "idCycleProg": 384,
     "titreCycle": "Le cinéma de (mauvais) genre taïwanais",

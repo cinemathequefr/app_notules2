@@ -9,6 +9,7 @@ const merge = require("./lib/transforms/merge.js");
 const cleanTitreEvenement = require("./lib/transforms/clean_titre_evenement.js");
 const render = require("./lib/transforms/render.js");
 const markdown = require("./lib/transforms/markdown.js");
+const summary = require("./lib/transforms/summary.js");
 
 const writeFile = promisify(fs.writeFile);
 const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramètre de ligne de commande
@@ -41,6 +42,13 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
     "utf8"
   );
 
+
+  // (test) Summary
+  // await writeFile(
+  //   `data/cycles/SUMMARY${cycleConfig.idCycleProg} ${cycleConfig.titreCycle}.md`,
+  //   summary(cycle.data),
+  //   "utf8"
+  // );
 
 
   cycle = render(cycle.data);

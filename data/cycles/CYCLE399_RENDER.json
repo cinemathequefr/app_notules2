@@ -1,0 +1,656 @@
+{
+  "header": {
+    "idProg": 56,
+    "idCycleProg": 399,
+    "titreCycle": "Toute la mémoire du monde 2019",
+    "sousCycles": [
+      {
+        "titre": "Hommage à Nicolas Winding Refn",
+        "cats": [
+          1809,
+          1905,
+          1906,
+          1913,
+          1914,
+          1915,
+          1916
+        ],
+        "tri": 1
+      }
+    ]
+  },
+  "data": [
+    {
+      "titreSousCycle": "Hommage à Nicolas Winding Refn",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 399,
+          "idFilm": 42575,
+          "titre": "Caligula",
+          "titreVo": "",
+          "realisateurs": "Tinto Brass",
+          "annee": 1976,
+          "pays": "Grande-Bretagne-Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Réservé à un public averti."
+            },
+            {
+              "typeTexte": 9,
+              "texte": "Pour obtenir le pouvoir, le sanguinaire Caligula n'hésite pas à tuer l'empereur de Rome, son grand-père adoptif. Très vite, les signes de sa folie se manifestent,"
+            }
+          ],
+          "generique": [
+            "Malcolm McDowell",
+            "Peter O'Toole",
+            "John Gielgud",
+            "Teresa Ann Savoy"
+          ],
+          "duree": 135,
+          "format": "35 mm",
+          "version": "VF",
+          "seance": [
+            {
+              "idSeance": 28060,
+              "ordre": 1,
+              "idEvenement": 18590,
+              "dateHeure": "2019-03-14T14:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance suivie d'une discussion avec Nicolas Winding Refn"
+            }
+          ]
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 113249,
+          "titre": "Drive",
+          "titreVo": "",
+          "realisateurs": "Nicolas Winding Refn",
+          "annee": 2010,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Mécanicien et cascadeur de jour, un jeune homme mutique devient chauffeur pour des gangsters la nuit. Un jour, il croise le chemin de sa voisine Irène et de son jeune fils."
+            }
+          ],
+          "adaptation": "D'après le roman _Drive_ de James Sallis.",
+          "generique": [
+            "Ryan Gosling",
+            "Carey Mulligan",
+            "Bryan Cranston",
+            "Albert Brooks"
+          ],
+          "duree": 95,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28063,
+              "ordre": 1,
+              "idEvenement": 18585,
+              "dateHeure": "2019-03-14T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Séance présentée par Nicolas Winding Refn"
+            }
+          ]
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 46236,
+          "titre": "Faster Pussycat, Kill ! Kill !",
+          "titreVo": "",
+          "realisateurs": "Russ Meyer",
+          "annee": 1966,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Emmenées par Varla, trois jeunes femmes partent pour une virée en voiture de course. Elles croisent sur leur chemin un jeune couple naïf que Varla n'hésite pas à provoquer."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "En version restaurée HD."
+            }
+          ],
+          "generique": [
+            "Tura Satana",
+            "Haji",
+            "Stuart Lancaster",
+            "Lori Williams"
+          ],
+          "duree": 83,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29527,
+              "ordre": 1,
+              "idEvenement": 18592,
+              "dateHeure": "2019-03-15T20:00:00",
+              "idSalle": [
+                "LE",
+                "Lotte Eisner"
+              ],
+              "mention": "Séance suivie d'une discussion avec Nicolas Winding Refn"
+            }
+          ]
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 33422,
+          "titre": "Fat City = La Dernière chance",
+          "titreVo": "Fat City",
+          "realisateurs": "John Huston",
+          "annee": 1971,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Deux boxeurs, l'un novice et l'autre plus tout jeune, rêvent de victoires ou de remonter sur le ring. Mais il y a loin du rêve à la réalité, une réalité qui cogne dur dans les maisons, les bars et les rues de cette ville américaine à l'abandon."
+            }
+          ],
+          "adaptation": "D'après le roman _Fat City_ de Leonard Gardner.",
+          "generique": [
+            "Stacy Keach",
+            "Jeff Bridges",
+            "Susan Tyrrell",
+            "Candy Clark"
+          ],
+          "duree": 100,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29858,
+              "ordre": 1,
+              "idEvenement": 18588,
+              "dateHeure": "2019-03-13T14:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance suivie d'une discussion avec Nicolas Winding Refn"
+            }
+          ]
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 140526,
+          "titre": "Girls on F Street = The Maidens of Fetish Street",
+          "art": "The",
+          "titreVo": "",
+          "realisateurs": "Saul Resnick",
+          "annee": 1966,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Tout en regardant un spectacle de strip-tease, un homme solitaire se souvient d'anecdotes étranges, arrivées à des gens du quartier ou à lui-même."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "_Maidens of Fetish Street_ n'avait survécu que sous la forme de quelques bobines très usées de copies de distribution. Pour la première fois depuis les années 1980, une version numérique complète a pu être reconstruite grâce à une recherche de tout le matériel existant."
+            }
+          ],
+          "generique": [
+            "Ken McCormick",
+            "Toni Lee Oliver",
+            "Nick Nickerson"
+          ],
+          "duree": 69,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29518,
+              "ordre": 3,
+              "idEvenement": 18639,
+              "titreEvenement": "Nuit NWR",
+              "dateHeure": "2019-03-16T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé de _Night Tide_ de Curtis Harrington, _Spring Night, Summer Night_ de Joseph L. Anderson et suivi de de _Santo contra Cerebro del Mal_ de Joselito Rodríguez."
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 131583,
+          "titre": "Neon Demon",
+          "art": "The",
+          "titreVo": "",
+          "realisateurs": "Nicolas Winding Refn",
+          "annee": 2015,
+          "pays": "Danemark-États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une jeune fille débarque à Los Angeles. Son rêve est de devenir mannequin. Son ascension fulgurante et sa pureté suscitent jalousies et convoitises. Certaines filles s'inclinent devant elle, d'autres sont prêtes à tout pour lui voler sa beauté..."
+            }
+          ],
+          "generique": [
+            "Elle Fanning",
+            "Karl Glusman",
+            "Jena Malone",
+            "Bella Heathcote"
+          ],
+          "duree": 117,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29529,
+              "ordre": 1,
+              "idEvenement": 18587,
+              "dateHeure": "2019-03-15T22:00:00",
+              "idSalle": [
+                "LE",
+                "Lotte Eisner"
+              ],
+              "mention": "Séance présentée par Nicolas Winding Refn"
+            }
+          ]
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 85908,
+          "titre": "Night Tide",
+          "titreVo": "",
+          "realisateurs": "Curtis Harrington",
+          "annee": 1961,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un marin en permission s'éprend d'une énigmatique jeune femme qui gagne sa vie en personnifiant une sirène dans une attraction foraine."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré en 4K au laboratoire Hiventy à Paris à partir d'un négatif très dégradé. Hiventy a consacré des mois à un traitement chimique, qui a permis un assouplissement progressif de la pellicule, jusqu'à ce qu'elle puisse être soumise à un scanner spécial. Il a ensuite fallu procéder à de nombreuses heures de « redimensionnement » numérique afin de stabiliser l'image."
+            }
+          ],
+          "generique": [
+            "Dennis Hopper",
+            "Linda Lawson",
+            "Gavin Muir"
+          ],
+          "duree": 84,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29518,
+              "ordre": 2,
+              "idEvenement": 18639,
+              "titreEvenement": "Nuit NWR",
+              "dateHeure": "2019-03-16T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé de _Spring Night, Summer Night_ de Joseph L. Anderson et suivi de de _The Girls on F Street = The Maidens of Fetish Street_ de Saul Resnick, _Santo contra Cerebro del Mal_ de Joselito Rodríguez."
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 119951,
+          "titre": "Only God Forgives",
+          "titreVo": "",
+          "realisateurs": "Nicolas Winding Refn",
+          "annee": 2012,
+          "pays": "États-Unis-France-Danemark",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Bangkok, Julian dirige un club de boxe thaïlandaise servant de couverture à son trafic de drogue. Il mène la grande vie jusqu'à ce que sa mère refasse surface, lui ordonnant de venger l'exécution de son autre fils, Billy."
+            }
+          ],
+          "generique": [
+            "Ryan Gosling",
+            "Kristin Scott Thomas",
+            "Vithaya Pansringarm",
+            "Yayaying Rhatha Phongam"
+          ],
+          "duree": 90,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28061,
+              "ordre": 1,
+              "idEvenement": 18586,
+              "dateHeure": "2019-03-14T16:45:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Séance présentée par Nicolas Winding Refn"
+            }
+          ]
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 36659,
+          "titre": "Prédateurs",
+          "art": "Les",
+          "titreVo": "Hunger",
+          "artVo": "The",
+          "realisateurs": "Tony Scott",
+          "annee": 1982,
+          "pays": "Grande-Bretagne",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Miriam Blaylock, une vampire âgée de trois mille ans, a offert l'immortalité à son mari John. Alors que le charme s'estompe, ce dernier contacte Sarah Roberts, médecin spécialiste du vieillissement. Mais Miriam tombe sous son charme."
+            }
+          ],
+          "adaptation": "D'après le roman _Les Sanguinaires_ de Whitley Strieber.",
+          "generique": [
+            "Catherine Deneuve",
+            "David Bowie",
+            "Susan Sarandon",
+            "Cliff De Young"
+          ],
+          "duree": 97,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29838,
+              "ordre": 2,
+              "idEvenement": 18886,
+              "titreEvenement": "Prédateurs (Les) / Scorpio Rising",
+              "dateHeure": "2019-03-13T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Ouverture de la rétrospective. Séance présentée par Nicolas Winding Refn et Stephen Goldblatt"
+            }
+          ],
+          "precedeSuivi": "Film précédé de _Scorpio Rising_ de Kenneth Anger."
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 99944,
+          "titre": "Pusher",
+          "titreVo": "",
+          "realisateurs": "Nicolas Winding Refn",
+          "annee": 1996,
+          "pays": "Danemark",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Parce qu'il lui doit une petite somme d'argent, Frank, dealer, propose à son grossiste de financer un coup qui leur permettra à tous deux de rentrer dans leurs frais."
+            }
+          ],
+          "generique": [
+            "Kim Bodnia",
+            "Zlatko Buric",
+            "Mads Mikkelsen",
+            "Laura Drasbaek"
+          ],
+          "duree": 105,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29859,
+              "ordre": 1,
+              "idEvenement": 18582,
+              "dateHeure": "2019-03-13T16:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance présentée par Nicolas Winding Refn"
+            }
+          ]
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 99945,
+          "titre": "Pusher 2",
+          "titreVo": "Pusher 2 : With Blood on My Hands",
+          "realisateurs": "Nicolas Winding Refn",
+          "annee": 2004,
+          "pays": "Danemark-Grande-Bretagne",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Sorti une nouvelle fois de prison, Tonny décide qu'il est désormais temps pour lui de changer de vie. Mais les choses ne sont pas si simples dans les bas-fonds de Copenhague."
+            }
+          ],
+          "generique": [
+            "Mads Mikkelsen",
+            "Leif Sylvester Petersen",
+            "Anne Sorensen",
+            "Oyvind Hagen-Traberg"
+          ],
+          "duree": 100,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29633,
+              "ordre": 1,
+              "idEvenement": 18583,
+              "dateHeure": "2019-03-15T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Séance présentée par Nicolas Winding Refn"
+            }
+          ]
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 99946,
+          "titre": "Pusher 3",
+          "titreVo": "Pusher 3 : I'm the Angel of Death",
+          "realisateurs": "Nicolas Winding Refn",
+          "annee": 2005,
+          "pays": "Danemark",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Milo tente de mener conjointement sa vie de père de famille et son trafic de drogue, mais une mauvaise transaction va menacer cet équilibre."
+            }
+          ],
+          "generique": [
+            "Zlatko Buric",
+            "Ilyas Agac",
+            "Marinela Dekic",
+            "Kujtim Loki"
+          ],
+          "duree": 90,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29634,
+              "ordre": 1,
+              "idEvenement": 18584,
+              "dateHeure": "2019-03-17T13:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 140542,
+          "titre": "Santo contra Cerebro del Mal",
+          "titreVo": "",
+          "realisateurs": "Joselito Rodríguez",
+          "annee": 1952,
+          "pays": "Mexique-Cuba",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le docteur Campos capture l'agent secret « L'Homme masqué » et annihile sa volonté, comme il l'a déjà fait avec des scientifiques pour les forcer à travailler sur un rayon « désintégrateur de cellules »."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré en 4K par la « Permanencia Voluntaria », petite archive soutenue par NWR et l'Academy Film Archive à partir des négatifs 35 mm originaux. Étalonnage par Ross Lipman et la Cinema Preservation Alliance. Il s'agit de la première restauration en 4K d'un film de genre mexicain."
+            }
+          ],
+          "generique": [
+            "Santo El Enmascarado de Plata",
+            "Joaquín Cordero",
+            "Norma Suárez"
+          ],
+          "duree": 73,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29518,
+              "ordre": 4,
+              "idEvenement": 18639,
+              "titreEvenement": "Nuit NWR",
+              "dateHeure": "2019-03-16T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé de _The Girls on F Street = The Maidens of Fetish Street_ de Saul Resnick, _Night Tide_ de Curtis Harrington, _Spring Night, Summer Night_ de Joseph L. Anderson."
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 30125,
+          "titre": "Scorpio Rising",
+          "titreVo": "",
+          "realisateurs": "Kenneth Anger",
+          "annee": 1964,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "« Une vision transcendée du mythe du motard américain. La machine comme totem, du jouet à la terreur. Thanatos en chrome et cuir noir. » Kenneth Anger"
+            }
+          ],
+          "generique": [
+            "Bruce Byron",
+            "Johnny Sapienza",
+            "Frank Carifi",
+            "John Palone"
+          ],
+          "duree": 30,
+          "format": "16 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29838,
+              "ordre": 1,
+              "idEvenement": 18886,
+              "titreEvenement": "Prédateurs (Les) / Scorpio Rising",
+              "dateHeure": "2019-03-13T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Ouverture de la rétrospective. Séance présentée par Nicolas Winding Refn et Stephen Goldblatt"
+            }
+          ],
+          "precedeSuivi": "Film suivi de _Les Prédateurs_ de Tony Scott."
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 140525,
+          "titre": "Spring Night, Summer Night",
+          "titreVo": "",
+          "realisateurs": "Joseph L. Anderson",
+          "annee": 1967,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Aîné d'une famille de fermiers, Carl éprouve une jalousie maladive envers sa demi-sœur Jessie, avec laquelle il couche dans un moment d'égarement. Il disparaît ensuite, et quand il revient quelques mois plus tard dans la maison familiale, il trouve Jessie enceinte."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré avec le soutien de Nicolas Winding Refn et la Cinema Preservation Alliance. Le montage d'origine du film a pu être reconstruit avec l'aide J.-L. Anderson et Franklin Miller. L'équipe a accédé à tous les éléments qui avaient été retranchés du négatif original 35 mm."
+            }
+          ],
+          "generique": [
+            "Larue Hall",
+            "Ted Heimerdinger",
+            "Marjorie Johnson"
+          ],
+          "duree": 82,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29518,
+              "ordre": 1,
+              "idEvenement": 18639,
+              "titreEvenement": "Nuit NWR",
+              "dateHeure": "2019-03-16T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film suivi de _The Girls on F Street = The Maidens of Fetish Street_ de Saul Resnick, _Night Tide_ de Curtis Harrington, _Santo contra Cerebro del Mal_ de Joselito Rodríguez."
+        },
+        {
+          "idCycle": 399,
+          "idFilm": 43971,
+          "titre": "Topo",
+          "art": "El",
+          "titreVo": "",
+          "realisateurs": "Alejandro Jodorowsky",
+          "annee": 1971,
+          "pays": "Mexique",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "El Topo, un mystérieux pistolero, sillonne le désert accompagné de son fils de huit ans. Sa route le conduit à sauver Mara, la maîtresse du Colonel, qui le met alors au défi de triompher des quatre Maîtres qui règnent sur la région."
+            }
+          ],
+          "generique": [
+            "Alejandro Jodorowsky",
+            "Mara Lorenzio",
+            "David Silva"
+          ],
+          "duree": 125,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28073,
+              "ordre": 1,
+              "idEvenement": 18593,
+              "dateHeure": "2019-03-16T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Séance présentée par Alejandro Jodorowsky et Nicolas Winding Refn"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
