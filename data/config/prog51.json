@@ -1,0 +1,15 @@
+{
+  "idProg": 51,
+  "titre": "Novembre 2018-février 2019",
+  "dateFrom": null,
+  "dateTo": null,
+  "cycles": [{
+    "idCycleProg": 433,
+    "titreCycle": "Hommage à Robert Redford",
+    "sousCycles": [{
+      "titre": "Les films",
+      "cats": [1934],
+      "tri": 1
+    }]
+  }]
+}

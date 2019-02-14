@@ -16,8 +16,17 @@ const {
 const writeFile = promisify(fs.writeFile);
 const copyFile = promisify(fs.copyFile);
 
-const idProg = parseInt(process.argv[2], 10); // Id de programme saisi en paramètre de ligne de commande
-const idCycle = parseInt(process.argv[3], 10); // Id de saisi en paramètre de ligne de commande
+let idProg = null;
+let idCycle = null;
+
+// Décode les arguments passés de la forme : -p 55 -c 400
+try {
+  let args = helpers.extractArgsValue(process.argv.slice(2).join(" "));
+  idProg = helpers.toNumOrNull(args.p[0]);
+  idCycle = helpers.toNumOrNull(args.c[0]);
+} catch (e) {
+  console.error("Erreur d'arguments. Les arguments attendus sont de la forme : -p <id programme> -c <id cycle>.")
+}
 
 const timestamp = helpers.timestamp();
 
@@ -25,15 +34,21 @@ const timestamp = helpers.timestamp();
 
   const cyclesConfig = await helpers.readFileAsJson(`./data/config/prog${idProg}.json`);
 
-  let cycleConfig = _(cyclesConfig).mapValues(d => _(d).find(e => e.idCycleProg === idCycle)).value();
-  // let cycleConfig = _(cyclesConfig).thru(d => d[idProg]).find({
-  //   idCycleProg: idCycle
-  // });
-  console.log(cycleConfig);
+  let cycleConfig = _(
+      _(cyclesConfig)
+      .mapValues(d => _(d).find(e => e.idCycleProg === idCycle))
+      .value().cycles
+    )
+    .assign({
+      idProg: idProg
+    })
+    .value();
 
+
+  console.log(JSON.stringify(cycleConfig, null, 2));
   try {
 
-    throw ("Erreur volontaire");
+    // throw ("Erreur volontaire");
 
     const db = await database.attach(config.db);
 
@@ -45,34 +60,36 @@ const timestamp = helpers.timestamp();
     console.log(`Films : ${_.map(f).length} items.`);
 
     await writeFile(
-      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_FILMS ${timestamp}.json`,
+      `data/cycles/ts/PROG${idProg}_CYCL${idCycle}_FILMS ${timestamp}.json`,
       JSON.stringify(f, null, 2),
       "utf8"
     );
 
     await copyFile(
-      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_FILMS ${timestamp}.json`,
-      `data/cycles/CYCLE${cycleConfig.idCycleProg}_FILMS.json`
+      `data/cycles/ts/PROG${idProg}_CYCL${idCycle}_FILMS ${timestamp}.json`,
+      `data/cycles/PROG${idProg}_CYCL${idCycle}_FILMS.json`
     );
 
     // Séances
     let s = await seances(db, cycleConfig);
+
+
     console.log(`Séances : ${s.length} items.`);
 
     await writeFile(
-      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_SEANCES ${timestamp}.json`,
+      `data/cycles/ts/PROG${idProg}_CYCL${idCycle}_SEANCES ${timestamp}.json`,
       JSON.stringify(s, null, 2),
       "utf8"
     );
 
     await copyFile(
-      `data/cycles/ts/CYCLE${cycleConfig.idCycleProg}_SEANCES ${timestamp}.json`,
-      `data/cycles/CYCLE${cycleConfig.idCycleProg}_SEANCES.json`
+      `data/cycles/ts/PROG${idProg}_CYCL${idCycle}_SEANCES ${timestamp}.json`,
+      `data/cycles/PROG${idProg}_CYCL${idCycle}_SEANCES.json`
     );
 
     database.detach(db);
   } catch (e) {
-    console.log(e);
-    database.detach(db);
+    // console.log(e);
+    // database.detach(db);
   }
 })();
