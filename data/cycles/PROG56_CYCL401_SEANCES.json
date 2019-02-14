@@ -1,0 +1,176 @@
+[
+  {
+    "idCycle": 401,
+    "idCategorie": 1811,
+    "idEvenement": 18725,
+    "idSeance": 29886,
+    "dateHeure": "2019-03-14T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Rolling Stones",
+    "items": [
+      {
+        "idFilm": 30351,
+        "ordre": 1,
+        "idSeance": 29886,
+        "idCopie": 18078,
+        "duree": 90,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Garrett Brown"
+  },
+  {
+    "idCycle": 401,
+    "idCategorie": 1811,
+    "idEvenement": 18722,
+    "idSeance": 29605,
+    "dateHeure": "2019-03-15T13:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Philadelphia",
+    "items": [
+      {
+        "idFilm": 57540,
+        "ordre": 1,
+        "idSeance": 29605,
+        "idCopie": 17714,
+        "duree": 122,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Garrett Brown"
+  },
+  {
+    "idCycle": 401,
+    "idCategorie": 1811,
+    "idEvenement": 18724,
+    "idSeance": 29611,
+    "dateHeure": "2019-03-15T16:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "En route pour la gloire",
+    "items": [
+      {
+        "idFilm": 30343,
+        "ordre": 1,
+        "idSeance": 29611,
+        "idCopie": 17709,
+        "duree": 147,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 401,
+    "idCategorie": 1811,
+    "idEvenement": 18720,
+    "idSeance": 28075,
+    "dateHeure": "2019-03-15T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Rocky",
+    "items": [
+      {
+        "idFilm": 30431,
+        "ordre": 1,
+        "idSeance": 28075,
+        "idCopie": 17704,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Garrett Brown"
+  },
+  {
+    "idCycle": 401,
+    "idCategorie": 1811,
+    "idEvenement": 18723,
+    "idSeance": 29609,
+    "dateHeure": "2019-03-16T17:00:00",
+    "idSalle": [
+      "HO",
+      "Hors-les-murs"
+    ],
+    "titreEvenement": "Coup de coeur",
+    "items": [
+      {
+        "idFilm": 32033,
+        "ordre": 1,
+        "idSeance": 29609,
+        "idCopie": 5912,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Garrett Brown"
+  },
+  {
+    "idCycle": 401,
+    "idCategorie": 1811,
+    "idEvenement": 18719,
+    "idSeance": 28069,
+    "dateHeure": "2019-03-16T22:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Marathon Man",
+    "items": [
+      {
+        "idFilm": 35364,
+        "ordre": 1,
+        "idSeance": 28069,
+        "idCopie": 17708,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Garrett Brown"
+  },
+  {
+    "idCycle": 401,
+    "idCategorie": 1811,
+    "idEvenement": 18721,
+    "idSeance": 29608,
+    "dateHeure": "2019-03-17T14:00:00",
+    "idSalle": [
+      "HO",
+      "Hors-les-murs"
+    ],
+    "titreEvenement": "Shining",
+    "items": [
+      {
+        "idFilm": 34068,
+        "ordre": 1,
+        "idSeance": 29608,
+        "idCopie": 1159,
+        "duree": 146,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Garrett Brown"
+  }
+]

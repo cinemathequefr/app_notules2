@@ -81,7 +81,9 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
 // NOTE: en replacement de la fonction renvoyant les titres avec le nom du cycle en clair.
 function getFilenameFromCycle(idCycle) {
   return {
-    films: `CYCLE${idCycle}_FILMS`,
-    seances: `CYCLE${idCycle}_SEANCES`
+    films: `PROG56_CYCL${idCycle}_FILMS`,
+    seances: `PROG56_CYCL${idCycle}_SEANCES`
+    // films: `CYCLE${idCycle}_FILMS`,
+    // seances: `CYCLE${idCycle}_SEANCES`
   };
 }

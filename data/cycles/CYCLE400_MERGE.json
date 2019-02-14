@@ -1,0 +1,362 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idFilm": 29677,
+          "ordre": 1,
+          "idSeance": 30323,
+          "idCopie": 11400,
+          "duree": 79,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 400,
+          "idCategorie": 1810,
+          "idEvenement": 18599,
+          "dateHeure": "2019-03-15T21:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "mention": "Séance présentée par Jerzy Skolimowski",
+          "titre": "Barrière",
+          "art": "La",
+          "titreVo": "Bariera",
+          "realisateurs": "Jerzy Skolimowski",
+          "annee": 1966,
+          "pays": "Pologne",
+          "generique": [
+            "Jan Nowicki",
+            "Tadeusz Lomnicki",
+            "Joanna Szczerbic"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Sur un coup de tête, un étudiant en médecine laisse tout tomber pour partir à la recherche d'une vie meilleure."
+            }
+          ]
+        },
+        {
+          "idFilm": 37025,
+          "ordre": 1,
+          "idSeance": 28074,
+          "idCopie": 17605,
+          "duree": 87,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 400,
+          "idCategorie": 1810,
+          "idEvenement": 18600,
+          "dateHeure": "2019-03-16T17:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "mention": "Séance présentée par Jerzy Skolimowski",
+          "titre": "Bateau-phare",
+          "art": "Le",
+          "titreVo": "Lightship",
+          "artVo": "The",
+          "realisateurs": "Jerzy Skolimowski",
+          "annee": 1985,
+          "pays": "États-Unis",
+          "generique": [
+            "Klaus Maria Brandauer",
+            "Robert Duvall",
+            "Tom Bower"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans les années 1950, le capitaine d'un bateau-phare au passé douteux et en conflit avec son fils, un adolescent rebelle, recueille à son bord des gangsters en fuite."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré en 4K par l'Atelier d'images et Malavida avec TitraFilm.\n\nRessortie en salles par Malavida le 3 avril 2019."
+            }
+          ]
+        },
+        {
+          "idFilm": 41108,
+          "ordre": 1,
+          "idSeance": 30322,
+          "idCopie": 17625,
+          "duree": 87,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCycle": 400,
+          "idCategorie": 1810,
+          "idEvenement": 18604,
+          "dateHeure": "2019-03-14T18:00:00",
+          "idSalle": [
+            "HO",
+            "Hors-les-murs"
+          ],
+          "mention": "Séance suivie d'une discussion avec Jerzy Skolimowski",
+          "titre": "Cri du sorcier",
+          "art": "Le",
+          "titreVo": "Shout",
+          "artVo": "The",
+          "realisateurs": "Jerzy Skolimowski",
+          "annee": 1978,
+          "pays": "Grande-Bretagne",
+          "generique": [
+            "Alan Bates",
+            "Susannah York",
+            "John Hurt",
+            "Robert Stephens"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Charles Crossley, un voyageur dont le cri peut paralyser à tout instant, débarque dans la petite ville de Devon et décide de s'en prendre à un musicien et sa femme."
+            }
+          ]
+        },
+        {
+          "idFilm": 39977,
+          "ordre": 1,
+          "idSeance": 29607,
+          "idCopie": 17616,
+          "duree": 91,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 400,
+          "idCategorie": 1810,
+          "idEvenement": 18598,
+          "dateHeure": "2019-03-17T17:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "mention": "Séance présentée par Jerzy Skolimowski",
+          "titre": "Deep End",
+          "titreVo": "",
+          "realisateurs": "Jerzy Skolimowski",
+          "annee": 1970,
+          "pays": "RFA-États-Unis",
+          "generique": [
+            "Diana Dors",
+            "Jane Asher",
+            "John Moulder-Brown"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Londres, un jeune adolescent de quinze ans est engagé comme homme à tout faire dans une piscine publique. Il tombe amoureux d'une jeune femme qui y travaille au même endroit."
+            }
+          ]
+        },
+        {
+          "idFilm": 39062,
+          "ordre": 1,
+          "idSeance": 28059,
+          "idCopie": 932,
+          "duree": 88,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCycle": 400,
+          "idCategorie": 1810,
+          "idEvenement": 18606,
+          "dateHeure": "2019-03-14T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Départ",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Jerzy Skolimowski",
+          "annee": 1967,
+          "pays": "Belgique",
+          "generique": [
+            "Jean-Pierre Léaud",
+            "Catherine Duport",
+            "Jacqueline Bir",
+            "Paul Roland"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Bruxelles, Marc, jeune garçon coiffeur, rêve de participer à un rallye automobile. Ne pouvant emprunter la Porsche de son patron, il a deux jours pour trouver une voiture. Dans cet intervalle, il rencontre une jeune fille, Michèle."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauration 2K financée par Malavida et réalisée par Titra films, à partir d'un fichier réétalonné et validé par Willy Kurant."
+            }
+          ]
+        },
+        {
+          "idFilm": 56920,
+          "ordre": 1,
+          "idSeance": 30337,
+          "idCopie": 17601,
+          "duree": 76,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCycle": 400,
+          "idCategorie": 1810,
+          "idEvenement": 18617,
+          "dateHeure": "2019-03-16T19:45:00",
+          "idSalle": [
+            "HO",
+            "Hors-les-murs"
+          ],
+          "mention": "Séance suivie d'une discussion avec Jerzy Skolimowski",
+          "titre": "Signes particuliers : néant",
+          "titreVo": "Rysopis",
+          "realisateurs": "Jerzy Skolimowski",
+          "annee": 1962,
+          "pays": "Pologne",
+          "generique": [
+            "Jerzy Skolimowski",
+            "Elzbieta Czyzewska"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Quelques heures de la vie d'Andrzej, étudiant de vingt-quatre ans, à la veille de décider si, oui ou non, il va partir pour un service militaire de deux ans."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré en 4K par Kadr dans le cadre du programme Polish Film Classics.\n\nRessortie en salles par Malavida le 20 mars 2019."
+            }
+          ]
+        },
+        {
+          "idFilm": 41099,
+          "ordre": 1,
+          "idSeance": 29919,
+          "idCopie": 17604,
+          "duree": 97,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCycle": 400,
+          "idCategorie": 1810,
+          "idEvenement": 18623,
+          "dateHeure": "2019-03-14T20:30:00",
+          "idSalle": [
+            "HO",
+            "Hors-les-murs"
+          ],
+          "mention": "Séance présentée par Jerzy Skolimowski",
+          "titre": "Travail au noir",
+          "titreVo": "Moonlighting",
+          "realisateurs": "Jerzy Skolimowski",
+          "annee": 1982,
+          "pays": "Grande-Bretagne",
+          "generique": [
+            "Jeremy Irons",
+            "Eugene Lipinski",
+            "Jirí Stanislav",
+            "Eugeniusz Haczkiewicz"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Trois maçons polonais et leur contremaître, Novak, viennent à Londres travailler au noir. Novak, autoritaire, est le seul à parler anglais. Lorsqu'il prend connaissance du coup d'État en Pologne, il tait la nouvelle à ses compatriotes."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré en 2K par Goldcrestpour MK2.\n\nRessortie en salles par Malavida le 20 mars 2019."
+            }
+          ]
+        },
+        {
+          "idFilm": 41099,
+          "ordre": 1,
+          "idSeance": 29606,
+          "idCopie": 17604,
+          "duree": 97,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCycle": 400,
+          "idCategorie": 1810,
+          "idEvenement": 18623,
+          "dateHeure": "2019-03-16T21:30:00",
+          "idSalle": [
+            "HO",
+            "Hors-les-murs"
+          ],
+          "mention": "Séance présentée par Jerzy Skolimowski",
+          "titre": "Travail au noir",
+          "titreVo": "Moonlighting",
+          "realisateurs": "Jerzy Skolimowski",
+          "annee": 1982,
+          "pays": "Grande-Bretagne",
+          "generique": [
+            "Jeremy Irons",
+            "Eugene Lipinski",
+            "Jirí Stanislav",
+            "Eugeniusz Haczkiewicz"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Trois maçons polonais et leur contremaître, Novak, viennent à Londres travailler au noir. Novak, autoritaire, est le seul à parler anglais. Lorsqu'il prend connaissance du coup d'État en Pologne, il tait la nouvelle à ses compatriotes."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré en 2K par Goldcrestpour MK2.\n\nRessortie en salles par Malavida le 20 mars 2019."
+            }
+          ]
+        },
+        {
+          "idFilm": 45046,
+          "ordre": 1,
+          "idSeance": 28081,
+          "idCopie": 17602,
+          "duree": 78,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCycle": 400,
+          "idCategorie": 1810,
+          "idEvenement": 18616,
+          "dateHeure": "2019-03-17T14:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titreEvenement": "Walkover",
+          "titre": "Walkower",
+          "titreVo": "",
+          "realisateurs": "Jerzy Skolimowski",
+          "annee": 1965,
+          "pays": "Pologne",
+          "generique": [
+            "Jerzy Skolimowski",
+            "Elzbieta Czyzewska"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Andrzej Leszczyc, ancien boxeur, retrouve par hasard une femme qui l'a jadis trahi. Elle l'invite à l'accompagner dans sa journée et il en tombe amoureux. Mais une vieille connaissance le convainc de remonter sur le ring."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré en 4K par Kadr Film Studio dans le cadre du programme Polish Film Classics, à partir du négatif 35 mm original.\n\nRessortie en salles par Malavida le 3 avril 2019."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Autour de Jerzy Skolimowski",
+      "tri": 3,
+      "items": []
+    }
+  ],
+  "info": {}
+}
