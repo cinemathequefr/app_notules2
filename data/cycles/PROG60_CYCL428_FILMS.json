@@ -1,0 +1,218 @@
+[
+  {
+    "titre": "Apprentis sorciers",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 57671,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 1976,
+    "pays": "France-RFA",
+    "generique": [
+      "Zouzou",
+      "Peter Chatel",
+      "Marie-France Pisier",
+      "Christian Marquand"
+    ]
+  },
+  {
+    "titre": "Citizen Langlois",
+    "titreVo": "",
+    "idFilm": 43605,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 1995,
+    "pays": "France",
+    "generique": [
+      "Henri Langlois",
+      "Eric Rohmer",
+      "Freddy Buache",
+      "Marie Epstein"
+    ]
+  },
+  {
+    "titre": "Dans le rouge du couchant",
+    "titreVo": "",
+    "idFilm": 93371,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 2003,
+    "pays": "France-Espagne",
+    "generique": [
+      "Marisa Paredes",
+      "Feodor Atkine",
+      "Bruno Putzulu",
+      "Didier Flamand"
+    ]
+  },
+  {
+    "titre": "Fantômes de Tanger",
+    "titreVo": "",
+    "idFilm": 29159,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 1997,
+    "pays": "France-Maroc-Allemagne",
+    "generique": [
+      "Laurent Grevill",
+      "Larbi Yacoubi",
+      "Brenda Gerolemou",
+      "Dick Chapman"
+    ]
+  },
+  {
+    "titre": "Guerre d'un seul homme",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 47856,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 1982,
+    "pays": "France"
+  },
+  {
+    "titre": "Guerriers et captives",
+    "titreVo": "",
+    "idFilm": 47857,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 1988,
+    "pays": "France-Suisse-Argentine",
+    "generique": [
+      "Leslie Caron",
+      "Dominique Sanda",
+      "Federico Luppi",
+      "China Zorrilla"
+    ]
+  },
+  {
+    "titre": "Jean Cocteau – Autoportrait d'un inconnu",
+    "titreVo": "",
+    "idFilm": 106640,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 1983,
+    "pays": "France"
+  },
+  {
+    "titre": "Lettre à un père",
+    "titreVo": "Carta a un padre",
+    "idFilm": 124231,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 2013,
+    "pays": "Argentine-France"
+  },
+  {
+    "titre": "Limelight (Les Feux de la rampe)",
+    "titreVo": "",
+    "idFilm": 101995,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 2002,
+    "pays": "France"
+  },
+  {
+    "titre": "Nocturnos",
+    "titreVo": "",
+    "idFilm": 124232,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 2011,
+    "pays": "Argentine",
+    "generique": [
+      "Esteban Lamothe",
+      "Marta Lubos",
+      "Esmeralda Mitre",
+      "Jimena Anganuzzi"
+    ]
+  },
+  {
+    "titre": "Notes pour une biographie imaginaire",
+    "titreVo": "Apuntes para una biografía imaginaria",
+    "idFilm": 124233,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 2010,
+    "pays": "Argentine"
+  },
+  {
+    "titre": "Pour en finir",
+    "titreVo": "Para acabar de una vez",
+    "idFilm": 43051,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 1970,
+    "pays": "Argentine"
+  },
+  {
+    "titre": "Puntos suspensivos o Esperando a los bárbaros",
+    "titreVo": "",
+    "idFilm": 127308,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 1971,
+    "pays": "Argentine"
+  },
+  {
+    "titre": "Ronde de nuit",
+    "titreVo": "Ronda nocturna",
+    "idFilm": 98629,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 2005,
+    "pays": "Argentine-France",
+    "generique": [
+      "Gonzalo Heredia",
+      "Moro Anghileri",
+      "Rafael Ferro",
+      "Dario Tripicchio"
+    ]
+  },
+  {
+    "titre": "Violon de Rothschild",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 58337,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 1996,
+    "pays": "France-Suisse-Finlande-Hongrie",
+    "generique": [
+      "Serguei Makovetsky",
+      "Dainius Kazlauskas",
+      "Tarmo Männard",
+      "Tamara Solodnikova"
+    ]
+  }
+]

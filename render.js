@@ -28,12 +28,21 @@ try {
 
 (async function () {
   const cyclesConfig = await helpers.readFileAsJson(
-    "./data/config/cycles.json"
+    `./data/config/prog${idProg}.json`
   );
 
-  let cycleConfig = _(cyclesConfig).find({
-    idCycleProg: idCycle
-  });
+  let cycleConfig = _(
+      _(cyclesConfig)
+      .mapValues(d => _(d).find(e => e.idCycleProg === idCycle))
+      .value().cycles
+    )
+    .assign({
+      idProg: idProg
+    })
+    .value();
+  // let cycleConfig = _(cyclesConfig).find({
+  //   idCycleProg: idCycle
+  // });
 
   const filename = getFilenameFromCycle(idCycle);
 
@@ -44,12 +53,16 @@ try {
     `./data/cycles/${filename.films}.json`
   );
 
+  console.log(JSON.stringify(cyclesConfig));
+  console.log(typeof idCycle);
+  console.log(cycleConfig);
+
   let cycle = merge(cycleConfig, films, seances); // Etape MERGE : fusion des données (renvoie `{data,info}`)
   cycle = cleanTitreEvenement(cycle);
 
   // Pour test, on peut sérialiser le cycle à l'étape MERGE ici.
   await writeFile(
-    `data/cycles/CYCLE${cycleConfig.idCycleProg}_MERGE.json`,
+    `data/cycles/PROG${idProg}_CYCL${idCycle}_MERGE.json`,
     JSON.stringify(cycle, null, 2),
     "utf8"
   );
@@ -57,7 +70,7 @@ try {
 
   // (test) Summary
   // await writeFile(
-  //   `data/cycles/SUMMARY${cycleConfig.idCycleProg} ${cycleConfig.titreCycle}.md`,
+  //   `data/cycles/SUMMARY${idCycle} ${cycleConfig.titreCycle}.md`,
   //   summary(cycle.data),
   //   "utf8"
   // );
@@ -70,7 +83,7 @@ try {
   };
 
   await writeFile(
-    `data/cycles/PROG${idProg}_CYCL${cycleConfig.idCycleProg}_RENDER.json`,
+    `data/cycles/PROG${idProg}_CYCL${idCycle}_RENDER.json`,
     JSON.stringify(cycle, null, 2),
     "utf8"
   );
@@ -78,7 +91,7 @@ try {
   let md = markdown(cycle);
 
   await writeFile(
-    `data/cycles/PROG${idProg}_CYCL${cycleConfig.idCycleProg} ${cycleConfig.titreCycle}.md`,
+    `data/cycles/PROG${idProg}_CYCL${idCycle} ${cycleConfig.titreCycle}.md`,
     md,
     "utf8"
   );

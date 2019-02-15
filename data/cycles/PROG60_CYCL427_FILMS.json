@@ -1,0 +1,538 @@
+[
+  {
+    "titre": "Affaire Cicéron",
+    "art": "L'",
+    "titreVo": "Five Fingers",
+    "idFilm": 33673,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1951,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1943, à Istanbul, un valet de chambre de l'ambassade britannique propose des documents secrets à un fonctionnaire allemand. Leurs échanges deviennent réguliers et le valet demande l'aide d'une comtesse polonaise ruinée."
+      }
+    ],
+    "generique": [
+      "James Mason",
+      "Danielle Darrieux",
+      "Michael Rennie",
+      "Walter Hampden"
+    ],
+    "adaptation": "D'après le récit _Der Fall Cicero_ de L.C. Moyzisch."
+  },
+  {
+    "titre": "Américain bien tranquille",
+    "art": "Un",
+    "titreVo": "Quiet American",
+    "artVo": "The",
+    "idFilm": 33701,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1957,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1952, pendant la guerre d'Indochine, un américain est retrouvé mort. L'inspecteur français chargé de l'affaire contacte un journaliste anglais qui a connu la victime. En effet, les deux hommes se sont disputés l'amour d'une jeune vietnamienne."
+      }
+    ],
+    "generique": [
+      "Audie Murphy",
+      "Michael Redgrave",
+      "Claude Dauphin",
+      "Giorgia Moll"
+    ],
+    "adaptation": "D'après le roman _Un Américain bien tranquille_ de Graham Greene."
+  },
+  {
+    "titre": "Aventure de Madame Muir",
+    "art": "L'",
+    "titreVo": "Ghost and Mrs Muir",
+    "artVo": "The",
+    "idFilm": 33678,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 8,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1946,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une ravissante veuve, Mrs Muir, se retire au bord de la mer avec sa fille et une domestique. L'ancien propriétaire de la maison qu'elle loue, le capitaine Gregg, hante sa demeure. Son fantôme se manifeste mais Mrs Muir est plus fascinée qu'effrayée."
+      }
+    ],
+    "generique": [
+      "Gene Tierney",
+      "Rex Harrison",
+      "George Sanders",
+      "Edna Best"
+    ],
+    "adaptation": "D'après le roman _The Ghost and Mrs. Muir_ de R.A. Dick."
+  },
+  {
+    "titre": "Blanches colombes et vilains messieurs",
+    "titreVo": "Guys and Dolls",
+    "idFilm": 33684,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1955,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Nathan Detroit, propriétaire d'un tripot new-yorkais, a urgemment d'argent. Il va trouver un joueur invétéré et lui propose un pari extravagant : il doit emmener dîner le soir même à La Havane une jeune femme oeuvrant pour l'Armée du Salut."
+      }
+    ],
+    "generique": [
+      "Marlon Brando",
+      "Jean Simmons",
+      "Frank Sinatra"
+    ]
+  },
+  {
+    "titre": "Carol for Another Christmas TV",
+    "titreVo": "",
+    "idFilm": 141025,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1964,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Daniel Grudge, riche industriel devenu amer après la mort de son fils à la guerre, se retrouve seul à la veille de Noël 1964. Cette nuit va devenir le théâtre d'apparitions fantomatiques des guerres passées et à venir..."
+      }
+    ],
+    "generique": [
+      "Percy Rodrigues",
+      "Sterling Hayden",
+      "Ben Gazzara",
+      "Eva Marie Saint"
+    ]
+  },
+  {
+    "titre": "Chaînes conjugales",
+    "titreVo": "A Letter to Three Wives",
+    "idFilm": 33605,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1948,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Trois femmes mariées partent en excursion. Elles sont étonnées par l'absence de leur quatrième amie. Une lettre de cette dernière leur parvient, leur annonçant qu'elle a quitté la ville avec un souvenir : le mari de l'une d'entre elles."
+      }
+    ],
+    "generique": [
+      "Jeanne Crain",
+      "Linda Darnell",
+      "Ann Sothern",
+      "Kirk Douglas"
+    ],
+    "adaptation": "D'après l'histoire _A Letter to Five Wives_, parue dans le Cosmopolitan Magazine de John Klempner."
+  },
+  {
+    "titre": "Château du dragon",
+    "art": "La",
+    "titreVo": "Dragonwyck",
+    "idFilm": 33609,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1945,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A la fin du 19ème siècle, une jeune fermière se rend à New-York pour garder la fille d'un lointain cousin aristocrate, Nicholas Van Ryn. La gouvernante informe la jeune femme que la demeure familiale, Dragonwyck, est hantée par la mère de Nicholas..."
+      }
+    ],
+    "generique": [
+      "Gene Tierney",
+      "Walter Huston",
+      "Vincent Price",
+      "Glenn Langan"
+    ],
+    "adaptation": "D'après le roman _Dragonwyck_ d'Anya Seton."
+  },
+  {
+    "titre": "Cleopâtre",
+    "titreVo": "Cleopatra",
+    "idFilm": 45517,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1960,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Cléopâtre, reine d'Égypte écartée du pouvoir, persuade César de la rétablir sur le trône."
+      }
+    ],
+    "generique": [
+      "Elizabeth Taylor",
+      "Richard Burton",
+      "Rex Harrison",
+      "Pamela Brown"
+    ],
+    "adaptation": "D'après l'oeuvre _ The Life and times of Cleopatra _ de Carlo Maria Franzero."
+  },
+  {
+    "titre": "Comtesse aux pieds nus",
+    "art": "La",
+    "titreVo": "Barefoot Contessa",
+    "artVo": "The",
+    "idFilm": 33564,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1954,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Lors des funérailles de la comtesse Torlato-Favrini, un certain nombre de personnages évoquent sa folle vie. Le réalisateur Harry Dawes raconte comment il a connu la défunte, alors qu'elle dansait dans un cabaret sous le nom de Maria Vargas."
+      }
+    ],
+    "generique": [
+      "Humphrey Bogart",
+      "Ava Gardner",
+      "Rossano Brazzi",
+      "Edmond O'Brien"
+    ]
+  },
+  {
+    "titre": "Evadé de Dartmoor",
+    "art": "L'",
+    "titreVo": "Escape",
+    "idFilm": 33672,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1948,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Matt Denant purge une peine de trois ans de prison pour avoir tué accidentellement l'agresseur d'une jeune femme. Un jour de grand brouillard, les détenus effectuent des travaux en extérieur et Matt parvient à s'échapper..."
+      }
+    ],
+    "generique": [
+      "Rex Harrison",
+      "Peggy Cummins",
+      "William Hartnell"
+    ]
+  },
+  {
+    "titre": "Eve",
+    "titreVo": "All About Eve",
+    "idFilm": 33597,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1950,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune femme effacée s'introduit dans l'entourage de son idole, actrice de théâtre."
+      }
+    ],
+    "generique": [
+      "Bette Davis",
+      "Anne Baxter",
+      "George Sanders",
+      "Celeste Holm"
+    ],
+    "adaptation": "D'après la nouvelle _The Wisdom of Eve_ de Mary Orr."
+  },
+  {
+    "titre": "Guêpier pour trois abeilles",
+    "titreVo": "Honey Pot",
+    "artVo": "The",
+    "idFilm": 33686,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1965,
+    "pays": "États-Unis-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un milliardaire, Cecil Fox, a décidé de se livrer à une petite farce aux dépens de trois de ses anciennes maîtresses. Il fera semblant d'être à l'agonie, leur fera espérer à chacune l'héritage de ses biens, et épiera leurs réactions."
+      }
+    ],
+    "generique": [
+      "Rex Harrison",
+      "Susan Hayward",
+      "Cliff Robertson",
+      "Capucine"
+    ],
+    "adaptation": "D'après la pièce _Mr Fox of Venice_ de Frederick Knott.  \nD'après la pièce _Volpone_ de Ben Jonson.  \nD'après le roman _The Evil of the day_ de Thomas Sterling."
+  },
+  {
+    "titre": "Jules César",
+    "titreVo": "Julius Caesar",
+    "idFilm": 33498,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1952,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Rome en 44 avant Jésus-Christ. Alors que la foule célèbre le triomphe de Jules César, une voix s'élève et prédit à l'empereur un destin funeste. César ne porte pas attention à la prédiction mais confie à Marc Antoine sa méfiance envers Cassius."
+      }
+    ],
+    "generique": [
+      "James Mason",
+      "Marlon Brando",
+      "John Gielgud",
+      "Deborah Kerr"
+    ]
+  },
+  {
+    "titre": "King : De Montgomery à Memphis",
+    "titreVo": "King : A Filmed Record... Montgomery to Memphis",
+    "idFilm": 82723,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Sidney Lumet, Joseph L. Mankiewicz",
+    "annee": 1969,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le documentaire retrace l'itinéraire du défenseur des droits Afro-Amérciains, Martin Luther King, de Montgomery en 1955 jusqu'à Memphis en 1968 où il fut assassiné."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauration réalisée par The Library of Congress (Washington) en collaboration avec Richard Kaplan (producteur associé) grâce à des éléments fournis par le MoMA (New York), d'après le négatif original."
+      }
+    ],
+    "generique": [
+      "Paul Newman",
+      "Joanne Woodward",
+      "James Earl Jones",
+      "Ruby Dee"
+    ]
+  },
+  {
+    "titre": "Limier",
+    "art": "Le",
+    "titreVo": "Sleuth",
+    "idFilm": 33692,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1972,
+    "pays": "Grande-Bretagne-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un riche auteur de romans policiers, maniaque de l'énigme, invite l'amant de sa femme, dans sa somptueuse résidence. Il lui propose de se faire passer pour son cambrioleur et de toucher l'argent de l'assurance. Ce dernier accepte de jouer le jeu."
+      }
+    ],
+    "generique": [
+      "Laurence Olivier",
+      "Michael Caine",
+      "Alec Cawthorne",
+      "John Matthews"
+    ],
+    "adaptation": "D'après la pièce _Sleuth_ d'Anthony Shaffer."
+  },
+  {
+    "titre": "Maison des étrangers",
+    "art": "La",
+    "titreVo": "House of Strangers",
+    "idFilm": 33690,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1949,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Max Moretti est libéré après une peine de sept ans qu'il tient ses frères pour responsable. Il se réfugie dans la maison familiale où il se souvient de son père, un banquier aux affaires douteuses qui considérait Max au dessus de ses frères."
+      }
+    ],
+    "generique": [
+      "Edward G. Robinson",
+      "Susan Hayward",
+      "Richard Conte",
+      "Luther Adler"
+    ],
+    "adaptation": "D'après le roman _I'll never go there any more_ de Jerome Weidman."
+  },
+  {
+    "titre": "Mariage à Boston",
+    "art": "Un",
+    "titreVo": "Late George Apley",
+    "artVo": "The",
+    "idFilm": 33695,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1946,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "1912\\. La famille Apley s'apprête à fêter Thanksgiving. Le père, George Apley, est un notable influent qui prône les valeurs de bienséance typiques de Boston. Il est donc désemparé quand sa fille veut lui présenter son ami originaire de New York."
+      }
+    ],
+    "generique": [
+      "Ronald Colman",
+      "Peggy Cummins",
+      "Vanessa Brown",
+      "Richard Haydn"
+    ],
+    "adaptation": "D'après la pièce _The Late George Apley_ de George S. Kaufman.  \nD'après le roman et la pièce _The Late George Apley_ de John P. Marquand."
+  },
+  {
+    "titre": "On murmure dans la ville",
+    "titreVo": "People Will Talk",
+    "idFilm": 33680,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1951,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A la faculté de médecine d'une petite ville de province, le docteur Noah Praetorius essaie de résister aux attaques d'un collègue jaloux qui fouille dans son passé et le suspecte d'être un charlatan et un imposteur, tout en aidant une jeune femme."
+      }
+    ],
+    "generique": [
+      "Cary Grant",
+      "Jeanne Crain",
+      "Finlay Currie",
+      "Hume Cronyn"
+    ],
+    "adaptation": "D'après la pièce _Dr. Praetorius_ de Curt Goetz."
+  },
+  {
+    "titre": "Porte s'ouvre",
+    "art": "La",
+    "titreVo": "No Way Out",
+    "idFilm": 33697,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1949,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un jeune interne noir doit intervenir sur deux frères blessés mais l'un d'eux refuse d'être soigné par le médecin. Ce dernier opère le second frère, trop amoché pour protester. L'homme meurt durant l'intervention et l'interne est accusé d'assassinat."
+      }
+    ],
+    "generique": [
+      "Richard Widmark",
+      "Sidney Poitier",
+      "Linda Darnell"
+    ]
+  },
+  {
+    "titre": "Quelque part dans la nuit",
+    "titreVo": "Somewhere in the Night",
+    "idFilm": 33693,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1945,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un marine amnésique sort de l'hôpital. De sa vie passée, il ne possède qu'une lettre méprisante écrite par une femme et l'adresse d'un hôtel à Los Angeles où il est sensé résider."
+      }
+    ],
+    "generique": [
+      "John Hodiak",
+      "Nancy Guild",
+      "Lloyd Nolan",
+      "Richard Conte"
+    ]
+  },
+  {
+    "titre": "Reptile",
+    "art": "Le",
+    "titreVo": "There Was a Crooked Man",
+    "idFilm": 33694,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1969,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Paris Pitman a volé une riche famille et caché le magot dans un nid de serpent. Il est finalement arrêté et jeté en prison en compagnie de six autres hommes qui deviennent vite ses alliés malgré l'intérêt que lui porte le directeur du pénitencier."
+      }
+    ],
+    "generique": [
+      "Kirk Douglas",
+      "Henry Fonda",
+      "Hume Cronyn",
+      "Warren Oates"
+    ]
+  },
+  {
+    "titre": "Soudain, l'été dernier",
+    "titreVo": "Suddenly, Last Summer",
+    "idFilm": 46038,
+    "idCycle": 427,
+    "idCategorie": 1928,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1959,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "1937\\. Le Dr Cukrowicz pratique la neurochirurgie dans des conditions vétustes. Une riche veuve, Violet Venable, souhaite léguer un million de dollars à l'établissement, à condition que Cukrowicz accepte de pratiquer une lobotomie sur sa nièce."
+      }
+    ],
+    "generique": [
+      "Elizabeth Taylor",
+      "Katharine Hepburn",
+      "Montgomery Clift",
+      "Mercedes McCambridge"
+    ],
+    "adaptation": "D'après la pièce _Suddenly, last summer_ de Tennessee Williams."
+  }
+]

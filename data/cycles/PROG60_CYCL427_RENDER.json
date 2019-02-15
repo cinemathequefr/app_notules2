@@ -1,0 +1,23 @@
+{
+  "header": {
+    "idCycleProg": 427,
+    "titreCycle": "Joseph L. Mankiewicz",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          1928
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 60
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": []
+    }
+  ]
+}

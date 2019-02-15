@@ -1,0 +1,20 @@
+[
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19040,
+    "idSeance": 30113,
+    "dateHeure": "2019-06-26T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Trois visages de la peur (Les)",
+    "items": [
+      {
+        "idFilm": 42596,
+        "ordre": 1
+      }
+    ]
+  }
+]
