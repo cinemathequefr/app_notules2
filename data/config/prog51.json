@@ -4,12 +4,22 @@
   "dateFrom": null,
   "dateTo": null,
   "cycles": [{
-    "idCycleProg": 433,
-    "titreCycle": "Hommage à Robert Redford",
-    "sousCycles": [{
-      "titre": "Les films",
-      "cats": [1934],
-      "tri": 1
-    }]
-  }]
+      "idCycleProg": 433,
+      "titreCycle": "Hommage à Robert Redford",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1934],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 152,
+      "titreCycle": "Parlons cinéma avec Stéphane Bouquet",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1779],
+        "tri": 1
+      }]
+    }
+  ]
 }

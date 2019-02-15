@@ -16,14 +16,11 @@ const {
 const writeFile = promisify(fs.writeFile);
 const copyFile = promisify(fs.copyFile);
 
-let idProg = null;
-let idCycle = null;
-
 // Décode les arguments passés de la forme : -p 55 -c 400
 try {
   let args = helpers.extractArgsValue(process.argv.slice(2).join(" "));
-  idProg = helpers.toNumOrNull(args.p[0]);
-  idCycle = helpers.toNumOrNull(args.c[0]);
+  var idProg = helpers.toNumOrNull(args.p[0]);
+  var idCycle = helpers.toNumOrNull(args.c[0]);
 } catch (e) {
   console.error("Erreur d'arguments. Les arguments attendus sont de la forme : -p <id programme> -c <id cycle>.")
 }
@@ -45,11 +42,7 @@ const timestamp = helpers.timestamp();
     .value();
 
 
-  console.log(JSON.stringify(cycleConfig, null, 2));
   try {
-
-    // throw ("Erreur volontaire");
-
     const db = await database.attach(config.db);
 
     console.log(`Importation des données pour le cycle ${cycleConfig.idCycleProg} ${cycleConfig.titreCycle}.`);
@@ -60,15 +53,16 @@ const timestamp = helpers.timestamp();
     console.log(`Films : ${_.map(f).length} items.`);
 
     await writeFile(
-      `data/cycles/ts/PROG${idProg}_CYCL${idCycle}_FILMS ${timestamp}.json`,
+      `data/cycles/PROG${idProg}_CYCL${idCycle}_FILMS.json`,
       JSON.stringify(f, null, 2),
       "utf8"
     );
 
-    await copyFile(
-      `data/cycles/ts/PROG${idProg}_CYCL${idCycle}_FILMS ${timestamp}.json`,
-      `data/cycles/PROG${idProg}_CYCL${idCycle}_FILMS.json`
-    );
+    // DEACTIVATED: copie du fichier avec timestamp
+    // await copyFile(
+    //   `data/cycles/PROG${idProg}_CYCL${idCycle}_FILMS.json`,
+    //   `data/cycles/ts/PROG${idProg}_CYCL${idCycle}_FILMS ${timestamp}.json`
+    // );
 
     // Séances
     let s = await seances(db, cycleConfig);
@@ -77,19 +71,20 @@ const timestamp = helpers.timestamp();
     console.log(`Séances : ${s.length} items.`);
 
     await writeFile(
-      `data/cycles/ts/PROG${idProg}_CYCL${idCycle}_SEANCES ${timestamp}.json`,
+      `data/cycles/PROG${idProg}_CYCL${idCycle}_SEANCES.json`,
       JSON.stringify(s, null, 2),
       "utf8"
     );
 
-    await copyFile(
-      `data/cycles/ts/PROG${idProg}_CYCL${idCycle}_SEANCES ${timestamp}.json`,
-      `data/cycles/PROG${idProg}_CYCL${idCycle}_SEANCES.json`
-    );
+    // DEACTIVATED: copie du fichier avec timestamp
+    // await copyFile(
+    //   `data/cycles/PROG${idProg}_CYCL${idCycle}_SEANCES.json`,
+    //   `data/cycles/ts/PROG${idProg}_CYCL${idCycle}_SEANCES ${timestamp}.json`
+    // );
 
     database.detach(db);
   } catch (e) {
-    // console.log(e);
-    // database.detach(db);
+    console.log(e);
+    database.detach(db);
   }
 })();

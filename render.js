@@ -9,10 +9,22 @@ const merge = require("./lib/transforms/merge.js");
 const cleanTitreEvenement = require("./lib/transforms/clean_titre_evenement.js");
 const render = require("./lib/transforms/render.js");
 const markdown = require("./lib/transforms/markdown.js");
-const summary = require("./lib/transforms/summary.js");
+// const summary = require("./lib/transforms/summary.js");
 
 const writeFile = promisify(fs.writeFile);
-const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramètre de ligne de commande
+
+
+try {
+  let args = helpers.extractArgsValue(process.argv.slice(2).join(" "));
+  var idProg = helpers.toNumOrNull(args.p[0]);
+  var idCycle = helpers.toNumOrNull(args.c[0]);
+} catch (e) {
+  console.error("Erreur d'arguments. Les arguments attendus sont de la forme : -p <id programme> -c <id cycle>.")
+}
+
+// const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramètre de ligne de commande
+// const idProg = 56; // Test
+
 
 (async function () {
   const cyclesConfig = await helpers.readFileAsJson(
@@ -58,7 +70,7 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
   };
 
   await writeFile(
-    `data/cycles/CYCLE${cycleConfig.idCycleProg}_RENDER.json`,
+    `data/cycles/PROG${idProg}_CYCL${cycleConfig.idCycleProg}_RENDER.json`,
     JSON.stringify(cycle, null, 2),
     "utf8"
   );
@@ -66,13 +78,10 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
   let md = markdown(cycle);
 
   await writeFile(
-    `data/cycles/CYCLE${cycleConfig.idCycleProg} ${cycleConfig.titreCycle}.md`,
+    `data/cycles/PROG${idProg}_CYCL${cycleConfig.idCycleProg} ${cycleConfig.titreCycle}.md`,
     md,
     "utf8"
   );
-
-
-
 
 
 })();
@@ -81,8 +90,8 @@ const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramèt
 // NOTE: en replacement de la fonction renvoyant les titres avec le nom du cycle en clair.
 function getFilenameFromCycle(idCycle) {
   return {
-    films: `PROG56_CYCL${idCycle}_FILMS`,
-    seances: `PROG56_CYCL${idCycle}_SEANCES`
+    films: `PROG${idProg}_CYCL${idCycle}_FILMS`,
+    seances: `PROG${idProg}_CYCL${idCycle}_SEANCES`
     // films: `CYCLE${idCycle}_FILMS`,
     // seances: `CYCLE${idCycle}_SEANCES`
   };
