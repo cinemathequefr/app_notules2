@@ -40,11 +40,11 @@ try {
   cycle = cleanTitreEvenement(cycle);
 
   // Pour test, on peut sérialiser le cycle à l'étape MERGE ici.
-  // await writeFile(
-  //   `./data/cycles/PROG${idProg}_CYCL${idCycle}_MERGE.json`,
-  //   JSON.stringify(cycle, null, 2),
-  //   "utf8"
-  // );
+  await writeFile(
+    `./data/cycles/PROG${idProg}_CYCL${idCycle}_MERGE.json`,
+    JSON.stringify(cycle, null, 2),
+    "utf8"
+  );
 
 
   // (test) Summary

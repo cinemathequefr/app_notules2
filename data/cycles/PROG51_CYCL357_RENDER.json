@@ -1,0 +1,2795 @@
+{
+  "header": {
+    "idCycleProg": 357,
+    "titreCycle": "Éric Rohmer",
+    "sousCycles": [
+      {
+        "titre": "Six contes moraux",
+        "cats": [
+          1768
+        ],
+        "tri": 2
+      },
+      {
+        "titre": "Comédies et proverbes",
+        "cats": [
+          1777
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Contes des quatre saisons",
+        "cats": [
+          1776
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Autres longs métrages",
+        "cats": [
+          1793
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Courts métrages",
+        "cats": [
+          1752
+        ],
+        "tri": 3
+      },
+      {
+        "titre": "Documentaires, films pédagogiques",
+        "cats": [
+          1755
+        ],
+        "tri": 3
+      },
+      {
+        "titre": "Autour d'Éric Rohmer",
+        "cats": [
+          1754
+        ],
+        "tri": 3
+      }
+    ],
+    "idProg": 51
+  },
+  "data": [
+    {
+      "titreSousCycle": "Six contes moraux",
+      "tri": 2,
+      "items": [
+        {
+          "idCycle": 357,
+          "idCategorie": 1768,
+          "idEvenement": 17611,
+          "films": [
+            {
+              "idFilm": 51015,
+              "titre": "Ma nuit chez Maud",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1969,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Deux hommes, un marxiste et un ingénieur catholique, se retrouvent lors d'une soirée chez Maud, une femme libre, et parlent philosophie. L'ingénieur est contraint de passer la nuit chez la jeune femme."
+                }
+              ],
+              "generique": [
+                "Jean-Louis Trintignant",
+                "Françoise Fabian",
+                "Marie-Christine Barrault",
+                "Antoine Vitez"
+              ],
+              "duree": 110,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-16T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1768,
+          "idEvenement": 17601,
+          "films": [
+            {
+              "idFilm": 51014,
+              "titre": "Genou de Claire",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1970,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Jérôme, trente-cinq ans, attaché d'ambassade, se rend près d'Annecy pour vendre la propriété familiale. Il y retrouve une ancienne amie, Aurora, romancière qui lui présente son hôtesse, Mme Walter, et sa fille Laura, une jeune lycéenne de seize ans."
+                }
+              ],
+              "generique": [
+                "Jean-Claude Brialy",
+                "Aurora Cornu",
+                "Béatrice Romand",
+                "Laurence de Monaghan"
+              ],
+              "duree": 105,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-11T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1768,
+          "idEvenement": 17591,
+          "films": [
+            {
+              "idFilm": 54250,
+              "titre": "Collectionneuse",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1966,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "À Saint-Tropez, un jeune homme rencontre une fille, belle et libre, qui collectionne les garçons."
+                }
+              ],
+              "generique": [
+                "Patrick Bauchau",
+                "Haydée Politoff",
+                "Daniel Pommereulle",
+                "Alain Jouffroy"
+              ],
+              "duree": 90,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-13T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1768,
+          "idEvenement": 17584,
+          "films": [
+            {
+              "idFilm": 50968,
+              "titre": "Boulangère de Monceau",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1962,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un étudiant, secrètement épris d'une jeune femme élégante qu'il croise tous les jours n'ose l'aborder. Désœuvré, il passe ses journées à la chercher et, pour tromper son ennui, entreprend de séduire une jeune boulangère qui lui témoigne de l'intérêt."
+                }
+              ],
+              "generique": [
+                "Barbet Schroeder",
+                "Michèle Girardon",
+                "Claudine Soubrier",
+                "Fred Junk"
+              ],
+              "duree": 26,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 43655,
+              "titre": "Carrière de Suzanne",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1963,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Deux étudiants abordent dans un café une jeune femme indépendante. Par jeu, l'un d'eux entreprend de la séduire. Le second admire l'attitude donjuanesque de son camarade, tandis qu'il s'agace de celle, trop libre à son goût, de la jeune femme..."
+                }
+              ],
+              "generique": [
+                "Philippe Beuzen",
+                "Catherine Sée",
+                "Christian Charrière",
+                "Diane Wilkinson"
+              ],
+              "duree": 52,
+              "format": "DCP",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-10T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Séance présentée par Barbet Schroeder (sous réserve)"
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1768,
+          "idEvenement": 17576,
+          "films": [
+            {
+              "idFilm": 51010,
+              "titre": "Amour l'après-midi",
+              "art": "L'",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1972,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Frédéric, un jeune cadre, vit auprès de sa femme un bonheur tranquille en apparence. Un jour, Chloé, la maîtresse d'un de ses amis de jeunesse, reprend contact avec lui. Elle est indépendante, impulsive, inquiétante, attirante."
+                }
+              ],
+              "generique": [
+                "Bernard Verley",
+                "Zouzou",
+                "Françoise Verley",
+                "Daniel Ceccaldi"
+              ],
+              "duree": 95,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-11T21:45:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Comédies et proverbes",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 357,
+          "idFilm": 50974,
+          "titre": "Ami de mon amie",
+          "art": "L'",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1986,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Blanche vient de s'installer à Cergy-Pontoise où elle travaille comme attachée d'administration de la mairie. Lors d'une pause-déjeuner, elle rencontre Léa, une jeune femme sympathique qui va devenir son amie."
+            }
+          ],
+          "generique": [
+            "Emmanuelle Chaulet",
+            "Eric Vieillard",
+            "Sophie Renoir",
+            "Anne-Laure Meury"
+          ],
+          "duree": 100,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 26406,
+              "ordre": 1,
+              "idEvenement": 17575,
+              "dateHeure": "2019-01-14T19:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 50967,
+          "titre": "Beau mariage",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1981,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Sabine, étudiante, ne veut plus être la maîtresse de Simon. D'ailleurs, elle en a assez d'être cantonnée au rôle de maîtresse et décide de se marier. Avec qui, elle l'ignore: il s'agit avant tout de faire un beau mariage."
+            }
+          ],
+          "generique": [
+            "Béatrice Romand",
+            "Arielle Dombasle",
+            "André Dussollier",
+            "Feodor Atkine"
+          ],
+          "duree": 95,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 26398,
+              "ordre": 1,
+              "idEvenement": 17581,
+              "dateHeure": "2019-01-13T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 51013,
+          "titre": "Femme de l'aviateur",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1980,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un matin, François voit Anne en compagnie d'un aviateur. L'après-midi, il reconnaît l'aviateur avec une autre femme et les suit. Il rencontre Lucie, une lycéenne curieuse et espiègle."
+            }
+          ],
+          "generique": [
+            "Philippe Marlaud",
+            "Marie Rivière",
+            "Anne-Laure Meury",
+            "Mathieu Carrière"
+          ],
+          "duree": 104,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 27970,
+              "ordre": 1,
+              "idEvenement": 17599,
+              "dateHeure": "2019-01-16T21:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 51037,
+          "titre": "Nuits de la pleine lune",
+          "art": "Les",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1984,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Louise parvient à convaincre Rémi, son petit ami qui vit en banlieue, de conserver son appartement pour passer de temps en temps la nuit à Paris."
+            }
+          ],
+          "generique": [
+            "Pascale Ogier",
+            "Tchéky Karyo",
+            "Fabrice Luchini",
+            "Virginie Thévenet"
+          ],
+          "duree": 100,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 26369,
+              "ordre": 1,
+              "idEvenement": 17615,
+              "dateHeure": "2019-01-09T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Ouverture de la rétrospective"
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 51040,
+          "titre": "Pauline à la plage",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1982,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pauline passe l'été chez sa cousine Marion. Sur la plage, Marion rencontre Pierre, un ancien soupirant qui lui fait une déclaration brûlante. Elle le repousse et se jette dans les bras d'Henri, que Pierre a été contraint de lui présenter."
+            }
+          ],
+          "generique": [
+            "Amanda Langlet",
+            "Arielle Dombasle",
+            "Pascal Greggory",
+            "Feodor Atkine"
+          ],
+          "duree": 100,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 27764,
+              "ordre": 1,
+              "idEvenement": 17620,
+              "dateHeure": "2019-01-12T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 50965,
+          "titre": "Rayon vert",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1985,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Délaissée par son amie, Delphine se rend seule en Normandie, à la montagne, et échoue à Biarritz. Les conseils d'une Suédoise affranchie ne font qu'aviver sa solitude, jusqu'à ce qu'une conversation à propos du rayon vert lui redonne espoir."
+            }
+          ],
+          "generique": [
+            "Marie Rivière",
+            "Vincent Gauthier",
+            "Rosette",
+            "Béatrice Romand"
+          ],
+          "duree": 90,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 26522,
+              "ordre": 1,
+              "idEvenement": 17629,
+              "dateHeure": "2019-02-02T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Contes des quatre saisons",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 357,
+          "idFilm": 29520,
+          "titre": "Conte d'automne",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1997,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Magali, la quarantaine, est viticultrice. Veuve, elle aime son travail mais souffre de la solitude depuis que ses enfants sont partis. Ses amies veulent lui trouver un mari sans qu'elle le sache."
+            }
+          ],
+          "generique": [
+            "Marie Rivière",
+            "Béatrice Romand",
+            "Alain Libolt",
+            "Didier Sandre"
+          ],
+          "duree": 110,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 26474,
+              "ordre": 1,
+              "idEvenement": 17592,
+              "dateHeure": "2019-01-26T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance présentée par Diane Baratier"
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 51012,
+          "titre": "Conte de printemps",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1989,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une jeune femme, professeur de philosophie, est hébergée par une jeune fille qui lui présente son père."
+            }
+          ],
+          "generique": [
+            "Anne Teyssèdre",
+            "Hugues Quester",
+            "Florence Darel",
+            "Eloïse Bennett"
+          ],
+          "duree": 110,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 26442,
+              "ordre": 1,
+              "idEvenement": 17595,
+              "dateHeure": "2019-01-20T21:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 59940,
+          "titre": "Conte d'été",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1995,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pendant ses vacances d'été à Dinard, le beau Gaspard, apprenti guitariste et étudiant en mathématiques, attend Léna dont il se dit amoureux. Mais il rencontre Margot, qui devient son amie et confidente, et la belle Solène dans une discothèque."
+            }
+          ],
+          "generique": [
+            "Melvil Poupaud",
+            "Amanda Langlet",
+            "Aurelia Nolin",
+            "Gwenaëlle Simon"
+          ],
+          "duree": 113,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 26450,
+              "ordre": 1,
+              "idEvenement": 17593,
+              "dateHeure": "2019-01-21T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance présentée par Melvil Poupaud (sous réserve) et Amanda Langlet"
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 51011,
+          "titre": "Conte d'hiver",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1991,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Félicie a connu Charles en vacances, et a perdu sa trace à la suite d'un malencontreux quiproquo. Elise, cinq ans, est le fruit de leur passion. Contre toute raison, Félicie continue d'aimer Charles et d'espérer son retour."
+            }
+          ],
+          "generique": [
+            "Charlotte Véry",
+            "Frédéric Van den Driessche",
+            "Michel Voletti",
+            "Hervé Furic"
+          ],
+          "duree": 114,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 26449,
+              "ordre": 1,
+              "idEvenement": 17594,
+              "dateHeure": "2019-01-21T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance présentée par Charlotte Véry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Autres longs métrages",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 357,
+          "idFilm": 102415,
+          "titre": "Amours d'Astrée et de Céladon",
+          "art": "Les",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 2006,
+          "pays": "France-Italie-Espagne",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au temps des druides, le berger Céladon et la bergère Astrée s'aiment d'amour pur. Trompée par un prétendant jaloux, Astrée congédie Céladon qui, désespéré, se jette dans une rivière. Elle le croit mort mais il est secrètement sauvé par des nymphes."
+            }
+          ],
+          "adaptation": "D'après le texte _L'Astrée_ de Honoré d'Urfé.",
+          "generique": [
+            "Andy Gillet",
+            "Stéphanie Crayencour",
+            "Cécile Cassel",
+            "Véronique Reymond"
+          ],
+          "duree": 110,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 27683,
+              "ordre": 1,
+              "idEvenement": 17578,
+              "dateHeure": "2019-01-17T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 75244,
+          "titre": "Anglaise et le duc",
+          "art": "L'",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 2000,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "1789\\. Aristocrate britannique vivant en France, bénéficiant de la protection du Duc d'Orléans, cousin du roi, ancien amant et révolutionnaire influent, Grace Elliott affirme haut et fort son attachement à la monarchie. Survient le 10 août 1792."
+            }
+          ],
+          "adaptation": "D'après le récit _Journal de ma vie durant la Révolution Française_ de Grace Elliott.",
+          "generique": [
+            "Lucy Russell",
+            "Jean-Claude Dreyfus",
+            "François Marthouret",
+            "Léonard Cobiant"
+          ],
+          "duree": 129,
+          "format": "35 mm",
+          "version": "VO",
+          "seance": [
+            {
+              "idSeance": 26482,
+              "ordre": 1,
+              "idEvenement": 17579,
+              "dateHeure": "2019-01-27T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Séance présentée par Françoise Etchegaray"
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 50963,
+          "titre": "Arbre, le maire et la médiathèque",
+          "art": "L'",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1992,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans un petit village de Vendée, le jeune maire socialiste ambitionne de faire construire un complexe culturel et sportif. Apprécié des locaux, il trouve les crédits nécessaires. Tout irait pour le mieux dans le meilleur des villages possibles, si..."
+            }
+          ],
+          "generique": [
+            "Pascal Greggory",
+            "Arielle Dombasle",
+            "Fabrice Luchini",
+            "Clémentine Amouroux"
+          ],
+          "duree": 105,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 27986,
+              "ordre": 1,
+              "idEvenement": 17580,
+              "dateHeure": "2019-01-19T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Séance présentée par Françoise Etchegaray et Pascal Greggory (sous réserve)"
+            },
+            {
+              "idSeance": 28190,
+              "ordre": 1,
+              "idEvenement": 17580,
+              "dateHeure": "2019-02-07T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 51016,
+          "titre": "Marquise d'O",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1975,
+          "pays": "France-RFA",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lors de la prise d'une place forte en Lombardie en 1799 par les troupes russes, une jeune veuve est sauvée du déshonneur par un officier ennemi. Peu après, elle apprend qu'elle est enceinte et décide de retrouver le père par petite annonce."
+            }
+          ],
+          "generique": [
+            "Edith Clever",
+            "Bruno Ganz",
+            "Peter Lühr",
+            "Edda Seipel"
+          ],
+          "duree": 105,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 27966,
+              "ordre": 1,
+              "idEvenement": 17612,
+              "dateHeure": "2019-01-14T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance présentée par Margaret Ménégoz"
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 58085,
+          "titre": "Paris vu par",
+          "titreVo": "",
+          "realisateurs": "Jean-Daniel Pollet, Jean Rouch, Jean Douchet, [etc.]",
+          "annee": 1964,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "_Place de l'Etoile_ est le segment réalisé par Éric Rohmer dans ce film collectif. Un vendeur, qui fait chaque jour le tour de la Place de l'Étoile, a une altercation avec un passant qui l'a bousculé. Touché par un coup de parapluie, son adversaire s'effondre. Il s'enfuit et n'ose plus retourner sur les lieux, jusqu'au jour où..."
+            }
+          ],
+          "generique": [
+            "Jean-Pierre Andréani",
+            "Nadine Ballot",
+            "Marcel Gallon"
+          ],
+          "duree": 98,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 27993,
+              "ordre": 1,
+              "idEvenement": 17618,
+              "dateHeure": "2019-01-18T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 51041,
+          "titre": "Perceval le Gallois",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1978,
+          "pays": "France-Suisse-Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Émerveillé par les armures étincelantes d'un groupe de chevaliers qu'il avait pris pour des anges, le naïf Perceval décide de devenir à son tour chevalier au service du roi Arthur."
+            }
+          ],
+          "generique": [
+            "Fabrice Luchini",
+            "André Dussollier",
+            "Solange Boulanger",
+            "Catherine Schroeder"
+          ],
+          "duree": 140,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 27987,
+              "ordre": 1,
+              "idEvenement": 17621,
+              "dateHeure": "2019-01-13T21:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 50964,
+          "titre": "Quatre aventures de Reinette et Mirabelle",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1986,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Quatre court métrages, quatre aventures de Reinette, une jeune femme de la campagne et Mirabelle, une jeune Parisienne."
+            }
+          ],
+          "generique": [
+            "Joëlle Miquel",
+            "Jessica Forde",
+            "Philippe Laudenbach",
+            "Yasmine Haury"
+          ],
+          "duree": 100,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 26427,
+              "ordre": 1,
+              "idEvenement": 17627,
+              "dateHeure": "2019-01-18T21:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 57553,
+          "titre": "Rendez-vous de Paris",
+          "art": "Les",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1994,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "_Les Rendez-vous de Paris_ raconte trois histoires de séduction amoureuse dans différents quartiers de Paris."
+            }
+          ],
+          "generique": [
+            "Clara Bellar",
+            "Antoine Basler",
+            "Aurore Rauscher",
+            "Serge Renko"
+          ],
+          "duree": 100,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 26472,
+              "ordre": 1,
+              "idEvenement": 17630,
+              "dateHeure": "2019-01-26T21:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 50966,
+          "titre": "Signe du lion",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 1959,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un artiste étranger à Paris apprend qu'il a hérité d'une immense fortune. Il organise une soirée où on lui dévoile son horoscope : né sous le signe du Lion, il connaîtra début août une période difficile avant que la chance ne lui sourit."
+            }
+          ],
+          "generique": [
+            "Jess Hahn",
+            "Van Doude",
+            "Michèle Girardon",
+            "Jean Le Poulain"
+          ],
+          "duree": 102,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 27965,
+              "ordre": 1,
+              "idEvenement": 17631,
+              "dateHeure": "2019-01-10T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 90170,
+          "titre": "Triple agent",
+          "titreVo": "",
+          "realisateurs": "Eric Rohmer",
+          "annee": 2003,
+          "pays": "France-Italie-Espagne-Grèce-Russie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En 1936, alors que le Front Populaire et la Guerre d'Espagne agitent les esprits, un jeune général de l'armée tsariste mène une vie paisible à Paris où il s'est réfugié avec son épouse grecque, Arsinoé."
+            }
+          ],
+          "generique": [
+            "Katerina Didaskalou",
+            "Serge Renko",
+            "Cyrielle Clair",
+            "Grigori Manoukov"
+          ],
+          "duree": 115,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 26407,
+              "ordre": 1,
+              "idEvenement": 17635,
+              "dateHeure": "2019-01-14T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Courts métrages",
+      "tri": 3,
+      "items": [
+        {
+          "idCycle": 357,
+          "idCategorie": 1752,
+          "idEvenement": 17577,
+          "titreEvenement": "Programme de courts métrages #1",
+          "films": [
+            {
+              "idFilm": 77291,
+              "titre": "Véronique et son cancre",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1958,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Véronique fait du soutien scolaire auprès d'un enfant qui n'en a que faire, mais qui est quand même séduit par son institutrice ..."
+                }
+              ],
+              "generique": [
+                "Nicole Berger",
+                "Stella Dassas"
+              ],
+              "duree": 18,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 77292,
+              "titre": "Nadja à Paris",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1964,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Nadja, une jeune étudiante américaine et yougoslave, vit à Paris, dans la Cité Universitaire, maison de l'Allemagne.\n\nLes distractions y sont nombreuses, chaque maison de la Cité possédant une troupe de théâtre."
+                }
+              ],
+              "generique": [
+                "Nadja Tesich"
+              ],
+              "duree": 13,
+              "format": "DCP",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 77293,
+              "titre": "Une étudiante d'aujourd'hui",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1966,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Eric Rohmer s'intéresse à la féminisation des études de sciences dans les années 60 à travers le cas d'une jeune étudiante."
+                }
+              ],
+              "generique": [
+                "Denise Basdevant"
+              ],
+              "duree": 13,
+              "format": "DCP",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 77294,
+              "titre": "Fermière à Montfaucon",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1968,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une institutrice ayant épousé un cultivateur s'occupe désormais des bêtes, de la traite."
+                }
+              ],
+              "generique": [
+                "Monique Sendron"
+              ],
+              "duree": 13,
+              "format": "DCP",
+              "version": "",
+              "ordre": 4
+            },
+            {
+              "idFilm": 111775,
+              "titre": "Bois ton café",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1987,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Clip de Rosette réalisé par Éric Rohmer"
+                }
+              ],
+              "generique": [
+                "Rosette"
+              ],
+              "duree": 3,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 5
+            },
+            {
+              "idFilm": 125425,
+              "titre": "Amour symphonique",
+              "art": "L'",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1990,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Clip d'Arielle Dombasle réalisé par Éric Rohmer."
+                }
+              ],
+              "duree": 5,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 6
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-02-11T16:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1752,
+          "idEvenement": 17582,
+          "titreEvenement": "Programme de courts métrages #2",
+          "films": [
+            {
+              "idFilm": 75300,
+              "titre": "Présentation ou Charlotte et son steak",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1951,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Invité par Charlotte dans son chalet, Walter tente de séduire la jeune femme."
+                }
+              ],
+              "generique": [
+                "Jean-Luc Godard",
+                "Andrée Bertrand",
+                "Anne Coudret"
+              ],
+              "duree": 12,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 77290,
+              "titre": "Bérénice",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1954,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Dans cette adaptation d'un conte d'Edgar Allan Poe, le narrateur développe une obsession à l'égard de sa jeune cousine Bérénice."
+                }
+              ],
+              "adaptation": "D'après le conte _Béréncice_ d'Edgar Allan Poe.",
+              "generique": [
+                "Eric Rohmer",
+                "Teresa Gratia"
+              ],
+              "duree": 15,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 71752,
+              "titre": "Sonate à Kreutzer",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1956,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un jeune architecte promis au succès qui s'est consacré à son ambition sociale décide d'épouser une jeune fille rencontrée dans une cave de Saint-Germain-des-Prés."
+                }
+              ],
+              "adaptation": "D'après la nouvelle _La Sonate à Kreutzer_ de Léon Tolstoï.",
+              "generique": [
+                "Jean-Claude Brialy",
+                "Françoise Martinelli",
+                "Eric Rohmer"
+              ],
+              "duree": 43,
+              "format": "DCP",
+              "version": "",
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-02-04T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1752,
+          "idEvenement": 18227,
+          "titreEvenement": "Programme de courts métrages #3: Anniversaires",
+          "films": [
+            {
+              "idFilm": 125162,
+              "titre": "Anniversaire de Paula",
+              "art": "L'",
+              "titreVo": "",
+              "realisateurs": "Haydée Caillot",
+              "annee": 1993,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Série de courts métrages sur le thème de l'anniversaire dont Éric Rohmer a initié la production et dont il a confié la réalisation à quelques-unes de ses comédiennes et techniciennes complices."
+                }
+              ],
+              "generique": [
+                "Dorothée Blanck",
+                "Corinne Colas",
+                "Jean-Luc Revol"
+              ],
+              "duree": 15,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 81144,
+              "titre": "Des goûts et des couleurs",
+              "titreVo": "",
+              "realisateurs": "Anne-Sophie Rouvillois",
+              "annee": 1996,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Série de courts métrages sur le thème de l'anniversaire dont Éric Rohmer a initié la production et dont il a confié la réalisation à quelques-unes de ses comédiennes et techniciennes complices."
+                }
+              ],
+              "generique": [
+                "Laure Marsac",
+                "Eric Vieillard"
+              ],
+              "duree": 21,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 125077,
+              "titre": "France",
+              "titreVo": "",
+              "realisateurs": "Diane Baratier",
+              "annee": 1996,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Série de courts métrages sur le thème de l'anniversaire dont Éric Rohmer a initié la production et dont il a confié la réalisation à quelques-unes de ses comédiennes et techniciennes complices."
+                }
+              ],
+              "generique": [
+                "Nathalie Moncorger",
+                "France Zobda",
+                "François Raoul-Duval"
+              ],
+              "duree": 17,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 140226,
+              "titre": "Amis de Ninon",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Françoise Quéré",
+              "annee": 1997,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Série de courts métrages sur le thème de l'anniversaire dont Éric Rohmer a initié la production et dont il a confié la réalisation à quelques-unes de ses comédiennes et techniciennes complices."
+                }
+              ],
+              "generique": [
+                "Rosette",
+                "Julie Jézéquel",
+                "Philippe Caroit"
+              ],
+              "duree": 28,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 4
+            },
+            {
+              "idFilm": 125163,
+              "titre": "Heurts divers",
+              "titreVo": "",
+              "realisateurs": "Florence Rauscher, François Rauscher",
+              "annee": 1998,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Série de courts métrages sur le thème de l'anniversaire dont Éric Rohmer a initié la production et dont il a confié la réalisation à quelques-unes de ses comédiennes et techniciennes complices."
+                }
+              ],
+              "generique": [
+                "Julie Debazac",
+                "Florence Rauscher",
+                "Laurent Le Doyen"
+              ],
+              "duree": 24,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 5
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-31T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1752,
+          "idEvenement": 18222,
+          "titreEvenement": "Programme de courts métrages #4: Le Modèle",
+          "films": [
+            {
+              "idFilm": 125130,
+              "titre": "Un dentiste exemplaire",
+              "titreVo": "",
+              "realisateurs": "Aurélia Alcais, Haydée Caillot",
+              "annee": 1998,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Courts métrages qui sont des variations sur le thème du modèle au sens artistique du terme. Éric Rohmer a initié la production de cette série et en a confié la réalisation à quelques-unes de ses comédiennes et techniciennes complices."
+                }
+              ],
+              "generique": [
+                "Aurélia Alcais",
+                "Laura Favali",
+                "Stéphane Pioffet"
+              ],
+              "duree": 12,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 125131,
+              "titre": "Une histoire qui se dessine",
+              "titreVo": "",
+              "realisateurs": "Françoise Queré",
+              "annee": 1999,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Courts métrages qui sont des variations sur le thème du modèle au sens artistique du terme. Éric Rohmer a initié la production de cette série et en a confié la réalisation à quelques-unes de ses comédiennes et techniciennes complices."
+                }
+              ],
+              "generique": [
+                "Rosette",
+                "Vincent Dieutre"
+              ],
+              "duree": 10,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 90101,
+              "titre": "Cambrure",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "C.E.R. - La Compagnie Eric Rohmer (Paris)",
+              "annee": 1999,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Courts métrages qui sont des variations sur le thème du modèle au sens artistique du terme. Éric Rohmer a initié la production de cette série et en a confié la réalisation à quelques-unes de ses comédiennes et techniciennes complices."
+                }
+              ],
+              "generique": [
+                "François Rauscher"
+              ],
+              "duree": 16,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 125132,
+              "titre": "Canapé rouge",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Marie Rivière",
+              "annee": 2005,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Courts métrages qui sont des variations sur le thème du modèle au sens artistique du terme. Éric Rohmer a initié la production de cette série et en a confié la réalisation à quelques-unes de ses comédiennes et techniciennes complices."
+                }
+              ],
+              "generique": [
+                "Marie Rivière",
+                "Charlotte Véry"
+              ],
+              "duree": 17,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 4
+            },
+            {
+              "idFilm": 125160,
+              "titre": "Nu à la terrasse",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Annie Balkarash",
+              "annee": 2008,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Courts métrages qui sont des variations sur le thème du modèle au sens artistique du terme. Éric Rohmer a initié la production de cette série et en a confié la réalisation à quelques-unes de ses comédiennes et techniciennes complices."
+                }
+              ],
+              "generique": [
+                "Marie-Françoise Audollent",
+                "Fanny Vambacas",
+                "Olivier Blond"
+              ],
+              "duree": 26,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 5
+            },
+            {
+              "idFilm": 125161,
+              "titre": "Proposition",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Anne-Sophie Rouvillois",
+              "annee": 2009,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Courts métrages qui sont des variations sur le thème du modèle au sens artistique du terme. Éric Rohmer a initié la production de cette série et en a confié la réalisation à quelques-unes de ses comédiennes et techniciennes complices."
+                }
+              ],
+              "generique": [
+                "Elodie Meurlarger",
+                "Adèle Jayle"
+              ],
+              "duree": 15,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 6
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-02-01T16:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Documentaires, films pédagogiques",
+      "tri": 3,
+      "items": [
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 18015,
+          "titreEvenement": "Programme #1: Catherine de Heilbronn",
+          "films": [
+            {
+              "idFilm": 140051,
+              "titre": "Catherine de Heilbronn TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1980,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Éric Rohmer présente sa première mise en scène à la Maison de la Culture de Nanterre, adaptation de la pièce de Heinrich von Kleist."
+                }
+              ],
+              "duree": 138,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-28T21:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance présentée par Dominique Païni (sous réserve), Bulle Ogier et Emeraude Nicolas"
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 18223,
+          "titreEvenement": "Programme #2: Trio en Mi bémol",
+          "films": [
+            {
+              "idFilm": 140225,
+              "titre": "Trio en Mi bémol",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1988,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Captation de la pièce jouée au Théâtre des Champs-Elysees avec Jessica Forde et Pascal Greggory."
+                }
+              ],
+              "generique": [
+                "Jessica Forde"
+              ],
+              "duree": 75,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-20T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 18146,
+          "titreEvenement": "Programme #3 : Louis Lumière",
+          "films": [
+            {
+              "idFilm": 58539,
+              "titre": "Louis Lumière",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1968,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Éric Rohmer filme une conversation entre Henri Langlois et Jean Renoir à propos des origines du cinéma et d'une sélection de films des frères Lumière."
+                }
+              ],
+              "generique": [
+                "Henri Langlois",
+                "Jean Renoir"
+              ],
+              "duree": 65,
+              "format": "16 mm",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-11T16:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 18147,
+          "titreEvenement": "Programme #4 : Postfaces cinéma",
+          "films": [
+            {
+              "idFilm": 139028,
+              "titre": "Postface à Boudu sauvé des eaux TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1969,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Éric Rohmer et Jean Douchet s'entretiennent du film _Boudu sauvé des eaux_ de Jean Renoir."
+                }
+              ],
+              "duree": 30,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 121769,
+              "titre": "Postface à L'Atalante TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1968,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Entretien avec François Truffaut mené par Éric Rohmer à propos de l'_Atalante_ de Jean Vigo."
+                }
+              ],
+              "duree": 17,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 139027,
+              "titre": "Postface à Tire au flanc TV",
+              "titreVo": "",
+              "realisateurs": "Jean Douchet",
+              "annee": 1969,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Jean Renoir parle de son film _Tire au flanc_."
+                }
+              ],
+              "duree": 27,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-28T17:15:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 17589,
+          "titreEvenement": "Programme #5: Cinéastes de notre temps",
+          "films": [
+            {
+              "idFilm": 125420,
+              "titre": "Cinéastes de notre temps : Carl Th. Dreyer TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1965,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Tournée à Copenhague chez Carl Th. Dreyer, cette conversation rappelle les caractéristiques de son cinéma : plans longs, omniprésence des visages."
+                }
+              ],
+              "duree": 60,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 140127,
+              "titre": "Sorcière de Michelet TV",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1969,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Le film retrace l'histoire de la sorcellerie à travers le texte de Michelet, des peintures, des gravures, et des extraits de films de Carl Th. Dreyer et Ingmar Bergman."
+                }
+              ],
+              "duree": 27,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-12T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 17590,
+          "titreEvenement": "Programme #6: Cinéastes de notre temps : Le celluloïd et le marbre",
+          "films": [
+            {
+              "idFilm": 125419,
+              "titre": "Cinéastes de notre temps : Le celluloïd et le marbre TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1966,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "En 1965, dans une émission de télévision, Rohmer demande à des artistes contemporains de situer leur art par rapport à l' « art cinématographique » pour dresser un état des lieux polémique et désenchanté sur l'art du XXe siècle."
+                }
+              ],
+              "duree": 90,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-10T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 18080,
+          "titreEvenement": "Programme #7: Lettres 1",
+          "films": [
+            {
+              "idFilm": 121765,
+              "titre": "Perceval ou le conte du Graal TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1964,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Lecture de passages du roman de _Perceval_ par Chrétien de Troyes, illustrée par des miniatures conservées à la Bibliothèque Nationale de France."
+                }
+              ],
+              "duree": 23,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 121761,
+              "titre": "Don Quichotte de Cervantès TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1964,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "L'émission tente de montrer comment l'illustration du XVIIème au XXème siècle du célèbre roman de Cervantès a enrichi et appauvri à la fois notre connaissance du roman."
+                }
+              ],
+              "duree": 23,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 121766,
+              "titre": "Caractères de La Bruyère TV",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1965,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Des comédiens incarnent différents portraits issus des _Caractères_ de la Bruyère, dans un décor de château."
+                }
+              ],
+              "duree": 22,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 121767,
+              "titre": "Stéphane Mallarmé TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1968,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Lecture en costumes d'un texte peu connu de Stéphane Mallarmé."
+                }
+              ],
+              "duree": 27,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 4
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-31T16:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 18082,
+          "titreEvenement": "Programme # 8 : Lettres 2",
+          "films": [
+            {
+              "idFilm": 121762,
+              "titre": "Histoires extraordinaires d'Edgar Poe TV",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1965,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Émission réalisée par Éric Rohmer en hommage à Edgar Allan Poe qui s'inspire de l'essai _Eureka_."
+                }
+              ],
+              "duree": 25,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 121763,
+              "titre": "Victor Hugo : Les Contemplations, livres V et VI TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1966,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Les poèmes écrits par Hugo dans les deux derniers livres des _Contemplations,_ dits par Antoine Vitez, sont confrontés avec les paysages de Jersey où il les écrivit."
+                }
+              ],
+              "duree": 20,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 121764,
+              "titre": "Victor Hugo architecte TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1969,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Les références à l'architecture sont nombreuses chez Victor Hugo, ne serait-ce que dans _Notre Dame de Paris_, dont bien des pages parlent de la cathédrale, qui sera restaurée en 1843 par Viollet Le Duc."
+                }
+              ],
+              "duree": 26,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-02-01T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 18158,
+          "titreEvenement": "Programme #9 : Linguistique",
+          "films": [
+            {
+              "idFilm": 140130,
+              "titre": "Enfant apprend sa langue TV",
+              "art": "L'",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1970,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Débat sur le processus naturel d'acquisition de la langue maternelle par l'enfant et les problèmes posés par l'enseignement à l'école."
+                }
+              ],
+              "duree": 28,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 140128,
+              "titre": "Français langue vivante TV",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1969,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Réflexion sur l'enseignement du français."
+                }
+              ],
+              "duree": 29,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 140129,
+              "titre": "Linguistique et l'enseignement du français TV",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1970,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Table ronde entre des enseignants du secondaire et des linguistes sur les difficultés d'apprentissage des enfants."
+                }
+              ],
+              "duree": 29,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-02-11T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 17586,
+          "titreEvenement": "Programme #10: sciences et philosophie",
+          "films": [
+            {
+              "idFilm": 121760,
+              "titre": "Cabinets de physique au XVIIIème siècle TV",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1964,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Reconstitution d'expériences décrites dans des ouvrages du XVIIIè siècle, destinées à des amateurs, présentées et commentées par deux comédiens."
+                }
+              ],
+              "duree": 24,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 125423,
+              "titre": "Nancy au XVIIIème siècle TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1968,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Émission qui décrit la construction et l'esthétique de Nancy."
+                }
+              ],
+              "duree": 19,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 121759,
+              "titre": "Entretien sur Pascal TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1965,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Entretien sur Pascal entre Dominique Dubarle, dominicain, philosophe et mathématicien, et Brice Parain, auteur d'essais de philosophie."
+                }
+              ],
+              "duree": 22,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-02-06T17:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 17597,
+          "titreEvenement": "Programme #11: Entretien sur le béton / Métamorphoses du paysage",
+          "films": [
+            {
+              "idFilm": 121768,
+              "titre": "Entretien sur le béton TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1969,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Entretiens avec les architectes Paul Virilio et Claude Parent sur les innovations architecturales engendrées par l'utilisation du béton armé."
+                }
+              ],
+              "duree": 29,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 101472,
+              "titre": "Vers l'unité du monde = L'ère industrielle = Métamorphoses du paysage TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1964,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Réflexion sur l'industrialisation, les usines, le béton, et leur intervention sur les paysages français. Rohmer y exalte la beauté des cheminées d'usines et de l'urbanisation."
+                }
+              ],
+              "duree": 21,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-02-08T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 17603,
+          "titreEvenement": "Programme #12: série civilisations 1",
+          "films": [
+            {
+              "idFilm": 125421,
+              "titre": "Homme et la machine TV",
+              "art": "L'",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1967,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Émission sur l'industrie de la bonneterie, entretiens avec des ouvriers et reportage dans une usine."
+                }
+              ],
+              "duree": 34,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 122477,
+              "titre": "Homme et les images TV",
+              "art": "L'",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1967,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Entretiens croisés de René Clair, Jean Rouch et Jean-Luc Godard sur la technique cinématographique et son histoire."
+                }
+              ],
+              "duree": 35,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 125422,
+              "titre": "Homme et son journal TV",
+              "art": "L'",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1967,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Des responsables de grands médias exposent leur conception de l'information, et sont interrogés sur le rôle des journalistes."
+                }
+              ],
+              "duree": 36,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-21T16:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 17604,
+          "titreEvenement": "Programme #13: série civilisations 2",
+          "films": [
+            {
+              "idFilm": 125424,
+              "titre": "Homme et les frontières TV",
+              "art": "L'",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1968,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Émission de plateau sur la notion de frontière et seconde partie d'émission sur la réalité de la frontière franco-belge dans l'Europe des six, dix ans après la signature du traité de Rome."
+                }
+              ],
+              "duree": 56,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 125426,
+              "titre": "Homme et les gouvernements TV",
+              "art": "L'",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1967,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Émission en deux parties : Table ronde sur la notion de démocratie, les élections, et seconde partie où des personnalités exposent leur point de vue sur les pouvoirs périphériques que sont les syndicats, lobbies, entreprises..."
+                }
+              ],
+              "duree": 58,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-23T21:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 17608,
+          "titreEvenement": "Programme #14: Jeux de société",
+          "films": [
+            {
+              "idFilm": 65426,
+              "titre": "Jeux de société",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1989,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "En six chapitres, Éric Rohmer documente quelques jeux de société célèbres qui appartiennent à l'Histoire."
+                }
+              ],
+              "generique": [
+                "Aurélia Alcais",
+                "Eloïse Bennett",
+                "Florence Darel"
+              ],
+              "duree": 57,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-24T17:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 18151,
+          "titreEvenement": "Programme #15: Ville nouvelle : L'Enfance d'une ville / La Diversité du paysage urbain",
+          "films": [
+            {
+              "idFilm": 140052,
+              "titre": "Ville nouvelle : L'Enfance d'une ville TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1975,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Ce programme questionne l'élaboration architecturale de la ville nouvelle de Cergy-Pontoise."
+                }
+              ],
+              "duree": 52,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 140062,
+              "titre": "Ville nouvelle : La Diversité du paysage urbain TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1975,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Ce programme questionne l'élaboration architecturale de la ville nouvelle de Cergy-Pontoise."
+                }
+              ],
+              "duree": 52,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-16T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1755,
+          "idEvenement": 18153,
+          "titreEvenement": "Programme # 16: Ville nouvelle : La Forme de la ville / Le Logement à la demande",
+          "films": [
+            {
+              "idFilm": 140061,
+              "titre": "Ville nouvelle : La Forme de la ville TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1975,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Ce programme questionne l'élaboration architecturale de la ville nouvelle de Cergy-Pontoise."
+                }
+              ],
+              "duree": 52,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 140063,
+              "titre": "Ville nouvelle : Le Logement à la demande TV",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1975,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Ce programme questionne l'élaboration architecturale de la ville nouvelle de Cergy-Pontoise."
+                }
+              ],
+              "duree": 52,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-17T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Autour d'Éric Rohmer",
+      "tri": 3,
+      "items": [
+        {
+          "idCycle": 357,
+          "idCategorie": 1754,
+          "idEvenement": 18357,
+          "titreEvenement": "Les aventures de Rosette ",
+          "films": [
+            {
+              "idFilm": 125166,
+              "titre": "Rosette cherche une chambre",
+              "titreVo": "",
+              "realisateurs": "Rosette",
+              "annee": 1986,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
+                }
+              ],
+              "generique": [
+                "Rosette"
+              ],
+              "duree": 14,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 100041,
+              "titre": "Rosette prend sa douche",
+              "titreVo": "",
+              "realisateurs": "Rosette",
+              "annee": 1984,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
+                }
+              ],
+              "generique": [
+                "Arielle Dombasle",
+                "Pascal Greggory",
+                "Jacques Penot",
+                "Rosette"
+              ],
+              "duree": 14,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 100040,
+              "titre": "Rosette sort le soir",
+              "titreVo": "",
+              "realisateurs": "Rosette",
+              "annee": 1983,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
+                }
+              ],
+              "generique": [
+                "Arielle Dombasle",
+                "Pascal Greggory",
+                "Rosette"
+              ],
+              "duree": 11,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 125165,
+              "titre": "Rosette vend des roses",
+              "titreVo": "",
+              "realisateurs": "Rosette",
+              "annee": 1985,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
+                }
+              ],
+              "generique": [
+                "Rosette",
+                "Virginie Thévenet",
+                "François-Marie Banier"
+              ],
+              "duree": 12,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 4
+            },
+            {
+              "idFilm": 125167,
+              "titre": "Rosette vole les voleurs",
+              "titreVo": "",
+              "realisateurs": "Rosette",
+              "annee": 1987,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
+                }
+              ],
+              "generique": [
+                "Rosette",
+                "François-Marie Banier",
+                "Marie Rivière"
+              ],
+              "duree": 20,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 5
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-02-09T18:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1754,
+          "idEvenement": 18022,
+          "films": [
+            {
+              "idFilm": 125398,
+              "titre": "En compagnie d'Eric Rohmer",
+              "titreVo": "",
+              "realisateurs": "Marie Rivière",
+              "annee": 2010,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Marie Rivière filme Éric Rohmer dans sons bureau durant ses trois dernières années et convoque le témoignage de quelques-uns de ses comédiens fidèles et auteurs proches."
+                }
+              ],
+              "duree": 86,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-30T16:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1754,
+          "idEvenement": 18020,
+          "films": [
+            {
+              "idFilm": 125401,
+              "titre": "Fabrique du Conte d'été",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Jean-André Fieschi, Françoise Etchegaray",
+              "annee": 1996,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Le film de Jean-André Fieschi et Françoise Etchegaray, composé de rushes et d'images du tournage, invite à découvrir la fabrique du réel que constitue le tournage."
+                }
+              ],
+              "duree": 93,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-28T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Séance présentée par Françoise Etchegaray"
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1754,
+          "idEvenement": 18019,
+          "films": [
+            {
+              "idFilm": 62575,
+              "titre": "Eric Rohmer : Preuves à l'appui",
+              "titreVo": "",
+              "realisateurs": "André S. Labarthe",
+              "annee": 1993,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Entretien avec Jean Douchet dans lequel Éric Rohmer se livre et dévoile des essais tournés en Super 8, des cahiers sur lesquels des projets de films ont été consignés..."
+                }
+              ],
+              "duree": 116,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-30T21:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1754,
+          "idEvenement": 18018,
+          "films": [
+            {
+              "idFilm": 140053,
+              "titre": "En répétant Perceval",
+              "titreVo": "",
+              "realisateurs": "Jean Douchet",
+              "annee": 1978,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Jean Douchet s'entretient avec Éric Rohmer sur le choix de ce texte, _Perceval le Gallois_ de Chrétien de Troyes."
+                }
+              ],
+              "duree": 28,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 140054,
+              "titre": "Contes secrets ou Les Rohmériens",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Marie Binet",
+              "annee": 2005,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Des personnages surgissent des films d'Éric Rohmer pour dévoiler leur raison d'être, leur destin, leur histoire, expliquer les motifs de leurs actes face aux jeux et aux enjeux de la séduction et de l'amour, de la morale et des épreuves de l'existence. Leurs voix et leurs traits sont ceux de seize célèbres acteurs rohmériens."
+                }
+              ],
+              "duree": 90,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-30T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,993 @@
+[
+  {
+    "titre": "Après nous le déluge",
+    "titreVo": "Today We Live",
+    "idFilm": 33152,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Howard Hawks, Richard Rosson",
+    "annee": 1933,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Durant la Première Guerre mondiale, une jeune femme promise à un officier de la marine anglaise tombe amoureuse d'un aviateur américain. Mais ce dernier doit repartir à la guerre. Un jour il est déclaré « tué en mission »."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Gary Cooper",
+      "Robert Young",
+      "Franchot Tone"
+    ],
+    "adaptation": "D'après la nouvelle _Turn About_ de William Faulkner."
+  },
+  {
+    "titre": "Bijoux volés",
+    "art": "Les",
+    "titreVo": "Slippery Pearls = Stolen Jools",
+    "artVo": "The",
+    "idFilm": 80243,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "William McGann",
+    "annee": 1931,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les bijoux de Norma Shearer ont été dérobés. Les enquêteurs interrogent les stars d'Hollywood qui assistaient à la fête. Film réalisé pour le « National Variety Artists Relief », avec la participation de vingt huit stars."
+      }
+    ],
+    "generique": [
+      "Gary Cooper",
+      "Buster Keaton",
+      "Stan Laurel",
+      "Oliver Hardy"
+    ]
+  },
+  {
+    "titre": "Boulevard des passions",
+    "art": "Le",
+    "titreVo": "Flamingo Road",
+    "idFilm": 31396,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Michael Curtiz",
+    "annee": 1948,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une danseuse de cabaret sans-le-sou arrive dans la ville de Boldon. Carlisle, adjoint au shérif, la prend sous son aile et en tombe amoureux. Mais ce n'est pas au goût du shérif Titus Semple, qui veut faire de Carlisle un politicien en le mariant à une riche héritière."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Zachary Scott",
+      "Sydney Greenstreet",
+      "David Brian"
+    ],
+    "adaptation": "D'après la pièce _Flamingo Road_ de Sally Wilder et Robert Wilder."
+  },
+  {
+    "titre": "Cage aux femmes",
+    "art": "La",
+    "titreVo": "Caretakers",
+    "artVo": "The",
+    "idFilm": 30419,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Hall Bartlett",
+    "annee": 1963,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans un hôpital psychiatrique, un jeune docteur optimiste veut créer des thérapies de groupe pour aider les patients. Il se heurte à l'infirmière en chef qui ne croit qu'aux méthodes traditionnelles et plus radicales."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Robert Stack",
+      "Polly Bergen",
+      "Janis Paige"
+    ],
+    "adaptation": "D'après le roman _The Caretakers_ de Dariel Telfer."
+  },
+  {
+    "titre": "Cargo maudit",
+    "art": "Le",
+    "titreVo": "Strange Cargo",
+    "idFilm": 60820,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Frank Borzage",
+    "annee": 1939,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Sur une île pénitentiaire au large de la Guyane, une prostituée est embarquée dans une évasion au à bord d'un cargo en compagnie de six personnes, dont un homme qu'elle avait aidé auparavant et un mystérieux prophète."
+      }
+    ],
+    "generique": [
+      "Clark Gable",
+      "Joan Crawford",
+      "Peter Lorre",
+      "Paul Lukas"
+    ]
+  },
+  {
+    "titre": "Cercle de sang",
+    "art": "Le",
+    "titreVo": "Berserk",
+    "idFilm": 45561,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Jim O'Connolly",
+    "annee": 1966,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un équilibriste meurt étrangement lors d'une représentation dans un grand cirque anglais. La directrice, une femme froide, ne tarde pas à trouver un remplaçant qui devient son amant. Les meurtres continuent."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Ty Hardin",
+      "Diana Dors",
+      "Michael Gough"
+    ]
+  },
+  {
+    "titre": "Duel de femmes",
+    "titreVo": "When Ladies Meet",
+    "idFilm": 72659,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Robert Z. Leonard",
+    "annee": 1941,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une romancière à succès aux mœurs libérées tombe amoureuse de son éditeur, un homme marié. Son amant, jaloux et convaincu d'être l'homme qu'il lui faut, arrange une rencontre entre l'écrivaine et la femme de l'éditeur."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Robert Taylor",
+      "Greer Garson"
+    ]
+  },
+  {
+    "titre": "Ensorceleuse",
+    "art": "L'",
+    "titreVo": "Shining Hour",
+    "artVo": "The",
+    "idFilm": 30674,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Frank Borzage",
+    "annee": 1938,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un riche agriculteur demande en mariage une danseuse de night-club. Il l'emmène vivre avec lui dans la maison familiale présidée par la sœur de la fratrie, qui n'accepte pas la présence de la nouvelle épouse."
+      }
+    ],
+    "generique": [
+      "Robert Young",
+      "Joan Crawford",
+      "Melvyn Douglas",
+      "Margaret Sullavan"
+    ]
+  },
+  {
+    "titre": "Esclave du gang",
+    "art": "L'",
+    "titreVo": "Damned Don't Cry",
+    "artVo": "The",
+    "idFilm": 36693,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Vincent Sherman",
+    "annee": 1949,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un gangster est retrouvé mort. La police suspecte Lorna Hansen Forbes, figure mondaine qui se prétend fortunée. Mais Lorna a disparu. Réfugiée chez ses parents, elle se remémore son parcours ponctué de drames."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "David Brian",
+      "Steve Cochran",
+      "Kent Smith"
+    ],
+    "adaptation": "D'après la nouvelle _Case History_ de Gertrude Walker."
+  },
+  {
+    "titre": "espion a disparu",
+    "art": "Un",
+    "titreVo": "Above Suspicion",
+    "idFilm": 37506,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Richard Thorpe",
+    "annee": 1942,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "À la veille de la Seconde Guerre mondiale, deux Américains en voyage de noces en Europe sont chargés par les services secrets britanniques d'une mission de la plus haute importance : retrouver un agent anglais disparu."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Fred MacMurray",
+      "Conrad Veidt",
+      "Basil Rathbone"
+    ],
+    "adaptation": "D'après le roman _Above Suspicion_ de Helen MacInnes."
+  },
+  {
+    "titre": "Fascination",
+    "titreVo": "Possessed",
+    "idFilm": 30807,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Clarence Brown",
+    "annee": 1931,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune ouvrière, lasse de son quotidien, rêve de mener la grande vie. Elle quitte fiancé et famille pour tenter sa chance à New York où elle devient la maîtresse d'un avocat fortuné."
+      }
+    ],
+    "generique": [
+      "Clark Gable",
+      "Joan Crawford",
+      "Wallace Ford"
+    ]
+  },
+  {
+    "titre": "Femme ou maîtresse",
+    "titreVo": "Daisy Kenyon",
+    "idFilm": 35815,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Otto Preminger",
+    "annee": 1947,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Daisy, dessinatrice réputée, est la maîtresse d'un puissant avocat, Dan O'Mara, qui ne se résout pas à quitter sa femme. Daisy accepte difficilement cette situation, remise en question par la présence d'un nouvel homme dans sa vie."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Dana Andrews",
+      "Henry Fonda",
+      "Ruth Warrick"
+    ],
+    "adaptation": "D'après le roman _Daisy Kenyon_ d'Elizabeth Janeway."
+  },
+  {
+    "titre": "Femmes",
+    "titreVo": "Women",
+    "artVo": "The",
+    "idFilm": 31479,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "George Cukor",
+    "annee": 1939,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une femme mariée retrouve régulièrement ses amies. Certaines d'entre elles sont au courant que son mari la trompe, ce qu'elle ignore."
+      }
+    ],
+    "generique": [
+      "Norma Shearer",
+      "Joan Crawford",
+      "Rosalind Russell",
+      "Mary Boland"
+    ]
+  },
+  {
+    "titre": "Feuilles d'automne",
+    "titreVo": "Autumn Leaves",
+    "idFilm": 30123,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Robert Aldrich",
+    "annee": 1955,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une femme accepte d'épouser un homme plus jeune qu'elle, mais le bonheur laisse vite place à la suspicion et à l'inquiétude. Elle découvre que son mari cache un lourd secret."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Cliff Robertson",
+      "Vera Miles",
+      "Lorne Greene"
+    ]
+  },
+  {
+    "titre": "Flamme du passé",
+    "art": "La",
+    "titreVo": "Goodbye, My Fancy",
+    "idFilm": 36695,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Vincent Sherman",
+    "annee": 1950,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une femme députée retourne dans sa ville natale pour recevoir un diplôme d'honneur. Les retrouvailles avec son premier amour vont être bousculées par un reporter qui la suit dans ses moindres déplacements."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Robert Young",
+      "Frank Lovejoy",
+      "Eve Arden"
+    ],
+    "adaptation": "D'après la pièce _Goodbye, My Fancy_ de Fay Kanin."
+  },
+  {
+    "titre": "Grand Hotel",
+    "titreVo": "",
+    "idFilm": 32993,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Edmund Goulding",
+    "annee": 1931,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans un grand hôtel de Berlin, les destins croisés d'une célèbre ballerine déchue, d'un baron ruiné, d'un riche industriel, d'un jeune comptable atteint d'une maladie incurable et d'une sténo-dactylo opportuniste."
+      }
+    ],
+    "generique": [
+      "Greta Garbo",
+      "John Barrymore",
+      "Joan Crawford",
+      "Wallace Beery"
+    ],
+    "adaptation": "D'après la pièce _Grand Hotel_ de William A. Drake.  \nD'après le roman et la pièce _Menschen im Hotel_ de Vicky Baum."
+  },
+  {
+    "titre": "Humoresque",
+    "titreVo": "",
+    "idFilm": 56791,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Jean Negulesco",
+    "annee": 1945,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une riche épouse névrosée et infidèle tombe amoureuse d'un jeune violoniste passionné par son art. À défaut d'être sa maîtresse, elle devient son imprésario et lance sa carrière."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "John Garfield",
+      "Oscar Levant",
+      "J. Carrol Naish"
+    ],
+    "adaptation": "D'après la nouvelle _Humoresque_ de Fannie Hurst."
+  },
+  {
+    "titre": "Il était une fois",
+    "titreVo": "A Woman's Face",
+    "idFilm": 31406,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "George Cukor",
+    "annee": 1941,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Affreusement défigurée à la suite d'un accident survenu dans sa jeunesse, une jeune femme devient maître-chanteur par haine de la société qui la rejette. Un mystérieux et ambitieux docteur va lui offrir la possibilité de changer de visage..."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Melvyn Douglas",
+      "Conrad Veidt",
+      "Osa Massen"
+    ],
+    "adaptation": "D'après la pièce _Il était une fois_ de Francis de Croisset."
+  },
+  {
+    "titre": "Inconnu",
+    "art": "L'",
+    "titreVo": "Unknown",
+    "artVo": "The",
+    "idFilm": 56580,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Tod Browning",
+    "annee": 1927,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un criminel se réfugie dans un cirque et devient un étonnant lanceur de couteaux. Il tombe rapidement sous le charme de la fille du directeur que convoite également Malabar, l'homme fort du cirque. Par amour pour elle, il prend une décision extrême."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Lon Chaney",
+      "Norman Kerry",
+      "Nick De Ruiz"
+    ]
+  },
+  {
+    "titre": "Johnny Guitar",
+    "titreVo": "",
+    "idFilm": 35504,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Nicholas Ray",
+    "annee": 1953,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Vienna, tenancière d'un saloon fréquenté par des hors-la-loi, embauche un cow-boy musicien qui fut son amant. Il va l'aider dans sa lutte qui l'oppose à un groupe d'éleveurs."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Sterling Hayden",
+      "Mercedes McCambridge",
+      "Ward Bond"
+    ],
+    "adaptation": "D'après la nouvelle _Johnny Guitar_ de Roy Chanslor."
+  },
+  {
+    "titre": "Maison sur la plage",
+    "art": "La",
+    "titreVo": "Female on the Beach",
+    "idFilm": 35950,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph Pevney",
+    "annee": 1954,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une veuve solitaire décide de se rendre dans la maison en bord de mer que lui a léguée son mari. Elle découvre que le lieu a été le théâtre d'une sordide affaire et se sent attirée par un séduisant et intriguant vagabond des plages."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Jeff Chandler",
+      "Jan Sterling",
+      "Cecil Kellaway"
+    ],
+    "adaptation": "D'après la pièce _The Besieged Heart_ de Robert Hill."
+  },
+  {
+    "titre": "Maman très chère",
+    "titreVo": "Mommie Dearest",
+    "idFilm": 34581,
+    "idCycle": 407,
+    "idCategorie": 1849,
+    "ageMinimal": 0,
+    "realisateurs": "Frank Perry",
+    "annee": 1981,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "N'ayant jamais pu avoir d'enfant, Joan Crawford, au faîte de sa gloire, décide d'adopter Christina et Christopher. Les névroses de la star hollywoodienne ne vont pas tarder à se répercuter sur les deux enfants..."
+      }
+    ],
+    "generique": [
+      "Faye Dunaway",
+      "Diana Scarwid",
+      "Steve Forrest"
+    ]
+  },
+  {
+    "titre": "Mannequin",
+    "titreVo": "",
+    "idFilm": 30636,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Frank Borzage",
+    "annee": 1937,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune femme entretient sa famille dans un petit appartement. N'en pouvant plus, elle insiste auprès de son amoureux pour qu'ils se marient. Le soir de la noce, l'époux pousse la jeune femme à danser avec un riche armateur."
+      }
+    ],
+    "generique": [
+      "Spencer Tracy",
+      "Joan Crawford",
+      "Alan Curtis"
+    ]
+  },
+  {
+    "titre": "Masque arraché",
+    "art": "Le",
+    "titreVo": "Sudden Fear",
+    "idFilm": 35141,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "David Miller",
+    "annee": 1952,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Lester, un acteur dans le besoin, est marié à Myra, une célèbre dramaturge. Afin d'hériter de la fortune de sa femme, il projette de la supprimer avec l'aide de sa maîtresse."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Jack Palance",
+      "Gloria Grahame",
+      "Bruce Bennett"
+    ],
+    "adaptation": "D'après le roman _Sudden Fear_ d'Edna Sherry."
+  },
+  {
+    "titre": "Meurtrière diabolique",
+    "art": "La",
+    "titreVo": "Strait-Jacket",
+    "idFilm": 30111,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "William Castle",
+    "annee": 1963,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Après avoir été internée pendant vingt ans pour l'assassinat de son mari et sa maîtresse devant sa petite fille Carol, alors âgée de trois ans, Lucy Harbin est libérée. Est-elle guérie de sa folie homicide ?"
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Diane Baker",
+      "Leif Erickson",
+      "Howard St. John"
+    ]
+  },
+  {
+    "titre": "Passagère",
+    "art": "La",
+    "titreVo": "Chained",
+    "idFilm": 30751,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Clarence Brown",
+    "annee": 1934,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune femme est courtisée par un homme marié qui lui promet de divorcer. Lors d'un voyage en Amérique du Sud, elle rencontre le beau Mike Bradley et se sent tiraillée entre les deux hommes."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Clark Gable",
+      "Otto Kruger",
+      "Stuart Erwin"
+    ]
+  },
+  {
+    "titre": "Perfide",
+    "art": "La",
+    "titreVo": "Harriet Craig",
+    "idFilm": 36733,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Vincent Sherman",
+    "annee": 1950,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Harriet Craig est une épouse méticuleuse et austère qui accorde plus d'importance à ce qu'elle possède qu'aux êtres de son entourage. Alors que son monde ordonné risque d'être chamboulé, elle ne va pas hésiter à user de son pouvoir de manipulation."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Wendell Corey",
+      "Lucile Watson",
+      "Allyn Joslyn"
+    ],
+    "adaptation": "D'après la pièce _Craig's Wife_ de George Kelly."
+  },
+  {
+    "titre": "Plein les bottes",
+    "titreVo": "Tramp, Tramp, Tramp",
+    "idFilm": 30999,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 6,
+    "realisateurs": "Harry Edwards",
+    "annee": 1926,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Harry Langdon est prêt à tout pour remporter une étonnante course à pied qui lui permettra de prouver la résistance des chaussures fabriquées par son père. Il compte bien aussi impressionner la femme qu'il aime."
+      }
+    ],
+    "generique": [
+      "Harry Langdon",
+      "Joan Crawford",
+      "Edwards Davis",
+      "Tom Murray"
+    ]
+  },
+  {
+    "titre": "Pluie",
+    "titreVo": "Rain",
+    "idFilm": 35243,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Lewis Milestone",
+    "annee": 1932,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune prostituée débarque sur une île dans le Pacifique en même temps qu'un missionnaire qui va tout faire pour « sauver son âme »."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Walter Huston",
+      "William Gargan"
+    ]
+  },
+  {
+    "titre": "Possédée",
+    "art": "La",
+    "titreVo": "Possessed",
+    "idFilm": 30789,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Curtis Bernhardt",
+    "annee": 1946,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une femme erre seule dans les rues de Los Angeles, appelant un certain David. Elle est emmenée dans un hôpital psychiatrique où elle révèle son histoire au docteur qui la soigne."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Van Heflin",
+      "Raymond Massey",
+      "Geraldine Brooks"
+    ],
+    "adaptation": "D'après la nouvelle _One man's secret_ de Rita Weiman."
+  },
+  {
+    "titre": "Qu'est-il arrivé à Baby Jane ?",
+    "titreVo": "What Ever Happened to Baby Jane?",
+    "idFilm": 29830,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Robert Aldrich",
+    "annee": 1962,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "« Baby Jane » Hudson a été une enfant star dans les années 1910. Plus tard, sa sœur Blanche a connu elle aussi la gloire mais un étrange accident l'a rendue infirme, mettant fin à sa carrière. Désormais, elles vivent ensemble."
+      }
+    ],
+    "generique": [
+      "Bette Davis",
+      "Joan Crawford",
+      "Victor Buono",
+      "Marjorie Bennett"
+    ],
+    "adaptation": "D'après le roman _Qu'est-il arrivé à Baby Jane ?_ de Henry Farrell."
+  },
+  {
+    "titre": "Reine du hold-up",
+    "art": "La",
+    "titreVo": "This Woman Is Dangerous",
+    "idFilm": 31167,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Felix E. Feist",
+    "annee": 1951,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Suite à un braquage, Beth Austin, cerveau d'un gang, doit aller à l'hôpital pour se faire opérer des yeux. Elle rencontre un docteur qui la trouble. Mais c'est compter sans la jalousie pulsionnelle de Matt Jackson, son amant."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Dennis Morgan",
+      "David Brian"
+    ]
+  },
+  {
+    "titre": "Rien n'est trop beau",
+    "titreVo": "Best of Everything",
+    "artVo": "The",
+    "idFilm": 34319,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Jean Negulesco",
+    "annee": 1959,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Trois jeunes secrétaires dans une maison d'édition emménagent dans le même appartement afin d'économiser de l'argent."
+      }
+    ],
+    "generique": [
+      "Hope Lange",
+      "Stephen Boyd",
+      "Suzy Parker",
+      "Martha Hyer"
+    ],
+    "adaptation": "D'après le roman _The Best of Everything_ de Rona Jaffe."
+  },
+  {
+    "titre": "Roman de Mildred Pierce",
+    "art": "Le",
+    "titreVo": "Mildred Pierce",
+    "idFilm": 31482,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Michael Curtiz",
+    "annee": 1944,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Mildred Pierce est interrogée par un inspecteur après la mort de son mari. Elle lui raconte son histoire : de son premier mariage raté jusqu'à l'ouverture d'un restaurant, cette mère courage aura tout fait pour satisfaire les exigences de sa fille."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Jack Carson",
+      "Zachary Scott",
+      "Eve Arden"
+    ],
+    "adaptation": "D'après le roman _Mildred Pierce_ de James M. Cain."
+  },
+  {
+    "titre": "Sadie McKee = Vivre et aimer",
+    "titreVo": "Sadie McKee",
+    "idFilm": 30826,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Clarence Brown",
+    "annee": 1934,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Sadie McKee travaille comme servante. Sa mère la pousse à une romance avec le jeune maître de la maison mais Sadie est amoureuse de Tommy. Elle décide de suivre ce dernier à New York où il va finalement la quitter pour une autre femme."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Akim Tamiroff",
+      "Gene Raymond",
+      "Franchot Tone"
+    ]
+  },
+  {
+    "titre": "Scandale Costello",
+    "art": "Le",
+    "titreVo": "Story of Esther Costello",
+    "artVo": "The",
+    "idFilm": 41137,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "David Miller",
+    "annee": 1956,
+    "pays": "Grande-Bretagne-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune fille, orpheline à la suite d'un accident qui l'a rendue sourde, muette et aveugle, est confiée à une méchante femme. Le curé du village intervient afin de la faire soigner dans un centre de rééducation."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Sous réserve."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Rossano Brazzi",
+      "Heather Sears",
+      "Lee Patterson"
+    ],
+    "adaptation": "D'après le roman _The Story of Esther Costello_ de Nicholas Monsarrat."
+  },
+  {
+    "titre": "Souvent femme varie",
+    "titreVo": "Forsaking All Others",
+    "idFilm": 37607,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "W.S. Van Dyke",
+    "annee": 1934,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Mary, Jeff et Dill sont trois amis ayant grandi ensemble. Jeff est amoureux de Mary mais il est persuadé qu'elle éprouve des sentiments pour Dill. De retour d'un voyage en Europe, Jeff apprend que Mary et Dill sont sur le point de se marier."
+      }
+    ],
+    "generique": [
+      "Robert Montgomery",
+      "Joan Crawford",
+      "Clark Gable",
+      "Charles Butterworth"
+    ],
+    "adaptation": "D'après la pièce _Forsaking All Others_ d'Edward Barry Roberts et Frank Morgan Cavett."
+  },
+  {
+    "titre": "Susanne et ses idées",
+    "titreVo": "Susan and God",
+    "idFilm": 31519,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": null,
+    "realisateurs": "George Cukor",
+    "annee": 1940,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une mondaine qui fait partie d'une secte est bien loin, dans sa vie privée, de mettre en pratique ce qu'elle prêche."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Fredric March",
+      "Ruth Hussey",
+      "John Carroll"
+    ],
+    "adaptation": "D'après la pièce _Susan and God_ de Rachel Crothers."
+  },
+  {
+    "titre": "Trog",
+    "titreVo": "",
+    "idFilm": 72663,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Freddie Francis",
+    "annee": 1969,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un groupe de spéléologues découvre un troglodyte dans une caverne. Ils vont tenter de l'étudier et de le domestiquer. Un industriel sans scrupules, spéculant sur cette incroyable découverte, va réveiller la violence de l'être mi-homme mi-singe."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Michael Gough",
+      "Bernard Kay",
+      "David Griffin"
+    ]
+  },
+  {
+    "titre": "Tuer n'est pas jouer",
+    "titreVo": "I Saw What You Did",
+    "idFilm": 29603,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "William Castle",
+    "annee": 1964,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Trois jeunes filles s'amusent à appeler des personnes au hasard en leur disant : « Je sais ce que vous avez fait et je sais qui vous êtes ». Ce qui n'est qu'une plaisanterie va bientôt mettre en danger la vie des adolescentes."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "John Ireland",
+      "Andi Garrett",
+      "Sarah Lane"
+    ],
+    "adaptation": "D'après le roman _Out of the dark_ d'Ursula Curtiss."
+  },
+  {
+    "titre": "Une femme diabolique",
+    "titreVo": "Queen Bee",
+    "idFilm": 34824,
+    "idCycle": 407,
+    "idCategorie": 1828,
+    "ageMinimal": 0,
+    "realisateurs": "Ranald MacDougall",
+    "annee": 1955,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans une grande demeure du Sud, une femme tyrannique et amorale manipule de façon diabolique son entourage."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Barry Sullivan",
+      "Betsy Palmer",
+      "John Ireland"
+    ],
+    "adaptation": "D'après le roman _The Queen Bee_ d'Edna Lee."
+  }
+]

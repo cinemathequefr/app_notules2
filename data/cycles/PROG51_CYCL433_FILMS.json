@@ -1,0 +1,51 @@
+[
+  {
+    "titre": "Hommes du président",
+    "art": "Les",
+    "titreVo": "All the President's Men",
+    "idFilm": 35020,
+    "idCycle": 433,
+    "idCategorie": 1934,
+    "ageMinimal": null,
+    "realisateurs": "Alan J. Pakula",
+    "annee": 1975,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bob Woodward et Carl Bernstein, journalistes du « Washington Post », dévoilent les détails du scandale du Watergate qui mène à la démission du président Richard Nixon."
+      }
+    ],
+    "generique": [
+      "Dustin Hoffman",
+      "Robert Redford",
+      "Jack Warden",
+      "Martin Balsam"
+    ],
+    "adaptation": "D'après le livre _All the President's Men_ de Carl Bernstein et Bob Woodward."
+  },
+  {
+    "titre": "Quiz Show",
+    "titreVo": "",
+    "idFilm": 55332,
+    "idCycle": 433,
+    "idCategorie": 1934,
+    "ageMinimal": null,
+    "realisateurs": "Robert Redford",
+    "annee": 1994,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Fin des années 50, Charles Van Doren devient une star en éliminant du fameux jeu télévisé _Twenty One_ Herbert Stempel, jusque là invaincu. Mais tout cela est-il bien régulier ?..."
+      }
+    ],
+    "generique": [
+      "John Turturro",
+      "Rob Morrow",
+      "Ralph Fiennes",
+      "Paul Scofield"
+    ],
+    "adaptation": "D'après le livre _Remembering America : A Voice From the Sixties_ de Richard N. Goodwin."
+  }
+]
