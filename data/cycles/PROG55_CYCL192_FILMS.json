@@ -1,0 +1,101 @@
+[
+  {
+    "titre": "Bateau-phare",
+    "art": "Le",
+    "titreVo": "Lightship",
+    "artVo": "The",
+    "idFilm": 37025,
+    "idCycle": 192,
+    "idCategorie": 1854,
+    "ageMinimal": null,
+    "realisateurs": "Jerzy Skolimowski",
+    "annee": 1985,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans les années 1950, le capitaine d'un bateau-phare au passé douteux et en conflit avec son fils, un adolescent rebelle, recueille à son bord des gangsters en fuite."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré en 4K par l'Atelier d'images et Malavida avec TitraFilm.\n\nRessortie en salles par Malavida le 3 avril 2019."
+      }
+    ],
+    "generique": [
+      "Klaus Maria Brandauer",
+      "Robert Duvall",
+      "Tom Bower"
+    ]
+  },
+  {
+    "titre": "Et vogue le navire",
+    "titreVo": "E la nave va",
+    "idFilm": 43327,
+    "idCycle": 192,
+    "idCategorie": 1854,
+    "ageMinimal": 0,
+    "realisateurs": "Federico Fellini",
+    "annee": 1982,
+    "pays": "Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "À la veille de la Première Guerre mondiale, un paquebot prend la mer pour déverser en plein océan les cendres d'une cantatrice célèbre."
+      }
+    ],
+    "generique": [
+      "Freddie Jones",
+      "Barbara Jefford",
+      "Victor Poletti",
+      "Peter Cellier"
+    ]
+  },
+  {
+    "titre": "House That Jack Built",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 139438,
+    "idCycle": 192,
+    "idCategorie": 1854,
+    "ageMinimal": null,
+    "realisateurs": "Lars von Trier",
+    "annee": 2017,
+    "pays": "Danemark-France-Allemagne-Suède",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "États-Unis, années 1970, État de Washington. Jack, _serial killer_, considère chaque meurtre comme une œuvre d'art en soi. À l'encontre de toute logique, il décide de prendre de plus en plus de risques. Alors que la police s'apprête à l'arrêter, un nommé Verge lui apparaît et le guide..."
+      }
+    ],
+    "generique": [
+      "Matt Dillon",
+      "Bruno Ganz",
+      "Uma Thurman",
+      "Siobhan Fallon Hogan"
+    ]
+  },
+  {
+    "titre": "Johnny Guitar",
+    "titreVo": "",
+    "idFilm": 35504,
+    "idCycle": 192,
+    "idCategorie": 1854,
+    "ageMinimal": 0,
+    "realisateurs": "Nicholas Ray",
+    "annee": 1953,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Vienna, tenancière d'un saloon fréquenté par des hors-la-loi, embauche un cow-boy musicien qui fut son amant. Il va l'aider dans sa lutte qui l'oppose à un groupe d'éleveurs."
+      }
+    ],
+    "generique": [
+      "Joan Crawford",
+      "Sterling Hayden",
+      "Mercedes McCambridge",
+      "Ward Bond"
+    ],
+    "adaptation": "D'après la nouvelle _Johnny Guitar_ de Roy Chanslor."
+  }
+]

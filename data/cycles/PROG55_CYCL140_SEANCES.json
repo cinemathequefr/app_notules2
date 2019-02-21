@@ -1,0 +1,556 @@
+[
+  {
+    "idCycle": 140,
+    "idCategorie": 1895,
+    "idEvenement": 18965,
+    "idSeance": 28849,
+    "dateHeure": "2019-03-04T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Les lauréats emergence 2019 : programme de courts métrages",
+    "items": [
+      {
+        "idFilm": 131997,
+        "ordre": 1,
+        "idSeance": 28849,
+        "idCopie": 18065,
+        "duree": 18,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 140863,
+        "ordre": 2,
+        "idSeance": 28849,
+        "idCopie": 18021,
+        "duree": 2,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 140862,
+        "ordre": 3,
+        "idSeance": 28849,
+        "idCopie": 18020,
+        "duree": 22,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 140860,
+        "ordre": 4,
+        "idSeance": 28849,
+        "idCopie": 18010,
+        "duree": 21,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 140864,
+        "ordre": 5
+      }
+    ]
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1895,
+    "idEvenement": 18993,
+    "idSeance": 29915,
+    "dateHeure": "2019-03-04T21:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Roulez jeunesse",
+    "items": [
+      {
+        "idFilm": 139518,
+        "ordre": 1,
+        "idSeance": 29915,
+        "idCopie": 18048,
+        "duree": 84,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1896,
+    "idEvenement": 18958,
+    "idSeance": 28892,
+    "dateHeure": "2019-03-11T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Simon et Théodore",
+    "items": [
+      {
+        "idFilm": 137637,
+        "ordre": 1,
+        "idSeance": 28892,
+        "idCopie": 18009,
+        "duree": 84,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Michael Buchanan"
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1896,
+    "idEvenement": 18957,
+    "idSeance": 30340,
+    "dateHeure": "2019-03-11T21:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Broadcast news",
+    "items": [
+      {
+        "idFilm": 31012,
+        "ordre": 1,
+        "idSeance": 30340,
+        "idCopie": 18007,
+        "duree": 133,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1899,
+    "idEvenement": 18971,
+    "idSeance": 28935,
+    "dateHeure": "2019-03-18T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Carte blanche à Eduardo Williams ",
+    "items": [
+      {
+        "idFilm": 140866,
+        "ordre": 1,
+        "idSeance": 28935,
+        "idCopie": 18024,
+        "duree": 7,
+        "version": "VOSTA",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 140867,
+        "ordre": 2,
+        "idSeance": 28935,
+        "idCopie": 18025,
+        "duree": 17,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 140865,
+        "ordre": 3,
+        "idSeance": 28935,
+        "idCopie": 18023,
+        "duree": 23,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 140868,
+        "ordre": 4,
+        "idSeance": 28935,
+        "idCopie": 18026,
+        "duree": 16,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 140869,
+        "ordre": 5,
+        "idSeance": 28935,
+        "idCopie": 18027,
+        "duree": 10,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 140870,
+        "ordre": 6,
+        "idSeance": 28935,
+        "idCopie": 18028,
+        "duree": 16,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Eduardo Williams"
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1897,
+    "idEvenement": 18956,
+    "idSeance": 29908,
+    "dateHeure": "2019-03-18T21:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Flexible / Rêver sous le capitalisme",
+    "items": [
+      {
+        "idFilm": 140859,
+        "ordre": 1,
+        "idSeance": 29908,
+        "idCopie": 18022,
+        "duree": 23,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 140556,
+        "ordre": 2,
+        "idSeance": 29908,
+        "idCopie": 18045,
+        "duree": 63,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Matthieu Salmon"
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1900,
+    "idEvenement": 18972,
+    "idSeance": 29652,
+    "dateHeure": "2019-03-25T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Histoire d'un fainéant (L')",
+    "items": [
+      {
+        "idFilm": 140871,
+        "ordre": 1,
+        "idSeance": 29652,
+        "idCopie": 18029,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Paul Negoescu"
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1900,
+    "idEvenement": 18959,
+    "idSeance": 29902,
+    "dateHeure": "2019-03-25T21:15:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Dogs",
+    "items": [
+      {
+        "idFilm": 131601,
+        "ordre": 1,
+        "idSeance": 29902,
+        "idCopie": 17843,
+        "duree": 104,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1894,
+    "idEvenement": 18952,
+    "idSeance": 29756,
+    "dateHeure": "2019-04-08T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Cassandro the exotico !",
+    "items": [
+      {
+        "idFilm": 140504,
+        "ordre": 1,
+        "idSeance": 29756,
+        "idCopie": 18001,
+        "duree": 73,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Marie Losier"
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1894,
+    "idEvenement": 18987,
+    "idSeance": 29906,
+    "dateHeure": "2019-04-08T21:15:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Pour la suite du monde",
+    "items": [
+      {
+        "idFilm": 56070,
+        "ordre": 1,
+        "idSeance": 29906,
+        "idCopie": 18043,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Marie Losier"
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1898,
+    "idEvenement": 18955,
+    "idSeance": 29907,
+    "dateHeure": "2019-04-15T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Daniel fait face / Rentrée des classes",
+    "items": [
+      {
+        "idFilm": 67926,
+        "ordre": 1,
+        "idSeance": 29907,
+        "idCopie": 18081,
+        "duree": 24,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 140858,
+        "ordre": 2,
+        "idSeance": 29907,
+        "idCopie": 18006,
+        "duree": 59,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Marine Atlan"
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1891,
+    "idEvenement": 18939,
+    "idSeance": 29193,
+    "dateHeure": "2019-04-29T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Pour le réconfort",
+    "items": [
+      {
+        "idFilm": 137362,
+        "ordre": 1,
+        "idSeance": 29193,
+        "idCopie": 17983,
+        "duree": 91,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Vincent Macaigne"
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1891,
+    "idEvenement": 18940,
+    "idSeance": 29887,
+    "dateHeure": "2019-04-29T21:15:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Naked",
+    "items": [
+      {
+        "idFilm": 41617,
+        "ordre": 1,
+        "idSeance": 29887,
+        "idCopie": 17984,
+        "duree": 126,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance présentée par Vincent Macaigne"
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1902,
+    "idEvenement": 18985,
+    "idSeance": 29905,
+    "dateHeure": "2019-05-06T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "America",
+    "items": [
+      {
+        "idFilm": 138491,
+        "ordre": 1,
+        "idSeance": 29905,
+        "idCopie": 18042,
+        "duree": 82,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1902,
+    "idEvenement": 18986,
+    "idSeance": 29904,
+    "dateHeure": "2019-05-06T21:15:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Ballade de Bruno (La)",
+    "items": [
+      {
+        "idFilm": 39769,
+        "ordre": 1,
+        "idSeance": 29904,
+        "idCopie": 8452,
+        "duree": 107,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance présentée par Claus Drexel"
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1901,
+    "idEvenement": 18983,
+    "idSeance": 29903,
+    "dateHeure": "2019-05-13T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Quentin Papapietro : programme de courts métrages",
+    "items": [
+      {
+        "idFilm": 140879,
+        "ordre": 1,
+        "idSeance": 29903,
+        "idCopie": 18037,
+        "duree": 12,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 140878,
+        "ordre": 2,
+        "idSeance": 29903,
+        "idCopie": 18036,
+        "duree": 13,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 140880,
+        "ordre": 3,
+        "idSeance": 29903,
+        "idCopie": 18038,
+        "duree": 22,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 140877,
+        "ordre": 4,
+        "idSeance": 29903,
+        "idCopie": 18035,
+        "duree": 12,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Quentin Papapietro"
+  },
+  {
+    "idCycle": 140,
+    "idCategorie": 1901,
+    "idEvenement": 18973,
+    "idSeance": 29279,
+    "dateHeure": "2019-05-13T21:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "En fumée",
+    "items": [
+      {
+        "idFilm": 140872,
+        "ordre": 1,
+        "idSeance": 29279,
+        "idCopie": 18030,
+        "duree": 75,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Quentin Papapietro"
+  }
+]

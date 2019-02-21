@@ -83,6 +83,3 @@ Film restauré en 4K par Kadr Film Studio dans le cadre du programme Polish Film
 
 Ressortie en salles par Malavida le 3 avril 2019.  
 Dim 17 mar 14h15 HL
-
-## Autour de Jerzy Skolimowski
-

@@ -28,19 +28,8 @@ try {
 const timestamp = helpers.timestamp();
 
 (async function () {
-
-  const cyclesConfig = await helpers.readFileAsJson(`./data/config/prog${idProg}.json`);
-
-  let cycleConfig = _(
-      _(cyclesConfig)
-      .mapValues(d => _(d).find(e => e.idCycleProg === idCycle))
-      .value().cycles
-    )
-    .assign({
-      idProg: idProg
-    })
-    .value();
-
+  const cyclesConfig = await helpers.readFileAsJson(`./config/prog${idProg}.json`);
+  let cycleConfig = helpers.cycleConfig(cyclesConfig, idCycle);
 
   try {
     const db = await database.attach(config.db);
@@ -58,7 +47,7 @@ const timestamp = helpers.timestamp();
       "utf8"
     );
 
-    // DEACTIVATED: copie du fichier avec timestamp
+    // TEMPORAIREMENT DESACTIVE: copie du fichier avec timestamp
     // await copyFile(
     //   `data/cycles/PROG${idProg}_CYCL${idCycle}_FILMS.json`,
     //   `data/cycles/ts/PROG${idProg}_CYCL${idCycle}_FILMS ${timestamp}.json`
@@ -76,7 +65,7 @@ const timestamp = helpers.timestamp();
       "utf8"
     );
 
-    // DEACTIVATED: copie du fichier avec timestamp
+    // TEMPORAIREMENT DESACTIVE: copie du fichier avec timestamp
     // await copyFile(
     //   `data/cycles/PROG${idProg}_CYCL${idCycle}_SEANCES.json`,
     //   `data/cycles/ts/PROG${idProg}_CYCL${idCycle}_SEANCES ${timestamp}.json`

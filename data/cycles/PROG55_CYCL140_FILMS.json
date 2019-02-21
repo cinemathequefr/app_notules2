@@ -1,0 +1,638 @@
+[
+  {
+    "titre": "140 Km à l'ouest du paradis (Rushes)",
+    "titreVo": "",
+    "idFilm": 140864,
+    "idCycle": 140,
+    "idCategorie": 1895,
+    "ageMinimal": null,
+    "realisateurs": "Céline Rouzet",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 2014, ExxonMobil a commencé à exploiter le gaz naturel dans les Highlands de Papouasie-Nouvelle-Guinée. Des familles ont cédé leurs terres en échange de royalties. Pour le moment, à part des compensations pour la destruction des terrains, rien ne leur a été versé.\n\nCéline Rouzet nous présente des rushes de ce documentaire à venir."
+      }
+    ]
+  },
+  {
+    "titre": "Altiplano",
+    "titreVo": "",
+    "idFilm": 140870,
+    "idCycle": 140,
+    "idCategorie": 1899,
+    "ageMinimal": null,
+    "realisateurs": "Malena Szlam",
+    "annee": 2018,
+    "pays": "Chili-Argentine-Canada",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Au nord du Chili et de l'Argentine se déploient des paysages à couper le souffle. La cinéaste expérimentale Malena Szlam exploite les infinies possibilités de la pellicule pour rendre compte des textures, des perspectives et des chatoiements qui donnent aux horizons de l'Altiplano leur splendeur intimidante."
+      }
+    ]
+  },
+  {
+    "titre": "America",
+    "titreVo": "",
+    "idFilm": 138491,
+    "idCycle": 140,
+    "idCategorie": 1902,
+    "ageMinimal": null,
+    "realisateurs": "Claus Drexel",
+    "annee": 2017,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Novembre 2016 : les États-Unis s'apprêtent à élire leur nouveau président. Plongée au cœur de l'Arizona, à la rencontre des habitants d'une petite ville traversée par la Route 66, les héritiers du rêve américain nous livrent leurs espoirs et leurs craintes."
+      }
+    ]
+  },
+  {
+    "titre": "Ballade de Bruno",
+    "art": "La",
+    "titreVo": "Stroszek",
+    "idFilm": 39769,
+    "idCycle": 140,
+    "idCategorie": 1902,
+    "ageMinimal": null,
+    "realisateurs": "Werner Herzog",
+    "annee": 1976,
+    "pays": "RFA",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bruno sort de prison. Il rencontre Eva, une prostituée brutalisée par ses proxénètes. Ces deux être malmenés par la vie se lient d'amitié et Bruno la recueille sous son toit."
+      }
+    ],
+    "generique": [
+      "Bruno S.",
+      "Eva Mattes",
+      "Clemens Scheitz",
+      "Wilhelm von Homburg"
+    ]
+  },
+  {
+    "titre": "Broadcast News",
+    "titreVo": "",
+    "idFilm": 31012,
+    "idCycle": 140,
+    "idCategorie": 1896,
+    "ageMinimal": null,
+    "realisateurs": "James L. Brooks",
+    "annee": 1987,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Jane, une jeune productrice de télévision, est attirée par Tom, le présentateur vedette de sa chaine. Mais Aaron, ami et collègue de travail, est jaloux de la situation. Partagée entre les deux hommes, la jeune femme assiste avec impuissance à la lutte qu'ils mènent pour la séduire..."
+      }
+    ],
+    "generique": [
+      "William Hurt",
+      "Holly Hunter",
+      "John Cusack",
+      "Jack Nicholson"
+    ]
+  },
+  {
+    "titre": "Cassandro the exotico !",
+    "titreVo": "",
+    "idFilm": 140504,
+    "idCycle": 140,
+    "idCategorie": 1894,
+    "ageMinimal": null,
+    "realisateurs": "Marie Losier",
+    "annee": 2017,
+    "pays": "France-Suisse",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Cassandro est une star incontournable de la Lucha Libre. Il est le roi des Exóticos, ces catcheurs mexicains travestis. Maintes fois Champion du Monde, il pousse son corps aux limites du possible. Après 26 ans de vols planés sur le ring, Cassandro est en miettes. Il ne veut cependant pas s'arrêter ni s'éloigner du feu des projecteurs."
+      }
+    ]
+  },
+  {
+    "titre": "Daniel fait face",
+    "titreVo": "",
+    "idFilm": 140858,
+    "idCycle": 140,
+    "idCategorie": 1898,
+    "ageMinimal": null,
+    "realisateurs": "Marine Atlan",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Tandis que sa classe se prépare pour la répétition générale d'un spectacle de fin d'année, Daniel, 10 ans, s'égare dans les couloirs de l'école. Il surprend alors Marthe dans les vestiaires. Entre les deux enfants un nouveau lien va se nouer."
+      }
+    ],
+    "generique": [
+      "Théo Polgar",
+      "Madeleine Follacci",
+      "Aurélien Gabrielli",
+      "Emmanuelle Cuau"
+    ]
+  },
+  {
+    "titre": "Dogs",
+    "titreVo": "Caini",
+    "idFilm": 131601,
+    "idCycle": 140,
+    "idCategorie": 1900,
+    "ageMinimal": null,
+    "realisateurs": "Bogdan Mirica",
+    "annee": 2015,
+    "pays": "France-Roumanie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Roman est de retour sur les terres de son grand-père qu'il vient de recevoir en héritage. Alors qu'il décide de vendre cette propriété où rien ne pousse, il se trouve confronté à des mafieux dont son aïeul était le chef."
+      }
+    ],
+    "generique": [
+      "Dragos Bucur",
+      "Gheorghe Visu",
+      "Vlad Ivanov"
+    ]
+  },
+  {
+    "titre": "En fumée",
+    "titreVo": "",
+    "idFilm": 140872,
+    "idCycle": 140,
+    "idCategorie": 1901,
+    "ageMinimal": null,
+    "realisateurs": "Quentin Papapietro",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "La France en 2015. Une population désillusionnée répond tant bien que mal à l'avènement d'un nouvel ordre libéral. Boris et Alexis vivent l'un sur l'autre dans un minuscule appartement parisien. Loin de Paris et de ces préoccupations, l'artiste rêveur Pierre se réfugie dans l'écriture d'un opéra basé sur le mythe d'Orphée et Eurydice, avec comme faux espoir la possibilité d'échapper au souvenir d'Adelia, une étudiante parisienne blasée par ses discours amoureux."
+      }
+    ],
+    "generique": [
+      "Victor Bournerias",
+      "Hugues Perrot"
+    ]
+  },
+  {
+    "titre": "Face aux animaux sauvages",
+    "titreVo": "Enfrentar animales salvajes",
+    "idFilm": 140866,
+    "idCycle": 140,
+    "idCategorie": 1899,
+    "ageMinimal": null,
+    "realisateurs": "Jerónimo Quevedo",
+    "annee": 2014,
+    "pays": "Argentine",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une fable avec des références au « pinochétisme », à la littérature latino-américaine des années 90, au _Tarzan_ de Burroughs, à la télévision, aux dictatures militaires et à la jungle. _« Miss Chile '85 a été kidnappée par Tarzan, roi de la jungle et grand représentant du commando patriotique anti-pinochet »Manuel Rodríguez« . »_"
+      }
+    ]
+  },
+  {
+    "titre": "Flexible",
+    "titreVo": "",
+    "idFilm": 140859,
+    "idCycle": 140,
+    "idCategorie": 1897,
+    "ageMinimal": null,
+    "realisateurs": "Matthieu Salmon",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Laure, célibataire de 35 ans, enchaine les CDD en espérant à chaque fois pérenniser son emploi et décrocher un contrat définitif, mais sans succès. À mesure que ses périodes d'emploi se rétrécissent, ses relations amoureuses empruntent le même chemin."
+      }
+    ],
+    "generique": [
+      "Julie Moulier",
+      "Grâce Seri"
+    ]
+  },
+  {
+    "titre": "Goliath",
+    "titreVo": "",
+    "idFilm": 131997,
+    "idCycle": 140,
+    "idCategorie": 1895,
+    "ageMinimal": null,
+    "realisateurs": "Loïc Barche",
+    "annee": 2015,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Nicolas est follement amoureux de Charlotte, une fille qu'il connait à peine et qu'il fantasme à travers les photos qu'elle publie sur Facebook.\n\nAccompagné d'un ami, il décide de lui prouver son amour en accomplissant un exploit."
+      }
+    ],
+    "generique": [
+      "Swann Arlaud",
+      "Phénix Brossard"
+    ]
+  },
+  {
+    "titre": "Gros lapin",
+    "titreVo": "",
+    "idFilm": 140879,
+    "idCycle": 140,
+    "idCategorie": 1901,
+    "ageMinimal": null,
+    "realisateurs": "Quentin Papapietro",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans le métro, un homme aborde une jeune femme catalane qui a un gros lapin dans les bras. Il lui propose de prendre rendez-vous pour le casting d'un film."
+      }
+    ],
+    "generique": [
+      "Hugues Perrot",
+      "Victor Bournerias",
+      "Louis Seguin",
+      "Judit Naranjo Ribó"
+    ]
+  },
+  {
+    "titre": "Histoire d'un fainéant",
+    "art": "L'",
+    "titreVo": "Povestea unui pierde-vara",
+    "idFilm": 140871,
+    "idCycle": 140,
+    "idCategorie": 1900,
+    "ageMinimal": null,
+    "realisateurs": "Paul Negoescu",
+    "annee": 2018,
+    "pays": "Roumanie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Petru est un enseignant de mathématiques à l'Université Politehnica de Bucarest et il mène une vie sans soucis. Il a une relation ouverte avec Irina, qui accepte qu'il couche aussi avec d'autres femmes. Mais Irina tombe enceinte et Petru est obligé de changer son style de vie et de devenir mature à 42 ans. Un de ses amis, dont il a toujours été proche, décide d'écrire un livre au sujet de sa vie."
+      }
+    ],
+    "generique": [
+      "Adrian Anghel",
+      "Iulia Ciochina"
+    ]
+  },
+  {
+    "titre": "Jing li de ren",
+    "titreVo": "",
+    "idFilm": 140868,
+    "idCycle": 140,
+    "idCategorie": 1899,
+    "ageMinimal": null,
+    "realisateurs": "Bo Hu",
+    "annee": 2017,
+    "pays": "Chine",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Apocalypse. Deux enfants affamés trouvent un cadavre dans les ruines ..."
+      }
+    ],
+    "generique": [
+      "Xiaoqian Zhang",
+      "Yiyi Qu",
+      "Tieguang Gao"
+    ]
+  },
+  {
+    "titre": "Jour de ton jour",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 140862,
+    "idCycle": 140,
+    "idCategorie": 1895,
+    "ageMinimal": null,
+    "realisateurs": "Steve Achiepo",
+    "annee": 2016,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Blaise a dix ans. Blaise est amoureux. Blaise aime manger. Blaise va mourir. En tout cas, c'est ce qu'il croit."
+      }
+    ],
+    "generique": [
+      "Mamadou Touré",
+      "Issa Diabaté",
+      "Adiatou Sakho"
+    ]
+  },
+  {
+    "titre": "Little Jaffna",
+    "titreVo": "",
+    "idFilm": 140860,
+    "idCycle": 140,
+    "idCategorie": 1895,
+    "ageMinimal": null,
+    "realisateurs": "Lawrence Valin",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 2009 la guerre au Sri Lanka fait rage. À 10 000 km, dans le quartier tamoul de Paris, Seelan voit son quotidien bouleversé."
+      }
+    ]
+  },
+  {
+    "titre": "Naked",
+    "titreVo": "",
+    "idFilm": 41617,
+    "idCycle": 140,
+    "idCategorie": 1891,
+    "ageMinimal": null,
+    "realisateurs": "Mike Leigh",
+    "annee": 1992,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Johnny ne sait plus qui il est vraiment. En pleine dérive, il est obligé de partir loin de Manchester, sa ville natale."
+      }
+    ],
+    "generique": [
+      "David Thewlis",
+      "Lesley Sharp",
+      "Claire Skinner"
+    ]
+  },
+  {
+    "titre": "Parsi",
+    "titreVo": "",
+    "idFilm": 140865,
+    "idCycle": 140,
+    "idCategorie": 1899,
+    "ageMinimal": null,
+    "realisateurs": "Eduardo Williams",
+    "annee": 2018,
+    "pays": "Argentine",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le nouveau film du cinéaste argentin Eduardo Williams, adapte partiellement « Ce n'est pas », un poème cumulatif de Mariano Blatt dont le processus d'écriture constant s'étend sur une vie entière. Le texte du poème auquel des versets sont ajoutés au fil des jours, des mois et des années, peut couvrir n'importe quoi: images, personnages, souvenirs, paysages, phrases, idées, etc."
+      }
+    ],
+    "generique": [
+      "Ivandro Cá",
+      "Cris Gomes"
+    ]
+  },
+  {
+    "titre": "Patul lui Procust",
+    "titreVo": "",
+    "idFilm": 140867,
+    "idCycle": 140,
+    "idCategorie": 1899,
+    "ageMinimal": null,
+    "realisateurs": "Andrian Imparatel",
+    "annee": 2018,
+    "pays": "Roumanie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Lassé de tous les problèmes auxquels il doit faire face chez lui, Dan décide de passer la nuit chez une vieille connaissance, Ștefan. Leur troublant échange atteint son apogée lorsque l'hospitalité de Ștefan devient très persuasive."
+      }
+    ],
+    "generique": [
+      "Bogdan Salceanu",
+      "Cosmin Stanila"
+    ]
+  },
+  {
+    "titre": "Pour la suite du monde",
+    "titreVo": "",
+    "idFilm": 56070,
+    "idCycle": 140,
+    "idCategorie": 1894,
+    "ageMinimal": null,
+    "realisateurs": "Pierre Perrault, Michel Brault",
+    "annee": 1962,
+    "pays": "Canada",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une pêche au marsouin abandonnée depuis trente-huit ans est reconstituée pour le film par les habitants de l'Ile-aux-Coudres."
+      }
+    ]
+  },
+  {
+    "titre": "Pour le réconfort",
+    "titreVo": "",
+    "idFilm": 137362,
+    "idCycle": 140,
+    "idCategorie": 1891,
+    "ageMinimal": null,
+    "realisateurs": "Vincent Macaigne",
+    "annee": 2013,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pascal et Pauline reviennent sur les terres de leurs parents après des années de voyage, et se retrouvent dans l'impossibilité de payer les traites du domaine. Ils se confrontent à leurs amis d'enfance qui eux, d'origine modeste, n'ont jamais quitté leur campagne. Et à Emmanuel surtout, qui veut racheter leur terrain au meilleur prix pour l'expansion de ses maisons de retraite. Entre les amitiés d'hier et les envies de demain, la guerre aura-t-elle lieu ?"
+      }
+    ],
+    "generique": [
+      "Pauline Lorillard",
+      "Pascal Rénéric",
+      "Emmanuel Matte",
+      "Laurent Papot"
+    ]
+  },
+  {
+    "titre": "Rentrée des classes",
+    "titreVo": "",
+    "idFilm": 67926,
+    "idCycle": 140,
+    "idCategorie": 1898,
+    "ageMinimal": null,
+    "realisateurs": "Jacques Rozier",
+    "annee": 1955,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "C'est le jour de la rentrée des classes dans un petit village du Var. René n'a pas fait ses devoirs de vacances: il jette son cartable à la rivière et part faire l'école buissonnière."
+      }
+    ],
+    "generique": [
+      "René Boglio",
+      "Marius Sumian",
+      "Léon Sauve",
+      "Jean Rémy"
+    ]
+  },
+  {
+    "titre": "Retour à Royan",
+    "titreVo": "",
+    "idFilm": 140878,
+    "idCycle": 140,
+    "idCategorie": 1901,
+    "ageMinimal": null,
+    "realisateurs": "Quentin Papapietro",
+    "annee": 2013,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Jeannot est de retour à Royan pour rendre visite à la pédiatre qui l'avait soigné autrefois. Grâce à son ami Pierre, il fait la rencontre d'une élégante guide touristique."
+      }
+    ],
+    "generique": [
+      "Isabelle Guérin",
+      "Raphaël Ceriez"
+    ]
+  },
+  {
+    "titre": "Rêver sous le capitalisme",
+    "titreVo": "",
+    "idFilm": 140556,
+    "idCycle": 140,
+    "idCategorie": 1897,
+    "ageMinimal": null,
+    "realisateurs": "Sophie Bruneau",
+    "annee": 2017,
+    "pays": "Belgique",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Douze personnes racontent puis interprètent le souvenir d'un rêve de travail. Ces âmes que l'on malmène décrivent, de façon poétique et politique, leur souffrance subjective au travail. Petit à petit, les rêveurs et leurs rêves font le portrait d'un monde dominé par le capitalisme néolibéral."
+      }
+    ]
+  },
+  {
+    "titre": "Roulez jeunesse",
+    "titreVo": "",
+    "idFilm": 139518,
+    "idCycle": 140,
+    "idCategorie": 1895,
+    "ageMinimal": null,
+    "realisateurs": "Julien Guetta",
+    "annee": 2017,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Alex, 43 ans, est dépanneur automobile dans le garage que dirige d'une main de fer sa mère. Un jour, il dépanne une jeune femme et passe la nuit chez elle, mais au petit matin elle a disparu lui laissant sur les bras trois enfants."
+      }
+    ],
+    "generique": [
+      "Eric Judor",
+      "Laure Calamy",
+      "Brigitte Roüan",
+      "Ilan Debrabant"
+    ]
+  },
+  {
+    "titre": "Simon et Théodore",
+    "titreVo": "",
+    "idFilm": 137637,
+    "idCycle": 140,
+    "idCategorie": 1896,
+    "ageMinimal": null,
+    "realisateurs": "Mikael Buch",
+    "annee": 2017,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Simon va bientôt devenir père. Mais comment ce jeune homme hors-normes pourrait-t-il s'occuper de son enfant s'il ne parvient pas à prendre soin de lui ? Sa rencontre avec Théodore, ado attachant et teigneux élevé par sa mère, va sérieusement bouleverser ses... incertitudes."
+      }
+    ],
+    "generique": [
+      "Félix Moati",
+      "Nils Othenin-Girard",
+      "Mélanie Bernier",
+      "Audrey Lamy"
+    ]
+  },
+  {
+    "titre": "Sophisticated French",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 140880,
+    "idCycle": 140,
+    "idCategorie": 1901,
+    "ageMinimal": null,
+    "realisateurs": "Quentin Papapietro",
+    "annee": 2012,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pierre débarque à New York à la recherche insensée de son ex-petite amie. Gaffeur et maladroit, il a bien du mal à s'adapter aux us et aux coutumes du nouveau monde..."
+      }
+    ],
+    "generique": [
+      "Quentin Papapietro",
+      "Tyler Gumb",
+      "Angela Stach",
+      "Kat knight"
+    ]
+  },
+  {
+    "titre": "Un chien qui chante",
+    "titreVo": "",
+    "idFilm": 140877,
+    "idCycle": 140,
+    "idCategorie": 1901,
+    "ageMinimal": null,
+    "realisateurs": "Quentin Papapietro",
+    "annee": 2014,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un jeune homme part à la recherche du chien qui chante, au Canada. Son petit neveu fait preuve de scepticisme."
+      }
+    ],
+    "generique": [
+      "Quentin Papapietro"
+    ]
+  },
+  {
+    "titre": "Un commencement",
+    "titreVo": "",
+    "idFilm": 140863,
+    "idCycle": 140,
+    "idCategorie": 1895,
+    "ageMinimal": null,
+    "realisateurs": "Hélène Merlin",
+    "annee": 2014,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "C'est l'histoire d'une histoire d'amour qui commence mal."
+      }
+    ]
+  },
+  {
+    "titre": "Y Bera – Aguas de Luz",
+    "titreVo": "",
+    "idFilm": 140869,
+    "idCycle": 140,
+    "idCategorie": 1899,
+    "ageMinimal": null,
+    "realisateurs": "Jessica Sarah Rinland",
+    "annee": 2016,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Des récits de moments variés dans l'histoire humaine, qui décrivent les organismes qui habitent les seconds plus grands marécages au monde."
+      }
+    ]
+  }
+]

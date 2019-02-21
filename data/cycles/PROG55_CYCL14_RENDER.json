@@ -1,0 +1,362 @@
+{
+  "header": {
+    "idCycleProg": 14,
+    "titreCycle": "Cinéma bis",
+    "sousCycles": [
+      {
+        "titre": "Erich von Stroheim",
+        "cats": [
+          1888
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Polars français des années 80",
+        "cats": [
+          1880
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Sergio Sollima",
+        "cats": [
+          1881
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Course à l'audience",
+        "cats": [
+          1882
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 55
+  },
+  "data": [
+    {
+      "titreSousCycle": "Erich von Stroheim",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 14,
+          "idFilm": 33806,
+          "titre": "Cible vivante",
+          "art": "La",
+          "titreVo": "Great Flamarion",
+          "artVo": "The",
+          "realisateurs": "Anthony Mann",
+          "annee": 1945,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Flamarion, tireur d'élite, présente un numéro de cirque en trio avec un couple marié, Alex et Laura. Ne supportant plus l'alcoolisme de son mari, la jeune femme persuade Flamarion de tuer Alex."
+            }
+          ],
+          "adaptation": "D'après le roman _Big Shot_ de Vicky Baum.",
+          "generique": [
+            "Erich von Stroheim",
+            "Mary Beth Hughes",
+            "Dan Duryea",
+            "Lester Allen"
+          ],
+          "duree": 78,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28870,
+              "ordre": 1,
+              "idEvenement": 18686,
+              "dateHeure": "2019-03-08T22:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 14,
+          "idFilm": 30369,
+          "titre": "Crime du Docteur Crespi",
+          "art": "Le",
+          "titreVo": "Crime of Dr. Crespi",
+          "artVo": "The",
+          "realisateurs": "John H. Auer",
+          "annee": 1935,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un médecin crée un sérum qui permet de plonger une personne dans un état de paralysie. Il va utiliser sa découverte pour se venger de l'homme lui ayant pris la femme qu'il aime..."
+            }
+          ],
+          "generique": [
+            "Erich von Stroheim",
+            "Harriet Russell",
+            "Dwight Frye",
+            "Paul Guilfoyle"
+          ],
+          "duree": 66,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28869,
+              "ordre": 1,
+              "idEvenement": 18688,
+              "dateHeure": "2019-03-08T20:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Polars français des années 80",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 14,
+          "idFilm": 46412,
+          "titre": "Ennemis intimes",
+          "titreVo": "",
+          "realisateurs": "Denis Amar",
+          "annee": 1987,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Deux hommes rivaux en amour sont contraints de s'allier quand une bande de voyous les assiège dans un cinéma isolé."
+            }
+          ],
+          "generique": [
+            "Michel Serrault",
+            "Wadeck Stanczak",
+            "Ingrid Held",
+            "Anne Gautier"
+          ],
+          "duree": 95,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 28956,
+              "ordre": 1,
+              "idEvenement": 17354,
+              "dateHeure": "2019-03-22T22:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 14,
+          "idFilm": 56827,
+          "titre": "Gueule du loup",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Michel Leviant",
+          "annee": 1981,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Bouleversée par la mort d'un de ses patients, Marie, une jeune infirmière, décide de partir à la recherche des proches du défunt. Elle rencontre la bande de voyous dont il faisait partie et, peu à peu, se lie d'amitié avec les membres du groupe."
+            }
+          ],
+          "generique": [
+            "Miou-Miou",
+            "Paul Crauchet",
+            "Anémone",
+            "Gérard Sergue"
+          ],
+          "duree": 95,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 28955,
+              "ordre": 1,
+              "idEvenement": 17353,
+              "dateHeure": "2019-03-22T20:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Sergio Sollima",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 14,
+          "idFilm": 58993,
+          "titre": "Cité de la violence",
+          "art": "La",
+          "titreVo": "Città violenta",
+          "realisateurs": "Sergio Sollima",
+          "annee": 1969,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un tueur à gages est trahi par sa maîtresse. Il va chercher à se venger."
+            }
+          ],
+          "generique": [
+            "Charles Bronson",
+            "Jill Ireland",
+            "Telly Savalas",
+            "Michel Constantin"
+          ],
+          "duree": 120,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29656,
+              "ordre": 1,
+              "idEvenement": 18793,
+              "dateHeure": "2019-03-29T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 14,
+          "idFilm": 57697,
+          "titre": "Poursuite implacable",
+          "art": "La",
+          "titreVo": "Revolver",
+          "realisateurs": "Sergio Sollima",
+          "annee": 1972,
+          "pays": "Italie-France-RFA",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un directeur de prison est victime d'un chantage: il doit organiser la libération d'un détenu, petit truand sans envergure, s'il veut revoir sa jeune épouse vivante."
+            }
+          ],
+          "generique": [
+            "Oliver Reed",
+            "Fabio Testi",
+            "Agostina Belli",
+            "Paola Pitagora"
+          ],
+          "duree": 115,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29655,
+              "ordre": 1,
+              "idEvenement": 18792,
+              "dateHeure": "2019-03-29T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Course à l'audience",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 14,
+          "idFilm": 46942,
+          "titre": "Prix du danger",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Yves Boisset",
+          "annee": 1982,
+          "pays": "France-Yougoslavie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un jeune chômeur réussit à se faire sélectionner comme candidat au célèbre jeu télévisé « Le prix du danger ». Pendant quatre heures, il doit tenir tête à cinq tueurs lancés à ses trousses afin de gagner une prime d'un million de dollars."
+            }
+          ],
+          "generique": [
+            "Gérard Lanvin",
+            "Marie-France Pisier",
+            "Michel Piccoli",
+            "Bruno Cremer"
+          ],
+          "duree": 100,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29041,
+              "ordre": 1,
+              "idEvenement": 16886,
+              "dateHeure": "2019-04-05T20:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 14,
+          "idFilm": 31693,
+          "titre": "Running man",
+          "titreVo": "Running Man",
+          "artVo": "The",
+          "realisateurs": "Paul Michael Glaser",
+          "annee": 1987,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Los Angeles, en 2019, la dictature contrôle les classes populaires en les poussant à s'entretuer dans une émission télévisée à succès."
+            }
+          ],
+          "adaptation": "D'après le roman _The Running Man_ de Richard Bachman.",
+          "generique": [
+            "Arnold Schwarzenegger",
+            "Maria Conchita Alonso",
+            "Yaphet Kotto",
+            "Jim Brown"
+          ],
+          "duree": 83,
+          "format": "35 mm",
+          "version": "VF",
+          "seance": [
+            {
+              "idSeance": 29042,
+              "ordre": 1,
+              "idEvenement": 16885,
+              "dateHeure": "2019-04-05T22:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

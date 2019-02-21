@@ -1,0 +1,197 @@
+[
+  {
+    "titre": "Cible vivante",
+    "art": "La",
+    "titreVo": "Great Flamarion",
+    "artVo": "The",
+    "idFilm": 33806,
+    "idCycle": 14,
+    "idCategorie": 1888,
+    "ageMinimal": 0,
+    "realisateurs": "Anthony Mann",
+    "annee": 1945,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Flamarion, tireur d'élite, présente un numéro de cirque en trio avec un couple marié, Alex et Laura. Ne supportant plus l'alcoolisme de son mari, la jeune femme persuade Flamarion de tuer Alex."
+      }
+    ],
+    "generique": [
+      "Erich von Stroheim",
+      "Mary Beth Hughes",
+      "Dan Duryea",
+      "Lester Allen"
+    ],
+    "adaptation": "D'après le roman _Big Shot_ de Vicky Baum."
+  },
+  {
+    "titre": "Cité de la violence",
+    "art": "La",
+    "titreVo": "Città violenta",
+    "idFilm": 58993,
+    "idCycle": 14,
+    "idCategorie": 1881,
+    "ageMinimal": null,
+    "realisateurs": "Sergio Sollima",
+    "annee": 1969,
+    "pays": "Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un tueur à gages est trahi par sa maîtresse. Il va chercher à se venger."
+      }
+    ],
+    "generique": [
+      "Charles Bronson",
+      "Jill Ireland",
+      "Telly Savalas",
+      "Michel Constantin"
+    ]
+  },
+  {
+    "titre": "Crime du Docteur Crespi",
+    "art": "Le",
+    "titreVo": "Crime of Dr. Crespi",
+    "artVo": "The",
+    "idFilm": 30369,
+    "idCycle": 14,
+    "idCategorie": 1888,
+    "ageMinimal": 0,
+    "realisateurs": "John H. Auer",
+    "annee": 1935,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un médecin crée un sérum qui permet de plonger une personne dans un état de paralysie. Il va utiliser sa découverte pour se venger de l'homme lui ayant pris la femme qu'il aime..."
+      }
+    ],
+    "generique": [
+      "Erich von Stroheim",
+      "Harriet Russell",
+      "Dwight Frye",
+      "Paul Guilfoyle"
+    ]
+  },
+  {
+    "titre": "Ennemis intimes",
+    "titreVo": "",
+    "idFilm": 46412,
+    "idCycle": 14,
+    "idCategorie": 1880,
+    "ageMinimal": null,
+    "realisateurs": "Denis Amar",
+    "annee": 1987,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Deux hommes rivaux en amour sont contraints de s'allier quand une bande de voyous les assiège dans un cinéma isolé."
+      }
+    ],
+    "generique": [
+      "Michel Serrault",
+      "Wadeck Stanczak",
+      "Ingrid Held",
+      "Anne Gautier"
+    ]
+  },
+  {
+    "titre": "Gueule du loup",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 56827,
+    "idCycle": 14,
+    "idCategorie": 1880,
+    "ageMinimal": null,
+    "realisateurs": "Michel Leviant",
+    "annee": 1981,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bouleversée par la mort d'un de ses patients, Marie, une jeune infirmière, décide de partir à la recherche des proches du défunt. Elle rencontre la bande de voyous dont il faisait partie et, peu à peu, se lie d'amitié avec les membres du groupe."
+      }
+    ],
+    "generique": [
+      "Miou-Miou",
+      "Paul Crauchet",
+      "Anémone",
+      "Gérard Sergue"
+    ]
+  },
+  {
+    "titre": "Poursuite implacable",
+    "art": "La",
+    "titreVo": "Revolver",
+    "idFilm": 57697,
+    "idCycle": 14,
+    "idCategorie": 1881,
+    "ageMinimal": null,
+    "realisateurs": "Sergio Sollima",
+    "annee": 1972,
+    "pays": "Italie-France-RFA",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un directeur de prison est victime d'un chantage: il doit organiser la libération d'un détenu, petit truand sans envergure, s'il veut revoir sa jeune épouse vivante."
+      }
+    ],
+    "generique": [
+      "Oliver Reed",
+      "Fabio Testi",
+      "Agostina Belli",
+      "Paola Pitagora"
+    ]
+  },
+  {
+    "titre": "Prix du danger",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 46942,
+    "idCycle": 14,
+    "idCategorie": 1882,
+    "ageMinimal": null,
+    "realisateurs": "Yves Boisset",
+    "annee": 1982,
+    "pays": "France-Yougoslavie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un jeune chômeur réussit à se faire sélectionner comme candidat au célèbre jeu télévisé « Le prix du danger ». Pendant quatre heures, il doit tenir tête à cinq tueurs lancés à ses trousses afin de gagner une prime d'un million de dollars."
+      }
+    ],
+    "generique": [
+      "Gérard Lanvin",
+      "Marie-France Pisier",
+      "Michel Piccoli",
+      "Bruno Cremer"
+    ]
+  },
+  {
+    "titre": "Running man",
+    "titreVo": "Running Man",
+    "artVo": "The",
+    "idFilm": 31693,
+    "idCycle": 14,
+    "idCategorie": 1882,
+    "ageMinimal": 0,
+    "realisateurs": "Paul Michael Glaser",
+    "annee": 1987,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "À Los Angeles, en 2019, la dictature contrôle les classes populaires en les poussant à s'entretuer dans une émission télévisée à succès."
+      }
+    ],
+    "generique": [
+      "Arnold Schwarzenegger",
+      "Maria Conchita Alonso",
+      "Yaphet Kotto",
+      "Jim Brown"
+    ],
+    "adaptation": "D'après le roman _The Running Man_ de Richard Bachman."
+  }
+]

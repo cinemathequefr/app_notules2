@@ -252,6 +252,15 @@
       ]
     },
     {
+      "idCycleProg": 192,
+      "titreCycle": "Ciné-club Jean Douchet",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1854],
+        "tri": 1
+      }]
+    },
+    {
       "idCycleProg": 152,
       "titreCycle": "Parlons cinéma avec Bertrand Mandico",
       "sousCycles": [{
@@ -264,12 +273,81 @@
       "idCycleProg": 140,
       "titreCycle": "Aujourd'hui le cinéma",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1857],
-        "tri": 1
-      }]
+          "titre": "Émergence 2019",
+          "cats": [1895],
+          "tri": 1
+        },
+        {
+          "titre": "Mikael Buch",
+          "cats": [1896],
+          "tri": 1
+        },
+        {
+          "titre": "Carte blanche à Eduardo Williams",
+          "cats": [1899],
+          "tri": 1
+        },
+        {
+          "titre": "Matthieu Salmon",
+          "cats": [1897],
+          "tri": 1
+        },
+        {
+          "titre": "Le nouveau cinéma roumain",
+          "cats": [1900],
+          "tri": 1
+        },
+        {
+          "titre": "Marie Losier",
+          "cats": [1894],
+          "tri": 1
+        },
+        {
+          "titre": "Marine Atlan",
+          "cats": [1898],
+          "tri": 1
+        },
+        {
+          "titre": "Vincent Macaigne",
+          "cats": [1891],
+          "tri": 1
+        },
+        {
+          "titre": "Claus Drexel",
+          "cats": [1902],
+          "tri": 1
+        },
+        {
+          "titre": "Quentin Papapietro",
+          "cats": [1901],
+          "tri": 1
+        }
+      ]
+    },
+    {
+      "idCycleProg": 14,
+      "titreCycle": "Cinéma bis",
+      "sousCycles": [{
+          "titre": "Erich von Stroheim",
+          "cats": [1888],
+          "tri": 1
+        },
+        {
+          "titre": "Polars français des années 80",
+          "cats": [1880],
+          "tri": 1
+        },
+        {
+          "titre": "Sergio Sollima",
+          "cats": [1881],
+          "tri": 1
+        },
+        {
+          "titre": "Course à l'audience",
+          "cats": [1882],
+          "tri": 1
+        }
+      ]
     }
-
-
   ]
 }

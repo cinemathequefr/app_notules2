@@ -1,0 +1,215 @@
+{
+  "header": {
+    "idCycleProg": 192,
+    "titreCycle": "Ciné-club Jean Douchet",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          1854
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 55
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 192,
+          "idFilm": 37025,
+          "titre": "Bateau-phare",
+          "art": "Le",
+          "titreVo": "Lightship",
+          "artVo": "The",
+          "realisateurs": "Jerzy Skolimowski",
+          "annee": 1985,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans les années 1950, le capitaine d'un bateau-phare au passé douteux et en conflit avec son fils, un adolescent rebelle, recueille à son bord des gangsters en fuite."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré en 4K par l'Atelier d'images et Malavida avec TitraFilm.\n\nRessortie en salles par Malavida le 3 avril 2019."
+            }
+          ],
+          "generique": [
+            "Klaus Maria Brandauer",
+            "Robert Duvall",
+            "Tom Bower"
+          ],
+          "duree": 87,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29828,
+              "ordre": 1,
+              "idEvenement": 18600,
+              "dateHeure": "2019-03-21T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 192,
+          "idFilm": 43327,
+          "titre": "Et vogue le navire",
+          "titreVo": "E la nave va",
+          "realisateurs": "Federico Fellini",
+          "annee": 1982,
+          "pays": "Italie-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À la veille de la Première Guerre mondiale, un paquebot prend la mer pour déverser en plein océan les cendres d'une cantatrice célèbre."
+            }
+          ],
+          "generique": [
+            "Freddie Jones",
+            "Barbara Jefford",
+            "Victor Poletti",
+            "Peter Cellier"
+          ],
+          "duree": 128,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29827,
+              "ordre": 1,
+              "idEvenement": 18403,
+              "dateHeure": "2019-05-02T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29289,
+              "ordre": 1,
+              "idEvenement": 18403,
+              "dateHeure": "2019-05-16T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29327,
+              "ordre": 1,
+              "idEvenement": 18403,
+              "dateHeure": "2019-05-22T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 192,
+          "idFilm": 139438,
+          "titre": "House That Jack Built",
+          "art": "The",
+          "titreVo": "",
+          "realisateurs": "Lars von Trier",
+          "annee": 2017,
+          "pays": "Danemark-France-Allemagne-Suède",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "États-Unis, années 1970, État de Washington. Jack, _serial killer_, considère chaque meurtre comme une œuvre d'art en soi. À l'encontre de toute logique, il décide de prendre de plus en plus de risques. Alors que la police s'apprête à l'arrêter, un nommé Verge lui apparaît et le guide..."
+            }
+          ],
+          "generique": [
+            "Matt Dillon",
+            "Bruno Ganz",
+            "Uma Thurman",
+            "Siobhan Fallon Hogan"
+          ],
+          "duree": 155,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29553,
+              "ordre": 1,
+              "idEvenement": 18710,
+              "dateHeure": "2019-05-22T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 192,
+          "idFilm": 35504,
+          "titre": "Johnny Guitar",
+          "titreVo": "",
+          "realisateurs": "Nicholas Ray",
+          "annee": 1953,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Vienna, tenancière d'un saloon fréquenté par des hors-la-loi, embauche un cow-boy musicien qui fut son amant. Il va l'aider dans sa lutte qui l'oppose à un groupe d'éleveurs."
+            }
+          ],
+          "adaptation": "D'après la nouvelle _Johnny Guitar_ de Roy Chanslor.",
+          "generique": [
+            "Joan Crawford",
+            "Sterling Hayden",
+            "Mercedes McCambridge",
+            "Ward Bond"
+          ],
+          "duree": 110,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29428,
+              "ordre": 1,
+              "idEvenement": 18277,
+              "dateHeure": "2019-05-05T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29456,
+              "ordre": 1,
+              "idEvenement": 18277,
+              "dateHeure": "2019-05-15T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 29340,
+              "ordre": 1,
+              "idEvenement": 18277,
+              "dateHeure": "2019-05-24T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

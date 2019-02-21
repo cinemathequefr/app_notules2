@@ -1,0 +1,79 @@
+{
+  "idProg": 60,
+  "titre": "Juin-juillet 2019",
+  "dateFrom": "",
+  "dateTo": "",
+  "cycles": [{
+      "idCycleProg": 424,
+      "titreCycle": "Otar Iosseliani",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 425,
+      "titreCycle": "58ème Semaine de la critique",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 426,
+      "titreCycle": "John Cassavetes",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 427,
+      "titreCycle": "Joseph L. Mankiewicz",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1928],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 428,
+      "titreCycle": "Edgardo Cozarinsky",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1929],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 429,
+      "titreCycle": "Festival LGBT",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1930],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 430,
+      "titreCycle": "Mario Bava",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1931],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 432,
+      "titreCycle": "Plein les yeux ! Saison 3",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1931],
+        "tri": 1
+      }]
+    }
+  ]
+}

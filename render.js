@@ -13,7 +13,6 @@ const markdown = require("./lib/transforms/markdown.js");
 
 const writeFile = promisify(fs.writeFile);
 
-
 try {
   let args = helpers.extractArgsValue(process.argv.slice(2).join(" "));
   var idProg = helpers.toNumOrNull(args.p[0]);
@@ -22,29 +21,13 @@ try {
   console.error("Erreur d'arguments. Les arguments attendus sont de la forme : -p <id programme> -c <id cycle>.")
 }
 
-// const idCycle = parseInt(process.argv[2], 10); // Id de cycle saisie en paramètre de ligne de commande
-// const idProg = 56; // Test
-
-
 (async function () {
   const cyclesConfig = await helpers.readFileAsJson(
-    `./data/config/prog${idProg}.json`
+    `./config/prog${idProg}.json`
   );
 
-  let cycleConfig = _(
-      _(cyclesConfig)
-      .mapValues(d => _(d).find(e => e.idCycleProg === idCycle))
-      .value().cycles
-    )
-    .assign({
-      idProg: idProg
-    })
-    .value();
-  // let cycleConfig = _(cyclesConfig).find({
-  //   idCycleProg: idCycle
-  // });
-
-  const filename = getFilenameFromCycle(idCycle);
+  let cycleConfig = helpers.cycleConfig(cyclesConfig, idCycle);
+  let filename = getFilenameFromCycle(idCycle);
 
   let seances = await helpers.readFileAsJson(
     `./data/cycles/${filename.seances}.json`
@@ -53,19 +36,15 @@ try {
     `./data/cycles/${filename.films}.json`
   );
 
-  console.log(JSON.stringify(cyclesConfig));
-  console.log(typeof idCycle);
-  console.log(cycleConfig);
-
   let cycle = merge(cycleConfig, films, seances); // Etape MERGE : fusion des données (renvoie `{data,info}`)
   cycle = cleanTitreEvenement(cycle);
 
   // Pour test, on peut sérialiser le cycle à l'étape MERGE ici.
-  await writeFile(
-    `data/cycles/PROG${idProg}_CYCL${idCycle}_MERGE.json`,
-    JSON.stringify(cycle, null, 2),
-    "utf8"
-  );
+  // await writeFile(
+  //   `./data/cycles/PROG${idProg}_CYCL${idCycle}_MERGE.json`,
+  //   JSON.stringify(cycle, null, 2),
+  //   "utf8"
+  // );
 
 
   // (test) Summary
@@ -83,7 +62,7 @@ try {
   };
 
   await writeFile(
-    `data/cycles/PROG${idProg}_CYCL${idCycle}_RENDER.json`,
+    `./data/cycles/PROG${idProg}_CYCL${idCycle}_RENDER.json`,
     JSON.stringify(cycle, null, 2),
     "utf8"
   );
@@ -91,7 +70,7 @@ try {
   let md = markdown(cycle);
 
   await writeFile(
-    `data/cycles/PROG${idProg}_CYCL${idCycle} ${cycleConfig.titreCycle}.md`,
+    `./data/cycles/markdown/PROG${idProg}_CYCL${idCycle} ${cycleConfig.titreCycle}.md`,
     md,
     "utf8"
   );
@@ -99,13 +78,10 @@ try {
 
 })();
 
-// Obtient les noms de fichiers json d'un cycle à partir de son id.
-// NOTE: en replacement de la fonction renvoyant les titres avec le nom du cycle en clair.
+// getFilenameFromCycle: renvoie les noms de fichiers d'un cycle à partir de son id.
 function getFilenameFromCycle(idCycle) {
   return {
     films: `PROG${idProg}_CYCL${idCycle}_FILMS`,
     seances: `PROG${idProg}_CYCL${idCycle}_SEANCES`
-    // films: `CYCLE${idCycle}_FILMS`,
-    // seances: `CYCLE${idCycle}_SEANCES`
   };
 }

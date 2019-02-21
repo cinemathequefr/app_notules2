@@ -1,0 +1,194 @@
+[
+  {
+    "idCycle": 14,
+    "idCategorie": 1888,
+    "idEvenement": 18688,
+    "idSeance": 28869,
+    "dateHeure": "2019-03-08T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Crime du Docteur Crespi (Le)",
+    "items": [
+      {
+        "idFilm": 30369,
+        "ordre": 1,
+        "idSeance": 28869,
+        "idCopie": 17664,
+        "duree": 66,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 14,
+    "idCategorie": 1888,
+    "idEvenement": 18686,
+    "idSeance": 28870,
+    "dateHeure": "2019-03-08T22:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Cible vivante (La)",
+    "items": [
+      {
+        "idFilm": 33806,
+        "ordre": 1,
+        "idSeance": 28870,
+        "idCopie": 17661,
+        "duree": 78,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 14,
+    "idCategorie": 1880,
+    "idEvenement": 17353,
+    "idSeance": 28955,
+    "dateHeure": "2019-03-22T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Gueule du loup (La)",
+    "items": [
+      {
+        "idFilm": 56827,
+        "ordre": 1,
+        "idSeance": 28955,
+        "idCopie": 15957,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 14,
+    "idCategorie": 1880,
+    "idEvenement": 17354,
+    "idSeance": 28956,
+    "dateHeure": "2019-03-22T22:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Ennemis intimes",
+    "items": [
+      {
+        "idFilm": 46412,
+        "ordre": 1,
+        "idSeance": 28956,
+        "idCopie": 15958,
+        "duree": 95,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 14,
+    "idCategorie": 1881,
+    "idEvenement": 18792,
+    "idSeance": 29655,
+    "dateHeure": "2019-03-29T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Poursuite implacable (La)",
+    "items": [
+      {
+        "idFilm": 57697,
+        "ordre": 1,
+        "idSeance": 29655,
+        "idCopie": 17785,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 14,
+    "idCategorie": 1881,
+    "idEvenement": 18793,
+    "idSeance": 29656,
+    "dateHeure": "2019-03-29T21:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Cité de la violence (La)",
+    "items": [
+      {
+        "idFilm": 58993,
+        "ordre": 1,
+        "idSeance": 29656,
+        "idCopie": 17786,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 14,
+    "idCategorie": 1882,
+    "idEvenement": 16886,
+    "idSeance": 29041,
+    "dateHeure": "2019-04-05T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Prix du danger (Le)",
+    "items": [
+      {
+        "idFilm": 46942,
+        "ordre": 1,
+        "idSeance": 29041,
+        "idCopie": 2178,
+        "duree": 100,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 14,
+    "idCategorie": 1882,
+    "idEvenement": 16885,
+    "idSeance": 29042,
+    "dateHeure": "2019-04-05T22:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Running man",
+    "items": [
+      {
+        "idFilm": 31693,
+        "ordre": 1,
+        "idSeance": 29042,
+        "idCopie": 15937,
+        "duree": 83,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  }
+]

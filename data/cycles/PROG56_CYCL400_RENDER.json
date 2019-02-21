@@ -1,6 +1,5 @@
 {
   "header": {
-    "idProg": 55,
     "idCycleProg": 400,
     "titreCycle": "Jerzy Skolimowski",
     "sousCycles": [
@@ -10,15 +9,9 @@
           1810
         ],
         "tri": 1
-      },
-      {
-        "titre": "Autour de Jerzy Skolimowski",
-        "cats": [
-          1850
-        ],
-        "tri": 3
       }
-    ]
+    ],
+    "idProg": 56
   },
   "data": [
     {
@@ -351,11 +344,6 @@
           ]
         }
       ]
-    },
-    {
-      "titreSousCycle": "Autour de Jerzy Skolimowski",
-      "tri": 3,
-      "items": []
     }
   ]
 }
