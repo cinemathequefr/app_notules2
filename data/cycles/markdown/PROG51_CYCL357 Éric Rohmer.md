@@ -102,15 +102,6 @@ Délaissée par son amie, Delphine se rend seule en Normandie, à la montagne, e
 
 ## Contes des quatre saisons
 
-**Conte d'automne**  
-d'Eric Rohmer  
-France / 1997 / 110 min / DCP  
-Avec Marie Rivière, Béatrice Romand, Alain Libolt, Didier Sandre.  
-Magali, la quarantaine, est viticultrice. Veuve, elle aime son travail mais souffre de la solitude depuis que ses enfants sont partis. Ses amies veulent lui trouver un mari sans qu'elle le sache.
-
-- Sam 26 jan 19h30 GF  
-Séance présentée par Diane Baratier
-
 **Conte de printemps**  
 d'Eric Rohmer  
 France / 1989 / 110 min / DCP  
@@ -136,6 +127,15 @@ Félicie a connu Charles en vacances, et a perdu sa trace à la suite d'un malen
 
 - Lun 21 jan 21h30 GF  
 Séance présentée par Charlotte Véry
+
+**Conte d'automne**  
+d'Eric Rohmer  
+France / 1997 / 110 min / DCP  
+Avec Marie Rivière, Béatrice Romand, Alain Libolt, Didier Sandre.  
+Magali, la quarantaine, est viticultrice. Veuve, elle aime son travail mais souffre de la solitude depuis que ses enfants sont partis. Ses amies veulent lui trouver un mari sans qu'elle le sache.
+
+- Sam 26 jan 19h30 GF  
+Séance présentée par Diane Baratier
 
 ## Autres longs métrages
 

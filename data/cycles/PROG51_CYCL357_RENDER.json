@@ -22,7 +22,7 @@
         "cats": [
           1776
         ],
-        "tri": 1
+        "tri": 4
       },
       {
         "titre": "Autres longs métrages",
@@ -522,73 +522,40 @@
     },
     {
       "titreSousCycle": "Contes des quatre saisons",
-      "tri": 1,
+      "tri": 4,
       "items": [
         {
           "idCycle": 357,
-          "idFilm": 29520,
-          "titre": "Conte d'automne",
-          "titreVo": "",
-          "realisateurs": "Eric Rohmer",
-          "annee": 1997,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 1776,
+          "idEvenement": 17595,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Magali, la quarantaine, est viticultrice. Veuve, elle aime son travail mais souffre de la solitude depuis que ses enfants sont partis. Ses amies veulent lui trouver un mari sans qu'elle le sache."
-            }
-          ],
-          "generique": [
-            "Marie Rivière",
-            "Béatrice Romand",
-            "Alain Libolt",
-            "Didier Sandre"
-          ],
-          "duree": 110,
-          "format": "DCP",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 26474,
-              "ordre": 1,
-              "idEvenement": 17592,
-              "dateHeure": "2019-01-26T19:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
+              "idFilm": 51012,
+              "titre": "Conte de printemps",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1989,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une jeune femme, professeur de philosophie, est hébergée par une jeune fille qui lui présente son père."
+                }
               ],
-              "mention": "Séance présentée par Diane Baratier"
-            }
-          ]
-        },
-        {
-          "idCycle": 357,
-          "idFilm": 51012,
-          "titre": "Conte de printemps",
-          "titreVo": "",
-          "realisateurs": "Eric Rohmer",
-          "annee": 1989,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Une jeune femme, professeur de philosophie, est hébergée par une jeune fille qui lui présente son père."
+              "generique": [
+                "Anne Teyssèdre",
+                "Hugues Quester",
+                "Florence Darel",
+                "Eloïse Bennett"
+              ],
+              "duree": 110,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Anne Teyssèdre",
-            "Hugues Quester",
-            "Florence Darel",
-            "Eloïse Bennett"
-          ],
-          "duree": 110,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
-              "idSeance": 26442,
-              "ordre": 1,
-              "idEvenement": 17595,
               "dateHeure": "2019-01-20T21:15:00",
               "idSalle": [
                 "HL",
@@ -599,32 +566,36 @@
         },
         {
           "idCycle": 357,
-          "idFilm": 59940,
-          "titre": "Conte d'été",
-          "titreVo": "",
-          "realisateurs": "Eric Rohmer",
-          "annee": 1995,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 1776,
+          "idEvenement": 17593,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Pendant ses vacances d'été à Dinard, le beau Gaspard, apprenti guitariste et étudiant en mathématiques, attend Léna dont il se dit amoureux. Mais il rencontre Margot, qui devient son amie et confidente, et la belle Solène dans une discothèque."
+              "idFilm": 59940,
+              "titre": "Conte d'été",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1995,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Pendant ses vacances d'été à Dinard, le beau Gaspard, apprenti guitariste et étudiant en mathématiques, attend Léna dont il se dit amoureux. Mais il rencontre Margot, qui devient son amie et confidente, et la belle Solène dans une discothèque."
+                }
+              ],
+              "generique": [
+                "Melvil Poupaud",
+                "Amanda Langlet",
+                "Aurelia Nolin",
+                "Gwenaëlle Simon"
+              ],
+              "duree": 113,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Melvil Poupaud",
-            "Amanda Langlet",
-            "Aurelia Nolin",
-            "Gwenaëlle Simon"
-          ],
-          "duree": 113,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
-              "idSeance": 26450,
-              "ordre": 1,
-              "idEvenement": 17593,
               "dateHeure": "2019-01-21T19:00:00",
               "idSalle": [
                 "GF",
@@ -636,38 +607,83 @@
         },
         {
           "idCycle": 357,
-          "idFilm": 51011,
-          "titre": "Conte d'hiver",
-          "titreVo": "",
-          "realisateurs": "Eric Rohmer",
-          "annee": 1991,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 1776,
+          "idEvenement": 17594,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Félicie a connu Charles en vacances, et a perdu sa trace à la suite d'un malencontreux quiproquo. Elise, cinq ans, est le fruit de leur passion. Contre toute raison, Félicie continue d'aimer Charles et d'espérer son retour."
+              "idFilm": 51011,
+              "titre": "Conte d'hiver",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1991,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Félicie a connu Charles en vacances, et a perdu sa trace à la suite d'un malencontreux quiproquo. Elise, cinq ans, est le fruit de leur passion. Contre toute raison, Félicie continue d'aimer Charles et d'espérer son retour."
+                }
+              ],
+              "generique": [
+                "Charlotte Véry",
+                "Frédéric Van den Driessche",
+                "Michel Voletti",
+                "Hervé Furic"
+              ],
+              "duree": 114,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Charlotte Véry",
-            "Frédéric Van den Driessche",
-            "Michel Voletti",
-            "Hervé Furic"
-          ],
-          "duree": 114,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
-              "idSeance": 26449,
-              "ordre": 1,
-              "idEvenement": 17594,
               "dateHeure": "2019-01-21T21:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
               ],
               "mention": "Séance présentée par Charlotte Véry"
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idCategorie": 1776,
+          "idEvenement": 17592,
+          "films": [
+            {
+              "idFilm": 29520,
+              "titre": "Conte d'automne",
+              "titreVo": "",
+              "realisateurs": "Eric Rohmer",
+              "annee": 1997,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Magali, la quarantaine, est viticultrice. Veuve, elle aime son travail mais souffre de la solitude depuis que ses enfants sont partis. Ses amies veulent lui trouver un mari sans qu'elle le sache."
+                }
+              ],
+              "generique": [
+                "Marie Rivière",
+                "Béatrice Romand",
+                "Alain Libolt",
+                "Didier Sandre"
+              ],
+              "duree": 110,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-01-26T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Séance présentée par Diane Baratier"
             }
           ]
         }
