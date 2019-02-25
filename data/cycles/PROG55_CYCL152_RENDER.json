@@ -1,0 +1,223 @@
+{
+  "header": {
+    "idCycleProg": 152,
+    "titreCycle": "Parlons cinéma avec Bertrand Mandico",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          1857
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 55
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 152,
+          "idCategorie": 1857,
+          "idEvenement": 18775,
+          "films": [
+            {
+              "idFilm": 43358,
+              "titre": "Satyricon",
+              "titreVo": "Fellini Satyricon",
+              "realisateurs": "Federico Fellini",
+              "annee": 1969,
+              "pays": "Italie-France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Dans la Rome antique, Encolpe et Ascylte, deux étudiants du quartier souterrain de Subure où ils vivent de rapines, se disputent les faveurs de leur jeune esclave, Giton. Les trois comparses, tour à tour désunis et réunis, vivent différentes histoires au gré de leurs rencontres."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Séance en présence de Blutch"
+                }
+              ],
+              "generique": [
+                "Martin Potter",
+                "Hiram Keller",
+                "Max Born",
+                "Luigi Fanfulla"
+              ],
+              "duree": 138,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-04-25T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 1857,
+          "idEvenement": 18773,
+          "titreEvenement": "Prédateurs (Les) / Strangulation blues",
+          "films": [
+            {
+              "idFilm": 66323,
+              "titre": "Strangulation blues",
+              "titreVo": "",
+              "realisateurs": "Leos Carax",
+              "annee": 1979,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Au cours d'une nuit parisienne, Paul joue à étrangler Colette. Au petit matin, il prend la fuite."
+                }
+              ],
+              "generique": [
+                "Eric Frey",
+                "Hans Meyer",
+                "Anne Petit-Lagrange"
+              ],
+              "duree": 16,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 36659,
+              "titre": "Prédateurs",
+              "art": "Les",
+              "titreVo": "Hunger",
+              "artVo": "The",
+              "realisateurs": "Tony Scott",
+              "annee": 1982,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Miriam, une femme vampire, vit à New York depuis trois cents ans, avec John. Celui-ci est soudainement frappé d'un processus accéléré de vieillissement. Sa compagne va tout tenter pour empêcher ce processus de dégradation."
+                }
+              ],
+              "adaptation": "D'après le roman _Les Sanguinaires_ de Whitley Strieber.",
+              "generique": [
+                "Catherine Deneuve",
+                "David Bowie",
+                "Susan Sarandon",
+                "Cliff De Young"
+              ],
+              "duree": 97,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-05-09T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 1857,
+          "idEvenement": 18766,
+          "films": [
+            {
+              "idFilm": 38096,
+              "titre": "Onibaba",
+              "titreVo": "",
+              "realisateurs": "Kaneto Shindo",
+              "annee": 1965,
+              "pays": "Japon",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Au XIVème siècle, au Japon, la guerre entre les samouraïs ruine le pays. Une femme et sa belle-fille subsistent difficilement en vendant les armes des soldats qu'elles ont tués. Un jour, apprenant que sa bru a une liaison avec un déserteur, la belle-mère se déguise en démon pour la terrifier."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Séance en présence d'Elina Löwensohn"
+                }
+              ],
+              "generique": [
+                "Nobuko Otowa",
+                "Jitsuko Yoshimura",
+                "Kei Satô",
+                "Jûkichi Uno"
+              ],
+              "duree": 103,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-05-16T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 152,
+          "idCategorie": 1857,
+          "idEvenement": 18774,
+          "films": [
+            {
+              "idFilm": 46611,
+              "titre": "Duelle",
+              "titreVo": "",
+              "realisateurs": "Jacques Rivette",
+              "annee": 1975,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Deux déesses, Leni, fille de la Lune, et Viva, fille du Soleil, passent sur la Terre quelques jours par an... Des humains, Lucie, jeune réceptionniste d'hôtel, Pierrot, acrobate, Jeanne/Elsa, ticket-girl dans un dancing, sont victimes de leurs jeux cruels."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Séance en présence de Pacôme Thiellement"
+                }
+              ],
+              "generique": [
+                "Juliet Berto",
+                "Bulle Ogier",
+                "Jean Babilée",
+                "Hermine Karagheuz"
+              ],
+              "duree": 120,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-05-23T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

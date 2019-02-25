@@ -1,0 +1,130 @@
+[{
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Le secret professionnel empêche un médecin d'innocenter une jeune femme accusée à tort..."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré en 2017 par la Cinémathèque française à partir d'une copie nitrate teintée. Version teintée (Desmet color)."
+      }
+    ]
+  },
+  {
+    "titre": "Allumettes fantaisistes",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 139535,
+    "idCycle": 143,
+    "idCategorie": 1878,
+    "ageMinimal": null,
+    "realisateurs": "Émile Cohl",
+    "annee": 1912,
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Des allumettes s'animent, se métamorphosent et forment tour à tour objets et figures humaines."
+    }]
+  },
+  {
+    "titre": "Jeanne Doré",
+    "titreVo": "",
+    "idFilm": 54345,
+    "idCycle": 143,
+    "idCategorie": 1878,
+    "ageMinimal": null,
+    "realisateurs": "René Hervil, Louis Mercanton",
+    "annee": 1915,
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "À cause de son addiction aux jeux, Robert Doré, endetté, se suicide, laissant une femme, Jeanne, et un fils, Jacques. Malgré le dévouement de sa mère, Jacques, devenu adulte, est aveuglé par l'amour et commet un crime pour satisfaire la femme mariée qu'il fréquente."
+    }],
+    "generique": [
+      "Sarah Bernhardt",
+      "Raymond Bernard",
+      "Jeanne Costa",
+      "Jean Marié de L'Isle"
+    ],
+    "adaptation": "D'après la pièce _Jeanne Doré_ de Tristan Bernard."
+  },
+  {
+    "titre": "Masque de cuir",
+    "art": "Le",
+    "titreVo": "Ring",
+    "artVo": "The",
+    "idFilm": 41615,
+    "idCycle": 143,
+    "idCategorie": 1879,
+    "ageMinimal": null,
+    "realisateurs": "Alfred Hitchcock",
+    "annee": 1927,
+    "pays": "Grande-Bretagne",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Deux boxeurs se disputent la même femme."
+    }],
+    "generique": [
+      "Carl Brisson",
+      "Lillian Hall-Davis",
+      "Ian Hunter",
+      "Forrester Harvey"
+    ]
+  },
+  {
+    "titre": "Maud cambrioleur",
+    "titreVo": "",
+    "idFilm": 133809,
+    "idCycle": 143,
+    "idCategorie": 1878,
+    "ageMinimal": null,
+    "realisateurs": "René Hervil",
+    "annee": 1912,
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Maud joue un tour à un collectionneur d'antiquités qui a refusé de donner à la Société de secours aux blessés pour laquelle elle fait la quête."
+    }],
+    "generique": [
+      "Miss Campton"
+    ]
+  },
+  {
+    "titre": "Phalène bleue",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 112921,
+    "idCycle": 143,
+    "idCategorie": 1878,
+    "ageMinimal": null,
+    "realisateurs": "Georges Champavert",
+    "annee": 1917,
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Le baron Rutherford, riche entomologiste, espère un jour piéger la phalène bleue qui manque à sa collection. Son fils Robert entreprend la conquête de Madeleine, la fille d'un fermier prospère dont les terres côtoient le domaine des Rutherford."
+    }],
+    "generique": [
+      "Albert Beauval",
+      "Anatole Bahier",
+      "Geneviève Félix",
+      "Marthe Lepers"
+    ]
+  },
+  {
+    "titre": "Secret professionnel",
+    "titreVo": "Should a Doctor Tell?",
+    "idFilm": 140771,
+    "idCycle": 143,
+    "idCategorie": 1879,
+    "ageMinimal": null,
+    "realisateurs": "Alexander Butler, P. J. Ramster",
+    "annee": 1923,
+    "pays": "Australie-Grande-Bretagne",
+    "generique": [
+      "Fred Oppey",
+      "Thelma Newling",
+      "Lillian Hall-Davis",
+      "Henry Vibart"
+    ]
+  }
+]

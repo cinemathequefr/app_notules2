@@ -1,0 +1,314 @@
+[
+  {
+    "idCycle": 389,
+    "idCategorie": 1748,
+    "idEvenement": 18040,
+    "idSeance": 28943,
+    "dateHeure": "2019-03-20T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Admirable Crichton (L')",
+    "items": [
+      {
+        "idFilm": 31578,
+        "ordre": 1,
+        "idSeance": 28943,
+        "idCopie": 17009,
+        "duree": 114,
+        "version": "INT. ANG.",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 389,
+    "idCategorie": 1748,
+    "idEvenement": 18038,
+    "idSeance": 28949,
+    "dateHeure": "2019-03-21T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Cauchemars et superstitions",
+    "items": [
+      {
+        "idFilm": 31121,
+        "ordre": 1,
+        "idSeance": 28949,
+        "idCopie": 424,
+        "duree": 81,
+        "version": "INT. ANG.",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 389,
+    "idCategorie": 1748,
+    "idEvenement": 18037,
+    "idSeance": 29759,
+    "dateHeure": "2019-03-23T18:45:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Don't Change Your Husband",
+    "items": [
+      {
+        "idFilm": 80471,
+        "ordre": 1,
+        "idSeance": 29759,
+        "idCopie": 17007,
+        "duree": 93,
+        "version": "INT. ANG.",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 389,
+    "idCategorie": 1748,
+    "idEvenement": 18055,
+    "idSeance": 29805,
+    "dateHeure": "2019-04-06T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Pauvre amour (Le)",
+    "items": [
+      {
+        "idFilm": 32703,
+        "ordre": 1,
+        "idSeance": 29805,
+        "idCopie": 17011,
+        "duree": 81,
+        "version": "INT. ANG.",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 389,
+    "idCategorie": 1748,
+    "idEvenement": 18049,
+    "idSeance": 29072,
+    "dateHeure": "2019-04-10T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Homme sans visage (L')",
+    "items": [
+      {
+        "idFilm": 48527,
+        "ordre": 1,
+        "idSeance": 29072,
+        "idCopie": 5119,
+        "duree": 56,
+        "version": "INT. FR.",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 389,
+    "idCategorie": 1748,
+    "idEvenement": 18048,
+    "idSeance": 29766,
+    "dateHeure": "2019-04-11T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Haceldama",
+    "items": [
+      {
+        "idFilm": 48338,
+        "ordre": 1,
+        "idSeance": 29766,
+        "idCopie": 17008,
+        "duree": 75,
+        "version": "INT. FR.",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 389,
+    "idCategorie": 1748,
+    "idEvenement": 18050,
+    "idSeance": 29094,
+    "dateHeure": "2019-04-13T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Du Barry (La)",
+    "items": [
+      {
+        "idFilm": 40798,
+        "ordre": 1,
+        "idSeance": 29094,
+        "idCopie": 3436,
+        "duree": 123,
+        "version": "INT. FR.",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 389,
+    "idCategorie": 1748,
+    "idEvenement": 18053,
+    "idSeance": 29714,
+    "dateHeure": "2019-05-11T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Papa longues jambes",
+    "items": [
+      {
+        "idFilm": 35228,
+        "ordre": 1,
+        "idSeance": 29714,
+        "idCopie": 17006,
+        "duree": 85,
+        "version": "INT. ANG.",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 389,
+    "idCategorie": 1748,
+    "idEvenement": 18864,
+    "idSeance": 29767,
+    "dateHeure": "2019-05-15T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Lorenzaccio",
+    "items": [
+      {
+        "idFilm": 140670,
+        "ordre": 1,
+        "idSeance": 29767,
+        "idCopie": 17859,
+        "duree": 88,
+        "version": "Autres",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 389,
+    "idCategorie": 1748,
+    "idEvenement": 18865,
+    "idSeance": 29768,
+    "dateHeure": "2019-05-16T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Mystère de la chambre jaune (Le)",
+    "items": [
+      {
+        "idFilm": 84725,
+        "ordre": 1,
+        "idSeance": 29768,
+        "idCopie": 17861,
+        "duree": 76,
+        "version": "Autres",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 389,
+    "idCategorie": 1748,
+    "idEvenement": 18872,
+    "idSeance": 29330,
+    "dateHeure": "2019-05-22T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Rose-France",
+    "items": [
+      {
+        "idFilm": 49527,
+        "ordre": 1,
+        "idSeance": 29330,
+        "idCopie": 4897,
+        "duree": 59,
+        "version": "INT. FR.",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 389,
+    "idCategorie": 1748,
+    "idEvenement": 18042,
+    "idSeance": 29344,
+    "dateHeure": "2019-05-24T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Nuit du 11 septembre (La)",
+    "items": [
+      {
+        "idFilm": 103085,
+        "ordre": 1,
+        "idSeance": 29344,
+        "idCopie": 8515,
+        "duree": 46,
+        "version": "INT. FR.",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 389,
+    "idCategorie": 1748,
+    "idEvenement": 18866,
+    "idSeance": 29352,
+    "dateHeure": "2019-05-25T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Travail",
+    "items": [
+      {
+        "idFilm": 50765,
+        "ordre": 1,
+        "idSeance": 29352,
+        "idCopie": 4829,
+        "duree": 119,
+        "version": "INT. FR.",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  }
+]

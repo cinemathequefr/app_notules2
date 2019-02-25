@@ -1,0 +1,650 @@
+[
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17786,
+    "idSeance": 28808,
+    "dateHeure": "2019-02-27T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Liens de sang",
+    "items": [
+      {
+        "idFilm": 63777,
+        "ordre": 1,
+        "idSeance": 28808,
+        "idCopie": 16506,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17780,
+    "idSeance": 28812,
+    "dateHeure": "2019-02-27T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Toast pour mademoiselle (Un)",
+    "items": [
+      {
+        "idFilm": 38112,
+        "ordre": 1,
+        "idSeance": 28812,
+        "idCopie": 16499,
+        "duree": 89,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17810,
+    "idSeance": 29653,
+    "dateHeure": "2019-02-27T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Shall we dance?",
+    "items": [
+      {
+        "idFilm": 139744,
+        "ordre": 1,
+        "idSeance": 29653,
+        "idCopie": 16528,
+        "duree": 136,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17791,
+    "idSeance": 28817,
+    "dateHeure": "2019-02-28T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Sable mouillé d'août (Le)",
+    "items": [
+      {
+        "idFilm": 139737,
+        "ordre": 1,
+        "idSeance": 28817,
+        "idCopie": 16510,
+        "duree": 91,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17812,
+    "idSeance": 28815,
+    "dateHeure": "2019-02-28T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Pistol Opera",
+    "items": [
+      {
+        "idFilm": 86722,
+        "ordre": 1,
+        "idSeance": 28815,
+        "idCopie": 16530,
+        "duree": 112,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17802,
+    "idSeance": 29570,
+    "dateHeure": "2019-03-04T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Mer et le poison (La)",
+    "items": [
+      {
+        "idFilm": 56397,
+        "ordre": 1,
+        "idSeance": 29570,
+        "idCopie": 16521,
+        "duree": 123,
+        "version": "VOSTA",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17801,
+    "idSeance": 28847,
+    "dateHeure": "2019-03-04T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Tampopo",
+    "items": [
+      {
+        "idFilm": 55903,
+        "ordre": 1,
+        "idSeance": 28847,
+        "idCopie": 16520,
+        "duree": 114,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17804,
+    "idSeance": 28848,
+    "dateHeure": "2019-03-04T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Grand enlèvement (Le)",
+    "items": [
+      {
+        "idFilm": 124501,
+        "ordre": 1,
+        "idSeance": 28848,
+        "idCopie": 16523,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17782,
+    "idSeance": 29654,
+    "dateHeure": "2019-03-06T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Pièce aux murs épais (La)",
+    "items": [
+      {
+        "idFilm": 38151,
+        "ordre": 1,
+        "idSeance": 29654,
+        "idCopie": 16501,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17809,
+    "idSeance": 28855,
+    "dateHeure": "2019-03-06T19:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Homme qui dort (L')",
+    "items": [
+      {
+        "idFilm": 63286,
+        "ordre": 1,
+        "idSeance": 28855,
+        "idCopie": 16527,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17784,
+    "idSeance": 29480,
+    "dateHeure": "2019-03-06T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Femme de là-bas (La)",
+    "items": [
+      {
+        "idFilm": 139734,
+        "ordre": 1,
+        "idSeance": 29480,
+        "idCopie": 16503,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17796,
+    "idSeance": 29571,
+    "dateHeure": "2019-03-07T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Orin la proscrite",
+    "items": [
+      {
+        "idFilm": 75887,
+        "ordre": 1,
+        "idSeance": 29571,
+        "idCopie": 16515,
+        "duree": 119,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 377,
+    "idCategorie": 1728,
+    "idEvenement": 18235,
+    "idSeance": 28861,
+    "dateHeure": "2019-03-07T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Blood of Wolves (The)",
+    "items": [
+      {
+        "idFilm": 140257,
+        "ordre": 1,
+        "idSeance": 28861,
+        "idCopie": 17179,
+        "duree": 126,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 377,
+    "idCategorie": 1728,
+    "idEvenement": 18206,
+    "idSeance": 28862,
+    "dateHeure": "2019-03-07T22:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Night Is Short, Walk on Girl",
+    "items": [
+      {
+        "idFilm": 140207,
+        "ordre": 1,
+        "idSeance": 28862,
+        "idCopie": 18132,
+        "duree": 93,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 377,
+    "idCategorie": 1728,
+    "idEvenement": 18213,
+    "idSeance": 29563,
+    "dateHeure": "2019-03-08T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Eureka",
+    "items": [
+      {
+        "idFilm": 69741,
+        "ordre": 1,
+        "idSeance": 29563,
+        "idCopie": 17144,
+        "duree": 217,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17795,
+    "idSeance": 28876,
+    "dateHeure": "2019-03-09T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "En attendant la fête",
+    "items": [
+      {
+        "idFilm": 104544,
+        "ordre": 1,
+        "idSeance": 28876,
+        "idCopie": 16514,
+        "duree": 117,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17800,
+    "idSeance": 28874,
+    "dateHeure": "2019-03-09T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Ondekoza (The)",
+    "items": [
+      {
+        "idFilm": 139741,
+        "ordre": 1,
+        "idSeance": 28874,
+        "idCopie": 16519,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17787,
+    "idSeance": 28875,
+    "dateHeure": "2019-03-09T21:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Vie d'une femme (La)",
+    "items": [
+      {
+        "idFilm": 72980,
+        "ordre": 1,
+        "idSeance": 28875,
+        "idCopie": 16505,
+        "duree": 94,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17806,
+    "idSeance": 28882,
+    "dateHeure": "2019-03-10T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Tristesse du bâton (La)",
+    "items": [
+      {
+        "idFilm": 110813,
+        "ordre": 1,
+        "idSeance": 28882,
+        "idCopie": 16525,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17808,
+    "idSeance": 28883,
+    "dateHeure": "2019-03-10T21:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Goût du tofu (Le)",
+    "items": [
+      {
+        "idFilm": 117979,
+        "ordre": 1,
+        "idSeance": 28883,
+        "idCopie": 16526,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 377,
+    "idCategorie": 1728,
+    "idEvenement": 18211,
+    "idSeance": 28889,
+    "dateHeure": "2019-03-11T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Three Stories of Love",
+    "items": [
+      {
+        "idFilm": 140211,
+        "ordre": 1,
+        "idSeance": 28889,
+        "idCopie": 17156,
+        "duree": 140,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 377,
+    "idCategorie": 1728,
+    "idEvenement": 18210,
+    "idSeance": 28890,
+    "dateHeure": "2019-03-11T19:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Your name",
+    "items": [
+      {
+        "idFilm": 133698,
+        "ordre": 1,
+        "idSeance": 28890,
+        "idCopie": 17158,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 377,
+    "idCategorie": 1728,
+    "idEvenement": 18214,
+    "idSeance": 28891,
+    "dateHeure": "2019-03-11T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Rage",
+    "items": [
+      {
+        "idFilm": 140213,
+        "ordre": 1,
+        "idSeance": 28891,
+        "idCopie": 17150,
+        "duree": 142,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17798,
+    "idSeance": 29819,
+    "dateHeure": "2019-03-18T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Tonnerre lointain",
+    "items": [
+      {
+        "idFilm": 139739,
+        "ordre": 1,
+        "idSeance": 29819,
+        "idCopie": 16517,
+        "duree": 135,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17793,
+    "idSeance": 28932,
+    "dateHeure": "2019-03-18T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Ballade de Tsugaru (La)",
+    "items": [
+      {
+        "idFilm": 57801,
+        "ordre": 1,
+        "idSeance": 28932,
+        "idCopie": 16512,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 378,
+    "idCategorie": 1729,
+    "idEvenement": 17794,
+    "idSeance": 28933,
+    "dateHeure": "2019-03-18T19:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Cache-cache pastoral",
+    "items": [
+      {
+        "idFilm": 38167,
+        "ordre": 1,
+        "idSeance": 28933,
+        "idCopie": 17184,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 377,
+    "idCategorie": 1728,
+    "idEvenement": 18236,
+    "idSeance": 28934,
+    "dateHeure": "2019-03-18T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Woodsman and the Rain (The)",
+    "items": [
+      {
+        "idFilm": 122666,
+        "ordre": 1,
+        "idSeance": 28934,
+        "idCopie": 17180,
+        "duree": 129,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  }
+]

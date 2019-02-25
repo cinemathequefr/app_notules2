@@ -1,0 +1,537 @@
+[{
+    "titre": "Alexandrie, encore et toujours",
+    "titreVo": "Iskandariyya kaman wa kaman",
+    "idFilm": 56948,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1989,
+    "pays": "Egypte-France",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Le cinéaste Yehia Eskandarany se sépare de son acteur fétiche Amr et se remémore sa vie passée dans l'industrie du cinéma égyptien."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Version restaurée par MISR International."
+      }
+    ],
+    "generique": [
+      "Youssef Chahine",
+      "Yousra",
+      "Hossein Fahmi",
+      "Amr Abd El-Guelil"
+    ]
+  },
+  {
+    "titre": "Alexandrie pourquoi ?",
+    "titreVo": "Iskandariyya lih ?",
+    "idFilm": 37496,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1977,
+    "pays": "Egypte",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Premier volet d'une trilogie : il raconte la jeunesse du cinéaste au sein de sa famille, son école et de sa ville, Alexandrie, menacée en cette année 1942 par l'arrivée imminente des troupes allemandes."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Version restaurée par MISR International"
+      }
+    ],
+    "generique": [
+      "Mohsen Mohieddin",
+      "Naglaa Fathi",
+      "Ezzat El-Alayli",
+      "Mahmoud El-Meligui"
+    ]
+  },
+  {
+    "titre": "Aube d'un jour nouveau",
+    "art": "L'",
+    "titreVo": "Fajr Yawn Jadid",
+    "idFilm": 88617,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": 0,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1964,
+    "pays": "Egypte",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "En Égypte, un couple désuni de la bourgeoisie cairote vit au-dessus de ses moyens."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Version restaurée par MISR International."
+      }
+    ],
+    "generique": [
+      "Youssef Chahine",
+      "Sanaa Jamil",
+      "Seif Eddine Shawkat",
+      "Hamdi Gheiss"
+    ]
+  },
+  {
+    "titre": "Dame du train",
+    "art": "La",
+    "titreVo": "Sayyidat al-Qitar",
+    "idFilm": 88599,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1952,
+    "pays": "Egypte",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Version restaurée par MISR International."
+      },
+      {
+        "typeTexte": 9,
+        "texte": "Une chanteuse est l'épouse un riche industriel. Celui-ci succombe à la passion du jeu."
+      }
+    ],
+    "generique": [
+      "Layla Mourad",
+      "Layla Mourad",
+      "Imad Hamdy",
+      "Imad Hamdy"
+    ]
+  },
+  {
+    "titre": "C'est toi mon amour",
+    "titreVo": "Enta habibi",
+    "idFilm": 37622,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1957,
+    "pays": "Egypte",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Farid et Yasmina sont cousins. Poussés par leurs familles à se marier afin de cumuler les héritages, ils se détestent et multiplient les ruses pour retrouver leurs amants respectifs."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Version restaurée par MISR International."
+      }
+    ],
+    "generique": [
+      "Farid El-Atrache",
+      "Chadia",
+      "Hind Rostom",
+      "Abdel Salam Al Nabulsi"
+    ]
+  },
+  {
+    "titre": "Chahine and Co",
+    "titreVo": "",
+    "idFilm": 61596,
+    "idCycle": 340,
+    "idCategorie": 1859,
+    "ageMinimal": null,
+    "realisateurs": "Jean-Louis Comolli",
+    "annee": 1992,
+    "pays": "France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Dans ce documentaire sur Youssef Chahine, on suit le cinéaste au quotidien, chez lui ou au cœur de la ville. On le voit travailler avec son scénariste, évoquer son opération à cœur ouvert avec sa monteuse, écouter attentivement les commentaires d'un ami sur son œuvre."
+    }]
+  },
+  {
+    "titre": "Chaos",
+    "art": "Le",
+    "titreVo": "Heya fawda",
+    "idFilm": 103397,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine, Khaled Youssef",
+    "annee": 2006,
+    "pays": "Egypte-France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Hatem, un policier véreux et haï de tous, règne sur Choubra, un quartier populaire du Caire. Seule une jeune femme dont il est amoureux ose lui tenir tête. Mais éprise d'un autre, elle déclenche la colère de Hatem."
+    }],
+    "generique": [
+      "Khaled Saleh",
+      "Menna Shalaby",
+      "Youssef El Sherif",
+      "Hala Sedki"
+    ]
+  },
+  {
+    "titre": "Choix",
+    "art": "Le",
+    "titreVo": "Al-Ikhtiyar",
+    "idFilm": 88622,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1970,
+    "pays": "Egypte",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Un écrivain apprend le meurtre de son frère jumeau tandis que la police commence à enquêter."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Sous réserve"
+      }
+    ],
+    "generique": [
+      "Soad Hosni",
+      "Ezzat El-Alayli",
+      "Seif Eddina",
+      "Youssef Wahbi"
+    ]
+  },
+  {
+    "titre": "Démon du désert",
+    "art": "Le",
+    "titreVo": "Shaytan al-Sahra",
+    "idFilm": 84277,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1954,
+    "pays": "Egypte",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Un jeune bédouin se rebelle contre un souverain tyrannique."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Version restaurée par MISR International."
+      }
+    ],
+    "generique": [
+      "Omar Sharif",
+      "Myriam Fakhr El Dine",
+      "Tewfik El Dekn",
+      "Abdel Ghani Kamar"
+    ]
+  },
+  {
+    "titre": "Eaux noires",
+    "art": "Les",
+    "titreVo": "Sirâ' fi-l-mînâ",
+    "idFilm": 76633,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1956,
+    "pays": "Egypte",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Restauré par la Cinémathèque française et MISR International films, grâce au soutien technique du laboratoire du CNC et des Archives audiovisuelles de Monaco, par le laboratoire Hiventy (pour l'image) et L.E.Diapason (pour le son)."
+      },
+      {
+        "typeTexte": 9,
+        "texte": "Après trois ans d'absence, un jeune marin rentre chez lui, à Alexandrie. Avec ses économies, il peut enfin épouser sa cousine. Mais il est confronté à de nouvelles réalités qui risquent de tout compromettre."
+      }
+    ],
+    "generique": [
+      "Faten Hamama",
+      "Omar Sharif",
+      "Hussein Riad",
+      "Tewfik El Dekn"
+    ]
+  },
+  {
+    "titre": "Entre tes mains",
+    "titreVo": "Bayn Idayk",
+    "idFilm": 88614,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1960,
+    "pays": "Egypte",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Une jeune fille est sommée par son oncle, en mal d'héritier, de se trouver un mari dans les plus brefs délais."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Sous réserve"
+      }
+    ],
+    "generique": [
+      "Magda",
+      "Choukri Sarhane",
+      "Zinat Sedki",
+      "Kismet Cherine"
+    ]
+  },
+  {
+    "titre": "Fils du Nil",
+    "art": "Le",
+    "titreVo": "Ibn al-Nil",
+    "idFilm": 88597,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1951,
+    "pays": "Egypte",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Un fils de paysans quitte sa femme et sa ferme pour aller au Caire. Arrivé en ville, il se voit obligé de coopérer avec des gangsters. Après un séjour en prison, il retourne dans son village en pleine crue du Nil."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Version restaurée par MISR International."
+      }
+    ],
+    "generique": [
+      "Yehia Chahine",
+      "Mahmoud El-Meliguy",
+      "Nader Galal",
+      "Faten Hamama"
+    ]
+  },
+  {
+    "titre": "Grand bouffon",
+    "art": "Le",
+    "titreVo": "Al-Muharrij al-Kabir",
+    "idFilm": 88598,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1952,
+    "pays": "Egypte",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Un petit fonctionnaire qui vient d'hériter se laisse griser par la fortune."
+    }],
+    "generique": [
+      "Youssef Wahby",
+      "Faten Hamama",
+      "Hassan Fayek",
+      "Nabi Al-Alfi"
+    ]
+  },
+  {
+    "titre": "Fête du Mayroun",
+    "art": "La",
+    "titreVo": "Id al-Mairun",
+    "idFilm": 88620,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1967,
+    "pays": "Egypte",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Chaque année, l'Église copte prépare le Saint-Chrême. Youssef Chahine explique la préparation de cette huile parfumée, tout en reconstituant le martyr de Marc se rendant à Alexandrie avec l'huile sainte."
+    }],
+    "generique": [
+      "Mohamed Morshed",
+      "Mohamed Tewfik",
+      "Hussein Assar"
+    ]
+  },
+  {
+    "titre": "Jamila",
+    "titreVo": "Jamila al-Jaza'iriyya",
+    "idFilm": 88601,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1958,
+    "pays": "Egypte",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Une jeune lycéenne algérienne est le témoin de la lutte féroce qui oppose les nationalistes et les parachutistes français."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Sous réserve"
+      }
+    ],
+    "generique": [
+      "Magda",
+      "Ahmed Mazhar",
+      "Salah Zulfikar",
+      "Mahmoud El-Meliguy"
+    ]
+  },
+  {
+    "titre": "Le Caire raconté par Chahine",
+    "titreVo": "El-Kahira menawara bi ahlaha",
+    "idFilm": 55766,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1991,
+    "pays": "Egypte-France",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Un docu-fiction qui dresse le portrait du Caire et de ses rues animées. Une question revient : comment devient-on intégriste ?"
+    }]
+  },
+  {
+    "titre": "Mémoire",
+    "art": "La",
+    "titreVo": "Hadduta Misriyya",
+    "idFilm": 54859,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1982,
+    "pays": "Egypte",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Un cinéaste est victime d'un infarctus lors du tournage de la séquence finale de son film. Lors de l'opération à cœur ouvert qu'il subit à Londres, il revoit sa vie."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Version restaurée"
+      }
+    ],
+    "generique": [
+      "Nour El-Cherif",
+      "Mohsen Mohieddin",
+      "Oussama Nadir",
+      "Yousra"
+    ]
+  },
+  {
+    "titre": "Papa Amine",
+    "titreVo": "Baba Amin",
+    "idFilm": 88596,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1950,
+    "pays": "Egypte",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Avant de mourir Amine avait prêté une forte somme d'argent à un ami, ce qui plongea sa famille dans la misère. Heureusement, son fantôme veille."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Version restaurée par MISR International."
+      }
+    ],
+    "generique": [
+      "Hussein Riad",
+      "Faten Hamama",
+      "Kamal El-Chenaoui",
+      "Marie Munib"
+    ]
+  },
+  {
+    "titre": "Retour de l'enfant prodigue",
+    "art": "Le",
+    "titreVo": "Awda al-ibn ad-dal",
+    "idFilm": 57242,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1976,
+    "pays": "Egypte",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Ali est attendu dans le village de Mitchaboura par les siens, les Madbouly, propriétaires d'une petite entreprise, et par les ouvriers qui croient en lui."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauration par MISR International."
+      }
+    ],
+    "generique": [
+      "Mahmoud El-Meligui",
+      "Magda El-Roomy",
+      "Soheir El-Morshidy",
+      "Ragaa Hussein"
+    ]
+  },
+  {
+    "titre": "Saladin",
+    "titreVo": "Al-Nâsir Salah Eddine",
+    "idFilm": 65542,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1963,
+    "pays": "Egypte",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Saladin, qui vient de remporter une victoire sur les Croisés à Alexandrie, prépare la bataille pour libérer Jérusalem occupée par les Chrétiens."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Version restaurée par MISR International."
+      }
+    ],
+    "generique": [
+      "Ahmed Mazhar",
+      "Ahmed Mazhar",
+      "Nadia Lofti",
+      "Nadia Lofti"
+    ]
+  },
+  {
+    "titre": "Silence... on tourne",
+    "titreVo": "",
+    "idFilm": 76443,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 2000,
+    "pays": "France-Egypte",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Malgré les avertissements de ses amis, une chanteuse et actrice riche et célèbre tombe amoureuse d'un jeune admirateur qui se sert d'elle pour réussir."
+    }],
+    "generique": [
+      "Latifa",
+      "Ahmed Bedeir",
+      "Ahmed Wafik",
+      "Magda El Khattib"
+    ]
+  },
+  {
+    "titre": "Terre",
+    "art": "La",
+    "titreVo": "El Ard",
+    "idFilm": 38100,
+    "idCycle": 340,
+    "idCategorie": 1781,
+    "ageMinimal": null,
+    "realisateurs": "Youssef Chahine",
+    "annee": 1968,
+    "pays": "Egypte",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Un village égyptien durant les années 1930. La vie des paysans s'y déroule paisiblement, jusqu'au jour où la durée d'irrigation autorisée, déjà insuffisante, est encore réduite. Soweilam, le vieux paysan, refuse de céder."
+    }],
+    "generique": [
+      "Mahmoud El-Meligui",
+      "Nagwa Ibrahim",
+      "Ezzat El-Alayli",
+      "Hamdy Ahmed"
+    ]
+  }
+]

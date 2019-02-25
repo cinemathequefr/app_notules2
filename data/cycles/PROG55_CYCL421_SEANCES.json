@@ -1,0 +1,668 @@
+[
+  {
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "idEvenement": 18764,
+    "idSeance": 29758,
+    "dateHeure": "2019-02-27T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Treize fantômes",
+    "items": [
+      {
+        "idFilm": 109356,
+        "ordre": 1,
+        "idSeance": 29758,
+        "idCopie": 17870,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "idEvenement": 18763,
+    "idSeance": 29817,
+    "dateHeure": "2019-03-01T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Voyage de Chihiro (Le)",
+    "items": [
+      {
+        "idFilm": 77554,
+        "ordre": 1,
+        "idSeance": 29817,
+        "idCopie": 14720,
+        "duree": 122,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "idEvenement": 18767,
+    "idSeance": 29729,
+    "dateHeure": "2019-03-02T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Beetlejuice",
+    "items": [
+      {
+        "idFilm": 31047,
+        "ordre": 1,
+        "idSeance": 29729,
+        "idCopie": 17726,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "idEvenement": 18853,
+    "idSeance": 29747,
+    "dateHeure": "2019-03-03T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Histoire de fantômes chinois",
+    "items": [
+      {
+        "idFilm": 72116,
+        "ordre": 1,
+        "idSeance": 29747,
+        "idCopie": 17845,
+        "duree": 84,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "idEvenement": 18855,
+    "idSeance": 28854,
+    "dateHeure": "2019-03-06T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "programme de courts métrages : Maisons hantés",
+    "items": [
+      {
+        "idFilm": 32706,
+        "ordre": 1,
+        "idSeance": 28854,
+        "idCopie": 1844,
+        "duree": 24,
+        "version": "INT. ANG.",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 140720,
+        "ordre": 2,
+        "idSeance": 28854,
+        "idCopie": 17933,
+        "duree": 9,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 113052,
+        "ordre": 3,
+        "idSeance": 28854,
+        "idCopie": 17934,
+        "duree": 6,
+        "version": "VO",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 113579,
+        "ordre": 4,
+        "idSeance": 28854,
+        "idCopie": 1700,
+        "duree": 8,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "idEvenement": 18760,
+    "idSeance": 29733,
+    "dateHeure": "2019-03-07T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Laban et Labolina",
+    "items": [
+      {
+        "idFilm": 110470,
+        "ordre": 1,
+        "idSeance": 29733,
+        "idCopie": 17723,
+        "duree": 45,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "idEvenement": 18762,
+    "idSeance": 29749,
+    "dateHeure": "2019-03-08T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "S.O.S. fantômes",
+    "items": [
+      {
+        "idFilm": 35077,
+        "ordre": 1,
+        "idSeance": 29749,
+        "idCopie": 17730,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "idEvenement": 18761,
+    "idSeance": 28872,
+    "dateHeure": "2019-03-09T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Chaque soir à neuf heures",
+    "items": [
+      {
+        "idFilm": 41034,
+        "ordre": 1,
+        "idSeance": 28872,
+        "idCopie": 17732,
+        "duree": 105,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "idEvenement": 18881,
+    "idSeance": 29801,
+    "dateHeure": "2019-03-20T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Programme de courts métrages : Animaux en folie !",
+    "items": [
+      {
+        "idFilm": 140735,
+        "ordre": 1,
+        "idSeance": 29801,
+        "idCopie": 17949,
+        "duree": 0,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 132700,
+        "ordre": 2
+      },
+      {
+        "idFilm": 140737,
+        "ordre": 3
+      },
+      {
+        "idFilm": 140739,
+        "ordre": 4
+      },
+      {
+        "idFilm": 140741,
+        "ordre": 5
+      },
+      {
+        "idFilm": 140743,
+        "ordre": 6
+      },
+      {
+        "idFilm": 132699,
+        "ordre": 7
+      },
+      {
+        "idFilm": 139665,
+        "ordre": 8
+      },
+      {
+        "idFilm": 140745,
+        "ordre": 9
+      },
+      {
+        "idFilm": 140749,
+        "ordre": 10
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "idEvenement": 18817,
+    "idSeance": 29802,
+    "dateHeure": "2019-03-24T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Cirque (Le)",
+    "items": [
+      {
+        "idFilm": 31156,
+        "ordre": 1,
+        "idSeance": 29802,
+        "idCopie": 3687,
+        "duree": 83,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "idEvenement": 18811,
+    "idSeance": 29807,
+    "dateHeure": "2019-03-27T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Mini et les voleurs de miel",
+    "items": [
+      {
+        "idFilm": 130195,
+        "ordre": 1,
+        "idSeance": 29807,
+        "idCopie": 17802,
+        "duree": 74,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "idEvenement": 18870,
+    "idSeance": 29750,
+    "dateHeure": "2019-03-31T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Chocolat",
+    "items": [
+      {
+        "idFilm": 130181,
+        "ordre": 1,
+        "idSeance": 29750,
+        "idCopie": 17860,
+        "duree": 110,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1872,
+    "idEvenement": 18667,
+    "idSeance": 29022,
+    "dateHeure": "2019-04-03T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Mon oncle",
+    "items": [
+      {
+        "idFilm": 51367,
+        "ordre": 1,
+        "idSeance": 29022,
+        "idCopie": 2783,
+        "duree": 120,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1872,
+    "idEvenement": 18672,
+    "idSeance": 29815,
+    "dateHeure": "2019-04-07T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Vacances de Mr. Bean (Les)",
+    "items": [
+      {
+        "idFilm": 101619,
+        "ordre": 1,
+        "idSeance": 29815,
+        "idCopie": 17682,
+        "duree": 89,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "idEvenement": 18808,
+    "idSeance": 29808,
+    "dateHeure": "2019-04-17T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Yoyo",
+    "items": [
+      {
+        "idFilm": 48430,
+        "ordre": 1,
+        "idSeance": 29808,
+        "idCopie": 7540,
+        "duree": 110,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "idEvenement": 18809,
+    "idSeance": 29143,
+    "dateHeure": "2019-04-21T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Bronco Billy",
+    "items": [
+      {
+        "idFilm": 31341,
+        "ordre": 1,
+        "idSeance": 29143,
+        "idCopie": 17879,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "idEvenement": 18830,
+    "idSeance": 29810,
+    "dateHeure": "2019-04-28T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Trapèze",
+    "items": [
+      {
+        "idFilm": 35530,
+        "ordre": 1,
+        "idSeance": 29810,
+        "idCopie": 17943,
+        "duree": 107,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "idEvenement": 18817,
+    "idSeance": 29209,
+    "dateHeure": "2019-05-03T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Cirque (Le)",
+    "items": [
+      {
+        "idFilm": 31156,
+        "ordre": 1,
+        "idSeance": 29209,
+        "idCopie": 3687,
+        "duree": 83,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "idEvenement": 18816,
+    "idSeance": 29811,
+    "dateHeure": "2019-05-05T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Cirque fantastique (Le)",
+    "items": [
+      {
+        "idFilm": 35687,
+        "ordre": 1,
+        "idSeance": 29811,
+        "idCopie": 17935,
+        "duree": 108,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "idEvenement": 18815,
+    "idSeance": 29237,
+    "dateHeure": "2019-05-08T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Léo et Fred",
+    "items": [
+      {
+        "idFilm": 121060,
+        "ordre": 1,
+        "idSeance": 29237,
+        "idCopie": 17806,
+        "duree": 41,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "idEvenement": 18810,
+    "idSeance": 29812,
+    "dateHeure": "2019-05-12T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Big Fish",
+    "items": [
+      {
+        "idFilm": 90051,
+        "ordre": 1,
+        "idSeance": 29812,
+        "idCopie": 17869,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "idEvenement": 18836,
+    "idSeance": 29280,
+    "dateHeure": "2019-05-15T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Quel cirque !",
+    "items": [
+      {
+        "idFilm": 137200,
+        "ordre": 1,
+        "idSeance": 29280,
+        "idCopie": 17851,
+        "duree": 35,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "idEvenement": 18831,
+    "idSeance": 29860,
+    "dateHeure": "2019-05-19T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Lutteur et le clown (Le)",
+    "items": [
+      {
+        "idFilm": 53490,
+        "ordre": 1,
+        "idSeance": 29860,
+        "idCopie": 17819,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "idEvenement": 18813,
+    "idSeance": 29813,
+    "dateHeure": "2019-05-22T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Cheburashka et ses amis",
+    "items": [
+      {
+        "idFilm": 114350,
+        "ordre": 1,
+        "idSeance": 29813,
+        "idCopie": 17800,
+        "duree": 80,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 421,
+    "idCategorie": 1911,
+    "idEvenement": 18533,
+    "idSeance": 29358,
+    "dateHeure": "2019-05-26T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Petite bande (La)",
+    "items": [
+      {
+        "idFilm": 48125,
+        "ordre": 1,
+        "idSeance": 29358,
+        "idCopie": 17908,
+        "duree": 92,
+        "version": "VO",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  }
+]

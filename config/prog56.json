@@ -4,6 +4,15 @@
   "dateFrom": "2019-03-13",
   "dateTo": "2019-03-17",
   "cycles": [{
+      "idCycleProg": 401,
+      "titreCycle": "Garrett Brown, l'inventeur du Steadicam",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1811],
+        "tri": 1
+      }]
+    },
+    {
       "idCycleProg": 400,
       "titreCycle": "Jerzy Skolimowski",
       "sousCycles": [{
@@ -11,13 +20,12 @@
         "cats": [1810],
         "tri": 1
       }]
-    },
-    {
-      "idCycleProg": 401,
-      "titreCycle": "Garrett Brown, l'inventeur du Steadicam",
+    }, {
+      "idCycleProg": 399,
+      "titreCycle": "Toute la mémoire du monde 2019",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1811],
+        "titre": "Hommage à Nicolas Winding Refn",
+        "cats": [1809, 1905, 1906, 1913, 1914, 1915, 1916],
         "tri": 1
       }]
     }

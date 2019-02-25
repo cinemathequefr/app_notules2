@@ -1,0 +1,479 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idFilm": 31578,
+          "ordre": 1,
+          "idSeance": 28943,
+          "idCopie": 17009,
+          "duree": 114,
+          "version": "INT. ANG.",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 389,
+          "idCategorie": 1748,
+          "idEvenement": 18040,
+          "dateHeure": "2019-03-20T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Admirable Crichton",
+          "art": "L'",
+          "titreVo": "Male and Female",
+          "realisateurs": "Cecil B. DeMille",
+          "annee": 1919,
+          "pays": "États-Unis",
+          "generique": [
+            "Gloria Swanson",
+            "Thomas Meighan",
+            "Raymond Hatton",
+            "Lila Lee"
+          ],
+          "adaptation": "D'après la pièce _Male and Female_ de James M. Barrie.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Après un naufrage, le majordome d'une famille de la haute société londonienne veut prendre le commandement du groupe réfugié sur une île déserte."
+            }
+          ]
+        },
+        {
+          "idFilm": 31121,
+          "ordre": 1,
+          "idSeance": 28949,
+          "idCopie": 424,
+          "duree": 81,
+          "version": "INT. ANG.",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 389,
+          "idCategorie": 1748,
+          "idEvenement": 18038,
+          "dateHeure": "2019-03-21T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Cauchemars et superstitions",
+          "titreVo": "When the Clouds Roll by",
+          "realisateurs": "Victor Fleming",
+          "annee": 1919,
+          "pays": "États-Unis",
+          "generique": [
+            "Douglas Fairbanks",
+            "Kathleen Clifford",
+            "Frank Campeau",
+            "Ralph Lewis"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un hypocondriaque jovial est soumis, sans le savoir, aux expériences d'un médecin fou."
+            }
+          ]
+        },
+        {
+          "idFilm": 80471,
+          "ordre": 1,
+          "idSeance": 29759,
+          "idCopie": 17007,
+          "duree": 93,
+          "version": "INT. ANG.",
+          "format": "16 mm",
+          "valide": 1,
+          "idCycle": 389,
+          "idCategorie": 1748,
+          "idEvenement": 18037,
+          "dateHeure": "2019-03-23T18:45:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Don't Change Your Husband",
+          "titreVo": "",
+          "realisateurs": "Cecil B. DeMille",
+          "annee": 1919,
+          "pays": "États-Unis",
+          "generique": [
+            "Gloria Swanson",
+            "Lew Cody"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Leila Porter, divorcée, déçue par son second mariage, divorce à nouveau pour retourner vivre avec son premier mari."
+            }
+          ]
+        },
+        {
+          "idFilm": 40798,
+          "ordre": 1,
+          "idSeance": 29094,
+          "idCopie": 3436,
+          "duree": 123,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 389,
+          "idCategorie": 1748,
+          "idEvenement": 18050,
+          "dateHeure": "2019-04-13T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Du Barry",
+          "art": "La",
+          "titreVo": "Madame Du Barry",
+          "realisateurs": "Ernst Lubitsch",
+          "annee": 1919,
+          "pays": "Allemagne",
+          "generique": [
+            "Pola Negri",
+            "Emil Jannings",
+            "Reinhold Schünzel",
+            "Harry Liedtke"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La vie romancée de Madame Du Barry, dernière favorite du roi Louis XV."
+            }
+          ]
+        },
+        {
+          "idFilm": 48338,
+          "ordre": 1,
+          "idSeance": 29766,
+          "idCopie": 17008,
+          "duree": 75,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 389,
+          "idCategorie": 1748,
+          "idEvenement": 18048,
+          "dateHeure": "2019-04-11T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Haceldama",
+          "titreVo": "",
+          "realisateurs": "Julien Duvivier",
+          "annee": 1919,
+          "pays": "France",
+          "generique": [
+            "Camille Bert",
+            "Suzy Lilé",
+            "Séverin-Mars",
+            "Yvonne Brionne"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Landry Smith vit en secret avec sa pupille Minnie au fin fond de la Corrèze. Mais on veut sa mort et il devra surmonter beaucoup de péripéties."
+            }
+          ]
+        },
+        {
+          "idFilm": 48527,
+          "ordre": 1,
+          "idSeance": 29072,
+          "idCopie": 5119,
+          "duree": 56,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 389,
+          "idCategorie": 1748,
+          "idEvenement": 18049,
+          "dateHeure": "2019-04-10T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Homme sans visage",
+          "art": "L'",
+          "titreVo": "",
+          "realisateurs": "Louis Feuillade",
+          "annee": 1919,
+          "pays": "France",
+          "generique": [
+            "Gina Manès",
+            "René Cresté",
+            "Édouard Mathé",
+            "Sylvia Lux"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Séduite puis abandonnée, Blanche Mery a une fille, élevée par des paysans avares. Elle trouve un emploi de dame de compagnie chez un comte, à Nice."
+            }
+          ]
+        },
+        {
+          "idFilm": 140670,
+          "ordre": 1,
+          "idSeance": 29767,
+          "idCopie": 17859,
+          "duree": 88,
+          "version": "Autres",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 389,
+          "idCategorie": 1748,
+          "idEvenement": 18864,
+          "dateHeure": "2019-05-15T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Lorenzaccio",
+          "titreVo": "",
+          "realisateurs": "Giuseppe De Liguoro",
+          "annee": 1919,
+          "pays": "Italie",
+          "generique": [
+            "Irene-Saffo Momo",
+            "Camillo De Rossi",
+            "Camillo Talamo"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "D'après Alfred de Musset, le film relate l'histoire de Lorenzo de Medicis qui se voue à la restauration de la République de Florence."
+            }
+          ]
+        },
+        {
+          "idFilm": 84725,
+          "ordre": 1,
+          "idSeance": 29768,
+          "idCopie": 17861,
+          "duree": 76,
+          "version": "Autres",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 389,
+          "idCategorie": 1748,
+          "idEvenement": 18865,
+          "dateHeure": "2019-05-16T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Mystère de la chambre jaune",
+          "art": "Le",
+          "titreVo": "Mystery of the Yellow Room",
+          "artVo": "The",
+          "realisateurs": "Emile Chautard",
+          "annee": 1919,
+          "pays": "États-Unis",
+          "generique": [
+            "William Walcott",
+            "Ethel Grey Terry",
+            "Lorin Raker",
+            "Edmund Elton"
+          ],
+          "adaptation": "D'après le roman _Le Mystère de la chambre jaune_ de Gaston Leroux.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le jeune reporter Rouletabille enquête dans un château: la victime a été retrouvée dans une chambre peinte en jaune... _Seconde version filmée par Émile Chautard du roman éponyme de Gaston Leroux, après un court métrage réalisé en 1913._"
+            }
+          ]
+        },
+        {
+          "idFilm": 103085,
+          "ordre": 1,
+          "idSeance": 29344,
+          "idCopie": 8515,
+          "duree": 46,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 389,
+          "idCategorie": 1748,
+          "idEvenement": 18042,
+          "dateHeure": "2019-05-24T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Nuit du 11 septembre",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Dominique Bernard-Deschamps",
+          "annee": 1919,
+          "pays": "France",
+          "generique": [
+            "Séverin-Mars",
+            "Paul Vermoyal",
+            "Vera Karalli",
+            "Eugénie Boldireff"
+          ],
+          "adaptation": "D'après le roman _Le Crime de Jean Malory_ d'Ernest Daudet.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Jean Malory échoue dans sa tentative d'assassiner la Comtesse de Maldrée. Sa fille, Renée, rêve d'épouser le fils de la comtesse. Jean Malory redoute ce mariage car le jeune homme a été témoin de l'agression de sa mère."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "_Film incomplet_"
+            }
+          ]
+        },
+        {
+          "idFilm": 35228,
+          "ordre": 1,
+          "idSeance": 29714,
+          "idCopie": 17006,
+          "duree": 85,
+          "version": "INT. ANG.",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 389,
+          "idCategorie": 1748,
+          "idEvenement": 18053,
+          "dateHeure": "2019-05-11T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Papa longues jambes",
+          "titreVo": "Daddy Long Legs",
+          "realisateurs": "Marshall Neilan",
+          "annee": 1919,
+          "pays": "États-Unis",
+          "generique": [
+            "Mary Pickford",
+            "Milla Davenport",
+            "Percy Haswell",
+            "Fay Lemport"
+          ],
+          "adaptation": "D'après le roman et la pièce _Daddy Long Legs_ de Jean Webster.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une jeune orpheline apprend qu'un mystérieux donateur anonyme s'apprête à financer ses études."
+            }
+          ]
+        },
+        {
+          "idFilm": 32703,
+          "ordre": 1,
+          "idSeance": 29805,
+          "idCopie": 17011,
+          "duree": 81,
+          "version": "INT. ANG.",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 389,
+          "idCategorie": 1748,
+          "idEvenement": 18055,
+          "dateHeure": "2019-04-06T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Pauvre amour",
+          "art": "Le",
+          "titreVo": "True Heart Susie",
+          "realisateurs": "D.W. Griffith",
+          "annee": 1919,
+          "pays": "États-Unis",
+          "generique": [
+            "Lillian Gish",
+            "Robert Harron",
+            "Wilbur Higby",
+            "Loyola O'Connor"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Susie est prête à tout pour l'amour de William: pour qu'il puisse faire ses études, elle se défait d'une partie de ses biens."
+            }
+          ]
+        },
+        {
+          "idFilm": 49527,
+          "ordre": 1,
+          "idSeance": 29330,
+          "idCopie": 4897,
+          "duree": 59,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 389,
+          "idCategorie": 1748,
+          "idEvenement": 18872,
+          "dateHeure": "2019-05-22T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Rose-France",
+          "titreVo": "",
+          "realisateurs": "Marcel L'Herbier",
+          "annee": 1918,
+          "pays": "France",
+          "generique": [
+            "Mademoiselle Aïssé",
+            "Jaque Catelain",
+            "Byron Kuhn",
+            "Francis Byrne"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En convalescence sur la Côte d'Azur, l'Américain Lauris Dudley Gold est fiancé à Franciane Roy. Celle-ci ayant reçu une rose d'un anonyme, Lauris devient suspicieux et mène son enquête. Œuvre de propagande patriotique. _Film restauré par le CNC._"
+            }
+          ]
+        },
+        {
+          "idFilm": 50765,
+          "ordre": 1,
+          "idSeance": 29352,
+          "idCopie": 4829,
+          "duree": 119,
+          "version": "INT. FR.",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 389,
+          "idCategorie": 1748,
+          "idEvenement": 18866,
+          "dateHeure": "2019-05-25T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "titre": "Travail",
+          "titreVo": "",
+          "realisateurs": "Henri Pouctal",
+          "annee": 1919,
+          "pays": "France",
+          "generique": [
+            "Léon Mathot",
+            "Huguette Duflos",
+            "Raphaël Duflos",
+            "Claude Mérelle"
+          ],
+          "adaptation": "D'après le roman _Le Travail_ d'Emile Zola.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Ingénieur, connaissant aussi le travail manuel, scandalisé par la misère ouvrière, Luc Froment se rend au haut-fourneau de la Crêcherie. Là, il voit la faim des femmes et des enfants, l'alcoolisme des hommes et constate l'existence de deux mondes parallèles: celui des riches et celui des pauvres."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "info": {}
+}

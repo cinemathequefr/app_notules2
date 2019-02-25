@@ -1,0 +1,239 @@
+{
+  "header": {
+    "idCycleProg": 143,
+    "titreCycle": "Fenêtres sur les collections de la Cinémathèque française",
+    "sousCycles": [
+      {
+        "titre": "Lilian Hall-Davis",
+        "cats": [
+          1879
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Lumière sur une société méconnue des années 20 : Éclipse",
+        "cats": [
+          1878
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 55
+  },
+  "data": [
+    {
+      "titreSousCycle": "Lilian Hall-Davis",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 143,
+          "idCategorie": 1879,
+          "idEvenement": 18879,
+          "films": [
+            {
+              "idFilm": 140771,
+              "titre": "Secret professionnel",
+              "titreVo": "Should a Doctor Tell?",
+              "realisateurs": "Alexander Butler, P. J. Ramster",
+              "annee": 1923,
+              "pays": "Australie-Grande-Bretagne",
+              "generique": [
+                "Fred Oppey",
+                "Thelma Newling",
+                "Lillian Hall-Davis",
+                "Henry Vibart"
+              ],
+              "duree": 70,
+              "format": "35 mm",
+              "version": "INT. FR.",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-03-08T18:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Séance présentée par Emmanuelle Berthault"
+            }
+          ]
+        },
+        {
+          "idCycle": 143,
+          "idCategorie": 1879,
+          "idEvenement": 18878,
+          "films": [
+            {
+              "idFilm": 41615,
+              "titre": "Masque de cuir",
+              "art": "Le",
+              "titreVo": "Ring",
+              "artVo": "The",
+              "realisateurs": "Alfred Hitchcock",
+              "annee": 1927,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Deux boxeurs se disputent la même femme."
+                }
+              ],
+              "generique": [
+                "Carl Brisson",
+                "Lillian Hall-Davis",
+                "Ian Hunter",
+                "Forrester Harvey"
+              ],
+              "duree": 97,
+              "format": "16 mm",
+              "version": "INT. FR.",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-03-08T21:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Séance présentée par Emmanuelle Berthault"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Lumière sur une société méconnue des années 20 : Éclipse",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 143,
+          "idCategorie": 1878,
+          "idEvenement": 18875,
+          "films": [
+            {
+              "idFilm": 133809,
+              "titre": "Maud cambrioleur",
+              "titreVo": "",
+              "realisateurs": "René Hervil",
+              "annee": 1912,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Maud joue un tour à un collectionneur d'antiquités qui a refusé de donner à la Société de secours aux blessés pour laquelle elle fait la quête."
+                }
+              ],
+              "generique": [
+                "Miss Campton"
+              ],
+              "duree": 14,
+              "format": "35 mm",
+              "version": "INT. FR.",
+              "ordre": 1
+            },
+            {
+              "idFilm": 54345,
+              "titre": "Jeanne Doré",
+              "titreVo": "",
+              "realisateurs": "René Hervil, Louis Mercanton",
+              "annee": 1915,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "À cause de son addiction aux jeux, Robert Doré, endetté, se suicide, laissant une femme, Jeanne, et un fils, Jacques. Malgré le dévouement de sa mère, Jacques, devenu adulte, est aveuglé par l'amour et commet un crime pour satisfaire la femme mariée qu'il fréquente."
+                }
+              ],
+              "adaptation": "D'après la pièce _Jeanne Doré_ de Tristan Bernard.",
+              "generique": [
+                "Sarah Bernhardt",
+                "Raymond Bernard",
+                "Jeanne Costa",
+                "Jean Marié de L'Isle"
+              ],
+              "duree": 77,
+              "format": "35 mm",
+              "version": "INT. FR.",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-04-05T18:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Séance présentée par Emmanuelle Champomier et Laurent Veray"
+            }
+          ]
+        },
+        {
+          "idCycle": 143,
+          "idCategorie": 1878,
+          "idEvenement": 18876,
+          "films": [
+            {
+              "idFilm": 139535,
+              "titre": "Allumettes fantaisistes",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Émile Cohl",
+              "annee": 1912,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Des allumettes s'animent, se métamorphosent et forment tour à tour objets et figures humaines."
+                }
+              ],
+              "duree": 5,
+              "format": "35 mm",
+              "version": "INT. FR.",
+              "ordre": 1
+            },
+            {
+              "idFilm": 112921,
+              "titre": "Phalène bleue",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Georges Champavert",
+              "annee": 1917,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Le baron Rutherford, riche entomologiste, espère un jour piéger la phalène bleue qui manque à sa collection. Son fils Robert entreprend la conquête de Madeleine, la fille d'un fermier prospère dont les terres côtoient le domaine des Rutherford."
+                }
+              ],
+              "generique": [
+                "Albert Beauval",
+                "Anatole Bahier",
+                "Geneviève Félix",
+                "Marthe Lepers"
+              ],
+              "duree": 93,
+              "format": "35 mm",
+              "version": "STF",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-04-05T20:45:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Séance présentée par Laurent Veray et Emmanuelle Champomier"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

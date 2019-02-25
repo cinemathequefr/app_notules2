@@ -1,0 +1,1205 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Fantômes, poètes et acrobates !",
+      "tri": 4,
+      "items": [
+        {
+          "idFilm": 139665,
+          "ordre": 8,
+          "idCycle": 421,
+          "idCategorie": 1874,
+          "idEvenement": 18881,
+          "idSeance": 29801,
+          "dateHeure": "2019-03-20T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titreEvenement": "Programme de courts métrages : Animaux en folie !",
+          "titre": "1 mètre/heure",
+          "titreVo": "",
+          "realisateurs": "Nicolas Deveaux",
+          "annee": 2017,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+            }
+          ]
+        },
+        {
+          "idFilm": 140741,
+          "ordre": 5,
+          "idCycle": 421,
+          "idCategorie": 1874,
+          "idEvenement": 18881,
+          "idSeance": 29801,
+          "dateHeure": "2019-03-20T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titreEvenement": "Programme de courts métrages : Animaux en folie !",
+          "titre": "Animanimals : Ant",
+          "titreVo": "",
+          "realisateurs": "Julia Ocker",
+          "annee": 2017,
+          "pays": "Allemagne",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+            }
+          ]
+        },
+        {
+          "idFilm": 31047,
+          "ordre": 1,
+          "idSeance": 29729,
+          "idCopie": 17726,
+          "duree": 92,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1865,
+          "idEvenement": 18767,
+          "dateHeure": "2019-03-02T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Beetlejuice",
+          "titreVo": "Beetle Juice",
+          "realisateurs": "Tim Burton",
+          "annee": 1987,
+          "pays": "États-Unis",
+          "generique": [
+            "Michael Keaton",
+            "Winona Ryder",
+            "Annie McEnroe",
+            "Maurice Page"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Changer de tête, déformer son visage pour le rendre horrible... Voici les jeux auxquels s'essaient Barbara et Adam pour faire fuir les vivants qui ont envahi leur maison depuis qu'ils sont devenus des fantômes. Mais ils manquent d'expérience et décident de faire appel au terrible Beetlejuice."
+            }
+          ]
+        },
+        {
+          "idFilm": 90051,
+          "ordre": 1,
+          "idSeance": 29812,
+          "idCopie": 17869,
+          "duree": 125,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 421,
+          "idCategorie": 1871,
+          "idEvenement": 18810,
+          "dateHeure": "2019-05-12T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Big Fish",
+          "titreVo": "",
+          "realisateurs": "Tim Burton",
+          "annee": 2003,
+          "pays": "États-Unis",
+          "generique": [
+            "Ewan McGregor",
+            "Albert Finney",
+            "Billy Crudup",
+            "Jessica Lange"
+          ],
+          "adaptation": "D'après le roman _The Big fish_ de Daniel Wallace.",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Edward ne cesse de romancer sa vie en inventant des histoires extravagantes peuplées des plus extraordinaires créatures. À l'entendre, il aurait jadis été engagé dans un cirque... Son fils peine à démêler le vrai du faux et lorsque son père tombe malade, il ne sait plus ce qu'il doit exactement prendre au sérieux."
+            }
+          ]
+        },
+        {
+          "idFilm": 31341,
+          "ordre": 1,
+          "idSeance": 29143,
+          "idCopie": 17879,
+          "duree": 115,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 421,
+          "idCategorie": 1871,
+          "idEvenement": 18809,
+          "dateHeure": "2019-04-21T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Bronco Billy",
+          "titreVo": "",
+          "realisateurs": "Clint Eastwood",
+          "annee": 1979,
+          "pays": "États-Unis",
+          "generique": [
+            "Clint Eastwood",
+            "Sondra Locke",
+            "Geoffrey Lewis",
+            "Scatman Crothers"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Le cow-boy Bronco Billy est à la tête d'un petit cirque western peuplé de toute sorte de personnages marginaux qui voyagent, de foire en foire, sur les routes de l'Ouest. Alors que le monde se modernise, ils continuent de croire à leur spectacle... La rencontre avec Antoinette Lily, engagée pour le numéro de tireur d'élite, va bouleverser leur quotidien. De l'aveu même d'Eastwood, ce film est un hommage discret à l'univers de Federico Fellini."
+            }
+          ]
+        },
+        {
+          "idFilm": 41034,
+          "ordre": 1,
+          "idSeance": 28872,
+          "idCopie": 17732,
+          "duree": 105,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1865,
+          "idEvenement": 18761,
+          "dateHeure": "2019-03-09T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Chaque soir à neuf heures",
+          "titreVo": "Our mother's house",
+          "realisateurs": "Jack Clayton",
+          "annee": 1967,
+          "pays": "Grande-Bretagne-États-Unis",
+          "generique": [
+            "Dirk Bogarde",
+            "Margaret Leclere",
+            "Pamela Franklin"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Pourquoi, dans ce petit bourg anglais, chaque soir à neuf heures, sept enfants se réunissent-ils dans un abri, au fond du jardin? C'est là qu'ils communiquent avec le fantôme de leur mère. Un film drôle et touchant qui traite délicatement des liens qui unissent les membres d'une même famille, au-delà des épreuves."
+            }
+          ]
+        },
+        {
+          "idFilm": 140739,
+          "ordre": 4,
+          "idCycle": 421,
+          "idCategorie": 1874,
+          "idEvenement": 18881,
+          "idSeance": 29801,
+          "dateHeure": "2019-03-20T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titreEvenement": "Programme de courts métrages : Animaux en folie !",
+          "titre": "Chasse",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Aleksey Alekseev",
+          "annee": 2016,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+            }
+          ]
+        },
+        {
+          "idFilm": 114350,
+          "ordre": 1,
+          "idSeance": 29813,
+          "idCopie": 17800,
+          "duree": 80,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1871,
+          "idEvenement": 18813,
+          "dateHeure": "2019-05-22T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titreEvenement": "Cheburashka et ses amis",
+          "titre": "Cheburaskha et ses amis",
+          "titreVo": "Cheburaskha",
+          "realisateurs": "Makoto Nakamura",
+          "annee": 2010,
+          "pays": "Japon-Russie",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Cheburashka, un petit animal aux grandes oreilles, se lie d'amitié avec Crocodile Gena. Quand un cirque vient à passer en ville, leur quotidien s'en trouve tout bouleversé! Un film d'animation de marionnettes qui propose de faire découvrir aux plus jeunes spectateurs un personnage mascotte de l'univers enfantin russe."
+            }
+          ]
+        },
+        {
+          "idFilm": 140737,
+          "ordre": 3,
+          "idCycle": 421,
+          "idCategorie": 1874,
+          "idEvenement": 18881,
+          "idSeance": 29801,
+          "dateHeure": "2019-03-20T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titreEvenement": "Programme de courts métrages : Animaux en folie !",
+          "titre": "Chien",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Pierre-Luc Granjon",
+          "annee": 2018,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+            }
+          ]
+        },
+        {
+          "idFilm": 130181,
+          "ordre": 1,
+          "idSeance": 29750,
+          "idCopie": 17860,
+          "duree": 110,
+          "version": "VF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1871,
+          "idEvenement": 18870,
+          "dateHeure": "2019-03-31T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Chocolat",
+          "titreVo": "",
+          "realisateurs": "Roschdy Zem",
+          "annee": 2015,
+          "pays": "France",
+          "generique": [
+            "Omar Sy",
+            "James Thierrée",
+            "Clotilde Hesme",
+            "Olivier Gourmet"
+          ],
+          "adaptation": "D'après l'ouvrage _Chocolat, clown nègre_ de Gérard Noiriel.",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "À la fin du XIXème siècle en France, le numéro du célèbre clown Footit s'épuise. Faisant la connaissance d'un ancien esclave noir, il voit en lui le partenaire idéal pour relancer sa carrière et à nouveau faire rire les foules. Porté par un duo de comédiens extraordinaires, _Chocolat_ raconte cette bouleversante aventure faite de rires et de larmes."
+            }
+          ]
+        },
+        {
+          "idFilm": 31156,
+          "ordre": 1,
+          "idSeance": 29802,
+          "idCopie": 3687,
+          "duree": 83,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "valide": 0,
+          "idCycle": 421,
+          "idCategorie": 1871,
+          "idEvenement": 18817,
+          "dateHeure": "2019-03-24T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Cirque",
+          "art": "Le",
+          "titreVo": "Circus",
+          "artVo": "The",
+          "realisateurs": "Charles Chaplin",
+          "annee": 1927,
+          "pays": "États-Unis",
+          "generique": [
+            "Al Ernest Garcia",
+            "Merna Kennedy",
+            "Harry Crocker",
+            "George Davis"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "C'est par hasard que Charlot devient la vedette d'un petit cirque, mais c'est par amour pour la belle écuyère qu'il reste dans la troupe."
+            }
+          ]
+        },
+        {
+          "idFilm": 31156,
+          "ordre": 1,
+          "idSeance": 29209,
+          "idCopie": 3687,
+          "duree": 83,
+          "version": "INT. FR.",
+          "format": "DCP",
+          "valide": 0,
+          "idCycle": 421,
+          "idCategorie": 1871,
+          "idEvenement": 18817,
+          "dateHeure": "2019-05-03T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Cirque",
+          "art": "Le",
+          "titreVo": "Circus",
+          "artVo": "The",
+          "realisateurs": "Charles Chaplin",
+          "annee": 1927,
+          "pays": "États-Unis",
+          "generique": [
+            "Al Ernest Garcia",
+            "Merna Kennedy",
+            "Harry Crocker",
+            "George Davis"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "C'est par hasard que Charlot devient la vedette d'un petit cirque, mais c'est par amour pour la belle écuyère qu'il reste dans la troupe."
+            }
+          ]
+        },
+        {
+          "idFilm": 35687,
+          "ordre": 1,
+          "idSeance": 29811,
+          "idCopie": 17935,
+          "duree": 108,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 421,
+          "idCategorie": 1871,
+          "idEvenement": 18816,
+          "dateHeure": "2019-05-05T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Cirque fantastique",
+          "art": "Le",
+          "titreVo": "Big Circus",
+          "artVo": "The",
+          "realisateurs": "Joseph M. Newman",
+          "annee": 1959,
+          "pays": "États-Unis",
+          "generique": [
+            "Victor Mature",
+            "Vincent Price",
+            "Peter Lorre",
+            "Rhonda Fleming"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "De nombreuses embuches se dressent sur la route du cirque de Hank. Comment arrivera-t-il à sauver sa périlleuse situationalors qu'un lion s'évade dans la foule, qu'un incendie se déclare dans la ménagerie et que le train qui les transporte déraille...? Des numéros de cirque spectaculaires, un monsieur Loyal, un funambule et un clown blanc interprétés par de grands acteurs d'Hollywood."
+            }
+          ]
+        },
+        {
+          "idFilm": 72116,
+          "ordre": 1,
+          "idSeance": 29747,
+          "idCopie": 17845,
+          "duree": 84,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1865,
+          "idEvenement": 18853,
+          "dateHeure": "2019-03-03T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Histoire de fantômes chinois",
+          "titreVo": "Chinese Ghost Story",
+          "realisateurs": "Hark Tsui",
+          "annee": 1997,
+          "pays": "Hong-Kong",
+          "generique": [
+            "Hark Tsui"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Dans une Chine de légende et de magie, un jeune homme fait la rencontre de la jolie Quian. Mais cette jeune fille est un fantôme chasseur d'âmes. Comment déjouer les pièges que démons, sorciers et chasseurs de fantômes placent sur leur route, et vivre leur amour impossible?"
+            }
+          ]
+        },
+        {
+          "idFilm": 140720,
+          "ordre": 2,
+          "idSeance": 28854,
+          "idCopie": 17933,
+          "duree": 9,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1865,
+          "idEvenement": 18855,
+          "dateHeure": "2019-03-06T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titreEvenement": "programme de courts métrages : Maisons hantés",
+          "titre": "Inventaire fantôme",
+          "art": "L'",
+          "titreVo": "",
+          "realisateurs": "Franck Dion",
+          "annee": 2004,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Films à trucs des pionniers du cinéma et film d'animation deviennent le terrain de jeu de fantômes en tout genre! Apparitions, disparitions, objets qui se déplacent seuls, le cinéma s'amuse à nous faire croire aux phénomènes les plus invraisemblables."
+            }
+          ]
+        },
+        {
+          "idFilm": 110470,
+          "ordre": 1,
+          "idSeance": 29733,
+          "idCopie": 17723,
+          "duree": 45,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1865,
+          "idEvenement": 18760,
+          "dateHeure": "2019-03-07T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Laban et Labolina",
+          "titreVo": "Spöket Laban",
+          "realisateurs": "Lasse Persson, Per Åhlin, Alicja Jaworski, [etc.]",
+          "annee": 2007,
+          "pays": "Suède",
+          "generique": [
+            "Colette Noël"
+          ],
+          "adaptation": "D'après les livres _Laban, le petit fantôme_ de Lasse Sandberg et Inger Sandberg.",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Laban a peur du noir, pas facile pour un fantôme! Sa petite sœur, Labolina, est bien plus téméraire. Ça promet de belles aventures! De beaux contes suédois pour ravir les plus petits spectateurs."
+            }
+          ]
+        },
+        {
+          "idFilm": 140743,
+          "ordre": 6,
+          "idCycle": 421,
+          "idCategorie": 1874,
+          "idEvenement": 18881,
+          "idSeance": 29801,
+          "dateHeure": "2019-03-20T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titreEvenement": "Programme de courts métrages : Animaux en folie !",
+          "titre": "Luge",
+          "art": "La",
+          "titreVo": "Shchukina Olesya",
+          "realisateurs": "Olesya Shchukina",
+          "annee": 2016,
+          "pays": "Russie",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+            }
+          ]
+        },
+        {
+          "idFilm": 53490,
+          "ordre": 1,
+          "idSeance": 29860,
+          "idCopie": 17819,
+          "duree": 95,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1871,
+          "idEvenement": 18831,
+          "dateHeure": "2019-05-19T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Lutteur et le clown",
+          "art": "Le",
+          "titreVo": "Borec i kloun",
+          "realisateurs": "Boris Barnet, Constantin Youdine",
+          "annee": 1957,
+          "pays": "URSS",
+          "generique": [
+            "Stanislav Tchekan",
+            "Alexandre Mikhailov",
+            "Boris Petker",
+            "Iya Arepina"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "L'amitié indestructible entre un impressionnant lutteur et un petit clown surdoué, depuis leur rencontre au célèbre cirque d'Odessa, puis à travers l'Europe."
+            }
+          ]
+        },
+        {
+          "idFilm": 121060,
+          "ordre": 1,
+          "idSeance": 29237,
+          "idCopie": 17806,
+          "duree": 41,
+          "version": "VF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1871,
+          "idEvenement": 18815,
+          "dateHeure": "2019-05-08T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Léo et Fred",
+          "titreVo": "Leo es Fred",
+          "realisateurs": "Pál Tóth",
+          "annee": 1984,
+          "pays": "Hongrie",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Léo, le lion, forme avec son dompteur Fred, un duo lié par une solide complicité. Chaque soir, sous le chapiteau, ils ravissent petits et grands avec leurs numéros. À la fois farfelus et attachants, ils nous entraînent tout au long de leur carrière, dans un quotidien riche en surprises..."
+            }
+          ]
+        },
+        {
+          "idFilm": 113579,
+          "ordre": 4,
+          "idSeance": 28854,
+          "idCopie": 1700,
+          "duree": 8,
+          "version": "",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 421,
+          "idCategorie": 1865,
+          "idEvenement": 18855,
+          "dateHeure": "2019-03-06T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titreEvenement": "programme de courts métrages : Maisons hantés",
+          "titre": "Maison des revenants",
+          "art": "La",
+          "titreVo": "Casa de los duendes",
+          "artVo": "La",
+          "realisateurs": "Segundo de Chomón",
+          "annee": 1911,
+          "pays": "Espagne",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Films à trucs des pionniers du cinéma et film d'animation deviennent le terrain de jeu de fantômes en tout genre! Apparitions, disparitions, objets qui se déplacent seuls, le cinéma s'amuse à nous faire croire aux phénomènes les plus invraisemblables."
+            }
+          ]
+        },
+        {
+          "idFilm": 32706,
+          "ordre": 1,
+          "idSeance": 28854,
+          "idCopie": 1844,
+          "duree": 24,
+          "version": "INT. ANG.",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1865,
+          "idEvenement": 18855,
+          "dateHeure": "2019-03-06T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titreEvenement": "programme de courts métrages : Maisons hantés",
+          "titre": "Malec chez les fantômes",
+          "titreVo": "Haunted House",
+          "artVo": "The",
+          "realisateurs": "Buster Keaton, Eddie Cline",
+          "annee": 1921,
+          "pays": "États-Unis",
+          "generique": [
+            "Buster Keaton",
+            "Joe Roberts",
+            "Virginia Fox",
+            "Edward F. Cline"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Films à trucs des pionniers du cinéma et film d'animation deviennent le terrain de jeu de fantômes en tout genre! Apparitions, disparitions, objets qui se déplacent seuls, le cinéma s'amuse à nous faire croire aux phénomènes les plus invraisemblables."
+            }
+          ]
+        },
+        {
+          "idFilm": 130195,
+          "ordre": 1,
+          "idSeance": 29807,
+          "idCopie": 17802,
+          "duree": 74,
+          "version": "VF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1871,
+          "idEvenement": 18811,
+          "dateHeure": "2019-03-27T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Mini et les voleurs de miel",
+          "titreVo": "Cykelmyggen og minibillen",
+          "realisateurs": "Jannik Hastrup, Flemming Quist Møller",
+          "annee": 2014,
+          "pays": "Danemark",
+          "generique": [
+            "Achille Dubois",
+            "Alayin Dubois",
+            "Erwin Grunspan",
+            "Maxime Donnay"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Un cirque d'insectes colorés, ainsi que leur réserve de miel, sont menacés par des insectes voyous venus semer la zizanie."
+            }
+          ]
+        },
+        {
+          "idFilm": 51367,
+          "ordre": 1,
+          "idSeance": 29022,
+          "idCopie": 2783,
+          "duree": 120,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1872,
+          "idEvenement": 18667,
+          "dateHeure": "2019-04-03T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Mon oncle",
+          "titreVo": "",
+          "realisateurs": "Jacques Tati",
+          "annee": 1957,
+          "pays": "France-Italie",
+          "generique": [
+            "Jacques Tati",
+            "Jean-Pierre Zola",
+            "Adrienne Servantie",
+            "Alain Bécourt"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Gérard fuit la maison ultramoderne de ses parents pour passer du bon temps dans les rues avec son drôle d'oncle. Entre tradition et modernité, sa petite ville est revisitée par la fantaisie de Monsieur Hulot."
+            }
+          ]
+        },
+        {
+          "idFilm": 132699,
+          "ordre": 7,
+          "idCycle": 421,
+          "idCategorie": 1874,
+          "idEvenement": 18881,
+          "idSeance": 29801,
+          "dateHeure": "2019-03-20T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titreEvenement": "Programme de courts métrages : Animaux en folie !",
+          "titre": "Moufle",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Clémentine Robach",
+          "annee": 2014,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+            }
+          ]
+        },
+        {
+          "idFilm": 140745,
+          "ordre": 9,
+          "idCycle": 421,
+          "idCategorie": 1874,
+          "idEvenement": 18881,
+          "idSeance": 29801,
+          "dateHeure": "2019-03-20T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titreEvenement": "Programme de courts métrages : Animaux en folie !",
+          "titre": "Olas del cielo",
+          "titreVo": "",
+          "realisateurs": "Pablo Pera",
+          "annee": 2013,
+          "pays": "Mexique",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+            }
+          ]
+        },
+        {
+          "idFilm": 48125,
+          "ordre": 1,
+          "idSeance": 29358,
+          "idCopie": 17908,
+          "duree": 92,
+          "version": "VO",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1911,
+          "idEvenement": 18533,
+          "dateHeure": "2019-05-26T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Petite bande",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Michel Deville",
+          "annee": 1982,
+          "pays": "France",
+          "generique": [
+            "François Marthouret",
+            "Roland Amstutz",
+            "Nathalie Bécue",
+            "Françoise Lugagne"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Sept petits Anglais âgés de sept à dix ans partent à l'aventure, se nourrissant sans un centime en poche, échappant aux gendarmes, visitant les combles d'un château, déjouant même une machine à vieillir."
+            },
+            {
+              "typeTexte": 203,
+              "texte": "Petite fable toute en musique qui met en scène sept petits Anglais, âgés de sept à dix ans Les enfants partent à l'aventure en France et perturbent l'ordre établi pour le plus grand plaisir des spectateurs. À l'occasion de la rétrospective consacrée à Michel Deville, un film étonnant sur l'enfance."
+            }
+          ]
+        },
+        {
+          "idFilm": 140749,
+          "ordre": 10,
+          "idCycle": 421,
+          "idCategorie": 1874,
+          "idEvenement": 18881,
+          "idSeance": 29801,
+          "dateHeure": "2019-03-20T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titreEvenement": "Programme de courts métrages : Animaux en folie !",
+          "titre": "Pez volador",
+          "art": "El",
+          "titreVo": "",
+          "realisateurs": "Pablo Pera",
+          "annee": 2017,
+          "pays": "Uruguay",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+            }
+          ]
+        },
+        {
+          "idFilm": 137200,
+          "ordre": 1,
+          "idSeance": 29280,
+          "idCopie": 17851,
+          "duree": 35,
+          "version": "VF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1871,
+          "idEvenement": 18836,
+          "dateHeure": "2019-05-15T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Quel cirque !",
+          "titreVo": "",
+          "realisateurs": "Bretislav Pojar, Karel Zeman, Zdenek Ostrcil",
+          "annee": 1957,
+          "pays": "République tchèque",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Un programme de courts métrages qui déploie un univers fantaisiste, fait de jouets, de clowns et de cabrioles. Poésie, facétie et inventivité sont les maîtres-mots de ce programme où l'on pourra apprécier l'inventivité des grands noms du cinéma d'animation tchèque."
+            }
+          ]
+        },
+        {
+          "idFilm": 35077,
+          "ordre": 1,
+          "idSeance": 29749,
+          "idCopie": 17730,
+          "duree": 105,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1865,
+          "idEvenement": 18762,
+          "dateHeure": "2019-03-08T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "S.O.S. fantômes",
+          "titreVo": "Ghostbusters",
+          "realisateurs": "Ivan Reitman",
+          "annee": 1984,
+          "pays": "États-Unis",
+          "generique": [
+            "Sigourney Weaver",
+            "Bill Murray",
+            "Dan Aykroyd"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Des scientifiques un peu farfelus se spécialisent dans la chasse aux fantômes. D'abord incrédules, les New- Yorkais vont bientôt en faire des héros. Et ils en auront bien besoin car le terrible Gozer arrive!"
+            }
+          ]
+        },
+        {
+          "idFilm": 132700,
+          "ordre": 2,
+          "idCycle": 421,
+          "idCategorie": 1874,
+          "idEvenement": 18881,
+          "idSeance": 29801,
+          "dateHeure": "2019-03-20T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titreEvenement": "Programme de courts métrages : Animaux en folie !",
+          "titre": "Soupe au caillou",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Clémentine Robach",
+          "annee": 2015,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+            }
+          ]
+        },
+        {
+          "idFilm": 35530,
+          "ordre": 1,
+          "idSeance": 29810,
+          "idCopie": 17943,
+          "duree": 107,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 421,
+          "idCategorie": 1871,
+          "idEvenement": 18830,
+          "dateHeure": "2019-04-28T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Trapeze",
+          "titreVo": "",
+          "realisateurs": "Carol Reed",
+          "annee": 1955,
+          "pays": "États-Unis",
+          "generique": [
+            "Burt Lancaster",
+            "Tony Curtis",
+            "Gina Lollobrigida",
+            "Gabrielle Fontan"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Une ancienne vedette du trapèze, écartée à cause d'une blessure, devient le mentor d'un nouvel acrobate fringuant qui n'a pas froid aux yeux. Tous deux s'entraînent avec persévérance. Parviendront-ils à réaliser le légendaire triple saut sans filet? À l'origine du projet de ce film, le grand Burt Lancaster lui-même, issu du monde des acrobates et du cirque."
+            }
+          ]
+        },
+        {
+          "idFilm": 109356,
+          "ordre": 1,
+          "idSeance": 29758,
+          "idCopie": 17870,
+          "duree": 85,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1865,
+          "idEvenement": 18764,
+          "dateHeure": "2019-02-27T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Treize fantômes",
+          "titreVo": "Thirteen Ghosts",
+          "realisateurs": "William Castle",
+          "annee": 1960,
+          "pays": "États-Unis",
+          "generique": [
+            "Charles Herbert",
+            "Jo Morrow",
+            "Rosemary DeCamp",
+            "Martin Milner"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "La famille du paléontologue Cyrius Zorba hérite d'une maison hantée, ancienne propriété d'un savant fou qui leur lègue également ses lunettes permettant de voir les fantômes. Tout le monde dans la famille n'est pas encore habitué à ce genre d'apparitions. Et vous ?"
+            }
+          ]
+        },
+        {
+          "idFilm": 101619,
+          "ordre": 1,
+          "idSeance": 29815,
+          "idCopie": 17682,
+          "duree": 89,
+          "version": "",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1872,
+          "idEvenement": 18672,
+          "dateHeure": "2019-04-07T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Vacances de Mr. Bean",
+          "art": "Les",
+          "titreVo": "Mr. Bean's holiday",
+          "realisateurs": "Steve Bendelack",
+          "annee": 2006,
+          "pays": "Grande-Bretagne",
+          "generique": [
+            "Rowan Atkinson",
+            "Max Baldry",
+            "Emma de Caunes",
+            "Willem Dafoe"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Mr. Bean a gagné une semaine de vacances sur la Côte d'Azur, et une caméra vidéo. Il quitte son Angleterre natale pour la France."
+            },
+            {
+              "typeTexte": 203,
+              "texte": "Mr. Bean a gagné une semaine de vacances sur la Côte d'Azur et une caméra vidéo. Il quitte son Angleterre natale pour la France. Attention, Mr. Bean débarque!"
+            }
+          ]
+        },
+        {
+          "idFilm": 113052,
+          "ordre": 3,
+          "idSeance": 28854,
+          "idCopie": 17934,
+          "duree": 6,
+          "version": "VO",
+          "format": "16 mm",
+          "valide": 0,
+          "idCycle": 421,
+          "idCategorie": 1865,
+          "idEvenement": 18855,
+          "dateHeure": "2019-03-06T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titreEvenement": "programme de courts métrages : Maisons hantés",
+          "titre": "Voleur invisible",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Segundo de Chomón",
+          "annee": 1909,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Films à trucs des pionniers du cinéma et film d'animation deviennent le terrain de jeu de fantômes en tout genre! Apparitions, disparitions, objets qui se déplacent seuls, le cinéma s'amuse à nous faire croire aux phénomènes les plus invraisemblables."
+            }
+          ]
+        },
+        {
+          "idFilm": 77554,
+          "ordre": 1,
+          "idSeance": 29817,
+          "idCopie": 14720,
+          "duree": 122,
+          "version": "VF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1865,
+          "idEvenement": 18763,
+          "dateHeure": "2019-03-01T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Voyage de Chihiro",
+          "art": "Le",
+          "titreVo": "Sen to Chihiro no kamikakushi",
+          "realisateurs": "Hayao Miyazaki",
+          "annee": 2001,
+          "pays": "Japon",
+          "generique": [
+            "Rumi Hiiragi",
+            "Florine Orphelin",
+            "Mari Natsuki",
+            "Anne Ludovik"
+          ],
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Chihiro et ses parents franchissent sans l'avoir voulu une frontière imaginaire. Ils se retrouvent propulsés dans un monde de fantômes, de sorciers et d'esclaves gouverné par la sorcière Yubaba qu'il leur faudra affronter pour revenir de l'autre côté."
+            }
+          ]
+        },
+        {
+          "idFilm": 48430,
+          "ordre": 1,
+          "idSeance": 29808,
+          "idCopie": 7540,
+          "duree": 110,
+          "version": "",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 421,
+          "idCategorie": 1871,
+          "idEvenement": 18808,
+          "dateHeure": "2019-04-17T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Yoyo",
+          "titreVo": "",
+          "realisateurs": "Pierre Etaix",
+          "annee": 1964,
+          "pays": "France",
+          "generique": [
+            "Pierre Etaix",
+            "Claudine Auger",
+            "Philippe Dionnet",
+            "Luce Klein"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un milliardaire ruiné quitte son grand château triste et blanc pour rejoindre le chapiteau coloré d'un cirque. Là, il retrouve la belle écuyère et leur fils, Yoyo, qui deviendra un clown célèbre. Héritier de la grande tradition clownesque, Pierre Etaix invente un merveilleux personnage d'enfant clown."
+            }
+          ]
+        },
+        {
+          "idFilm": 140735,
+          "ordre": 1,
+          "idSeance": 29801,
+          "idCopie": 17949,
+          "duree": 0,
+          "version": "VF",
+          "format": "DCP",
+          "valide": 0,
+          "idCycle": 421,
+          "idCategorie": 1874,
+          "idEvenement": 18881,
+          "dateHeure": "2019-03-20T15:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titreEvenement": "Programme de courts métrages : Animaux en folie !",
+          "titre": "Zoo",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Nina Heckel",
+          "annee": 2018,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 203,
+              "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "info": {}
+}

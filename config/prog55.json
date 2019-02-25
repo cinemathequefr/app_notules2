@@ -13,6 +13,24 @@
       }]
     },
     {
+      "idCycleProg": 421,
+      "titreCycle": "Séances jeune public",
+      "sousCycles": [{
+        "titre": "Fantômes, poètes et acrobates !",
+        "cats": [1865, 1871, 1872, 1874, 1911],
+        "tri": 4
+      }]
+    },
+    {
+      "idCycleProg": 418,
+      "titreCycle": "Séances spéciales",
+      "sousCycles": [{
+        "titre": "Laurel et Hardy",
+        "cats": [1861],
+        "tri": 1
+      }]
+    },
+    {
       "idCycleProg": 417,
       "titreCycle": "Un week-end avec Jean-Max Causse",
       "sousCycles": [{
@@ -155,11 +173,11 @@
       ]
     },
     {
-      "idCycleProg": 399,
-      "titreCycle": "Toute la mémoire du monde 2019",
+      "idCycleProg": 389,
+      "titreCycle": "L'année 1919",
       "sousCycles": [{
-        "titre": "Hommage à Nicolas Winding Refn",
-        "cats": [1809, 1905, 1906, 1913, 1914, 1915, 1916],
+        "titre": "Les films",
+        "cats": [1748],
         "tri": 1
       }]
     },
@@ -179,6 +197,32 @@
       ]
     },
     {
+      "idCycleProg": 377,
+      "titreCycle": "100 ans de cinéma japonais",
+      "sousCycles": [{
+        "titre": "Une histoire insolite du cinéma japonais",
+        "cats": [1729],
+        "tri": 1
+      }, {
+        "titre": "Des cinéastes contemporains à découvrir",
+        "cats": [1728],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 340,
+      "titreCycle": "Youssef Chahine",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1781],
+        "tri": 1
+      }, {
+        "titre": "Autour de Youssef Chahine",
+        "cats": [1859],
+        "tri": 1
+      }]
+    },
+    {
       "idCycleProg": 192,
       "titreCycle": "Ciné-club Jean Douchet",
       "sousCycles": [{
@@ -193,7 +237,20 @@
       "sousCycles": [{
         "titre": "Les films",
         "cats": [1857],
-        "tri": 1
+        "tri": 4
+      }]
+    },
+    {
+      "idCycleProg": 143,
+      "titreCycle": "Fenêtres sur les collections de la Cinémathèque française",
+      "sousCycles": [{
+        "titre": "Lilian Hall-Davis",
+        "cats": [1879],
+        "tri": 4
+      }, {
+        "titre": "Lumière sur une société méconnue des années 20 : Éclipse",
+        "cats": [1878],
+        "tri": 4
       }]
     },
     {
@@ -202,52 +259,52 @@
       "sousCycles": [{
           "titre": "Émergence 2019",
           "cats": [1895],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Mikael Buch",
           "cats": [1896],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Carte blanche à Eduardo Williams",
           "cats": [1899],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Matthieu Salmon",
           "cats": [1897],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Le nouveau cinéma roumain",
           "cats": [1900],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Marie Losier",
           "cats": [1894],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Marine Atlan",
           "cats": [1898],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Vincent Macaigne",
           "cats": [1891],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Claus Drexel",
           "cats": [1902],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Quentin Papapietro",
           "cats": [1901],
-          "tri": 1
+          "tri": 4
         }
       ]
     },

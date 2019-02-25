@@ -1,0 +1,108 @@
+[
+  {
+    "idCycle": 152,
+    "idCategorie": 1857,
+    "idEvenement": 18775,
+    "idSeance": 29822,
+    "dateHeure": "2019-04-25T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Satyricon",
+    "items": [
+      {
+        "idFilm": 43358,
+        "ordre": 1,
+        "idSeance": 29822,
+        "idCopie": 16653,
+        "duree": 138,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 152,
+    "idCategorie": 1857,
+    "idEvenement": 18773,
+    "idSeance": 29436,
+    "dateHeure": "2019-05-09T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Prédateurs (Les) / Strangulation blues",
+    "items": [
+      {
+        "idFilm": 66323,
+        "ordre": 1,
+        "idSeance": 29436,
+        "idCopie": 17971,
+        "duree": 16,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 36659,
+        "ordre": 2,
+        "idSeance": 29436,
+        "idCopie": 17734,
+        "duree": 97,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 152,
+    "idCategorie": 1857,
+    "idEvenement": 18766,
+    "idSeance": 29294,
+    "dateHeure": "2019-05-16T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Onibaba",
+    "items": [
+      {
+        "idFilm": 38096,
+        "ordre": 1,
+        "idSeance": 29294,
+        "idCopie": 2366,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 152,
+    "idCategorie": 1857,
+    "idEvenement": 18774,
+    "idSeance": 29337,
+    "dateHeure": "2019-05-23T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Duelle",
+    "items": [
+      {
+        "idFilm": 46611,
+        "ordre": 1,
+        "idSeance": 29337,
+        "idCopie": 17735,
+        "duree": 120,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  }
+]

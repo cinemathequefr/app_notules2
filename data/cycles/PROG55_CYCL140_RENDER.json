@@ -8,70 +8,70 @@
         "cats": [
           1895
         ],
-        "tri": 1
+        "tri": 4
       },
       {
         "titre": "Mikael Buch",
         "cats": [
           1896
         ],
-        "tri": 1
+        "tri": 4
       },
       {
         "titre": "Carte blanche à Eduardo Williams",
         "cats": [
           1899
         ],
-        "tri": 1
+        "tri": 4
       },
       {
         "titre": "Matthieu Salmon",
         "cats": [
           1897
         ],
-        "tri": 1
+        "tri": 4
       },
       {
         "titre": "Le nouveau cinéma roumain",
         "cats": [
           1900
         ],
-        "tri": 1
+        "tri": 4
       },
       {
         "titre": "Marie Losier",
         "cats": [
           1894
         ],
-        "tri": 1
+        "tri": 4
       },
       {
         "titre": "Marine Atlan",
         "cats": [
           1898
         ],
-        "tri": 1
+        "tri": 4
       },
       {
         "titre": "Vincent Macaigne",
         "cats": [
           1891
         ],
-        "tri": 1
+        "tri": 4
       },
       {
         "titre": "Claus Drexel",
         "cats": [
           1902
         ],
-        "tri": 1
+        "tri": 4
       },
       {
         "titre": "Quentin Papapietro",
         "cats": [
           1901
         ],
-        "tri": 1
+        "tri": 4
       }
     ],
     "idProg": 55
@@ -79,171 +79,154 @@
   "data": [
     {
       "titreSousCycle": "Émergence 2019",
-      "tri": 1,
+      "tri": 4,
       "items": [
         {
           "idCycle": 140,
-          "idFilm": 140864,
-          "titre": "140 Km à l'ouest du paradis (Rushes)",
-          "titreVo": "",
-          "realisateurs": "Céline Rouzet",
-          "annee": 2018,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 1895,
+          "idEvenement": 18965,
+          "titreEvenement": "Les lauréats emergence 2019 : programme de courts métrages",
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "En 2014, ExxonMobil a commencé à exploiter le gaz naturel dans les Highlands de Papouasie-Nouvelle-Guinée. Des familles ont cédé leurs terres en échange de royalties. Pour le moment, à part des compensations pour la destruction des terrains, rien ne leur a été versé.\n\nCéline Rouzet nous présente des rushes de ce documentaire à venir."
+              "idFilm": 131997,
+              "titre": "Goliath",
+              "titreVo": "",
+              "realisateurs": "Loïc Barche",
+              "annee": 2015,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Nicolas est follement amoureux de Charlotte, une fille qu'il connait à peine et qu'il fantasme à travers les photos qu'elle publie sur Facebook. Accompagné d'un ami, il décide de lui prouver son amour en accomplissant un exploit."
+                }
+              ],
+              "generique": [
+                "Swann Arlaud",
+                "Phénix Brossard"
+              ],
+              "duree": 18,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 140863,
+              "titre": "Un commencement",
+              "titreVo": "",
+              "realisateurs": "Hélène Merlin",
+              "annee": 2014,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "C'est l'histoire d'une histoire d'amour qui commence mal."
+                }
+              ],
+              "duree": 2,
+              "format": "Numérique",
+              "version": "VOSTF",
+              "ordre": 2
+            },
+            {
+              "idFilm": 140862,
+              "titre": "Jour de ton jour",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Steve Achiepo",
+              "annee": 2016,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Blaise a dix ans. Blaise est amoureux. Blaise aime manger. Blaise va mourir. En tout cas, c'est ce qu'il croit."
+                }
+              ],
+              "generique": [
+                "Mamadou Touré",
+                "Issa Diabaté",
+                "Adiatou Sakho"
+              ],
+              "duree": 22,
+              "format": "DCP",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 140860,
+              "titre": "Little Jaffna",
+              "titreVo": "",
+              "realisateurs": "Lawrence Valin",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "En 2009 la guerre au Sri Lanka fait rage. À 10 000 km, dans le quartier tamoul de Paris, Seelan voit son quotidien bouleversé."
+                }
+              ],
+              "duree": 21,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 4
+            },
+            {
+              "idFilm": 140864,
+              "titre": "140 Km à l'ouest du paradis (Rushes)",
+              "titreVo": "",
+              "realisateurs": "Céline Rouzet",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "En 2014, ExxonMobil a commencé à exploiter le gaz naturel dans les Highlands de Papouasie-Nouvelle-Guinée. Des familles ont cédé leurs terres en échange de royalties. Pour le moment, à part des compensations pour la destruction des terrains, rien ne leur a été versé. Céline Rouzet nous présente des rushes de ce documentaire à venir."
+                }
+              ],
+              "ordre": 5
             }
           ],
           "seance": [
             {
-              "idSeance": 28849,
-              "ordre": 5,
-              "idEvenement": 18965,
-              "titreEvenement": "Les lauréats emergence 2019 : programme de courts métrages",
               "dateHeure": "2019-03-04T19:00:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
               ]
             }
-          ],
-          "precedeSuivi": "Film précédé de _Goliath_ de Loïc Barche, _Le Jour de ton jour_ de Steve Achiepo, _Little Jaffna_ de Lawrence Valin, _Un commencement_ de Hélène Merlin."
+          ]
         },
         {
           "idCycle": 140,
-          "idFilm": 131997,
-          "titre": "Goliath",
-          "titreVo": "",
-          "realisateurs": "Loïc Barche",
-          "annee": 2015,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 1895,
+          "idEvenement": 18993,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Nicolas est follement amoureux de Charlotte, une fille qu'il connait à peine et qu'il fantasme à travers les photos qu'elle publie sur Facebook.\n\nAccompagné d'un ami, il décide de lui prouver son amour en accomplissant un exploit."
+              "idFilm": 139518,
+              "titre": "Roulez jeunesse",
+              "titreVo": "",
+              "realisateurs": "Julien Guetta",
+              "annee": 2017,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Alex, 43 ans, est dépanneur automobile dans le garage que dirige d'une main de fer sa mère. Un jour, il dépanne une jeune femme et passe la nuit chez elle, mais au petit matin elle a disparu lui laissant sur les bras trois enfants."
+                }
+              ],
+              "generique": [
+                "Eric Judor",
+                "Laure Calamy",
+                "Brigitte Roüan",
+                "Ilan Debrabant"
+              ],
+              "duree": 84,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Swann Arlaud",
-            "Phénix Brossard"
-          ],
-          "duree": 18,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
-              "idSeance": 28849,
-              "ordre": 1,
-              "idEvenement": 18965,
-              "titreEvenement": "Les lauréats emergence 2019 : programme de courts métrages",
-              "dateHeure": "2019-03-04T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
-            }
-          ],
-          "precedeSuivi": "Film suivi de _140 Km à l'ouest du paradis (Rushes)_ de Céline Rouzet, _Le Jour de ton jour_ de Steve Achiepo, _Little Jaffna_ de Lawrence Valin, _Un commencement_ de Hélène Merlin."
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 140862,
-          "titre": "Jour de ton jour",
-          "art": "Le",
-          "titreVo": "",
-          "realisateurs": "Steve Achiepo",
-          "annee": 2016,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Blaise a dix ans. Blaise est amoureux. Blaise aime manger. Blaise va mourir. En tout cas, c'est ce qu'il croit."
-            }
-          ],
-          "generique": [
-            "Mamadou Touré",
-            "Issa Diabaté",
-            "Adiatou Sakho"
-          ],
-          "duree": 22,
-          "format": "DCP",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 28849,
-              "ordre": 3,
-              "idEvenement": 18965,
-              "titreEvenement": "Les lauréats emergence 2019 : programme de courts métrages",
-              "dateHeure": "2019-03-04T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
-            }
-          ],
-          "precedeSuivi": "Film précédé de _Goliath_ de Loïc Barche, _Un commencement_ de Hélène Merlin et suivi de de _140 Km à l'ouest du paradis (Rushes)_ de Céline Rouzet, _Little Jaffna_ de Lawrence Valin."
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 140860,
-          "titre": "Little Jaffna",
-          "titreVo": "",
-          "realisateurs": "Lawrence Valin",
-          "annee": 2018,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "En 2009 la guerre au Sri Lanka fait rage. À 10 000 km, dans le quartier tamoul de Paris, Seelan voit son quotidien bouleversé."
-            }
-          ],
-          "duree": 21,
-          "format": "DCP",
-          "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 28849,
-              "ordre": 4,
-              "idEvenement": 18965,
-              "titreEvenement": "Les lauréats emergence 2019 : programme de courts métrages",
-              "dateHeure": "2019-03-04T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
-            }
-          ],
-          "precedeSuivi": "Film précédé de _Goliath_ de Loïc Barche, _Le Jour de ton jour_ de Steve Achiepo, _Un commencement_ de Hélène Merlin et suivi de de _140 Km à l'ouest du paradis (Rushes)_ de Céline Rouzet."
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 139518,
-          "titre": "Roulez jeunesse",
-          "titreVo": "",
-          "realisateurs": "Julien Guetta",
-          "annee": 2017,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Alex, 43 ans, est dépanneur automobile dans le garage que dirige d'une main de fer sa mère. Un jour, il dépanne une jeune femme et passe la nuit chez elle, mais au petit matin elle a disparu lui laissant sur les bras trois enfants."
-            }
-          ],
-          "generique": [
-            "Eric Judor",
-            "Laure Calamy",
-            "Brigitte Roüan",
-            "Ilan Debrabant"
-          ],
-          "duree": 84,
-          "format": "DCP",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 29915,
-              "ordre": 1,
-              "idEvenement": 18993,
               "dateHeure": "2019-03-04T21:00:00",
               "idSalle": [
                 "JE",
@@ -251,109 +234,45 @@
               ]
             }
           ]
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 140863,
-          "titre": "Un commencement",
-          "titreVo": "",
-          "realisateurs": "Hélène Merlin",
-          "annee": 2014,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "C'est l'histoire d'une histoire d'amour qui commence mal."
-            }
-          ],
-          "duree": 2,
-          "format": "Numérique",
-          "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 28849,
-              "ordre": 2,
-              "idEvenement": 18965,
-              "titreEvenement": "Les lauréats emergence 2019 : programme de courts métrages",
-              "dateHeure": "2019-03-04T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
-            }
-          ],
-          "precedeSuivi": "Film précédé de _Goliath_ de Loïc Barche et suivi de de _140 Km à l'ouest du paradis (Rushes)_ de Céline Rouzet, _Le Jour de ton jour_ de Steve Achiepo, _Little Jaffna_ de Lawrence Valin."
         }
       ]
     },
     {
       "titreSousCycle": "Mikael Buch",
-      "tri": 1,
+      "tri": 4,
       "items": [
         {
           "idCycle": 140,
-          "idFilm": 31012,
-          "titre": "Broadcast News",
-          "titreVo": "",
-          "realisateurs": "James L. Brooks",
-          "annee": 1987,
-          "pays": "États-Unis",
-          "textes": [
+          "idCategorie": 1896,
+          "idEvenement": 18958,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Jane, une jeune productrice de télévision, est attirée par Tom, le présentateur vedette de sa chaine. Mais Aaron, ami et collègue de travail, est jaloux de la situation. Partagée entre les deux hommes, la jeune femme assiste avec impuissance à la lutte qu'ils mènent pour la séduire..."
+              "idFilm": 137637,
+              "titre": "Simon et Théodore",
+              "titreVo": "",
+              "realisateurs": "Mikael Buch",
+              "annee": 2017,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Simon va bientôt devenir père. Mais comment ce jeune homme hors-normes pourrait-t-il s'occuper de son enfant s'il ne parvient pas à prendre soin de lui ? Sa rencontre avec Théodore, ado attachant et teigneux élevé par sa mère, va sérieusement bouleverser ses... incertitudes."
+                }
+              ],
+              "generique": [
+                "Félix Moati",
+                "Nils Othenin-Girard",
+                "Mélanie Bernier",
+                "Audrey Lamy"
+              ],
+              "duree": 84,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "William Hurt",
-            "Holly Hunter",
-            "John Cusack",
-            "Jack Nicholson"
-          ],
-          "duree": 133,
-          "format": "35 mm",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30340,
-              "ordre": 1,
-              "idEvenement": 18957,
-              "dateHeure": "2019-03-11T21:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
-            }
-          ]
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 137637,
-          "titre": "Simon et Théodore",
-          "titreVo": "",
-          "realisateurs": "Mikael Buch",
-          "annee": 2017,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Simon va bientôt devenir père. Mais comment ce jeune homme hors-normes pourrait-t-il s'occuper de son enfant s'il ne parvient pas à prendre soin de lui ? Sa rencontre avec Théodore, ado attachant et teigneux élevé par sa mère, va sérieusement bouleverser ses... incertitudes."
-            }
-          ],
-          "generique": [
-            "Félix Moati",
-            "Nils Othenin-Girard",
-            "Mélanie Bernier",
-            "Audrey Lamy"
-          ],
-          "duree": 84,
-          "format": "DCP",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 28892,
-              "ordre": 1,
-              "idEvenement": 18958,
               "dateHeure": "2019-03-11T19:00:00",
               "idSalle": [
                 "JE",
@@ -362,366 +281,292 @@
               "mention": "Séance suivie d'une discussion avec Michael Buchanan"
             }
           ]
-        }
-      ]
-    },
-    {
-      "titreSousCycle": "Carte blanche à Eduardo Williams",
-      "tri": 1,
-      "items": [
-        {
-          "idCycle": 140,
-          "idFilm": 140870,
-          "titre": "Altiplano",
-          "titreVo": "",
-          "realisateurs": "Malena Szlam",
-          "annee": 2018,
-          "pays": "Chili-Argentine-Canada",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Au nord du Chili et de l'Argentine se déploient des paysages à couper le souffle. La cinéaste expérimentale Malena Szlam exploite les infinies possibilités de la pellicule pour rendre compte des textures, des perspectives et des chatoiements qui donnent aux horizons de l'Altiplano leur splendeur intimidante."
-            }
-          ],
-          "duree": 16,
-          "format": "Numérique",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 28935,
-              "ordre": 6,
-              "idEvenement": 18971,
-              "titreEvenement": "Carte blanche à Eduardo Williams ",
-              "dateHeure": "2019-03-18T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ],
-              "mention": "Séance présentée par Eduardo Williams"
-            }
-          ],
-          "precedeSuivi": "Film précédé de _Face aux animaux sauvages_ de Jerónimo Quevedo, _Jing li de ren_ de Bo Hu, _Parsi_ d'Eduardo Williams, _Patul lui Procust_ d'Andrian Imparatel, _Y Bera – Aguas de Luz_ de Jessica Sarah Rinland."
         },
         {
           "idCycle": 140,
-          "idFilm": 140866,
-          "titre": "Face aux animaux sauvages",
-          "titreVo": "Enfrentar animales salvajes",
-          "realisateurs": "Jerónimo Quevedo",
-          "annee": 2014,
-          "pays": "Argentine",
-          "textes": [
+          "idCategorie": 1896,
+          "idEvenement": 18957,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Une fable avec des références au « pinochétisme », à la littérature latino-américaine des années 90, au _Tarzan_ de Burroughs, à la télévision, aux dictatures militaires et à la jungle. _« Miss Chile '85 a été kidnappée par Tarzan, roi de la jungle et grand représentant du commando patriotique anti-pinochet »Manuel Rodríguez« . »_"
-            }
-          ],
-          "duree": 7,
-          "format": "Numérique",
-          "version": "VOSTA",
-          "seance": [
-            {
-              "idSeance": 28935,
-              "ordre": 1,
-              "idEvenement": 18971,
-              "titreEvenement": "Carte blanche à Eduardo Williams ",
-              "dateHeure": "2019-03-18T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
+              "idFilm": 31012,
+              "titre": "Broadcast News",
+              "titreVo": "",
+              "realisateurs": "James L. Brooks",
+              "annee": 1987,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Jane, une jeune productrice de télévision, est attirée par Tom, le présentateur vedette de sa chaine. Mais Aaron, ami et collègue de travail, est jaloux de la situation. Partagée entre les deux hommes, la jeune femme assiste avec impuissance à la lutte qu'ils mènent pour la séduire..."
+                }
               ],
-              "mention": "Séance présentée par Eduardo Williams"
-            }
-          ],
-          "precedeSuivi": "Film suivi d'_Altiplano_ de Malena Szlam, _Jing li de ren_ de Bo Hu, _Parsi_ d'Eduardo Williams, _Patul lui Procust_ d'Andrian Imparatel, _Y Bera – Aguas de Luz_ de Jessica Sarah Rinland."
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 140868,
-          "titre": "Jing li de ren",
-          "titreVo": "",
-          "realisateurs": "Bo Hu",
-          "annee": 2017,
-          "pays": "Chine",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Apocalypse. Deux enfants affamés trouvent un cadavre dans les ruines ..."
-            }
-          ],
-          "generique": [
-            "Xiaoqian Zhang",
-            "Yiyi Qu",
-            "Tieguang Gao"
-          ],
-          "duree": 16,
-          "format": "DCP",
-          "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 28935,
-              "ordre": 4,
-              "idEvenement": 18971,
-              "titreEvenement": "Carte blanche à Eduardo Williams ",
-              "dateHeure": "2019-03-18T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
+              "generique": [
+                "William Hurt",
+                "Holly Hunter",
+                "John Cusack",
+                "Jack Nicholson"
               ],
-              "mention": "Séance présentée par Eduardo Williams"
+              "duree": 133,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 1
             }
           ],
-          "precedeSuivi": "Film précédé de _Face aux animaux sauvages_ de Jerónimo Quevedo, _Parsi_ d'Eduardo Williams, _Patul lui Procust_ d'Andrian Imparatel et suivi de d'_Altiplano_ de Malena Szlam, _Y Bera – Aguas de Luz_ de Jessica Sarah Rinland."
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 140865,
-          "titre": "Parsi",
-          "titreVo": "",
-          "realisateurs": "Eduardo Williams",
-          "annee": 2018,
-          "pays": "Argentine",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Le nouveau film du cinéaste argentin Eduardo Williams, adapte partiellement « Ce n'est pas », un poème cumulatif de Mariano Blatt dont le processus d'écriture constant s'étend sur une vie entière. Le texte du poème auquel des versets sont ajoutés au fil des jours, des mois et des années, peut couvrir n'importe quoi: images, personnages, souvenirs, paysages, phrases, idées, etc."
-            }
-          ],
-          "generique": [
-            "Ivandro Cá",
-            "Cris Gomes"
-          ],
-          "duree": 23,
-          "format": "DCP",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 28935,
-              "ordre": 3,
-              "idEvenement": 18971,
-              "titreEvenement": "Carte blanche à Eduardo Williams ",
-              "dateHeure": "2019-03-18T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ],
-              "mention": "Séance présentée par Eduardo Williams"
-            }
-          ],
-          "precedeSuivi": "Film précédé de _Face aux animaux sauvages_ de Jerónimo Quevedo, _Patul lui Procust_ d'Andrian Imparatel et suivi de d'_Altiplano_ de Malena Szlam, _Jing li de ren_ de Bo Hu, _Y Bera – Aguas de Luz_ de Jessica Sarah Rinland."
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 140867,
-          "titre": "Patul lui Procust",
-          "titreVo": "",
-          "realisateurs": "Andrian Imparatel",
-          "annee": 2018,
-          "pays": "Roumanie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Lassé de tous les problèmes auxquels il doit faire face chez lui, Dan décide de passer la nuit chez une vieille connaissance, Ștefan. Leur troublant échange atteint son apogée lorsque l'hospitalité de Ștefan devient très persuasive."
-            }
-          ],
-          "generique": [
-            "Bogdan Salceanu",
-            "Cosmin Stanila"
-          ],
-          "duree": 17,
-          "format": "DCP",
-          "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 28935,
-              "ordre": 2,
-              "idEvenement": 18971,
-              "titreEvenement": "Carte blanche à Eduardo Williams ",
-              "dateHeure": "2019-03-18T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ],
-              "mention": "Séance présentée par Eduardo Williams"
-            }
-          ],
-          "precedeSuivi": "Film précédé de _Face aux animaux sauvages_ de Jerónimo Quevedo et suivi de d'_Altiplano_ de Malena Szlam, _Jing li de ren_ de Bo Hu, _Parsi_ d'Eduardo Williams, _Y Bera – Aguas de Luz_ de Jessica Sarah Rinland."
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 140869,
-          "titre": "Y Bera – Aguas de Luz",
-          "titreVo": "",
-          "realisateurs": "Jessica Sarah Rinland",
-          "annee": 2016,
-          "pays": "Grande-Bretagne",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Des récits de moments variés dans l'histoire humaine, qui décrivent les organismes qui habitent les seconds plus grands marécages au monde."
-            }
-          ],
-          "duree": 10,
-          "format": "Numérique",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 28935,
-              "ordre": 5,
-              "idEvenement": 18971,
-              "titreEvenement": "Carte blanche à Eduardo Williams ",
-              "dateHeure": "2019-03-18T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ],
-              "mention": "Séance présentée par Eduardo Williams"
-            }
-          ],
-          "precedeSuivi": "Film précédé de _Face aux animaux sauvages_ de Jerónimo Quevedo, _Jing li de ren_ de Bo Hu, _Parsi_ d'Eduardo Williams, _Patul lui Procust_ d'Andrian Imparatel et suivi de d'_Altiplano_ de Malena Szlam."
-        }
-      ]
-    },
-    {
-      "titreSousCycle": "Matthieu Salmon",
-      "tri": 1,
-      "items": [
-        {
-          "idCycle": 140,
-          "idFilm": 140859,
-          "titre": "Flexible",
-          "titreVo": "",
-          "realisateurs": "Matthieu Salmon",
-          "annee": 2018,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Laure, célibataire de 35 ans, enchaine les CDD en espérant à chaque fois pérenniser son emploi et décrocher un contrat définitif, mais sans succès. À mesure que ses périodes d'emploi se rétrécissent, ses relations amoureuses empruntent le même chemin."
-            }
-          ],
-          "generique": [
-            "Julie Moulier",
-            "Grâce Seri"
-          ],
-          "duree": 23,
-          "format": "DCP",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 29908,
-              "ordre": 1,
-              "idEvenement": 18956,
-              "dateHeure": "2019-03-18T21:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ],
-              "mention": "Séance présentée par Matthieu Salmon"
-            }
-          ],
-          "precedeSuivi": "Film suivi de _Rêver sous le capitalisme_ de Sophie Bruneau."
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 140556,
-          "titre": "Rêver sous le capitalisme",
-          "titreVo": "",
-          "realisateurs": "Sophie Bruneau",
-          "annee": 2017,
-          "pays": "Belgique",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Douze personnes racontent puis interprètent le souvenir d'un rêve de travail. Ces âmes que l'on malmène décrivent, de façon poétique et politique, leur souffrance subjective au travail. Petit à petit, les rêveurs et leurs rêves font le portrait d'un monde dominé par le capitalisme néolibéral."
-            }
-          ],
-          "duree": 63,
-          "format": "DCP",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 29908,
-              "ordre": 2,
-              "idEvenement": 18956,
-              "dateHeure": "2019-03-18T21:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ],
-              "mention": "Séance présentée par Matthieu Salmon"
-            }
-          ],
-          "precedeSuivi": "Film précédé de _Flexible_ de Matthieu Salmon."
-        }
-      ]
-    },
-    {
-      "titreSousCycle": "Le nouveau cinéma roumain",
-      "tri": 1,
-      "items": [
-        {
-          "idCycle": 140,
-          "idFilm": 131601,
-          "titre": "Dogs",
-          "titreVo": "Caini",
-          "realisateurs": "Bogdan Mirica",
-          "annee": 2015,
-          "pays": "France-Roumanie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Roman est de retour sur les terres de son grand-père qu'il vient de recevoir en héritage. Alors qu'il décide de vendre cette propriété où rien ne pousse, il se trouve confronté à des mafieux dont son aïeul était le chef."
-            }
-          ],
-          "generique": [
-            "Dragos Bucur",
-            "Gheorghe Visu",
-            "Vlad Ivanov"
-          ],
-          "duree": 104,
-          "format": "DCP",
-          "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 29902,
-              "ordre": 1,
-              "idEvenement": 18959,
-              "dateHeure": "2019-03-25T21:15:00",
+              "dateHeure": "2019-03-11T21:30:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Carte blanche à Eduardo Williams",
+      "tri": 4,
+      "items": [
         {
           "idCycle": 140,
-          "idFilm": 140871,
-          "titre": "Histoire d'un fainéant",
-          "art": "L'",
-          "titreVo": "Povestea unui pierde-vara",
-          "realisateurs": "Paul Negoescu",
-          "annee": 2018,
-          "pays": "Roumanie",
-          "textes": [
+          "idCategorie": 1899,
+          "idEvenement": 18971,
+          "titreEvenement": "Carte blanche à Eduardo Williams ",
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Petru est un enseignant de mathématiques à l'Université Politehnica de Bucarest et il mène une vie sans soucis. Il a une relation ouverte avec Irina, qui accepte qu'il couche aussi avec d'autres femmes. Mais Irina tombe enceinte et Petru est obligé de changer son style de vie et de devenir mature à 42 ans. Un de ses amis, dont il a toujours été proche, décide d'écrire un livre au sujet de sa vie."
+              "idFilm": 140866,
+              "titre": "Face aux animaux sauvages",
+              "titreVo": "Enfrentar animales salvajes",
+              "realisateurs": "Jerónimo Quevedo",
+              "annee": 2014,
+              "pays": "Argentine",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une fable avec des références au « pinochétisme », à la littérature latino-américaine des années 90, au _Tarzan_ de Burroughs, à la télévision, aux dictatures militaires et à la jungle. _« Miss Chile '85 a été kidnappée par Tarzan, roi de la jungle et grand représentant du commando patriotique anti-pinochet »Manuel Rodríguez« . »_"
+                }
+              ],
+              "duree": 7,
+              "format": "Numérique",
+              "version": "VOSTA",
+              "ordre": 1
+            },
+            {
+              "idFilm": 140867,
+              "titre": "Patul lui Procust",
+              "titreVo": "",
+              "realisateurs": "Andrian Imparatel",
+              "annee": 2018,
+              "pays": "Roumanie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Lassé de tous les problèmes auxquels il doit faire face chez lui, Dan décide de passer la nuit chez une vieille connaissance, Ștefan. Leur troublant échange atteint son apogée lorsque l'hospitalité de Ștefan devient très persuasive."
+                }
+              ],
+              "generique": [
+                "Bogdan Salceanu",
+                "Cosmin Stanila"
+              ],
+              "duree": 17,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 2
+            },
+            {
+              "idFilm": 140865,
+              "titre": "Parsi",
+              "titreVo": "",
+              "realisateurs": "Eduardo Williams",
+              "annee": 2018,
+              "pays": "Argentine",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Le nouveau film du cinéaste argentin Eduardo Williams, adapte partiellement « Ce n'est pas », un poème cumulatif de Mariano Blatt dont le processus d'écriture constant s'étend sur une vie entière. Le texte du poème auquel des versets sont ajoutés au fil des jours, des mois et des années, peut couvrir n'importe quoi: images, personnages, souvenirs, paysages, phrases, idées, etc."
+                }
+              ],
+              "generique": [
+                "Ivandro Cá",
+                "Cris Gomes"
+              ],
+              "duree": 23,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 3
+            },
+            {
+              "idFilm": 140868,
+              "titre": "Jing li de ren",
+              "titreVo": "",
+              "realisateurs": "Bo Hu",
+              "annee": 2017,
+              "pays": "Chine",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Apocalypse. Deux enfants affamés trouvent un cadavre dans les ruines ..."
+                }
+              ],
+              "generique": [
+                "Xiaoqian Zhang",
+                "Yiyi Qu",
+                "Tieguang Gao"
+              ],
+              "duree": 16,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 4
+            },
+            {
+              "idFilm": 140869,
+              "titre": "Y Bera – Aguas de Luz",
+              "titreVo": "",
+              "realisateurs": "Jessica Sarah Rinland",
+              "annee": 2016,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Des récits de moments variés dans l'histoire humaine, qui décrivent les organismes qui habitent les seconds plus grands marécages au monde."
+                }
+              ],
+              "duree": 10,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 5
+            },
+            {
+              "idFilm": 140870,
+              "titre": "Altiplano",
+              "titreVo": "",
+              "realisateurs": "Malena Szlam",
+              "annee": 2018,
+              "pays": "Chili-Argentine-Canada",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Au nord du Chili et de l'Argentine se déploient des paysages à couper le souffle. La cinéaste expérimentale Malena Szlam exploite les infinies possibilités de la pellicule pour rendre compte des textures, des perspectives et des chatoiements qui donnent aux horizons de l'Altiplano leur splendeur intimidante."
+                }
+              ],
+              "duree": 16,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 6
             }
           ],
-          "generique": [
-            "Adrian Anghel",
-            "Iulia Ciochina"
-          ],
-          "duree": 100,
-          "format": "DCP",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 29652,
-              "ordre": 1,
-              "idEvenement": 18972,
+              "dateHeure": "2019-03-18T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Séance présentée par Eduardo Williams"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Matthieu Salmon",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 140,
+          "idCategorie": 1897,
+          "idEvenement": 18956,
+          "films": [
+            {
+              "idFilm": 140859,
+              "titre": "Flexible",
+              "titreVo": "",
+              "realisateurs": "Matthieu Salmon",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Laure, célibataire de 35 ans, enchaine les CDD en espérant à chaque fois pérenniser son emploi et décrocher un contrat définitif, mais sans succès. À mesure que ses périodes d'emploi se rétrécissent, ses relations amoureuses empruntent le même chemin."
+                }
+              ],
+              "generique": [
+                "Julie Moulier",
+                "Grâce Seri"
+              ],
+              "duree": 23,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 140556,
+              "titre": "Rêver sous le capitalisme",
+              "titreVo": "",
+              "realisateurs": "Sophie Bruneau",
+              "annee": 2017,
+              "pays": "Belgique",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Douze personnes racontent puis interprètent le souvenir d'un rêve de travail. Ces âmes que l'on malmène décrivent, de façon poétique et politique, leur souffrance subjective au travail. Petit à petit, les rêveurs et leurs rêves font le portrait d'un monde dominé par le capitalisme néolibéral."
+                }
+              ],
+              "duree": 63,
+              "format": "DCP",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-03-18T21:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Séance présentée par Matthieu Salmon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Le nouveau cinéma roumain",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 140,
+          "idCategorie": 1900,
+          "idEvenement": 18972,
+          "films": [
+            {
+              "idFilm": 140871,
+              "titre": "Histoire d'un fainéant",
+              "art": "L'",
+              "titreVo": "Povestea unui pierde-vara",
+              "realisateurs": "Paul Negoescu",
+              "annee": 2018,
+              "pays": "Roumanie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Petru est un enseignant de mathématiques à l'Université Politehnica de Bucarest et il mène une vie sans soucis. Il a une relation ouverte avec Irina, qui accepte qu'il couche aussi avec d'autres femmes. Mais Irina tombe enceinte et Petru est obligé de changer son style de vie et de devenir mature à 42 ans. Un de ses amis, dont il a toujours été proche, décide d'écrire un livre au sujet de sa vie."
+                }
+              ],
+              "generique": [
+                "Adrian Anghel",
+                "Iulia Ciochina"
+              ],
+              "duree": 100,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
               "dateHeure": "2019-03-25T19:00:00",
               "idSalle": [
                 "JE",
@@ -730,35 +575,78 @@
               "mention": "Séance présentée par Paul Negoescu"
             }
           ]
+        },
+        {
+          "idCycle": 140,
+          "idCategorie": 1900,
+          "idEvenement": 18959,
+          "films": [
+            {
+              "idFilm": 131601,
+              "titre": "Dogs",
+              "titreVo": "Caini",
+              "realisateurs": "Bogdan Mirica",
+              "annee": 2015,
+              "pays": "France-Roumanie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Roman est de retour sur les terres de son grand-père qu'il vient de recevoir en héritage. Alors qu'il décide de vendre cette propriété où rien ne pousse, il se trouve confronté à des mafieux dont son aïeul était le chef."
+                }
+              ],
+              "generique": [
+                "Dragos Bucur",
+                "Gheorghe Visu",
+                "Vlad Ivanov"
+              ],
+              "duree": 104,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-03-25T21:15:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
         }
       ]
     },
     {
       "titreSousCycle": "Marie Losier",
-      "tri": 1,
+      "tri": 4,
       "items": [
         {
           "idCycle": 140,
-          "idFilm": 140504,
-          "titre": "Cassandro the exotico !",
-          "titreVo": "",
-          "realisateurs": "Marie Losier",
-          "annee": 2017,
-          "pays": "France-Suisse",
-          "textes": [
+          "idCategorie": 1894,
+          "idEvenement": 18952,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Cassandro est une star incontournable de la Lucha Libre. Il est le roi des Exóticos, ces catcheurs mexicains travestis. Maintes fois Champion du Monde, il pousse son corps aux limites du possible. Après 26 ans de vols planés sur le ring, Cassandro est en miettes. Il ne veut cependant pas s'arrêter ni s'éloigner du feu des projecteurs."
+              "idFilm": 140504,
+              "titre": "Cassandro the exotico !",
+              "titreVo": "",
+              "realisateurs": "Marie Losier",
+              "annee": 2017,
+              "pays": "France-Suisse",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Cassandro est une star incontournable de la Lucha Libre. Il est le roi des Exóticos, ces catcheurs mexicains travestis. Maintes fois Champion du Monde, il pousse son corps aux limites du possible. Après 26 ans de vols planés sur le ring, Cassandro est en miettes. Il ne veut cependant pas s'arrêter ni s'éloigner du feu des projecteurs."
+                }
+              ],
+              "duree": 73,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
             }
           ],
-          "duree": 73,
-          "format": "DCP",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 29756,
-              "ordre": 1,
-              "idEvenement": 18952,
               "dateHeure": "2019-04-08T19:00:00",
               "idSalle": [
                 "JE",
@@ -770,26 +658,30 @@
         },
         {
           "idCycle": 140,
-          "idFilm": 56070,
-          "titre": "Pour la suite du monde",
-          "titreVo": "",
-          "realisateurs": "Pierre Perrault, Michel Brault",
-          "annee": 1962,
-          "pays": "Canada",
-          "textes": [
+          "idCategorie": 1894,
+          "idEvenement": 18987,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Une pêche au marsouin abandonnée depuis trente-huit ans est reconstituée pour le film par les habitants de l'Ile-aux-Coudres."
+              "idFilm": 56070,
+              "titre": "Pour la suite du monde",
+              "titreVo": "",
+              "realisateurs": "Pierre Perrault, Michel Brault",
+              "annee": 1962,
+              "pays": "Canada",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une pêche au marsouin abandonnée depuis trente-huit ans est reconstituée pour le film par les habitants de l'Ile-aux-Coudres."
+                }
+              ],
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 1
             }
           ],
-          "duree": 105,
-          "format": "35 mm",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 29906,
-              "ordre": 1,
-              "idEvenement": 18987,
               "dateHeure": "2019-04-08T21:15:00",
               "idSalle": [
                 "JE",
@@ -803,37 +695,65 @@
     },
     {
       "titreSousCycle": "Marine Atlan",
-      "tri": 1,
+      "tri": 4,
       "items": [
         {
           "idCycle": 140,
-          "idFilm": 140858,
-          "titre": "Daniel fait face",
-          "titreVo": "",
-          "realisateurs": "Marine Atlan",
-          "annee": 2018,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 1898,
+          "idEvenement": 18955,
+          "titreEvenement": "Daniel fait face / Rentrée des classes",
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Tandis que sa classe se prépare pour la répétition générale d'un spectacle de fin d'année, Daniel, 10 ans, s'égare dans les couloirs de l'école. Il surprend alors Marthe dans les vestiaires. Entre les deux enfants un nouveau lien va se nouer."
+              "idFilm": 67926,
+              "titre": "Rentrée des classes",
+              "titreVo": "",
+              "realisateurs": "Jacques Rozier",
+              "annee": 1955,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "C'est le jour de la rentrée des classes dans un petit village du Var. René n'a pas fait ses devoirs de vacances: il jette son cartable à la rivière et part faire l'école buissonnière."
+                }
+              ],
+              "generique": [
+                "René Boglio",
+                "Marius Sumian",
+                "Léon Sauve",
+                "Jean Rémy"
+              ],
+              "duree": 24,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 140858,
+              "titre": "Daniel fait face",
+              "titreVo": "",
+              "realisateurs": "Marine Atlan",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Tandis que sa classe se prépare pour la répétition générale d'un spectacle de fin d'année, Daniel, 10 ans, s'égare dans les couloirs de l'école. Il surprend alors Marthe dans les vestiaires. Entre les deux enfants un nouveau lien va se nouer."
+                }
+              ],
+              "generique": [
+                "Théo Polgar",
+                "Madeleine Follacci",
+                "Aurélien Gabrielli",
+                "Emmanuelle Cuau"
+              ],
+              "duree": 59,
+              "format": "DCP",
+              "version": "",
+              "ordre": 2
             }
           ],
-          "generique": [
-            "Théo Polgar",
-            "Madeleine Follacci",
-            "Aurélien Gabrielli",
-            "Emmanuelle Cuau"
-          ],
-          "duree": 59,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
-              "idSeance": 29907,
-              "ordre": 2,
-              "idEvenement": 18955,
-              "titreEvenement": "Daniel fait face / Rentrée des classes",
               "dateHeure": "2019-04-15T20:00:00",
               "idSalle": [
                 "JE",
@@ -841,118 +761,46 @@
               ],
               "mention": "Séance présentée par Marine Atlan"
             }
-          ],
-          "precedeSuivi": "Film précédé de _Rentrée des classes_ de Jacques Rozier."
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 67926,
-          "titre": "Rentrée des classes",
-          "titreVo": "",
-          "realisateurs": "Jacques Rozier",
-          "annee": 1955,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "C'est le jour de la rentrée des classes dans un petit village du Var. René n'a pas fait ses devoirs de vacances: il jette son cartable à la rivière et part faire l'école buissonnière."
-            }
-          ],
-          "generique": [
-            "René Boglio",
-            "Marius Sumian",
-            "Léon Sauve",
-            "Jean Rémy"
-          ],
-          "duree": 24,
-          "format": "DCP",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 29907,
-              "ordre": 1,
-              "idEvenement": 18955,
-              "titreEvenement": "Daniel fait face / Rentrée des classes",
-              "dateHeure": "2019-04-15T20:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ],
-              "mention": "Séance présentée par Marine Atlan"
-            }
-          ],
-          "precedeSuivi": "Film suivi de _Daniel fait face_ de Marine Atlan."
+          ]
         }
       ]
     },
     {
       "titreSousCycle": "Vincent Macaigne",
-      "tri": 1,
+      "tri": 4,
       "items": [
         {
           "idCycle": 140,
-          "idFilm": 41617,
-          "titre": "Naked",
-          "titreVo": "",
-          "realisateurs": "Mike Leigh",
-          "annee": 1992,
-          "pays": "Grande-Bretagne",
-          "textes": [
+          "idCategorie": 1891,
+          "idEvenement": 18939,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Johnny ne sait plus qui il est vraiment. En pleine dérive, il est obligé de partir loin de Manchester, sa ville natale."
-            }
-          ],
-          "generique": [
-            "David Thewlis",
-            "Lesley Sharp",
-            "Claire Skinner"
-          ],
-          "duree": 126,
-          "format": "35 mm",
-          "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 29887,
-              "ordre": 1,
-              "idEvenement": 18940,
-              "dateHeure": "2019-04-29T21:15:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
+              "idFilm": 137362,
+              "titre": "Pour le réconfort",
+              "titreVo": "",
+              "realisateurs": "Vincent Macaigne",
+              "annee": 2013,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Pascal et Pauline reviennent sur les terres de leurs parents après des années de voyage, et se retrouvent dans l'impossibilité de payer les traites du domaine. Ils se confrontent à leurs amis d'enfance qui eux, d'origine modeste, n'ont jamais quitté leur campagne. Et à Emmanuel surtout, qui veut racheter leur terrain au meilleur prix pour l'expansion de ses maisons de retraite. Entre les amitiés d'hier et les envies de demain, la guerre aura-t-elle lieu ?"
+                }
               ],
-              "mention": "Séance présentée par Vincent Macaigne"
-            }
-          ]
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 137362,
-          "titre": "Pour le réconfort",
-          "titreVo": "",
-          "realisateurs": "Vincent Macaigne",
-          "annee": 2013,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Pascal et Pauline reviennent sur les terres de leurs parents après des années de voyage, et se retrouvent dans l'impossibilité de payer les traites du domaine. Ils se confrontent à leurs amis d'enfance qui eux, d'origine modeste, n'ont jamais quitté leur campagne. Et à Emmanuel surtout, qui veut racheter leur terrain au meilleur prix pour l'expansion de ses maisons de retraite. Entre les amitiés d'hier et les envies de demain, la guerre aura-t-elle lieu ?"
+              "generique": [
+                "Pauline Lorillard",
+                "Pascal Rénéric",
+                "Emmanuel Matte",
+                "Laurent Papot"
+              ],
+              "duree": 91,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Pauline Lorillard",
-            "Pascal Rénéric",
-            "Emmanuel Matte",
-            "Laurent Papot"
-          ],
-          "duree": 91,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
-              "idSeance": 29193,
-              "ordre": 1,
-              "idEvenement": 18939,
               "dateHeure": "2019-04-29T19:00:00",
               "idSalle": [
                 "JE",
@@ -961,35 +809,79 @@
               "mention": "Séance suivie d'une discussion avec Vincent Macaigne"
             }
           ]
+        },
+        {
+          "idCycle": 140,
+          "idCategorie": 1891,
+          "idEvenement": 18940,
+          "films": [
+            {
+              "idFilm": 41617,
+              "titre": "Naked",
+              "titreVo": "",
+              "realisateurs": "Mike Leigh",
+              "annee": 1992,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Johnny ne sait plus qui il est vraiment. En pleine dérive, il est obligé de partir loin de Manchester, sa ville natale."
+                }
+              ],
+              "generique": [
+                "David Thewlis",
+                "Lesley Sharp",
+                "Claire Skinner"
+              ],
+              "duree": 126,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-04-29T21:15:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Séance présentée par Vincent Macaigne"
+            }
+          ]
         }
       ]
     },
     {
       "titreSousCycle": "Claus Drexel",
-      "tri": 1,
+      "tri": 4,
       "items": [
         {
           "idCycle": 140,
-          "idFilm": 138491,
-          "titre": "America",
-          "titreVo": "",
-          "realisateurs": "Claus Drexel",
-          "annee": 2017,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 1902,
+          "idEvenement": 18985,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Novembre 2016 : les États-Unis s'apprêtent à élire leur nouveau président. Plongée au cœur de l'Arizona, à la rencontre des habitants d'une petite ville traversée par la Route 66, les héritiers du rêve américain nous livrent leurs espoirs et leurs craintes."
+              "idFilm": 138491,
+              "titre": "America",
+              "titreVo": "",
+              "realisateurs": "Claus Drexel",
+              "annee": 2017,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Novembre 2016 : les États-Unis s'apprêtent à élire leur nouveau président. Plongée au cœur de l'Arizona, à la rencontre des habitants d'une petite ville traversée par la Route 66, les héritiers du rêve américain nous livrent leurs espoirs et leurs craintes."
+                }
+              ],
+              "duree": 82,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
             }
           ],
-          "duree": 82,
-          "format": "DCP",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 29905,
-              "ordre": 1,
-              "idEvenement": 18985,
               "dateHeure": "2019-05-06T19:00:00",
               "idSalle": [
                 "JE",
@@ -1000,33 +892,37 @@
         },
         {
           "idCycle": 140,
-          "idFilm": 39769,
-          "titre": "Ballade de Bruno",
-          "art": "La",
-          "titreVo": "Stroszek",
-          "realisateurs": "Werner Herzog",
-          "annee": 1976,
-          "pays": "RFA",
-          "textes": [
+          "idCategorie": 1902,
+          "idEvenement": 18986,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Bruno sort de prison. Il rencontre Eva, une prostituée brutalisée par ses proxénètes. Ces deux être malmenés par la vie se lient d'amitié et Bruno la recueille sous son toit."
+              "idFilm": 39769,
+              "titre": "Ballade de Bruno",
+              "art": "La",
+              "titreVo": "Stroszek",
+              "realisateurs": "Werner Herzog",
+              "annee": 1976,
+              "pays": "RFA",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Bruno sort de prison. Il rencontre Eva, une prostituée brutalisée par ses proxénètes. Ces deux être malmenés par la vie se lient d'amitié et Bruno la recueille sous son toit."
+                }
+              ],
+              "generique": [
+                "Bruno S.",
+                "Eva Mattes",
+                "Clemens Scheitz",
+                "Wilhelm von Homburg"
+              ],
+              "duree": 107,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Bruno S.",
-            "Eva Mattes",
-            "Clemens Scheitz",
-            "Wilhelm von Homburg"
-          ],
-          "duree": 107,
-          "format": "DCP",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 29904,
-              "ordre": 1,
-              "idEvenement": 18986,
               "dateHeure": "2019-05-06T21:15:00",
               "idSalle": [
                 "JE",
@@ -1040,35 +936,110 @@
     },
     {
       "titreSousCycle": "Quentin Papapietro",
-      "tri": 1,
+      "tri": 4,
       "items": [
         {
           "idCycle": 140,
-          "idFilm": 140872,
-          "titre": "En fumée",
-          "titreVo": "",
-          "realisateurs": "Quentin Papapietro",
-          "annee": 2018,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 1901,
+          "idEvenement": 18983,
+          "titreEvenement": "Quentin Papapietro : programme de courts métrages",
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "La France en 2015. Une population désillusionnée répond tant bien que mal à l'avènement d'un nouvel ordre libéral. Boris et Alexis vivent l'un sur l'autre dans un minuscule appartement parisien. Loin de Paris et de ces préoccupations, l'artiste rêveur Pierre se réfugie dans l'écriture d'un opéra basé sur le mythe d'Orphée et Eurydice, avec comme faux espoir la possibilité d'échapper au souvenir d'Adelia, une étudiante parisienne blasée par ses discours amoureux."
+              "idFilm": 140879,
+              "titre": "Gros lapin",
+              "titreVo": "",
+              "realisateurs": "Quentin Papapietro",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Dans le métro, un homme aborde une jeune femme catalane qui a un gros lapin dans les bras. Il lui propose de prendre rendez-vous pour le casting d'un film."
+                }
+              ],
+              "generique": [
+                "Hugues Perrot",
+                "Victor Bournerias",
+                "Louis Seguin",
+                "Judit Naranjo Ribó"
+              ],
+              "duree": 12,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 140878,
+              "titre": "Retour à Royan",
+              "titreVo": "",
+              "realisateurs": "Quentin Papapietro",
+              "annee": 2013,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Jeannot est de retour à Royan pour rendre visite à la pédiatre qui l'avait soigné autrefois. Grâce à son ami Pierre, il fait la rencontre d'une élégante guide touristique."
+                }
+              ],
+              "generique": [
+                "Isabelle Guérin",
+                "Raphaël Ceriez"
+              ],
+              "duree": 13,
+              "format": "DCP",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 140880,
+              "titre": "Sophisticated French",
+              "art": "The",
+              "titreVo": "",
+              "realisateurs": "Quentin Papapietro",
+              "annee": 2012,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Pierre débarque à New York à la recherche insensée de son ex-petite amie. Gaffeur et maladroit, il a bien du mal à s'adapter aux us et aux coutumes du nouveau monde..."
+                }
+              ],
+              "generique": [
+                "Quentin Papapietro",
+                "Tyler Gumb",
+                "Angela Stach",
+                "Kat knight"
+              ],
+              "duree": 22,
+              "format": "DCP",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 140877,
+              "titre": "Un chien qui chante",
+              "titreVo": "",
+              "realisateurs": "Quentin Papapietro",
+              "annee": 2014,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un jeune homme part à la recherche du chien qui chante, au Canada. Son petit neveu fait preuve de scepticisme."
+                }
+              ],
+              "generique": [
+                "Quentin Papapietro"
+              ],
+              "duree": 12,
+              "format": "DCP",
+              "version": "",
+              "ordre": 4
             }
           ],
-          "generique": [
-            "Victor Bournerias",
-            "Hugues Perrot"
-          ],
-          "duree": 75,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
-              "idSeance": 29279,
-              "ordre": 1,
-              "idEvenement": 18973,
-              "dateHeure": "2019-05-13T21:00:00",
+              "dateHeure": "2019-05-13T19:00:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
@@ -1079,155 +1050,42 @@
         },
         {
           "idCycle": 140,
-          "idFilm": 140879,
-          "titre": "Gros lapin",
-          "titreVo": "",
-          "realisateurs": "Quentin Papapietro",
-          "annee": 2018,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 1901,
+          "idEvenement": 18973,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Dans le métro, un homme aborde une jeune femme catalane qui a un gros lapin dans les bras. Il lui propose de prendre rendez-vous pour le casting d'un film."
+              "idFilm": 140872,
+              "titre": "En fumée",
+              "titreVo": "",
+              "realisateurs": "Quentin Papapietro",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "La France en 2015. Une population désillusionnée répond tant bien que mal à l'avènement d'un nouvel ordre libéral. Boris et Alexis vivent l'un sur l'autre dans un minuscule appartement parisien. Loin de Paris et de ces préoccupations, l'artiste rêveur Pierre se réfugie dans l'écriture d'un opéra basé sur le mythe d'Orphée et Eurydice, avec comme faux espoir la possibilité d'échapper au souvenir d'Adelia, une étudiante parisienne blasée par ses discours amoureux."
+                }
+              ],
+              "generique": [
+                "Victor Bournerias",
+                "Hugues Perrot"
+              ],
+              "duree": 75,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Hugues Perrot",
-            "Victor Bournerias",
-            "Louis Seguin",
-            "Judit Naranjo Ribó"
-          ],
-          "duree": 12,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
-              "idSeance": 29903,
-              "ordre": 1,
-              "idEvenement": 18983,
-              "titreEvenement": "Quentin Papapietro : programme de courts métrages",
-              "dateHeure": "2019-05-13T19:00:00",
+              "dateHeure": "2019-05-13T21:00:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
               ],
               "mention": "Séance présentée par Quentin Papapietro"
             }
-          ],
-          "precedeSuivi": "Film suivi de _Retour à Royan_ de Quentin Papapietro, _The Sophisticated French_ de Quentin Papapietro, _Un chien qui chante_ de Quentin Papapietro."
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 140878,
-          "titre": "Retour à Royan",
-          "titreVo": "",
-          "realisateurs": "Quentin Papapietro",
-          "annee": 2013,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Jeannot est de retour à Royan pour rendre visite à la pédiatre qui l'avait soigné autrefois. Grâce à son ami Pierre, il fait la rencontre d'une élégante guide touristique."
-            }
-          ],
-          "generique": [
-            "Isabelle Guérin",
-            "Raphaël Ceriez"
-          ],
-          "duree": 13,
-          "format": "DCP",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 29903,
-              "ordre": 2,
-              "idEvenement": 18983,
-              "titreEvenement": "Quentin Papapietro : programme de courts métrages",
-              "dateHeure": "2019-05-13T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ],
-              "mention": "Séance présentée par Quentin Papapietro"
-            }
-          ],
-          "precedeSuivi": "Film précédé de _Gros lapin_ de Quentin Papapietro et suivi de de _The Sophisticated French_ de Quentin Papapietro, _Un chien qui chante_ de Quentin Papapietro."
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 140880,
-          "titre": "Sophisticated French",
-          "art": "The",
-          "titreVo": "",
-          "realisateurs": "Quentin Papapietro",
-          "annee": 2012,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Pierre débarque à New York à la recherche insensée de son ex-petite amie. Gaffeur et maladroit, il a bien du mal à s'adapter aux us et aux coutumes du nouveau monde..."
-            }
-          ],
-          "generique": [
-            "Quentin Papapietro",
-            "Tyler Gumb",
-            "Angela Stach",
-            "Kat knight"
-          ],
-          "duree": 22,
-          "format": "DCP",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 29903,
-              "ordre": 3,
-              "idEvenement": 18983,
-              "titreEvenement": "Quentin Papapietro : programme de courts métrages",
-              "dateHeure": "2019-05-13T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ],
-              "mention": "Séance présentée par Quentin Papapietro"
-            }
-          ],
-          "precedeSuivi": "Film précédé de _Gros lapin_ de Quentin Papapietro, _Retour à Royan_ de Quentin Papapietro et suivi de d'_Un chien qui chante_ de Quentin Papapietro."
-        },
-        {
-          "idCycle": 140,
-          "idFilm": 140877,
-          "titre": "Un chien qui chante",
-          "titreVo": "",
-          "realisateurs": "Quentin Papapietro",
-          "annee": 2014,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Un jeune homme part à la recherche du chien qui chante, au Canada. Son petit neveu fait preuve de scepticisme."
-            }
-          ],
-          "generique": [
-            "Quentin Papapietro"
-          ],
-          "duree": 12,
-          "format": "DCP",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 29903,
-              "ordre": 4,
-              "idEvenement": 18983,
-              "titreEvenement": "Quentin Papapietro : programme de courts métrages",
-              "dateHeure": "2019-05-13T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ],
-              "mention": "Séance présentée par Quentin Papapietro"
-            }
-          ],
-          "precedeSuivi": "Film précédé de _Gros lapin_ de Quentin Papapietro, _Retour à Royan_ de Quentin Papapietro, _The Sophisticated French_ de Quentin Papapietro."
+          ]
         }
       ]
     }

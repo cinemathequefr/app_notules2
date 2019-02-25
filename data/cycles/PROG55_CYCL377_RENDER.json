@@ -1,0 +1,1015 @@
+{
+  "header": {
+    "idCycleProg": 377,
+    "titreCycle": "100 ans de cinéma japonais",
+    "sousCycles": [
+      {
+        "titre": "Une histoire insolite du cinéma japonais",
+        "cats": [
+          1729
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Des cinéastes contemporains à découvrir",
+        "cats": [
+          1728
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 55
+  },
+  "data": [
+    {
+      "titreSousCycle": "Une histoire insolite du cinéma japonais",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 378,
+          "idFilm": 57801,
+          "titre": "Ballade de Tsugaru",
+          "art": "La",
+          "titreVo": "Tsugaru jongarabushi",
+          "realisateurs": "Koichi Saito",
+          "annee": 1973,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une hôtesse de bar de Tokyo est en fuite avec son amant dont la tête est mise à prix pour avoir tué un chef de gang. Elle l'emmène dans un village de pêcheurs à Tsugaru, le temps que ses ennemis l'oublient, et avec l'espoir de fonder une famille."
+            }
+          ],
+          "generique": [
+            "Kyoko Enami",
+            "Akira Oda",
+            "Mihoko Nakagawa",
+            "Kô Nishimura"
+          ],
+          "duree": 103,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28932,
+              "ordre": 1,
+              "idEvenement": 17793,
+              "dateHeure": "2019-03-18T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 38167,
+          "titre": "Cache-cache pastoral",
+          "titreVo": "Den'en ni shisu",
+          "realisateurs": "Shuji Terayama",
+          "annee": 1974,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Racontant son enfance dans le film qu'il est en train de tourner, un cinéaste part à la recherche de son passé perdu et regrette de n'avoir pu tuer sa mère, trop présente dans sa vie. Il essaie à nouveau, mais ne peut accomplir le meurtre libérateur."
+            }
+          ],
+          "generique": [
+            "Kantaro Suga",
+            "Kaoru Yachigusa",
+            "Masumi Harukawa",
+            "Keiko Niitaka"
+          ],
+          "duree": 100,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28933,
+              "ordre": 1,
+              "idEvenement": 17794,
+              "dateHeure": "2019-03-18T19:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 104544,
+          "titre": "En attendant la fête",
+          "titreVo": "Matsuri no junbi",
+          "realisateurs": "Kazuo Kuroki",
+          "annee": 1975,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le récit d'un jeune provincial rêvant de monter à la capitale mais se heurtant à le complexité des liens sociaux typiques du Japon rural, et à la déconstruction du mythe de la culture du consensus."
+            }
+          ],
+          "generique": [
+            "Jun Eto",
+            "Keiko Takeshita",
+            "Haruko Mabuchi",
+            "Hajime Hana"
+          ],
+          "duree": 117,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28876,
+              "ordre": 1,
+              "idEvenement": 17795,
+              "dateHeure": "2019-03-09T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 139734,
+          "titre": "Femme de là-bas",
+          "art": "La",
+          "titreVo": "Sono basho ni onna arite",
+          "realisateurs": "Hideo Suzuki",
+          "annee": 1962,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une jeune employée d'une grande revue japonaise cherche à signer un contrat publicitaire avec une importante industrie pharmaceutique. Son chemin croise celui du représentant d'un journal rival qui se rapproche d'elle pour débaucher son concepteur."
+            }
+          ],
+          "generique": [
+            "Yoko Tsukasa",
+            "Akira Takarada",
+            "Kumi Mizuno",
+            "Chisako Hara"
+          ],
+          "duree": 94,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29480,
+              "ordre": 1,
+              "idEvenement": 17784,
+              "dateHeure": "2019-03-06T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 117979,
+          "titre": "Goût du tofu",
+          "art": "Le",
+          "titreVo": "Tôkyô kyôdai",
+          "realisateurs": "Jun Ichikawa",
+          "annee": 1994,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un frère et une sœur vivent ensemble dans la maison familiale. Kenichi, trentenaire, est fiancé mais refuse de se marier avant Yoko qui n'a pourtant que vingt ans. Sa fiancée décide de rompre, au moment où la petite sœur rencontre un garçon..."
+            }
+          ],
+          "generique": [
+            "Naoto Ogata",
+            "Urara Awata",
+            "Toru Tezuka",
+            "Yuriko Hirooka"
+          ],
+          "duree": 92,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28883,
+              "ordre": 1,
+              "idEvenement": 17808,
+              "dateHeure": "2019-03-10T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 124501,
+          "titre": "Grand enlèvement",
+          "art": "Le",
+          "titreVo": "Dai yûkai",
+          "realisateurs": "Kihachi Okamoto",
+          "annee": 1991,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Trois jeunes malfrats kidnappent la femme la plus riche de la préfecture de Wakayama et réclament une rançon de 50 millions de yen, une somme dérisoire pour cette vieille femme au fort caractère. Piquée au vif, elle refuse de quitter ses ravisseurs."
+            }
+          ],
+          "generique": [
+            "Tanie Kitabayashi",
+            "Ken Ogata",
+            "Toru Kazama",
+            "Katsuyasu Uchida"
+          ],
+          "duree": 120,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28848,
+              "ordre": 1,
+              "idEvenement": 17804,
+              "dateHeure": "2019-03-04T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 63286,
+          "titre": "Homme qui dort",
+          "art": "L'",
+          "titreVo": "Nemuru otoko",
+          "realisateurs": "Kohei Oguri",
+          "annee": 1996,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À la suite d'un accident, un montagnard est transporté inconscient dans la chambre d'une ferme du village de Hitosuji. Les habitants se relaient à son chevet jusqu'à ce que son âme s'échappe."
+            }
+          ],
+          "generique": [
+            "Sung-ki Ahn",
+            "Christine Hakim",
+            "Koji Yakusho",
+            "Masao Imafuku"
+          ],
+          "duree": 103,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28855,
+              "ordre": 1,
+              "idEvenement": 17809,
+              "dateHeure": "2019-03-06T19:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 63777,
+          "titre": "Liens de sang",
+          "titreVo": "Mabuta no haha",
+          "realisateurs": "Tai Katô",
+          "annee": 1962,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un jeune yakuza sans feu ni lieu passe sa vie à rechercher sa mère qui l'a abandonné lorsqu'il était enfant. Il s'agit d'un remake de _Ma mère dans les paupières_ de 1931, film muet d'Hiroshi Inagaki présenté lors de la première partie de Japonismes."
+            }
+          ],
+          "generique": [
+            "Kinnosuke Nakamura",
+            "Hiroki Matsukata",
+            "Hitomi Nakahara",
+            "Michiyo Kogure"
+          ],
+          "duree": 83,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28808,
+              "ordre": 1,
+              "idEvenement": 17786,
+              "dateHeure": "2019-02-27T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 56397,
+          "titre": "Mer et le poison",
+          "art": "La",
+          "titreVo": "Umi to dokuyaku",
+          "realisateurs": "Kei Kumai",
+          "annee": 1986,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Mai 1945. Dans une ville bombardée du Kyushu, les pilotes américains faits prisonniers sont transférés à l'hôpital universitaire de la ville. Ils sont mis « à la disposition de l'équipe du chirurgien Hashimoto jusqu'à ce que mort s'ensuive »."
+            }
+          ],
+          "generique": [
+            "Eiji Okuda",
+            "Ken Watanabe",
+            "Takahiro Tamura",
+            "Kyôko Kishida"
+          ],
+          "duree": 123,
+          "format": "35 mm",
+          "version": "VOSTA",
+          "seance": [
+            {
+              "idSeance": 29570,
+              "ordre": 1,
+              "idEvenement": 17802,
+              "dateHeure": "2019-03-04T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 139741,
+          "titre": "Ondekoza",
+          "art": "The",
+          "titreVo": "",
+          "realisateurs": "Tai Katô",
+          "annee": 1981,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Des jeunes gens traversent la mer pour se rendre sur l'île de Sado. Membres du groupe Ondekoza, ils endurcissent leur corps en courant d'une ville à l'autre tout en se consacrant à la pratique d'instruments traditionnels japonais."
+            }
+          ],
+          "generique": [
+            "Toshio Kawauchi",
+            "Eitetsu Hayashi",
+            "Yoshiaki Ooi"
+          ],
+          "duree": 105,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28874,
+              "ordre": 1,
+              "idEvenement": 17800,
+              "dateHeure": "2019-03-09T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 75887,
+          "titre": "Orin la proscrite",
+          "titreVo": "Hanare goze Orin",
+          "realisateurs": "Masahiro Shinoda",
+          "annee": 1977,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Aveugle de naissance et abandonnée par sa mère, la jeune Orin ne doit sa survie qu'au charitable directeur d'une troupe d'artistes itinérants qui fait d'elle une goze. Malgré sa beauté, elle est soumise à une règle intangible: garder sa chasteté."
+            }
+          ],
+          "generique": [
+            "Shima Iwashita",
+            "Tomoko Naraoka",
+            "Kirin Kiki",
+            "Toshiyuki Nishida"
+          ],
+          "duree": 119,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29571,
+              "ordre": 1,
+              "idEvenement": 17796,
+              "dateHeure": "2019-03-07T16:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 38151,
+          "titre": "Pièce aux murs épais",
+          "art": "La",
+          "titreVo": "Kabe atsuki heya",
+          "realisateurs": "Masaki Kobayashi",
+          "annee": 1953,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Tiré des journaux intimes d'officiers subalternes et de simples soldats jugés et emprisonnés pour crime de guerre, le film pose la question de la véritable responsabilité de ces condamnés qui ont le plus souvent exécuté les ordres d'une hiérarchie."
+            }
+          ],
+          "generique": [
+            "Ko Mishima",
+            "Torahiko Hamada",
+            "Keiko Kishi",
+            "Toshiko Kobayashi"
+          ],
+          "duree": 110,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29654,
+              "ordre": 1,
+              "idEvenement": 17782,
+              "dateHeure": "2019-03-06T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 86722,
+          "titre": "Pistol Opera",
+          "titreVo": "Pisutoru Opera",
+          "realisateurs": "Seijun Suzuki",
+          "annee": 2001,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Miyuki Minazuki alias Stray Cat, classée numéro trois dans la guilde des assassins, se retrouve embrigadée dans une guerre entre tueurs désirant tous la même chose: devenir numéro un."
+            }
+          ],
+          "generique": [
+            "Makiko Esumi",
+            "Sayoko Yamaguchi",
+            "Hanae Kan",
+            "Masatoshi Nagase"
+          ],
+          "duree": 112,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28815,
+              "ordre": 1,
+              "idEvenement": 17812,
+              "dateHeure": "2019-02-28T21:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 139737,
+          "titre": "Sable mouillé d'août",
+          "art": "Le",
+          "titreVo": "Hachigatsu no nureta suna",
+          "realisateurs": "Toshiya Fujita",
+          "annee": 1971,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Kenichiro, adolescent désabusé et révolté contre l'hypocrisie des adultes, a été renvoyé de son lycée pour avoir frappé le directeur. Il se met à boire, à faire des avances aux filles, et à se montrer violent avec son beau-père."
+            }
+          ],
+          "generique": [
+            "Takenori Murano",
+            "Masasuke Hirose",
+            "Teresa Noda",
+            "Midori Fujita"
+          ],
+          "duree": 91,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28817,
+              "ordre": 1,
+              "idEvenement": 17791,
+              "dateHeure": "2019-02-28T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 139744,
+          "titre": "Shall We Dance?",
+          "titreVo": "Shall we dansu ?",
+          "realisateurs": "Masayuki Suo",
+          "annee": 1996,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un simple employé d'âge moyen se sent attiré par la silhouette d'une jeune femme qu'il aperçoit dans un cours de danse. Mû par un vague sentiment de vacuité, il pousse la porte et finit par se passionner plus pour la danse que pour la belle Mai."
+            }
+          ],
+          "generique": [
+            "Koji Yakusho",
+            "Tamiyo Kusakari",
+            "Naoto Takenaka",
+            "Eriko Watanabe"
+          ],
+          "duree": 136,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29653,
+              "ordre": 1,
+              "idEvenement": 17810,
+              "dateHeure": "2019-02-27T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 55903,
+          "titre": "Tampopo",
+          "titreVo": "",
+          "realisateurs": "Juzo Itami",
+          "annee": 1986,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Tampopo, une jeune veuve, gère sans succès un restaurant de ramen. Sa vie change le jour où un routier à la dégaine de cow-boy décide de lui enseigner l'art et la manière de préparer les nouilles."
+            }
+          ],
+          "generique": [
+            "Tsutomu Yamazaki",
+            "Nobuko Miyamoto",
+            "Ken Watanabe",
+            "Koji Yakusho"
+          ],
+          "duree": 114,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28847,
+              "ordre": 1,
+              "idEvenement": 17801,
+              "dateHeure": "2019-03-04T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 38112,
+          "titre": "Toast pour mademoiselle",
+          "art": "Un",
+          "titreVo": "Ojosan kampai",
+          "realisateurs": "Keisuke Kinoshita",
+          "annee": 1949,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Keizo est un garagiste épanoui dans son travail mais toujours célibataire. Ses voisins bien attentionnés organisent une rencontre avec Yasuko, une jeune femme issue de la noblesse. Bien que peu enthousiaste, il tombe amoureux au premier regard."
+            }
+          ],
+          "generique": [
+            "Setsuko Hara",
+            "Shuji Sano",
+            "Sugisaku Aoyama",
+            "Fusako Fujima"
+          ],
+          "duree": 89,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28812,
+              "ordre": 1,
+              "idEvenement": 17780,
+              "dateHeure": "2019-02-27T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 139739,
+          "titre": "Tonnerre lointain",
+          "titreVo": "Enrai",
+          "realisateurs": "Kichitaro Negishi",
+          "annee": 1981,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Mitsuo, jeune libertin et cultivateur de tomates dans la très lointaine banlieue de Tokyo, est en lutte contre un promoteur qui veut lui acheter ses terres."
+            }
+          ],
+          "generique": [
+            "Toshiyuki Nagashima",
+            "Johnny Okura",
+            "Eri Ishida",
+            "Rie Yokoyama"
+          ],
+          "duree": 135,
+          "format": "16 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29819,
+              "ordre": 1,
+              "idEvenement": 17798,
+              "dateHeure": "2019-03-18T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 110813,
+          "titre": "Tristesse du bâton",
+          "art": "La",
+          "titreVo": "Bo no kanashimi",
+          "realisateurs": "Tatsumi Kumashiro",
+          "annee": 1994,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un yakuza venant de sortir de prison, est nouvellement affecté aux basses œuvres de son clan. Alors que son patron cherche à s'en débarrasser, il rencontre Yoko, dont le plus grand plaisir est de lécher ses blessures au retour de ses bagarres..."
+            }
+          ],
+          "generique": [
+            "Eiji Okuda",
+            "Eiko Nagashima",
+            "Reiko Takashima",
+            "Shô Aikawa"
+          ],
+          "duree": 120,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28882,
+              "ordre": 1,
+              "idEvenement": 17806,
+              "dateHeure": "2019-03-10T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 378,
+          "idFilm": 72980,
+          "titre": "Vie d'une femme",
+          "art": "La",
+          "titreVo": "Onna no issho",
+          "realisateurs": "Yasuzo Masumura",
+          "annee": 1962,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'histoire sur 40 ans, de la vie d'une jeune orpheline, chassée par son oncle et sa tante, et mariée au fils aîné d'un riche industriel, à l'heure où le Japon entre dans l'âge moderne après sa victoire militaire sur la Russie."
+            }
+          ],
+          "generique": [
+            "Machiko Kyo",
+            "Masaya Takahashi",
+            "Jiro Tamiya",
+            "Chieko Higashiyama"
+          ],
+          "duree": 94,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28875,
+              "ordre": 1,
+              "idEvenement": 17787,
+              "dateHeure": "2019-03-09T21:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Des cinéastes contemporains à découvrir",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 377,
+          "idFilm": 140257,
+          "titre": "Blood of Wolves",
+          "art": "The",
+          "titreVo": "Koro no chi",
+          "realisateurs": "Kazuya Shiraishi",
+          "annee": 2017,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Hiroshima, 1988. En pleine guerre des gangs, deux détectives enquêtent sur la disparition d'employés d'une grosse compagnie financière. L'un des deux enquêteurs est suspecté d'être en lien avec les yakuzas."
+            }
+          ],
+          "generique": [
+            "Koji Yakusho",
+            "Junko Abe",
+            "Yosuke Eguchi",
+            "Yôko Maki"
+          ],
+          "duree": 126,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28861,
+              "ordre": 1,
+              "idEvenement": 18235,
+              "dateHeure": "2019-03-07T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 377,
+          "idFilm": 69741,
+          "titre": "Eureka",
+          "titreVo": "",
+          "realisateurs": "Shinji Aoyama",
+          "annee": 1999,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La sanglante prise d'otage d'un bus laisse le chauffeur ainsi qu'un frère et une sœur seuls rescapés du massacre. Traumatisés, ils vont partir sur les routes dans un bus aménagé alors que le chauffeur est suspecté de meurtre."
+            }
+          ],
+          "generique": [
+            "Koji Yakusho",
+            "Aoi Miyazaki",
+            "Masaru Miyazaki",
+            "Yôichirô Saitô"
+          ],
+          "duree": 217,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29563,
+              "ordre": 1,
+              "idEvenement": 18213,
+              "dateHeure": "2019-03-08T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 377,
+          "idFilm": 140207,
+          "titre": "Night Is Short, Walk on Girl",
+          "titreVo": "Yoru wa mijikashi aruke yo otome",
+          "realisateurs": "Masaaki Yuasa",
+          "annee": 2017,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un étudiant à l'université veut déclarer sa flamme à une camarade. Ses tentatives vont l'entraîner au cœur de la nuit, dans les rues de Kyoto."
+            }
+          ],
+          "duree": 93,
+          "format": "Numérique",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28862,
+              "ordre": 1,
+              "idEvenement": 18206,
+              "dateHeure": "2019-03-07T22:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 377,
+          "idFilm": 140213,
+          "titre": "Rage",
+          "titreVo": "Ikari",
+          "realisateurs": "Sang-il Lee",
+          "annee": 2016,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un couple a été assassiné. Le coupable a changé de visage grâce à une opération de chirurgie esthétique. Un an plus tard, dans différentes villes japonaises, trois hommes semblent cacher à leur entourage un passé trouble."
+            }
+          ],
+          "generique": [
+            "Ken Watanabe",
+            "Mirai Moriyama",
+            "Aoi Miyazaki"
+          ],
+          "duree": 142,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28891,
+              "ordre": 1,
+              "idEvenement": 18214,
+              "dateHeure": "2019-03-11T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 377,
+          "idFilm": 140211,
+          "titre": "Three Stories of Love",
+          "titreVo": "Koibitotachi",
+          "realisateurs": "Ryosuke Hashiguchi",
+          "annee": 2015,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un veuf supporte le décès de sa femme en s'accrochant à son travail. Une épouse délaissée par son mari va faire une rencontre à son bureau. Un avocat éprouve un amour secret pour un ami d'enfance."
+            }
+          ],
+          "generique": [
+            "Atsushi Shinohara",
+            "Toko Narushima",
+            "Ken Mitsuishi",
+            "Ryo Ikeda"
+          ],
+          "duree": 140,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28889,
+              "ordre": 1,
+              "idEvenement": 18211,
+              "dateHeure": "2019-03-11T16:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 377,
+          "idFilm": 122666,
+          "titre": "Woodsman and the Rain",
+          "art": "The",
+          "titreVo": "Kitsutsuki to ame",
+          "realisateurs": "Shuichi Okita",
+          "annee": 2011,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un jeune réalisateur et son équipe s'installent dans un village de montagne pour tourner un film de zombie. Les habitants prenant part à l'aventure, un vieux bûcheron se voit enrôler malgré lui sur le tournage."
+            }
+          ],
+          "generique": [
+            "Shun Oguri",
+            "Koji Yakusho",
+            "Tsutomu Yamazaki",
+            "Yoshiyuki Morishita"
+          ],
+          "duree": 129,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28934,
+              "ordre": 1,
+              "idEvenement": 18236,
+              "dateHeure": "2019-03-18T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 377,
+          "idFilm": 133698,
+          "titre": "Your Name",
+          "titreVo": "Kimi no na wa",
+          "realisateurs": "Makoto Shinkai",
+          "annee": 2015,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Mitsuha est une jeune fille vivant à la montagne, dans un milieu traditionnel qu'elle voudrait quitter. Taki est un lycéen de Tokyo, jonglant entre son travail et ses amis. La nuit, chacun est projeté dans le corps et la vie de l'autre..."
+            }
+          ],
+          "generique": [
+            "Ryunosuke Kamiki",
+            "Mone Kamishiraishi",
+            "Ryo Narita",
+            "Aoi Yuki"
+          ],
+          "duree": 105,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 28890,
+              "ordre": 1,
+              "idEvenement": 18210,
+              "dateHeure": "2019-03-11T19:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

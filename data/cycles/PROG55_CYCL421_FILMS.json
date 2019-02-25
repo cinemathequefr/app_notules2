@@ -1,0 +1,952 @@
+[
+  {
+    "titre": "1 mètre/heure",
+    "titreVo": "",
+    "idFilm": 139665,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": null,
+    "realisateurs": "Nicolas Deveaux",
+    "annee": 2017,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+      }
+    ]
+  },
+  {
+    "titre": "Affaires de cœur",
+    "titreVo": "",
+    "idFilm": 105550,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": null,
+    "realisateurs": "Émile Cohl",
+    "annee": 1909,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Emile Cohl a inventé un monde étrange, qui fait la part belle à la métamorphose, à l'absurdité, à l'humour décalé. Il s'amuse avec des situations quotidiennes qu'il réinvente en les dessinant à la main. Dans ce programme, des films où les objets s'animent complètent ce panorama de l'un des tout premiers réalisateurs de dessin animé."
+      }
+    ]
+  },
+  {
+    "titre": "Animanimals : Ant",
+    "titreVo": "",
+    "idFilm": 140741,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": null,
+    "realisateurs": "Julia Ocker",
+    "annee": 2017,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+      }
+    ]
+  },
+  {
+    "titre": "Beetlejuice",
+    "titreVo": "Beetle Juice",
+    "idFilm": 31047,
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "ageMinimal": 8,
+    "realisateurs": "Tim Burton",
+    "annee": 1987,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Changer de tête, déformer son visage pour le rendre horrible... Voici les jeux auxquels s'essaient Barbara et Adam pour faire fuir les vivants qui ont envahi leur maison depuis qu'ils sont devenus des fantômes. Mais ils manquent d'expérience et décident de faire appel au terrible Beetlejuice."
+      }
+    ],
+    "generique": [
+      "Michael Keaton",
+      "Winona Ryder",
+      "Annie McEnroe",
+      "Maurice Page"
+    ]
+  },
+  {
+    "titre": "Big Fish",
+    "titreVo": "",
+    "idFilm": 90051,
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "ageMinimal": 10,
+    "realisateurs": "Tim Burton",
+    "annee": 2003,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Edward ne cesse de romancer sa vie en inventant des histoires extravagantes peuplées des plus extraordinaires créatures. À l'entendre, il aurait jadis été engagé dans un cirque... Son fils peine à démêler le vrai du faux et lorsque son père tombe malade, il ne sait plus ce qu'il doit exactement prendre au sérieux."
+      }
+    ],
+    "generique": [
+      "Ewan McGregor",
+      "Albert Finney",
+      "Billy Crudup",
+      "Jessica Lange"
+    ],
+    "adaptation": "D'après le roman _The Big fish_ de Daniel Wallace."
+  },
+  {
+    "titre": "Binettoscope",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 105552,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": 6,
+    "realisateurs": "Émile Cohl",
+    "annee": 1910,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Emile Cohl a inventé un monde étrange, qui fait la part belle à la métamorphose, à l'absurdité, à l'humour décalé. Il s'amuse avec des situations quotidiennes qu'il réinvente en les dessinant à la main. Dans ce programme, des films où les objets s'animent complètent ce panorama de l'un des tout premiers réalisateurs de dessin animé."
+      }
+    ]
+  },
+  {
+    "titre": "Bronco Billy",
+    "titreVo": "",
+    "idFilm": 31341,
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "ageMinimal": 10,
+    "realisateurs": "Clint Eastwood",
+    "annee": 1979,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Le cow-boy Bronco Billy est à la tête d'un petit cirque western peuplé de toute sorte de personnages marginaux qui voyagent, de foire en foire, sur les routes de l'Ouest. Alors que le monde se modernise, ils continuent de croire à leur spectacle... La rencontre avec Antoinette Lily, engagée pour le numéro de tireur d'élite, va bouleverser leur quotidien. De l'aveu même d'Eastwood, ce film est un hommage discret à l'univers de Federico Fellini."
+      }
+    ],
+    "generique": [
+      "Clint Eastwood",
+      "Sondra Locke",
+      "Geoffrey Lewis",
+      "Scatman Crothers"
+    ]
+  },
+  {
+    "titre": "Chaque soir à neuf heures",
+    "titreVo": "Our mother's house",
+    "idFilm": 41034,
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "ageMinimal": 10,
+    "realisateurs": "Jack Clayton",
+    "annee": 1967,
+    "pays": "Grande-Bretagne-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Pourquoi, dans ce petit bourg anglais, chaque soir à neuf heures, sept enfants se réunissent-ils dans un abri, au fond du jardin? C'est là qu'ils communiquent avec le fantôme de leur mère. Un film drôle et touchant qui traite délicatement des liens qui unissent les membres d'une même famille, au-delà des épreuves."
+      }
+    ],
+    "generique": [
+      "Dirk Bogarde",
+      "Margaret Leclere",
+      "Pamela Franklin"
+    ]
+  },
+  {
+    "titre": "Chasse",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 140739,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": null,
+    "realisateurs": "Aleksey Alekseev",
+    "annee": 2016,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+      }
+    ]
+  },
+  {
+    "titre": "Chaussures matrimoniales",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 105548,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": 6,
+    "realisateurs": "Émile Cohl",
+    "annee": 1909,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Emile Cohl a inventé un monde étrange, qui fait la part belle à la métamorphose, à l'absurdité, à l'humour décalé. Il s'amuse avec des situations quotidiennes qu'il réinvente en les dessinant à la main. Dans ce programme, des films où les objets s'animent complètent ce panorama de l'un des tout premiers réalisateurs de dessin animé."
+      }
+    ]
+  },
+  {
+    "titre": "Cheburaskha et ses amis",
+    "titreVo": "Cheburaskha",
+    "idFilm": 114350,
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "ageMinimal": 3,
+    "realisateurs": "Makoto Nakamura",
+    "annee": 2010,
+    "pays": "Japon-Russie",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Cheburashka, un petit animal aux grandes oreilles, se lie d'amitié avec Crocodile Gena. Quand un cirque vient à passer en ville, leur quotidien s'en trouve tout bouleversé! Un film d'animation de marionnettes qui propose de faire découvrir aux plus jeunes spectateurs un personnage mascotte de l'univers enfantin russe."
+      }
+    ]
+  },
+  {
+    "titre": "Chien",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 140737,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": null,
+    "realisateurs": "Pierre-Luc Granjon",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+      }
+    ]
+  },
+  {
+    "titre": "Chocolat",
+    "titreVo": "",
+    "idFilm": 130181,
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "ageMinimal": 8,
+    "realisateurs": "Roschdy Zem",
+    "annee": 2015,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "À la fin du XIXème siècle en France, le numéro du célèbre clown Footit s'épuise. Faisant la connaissance d'un ancien esclave noir, il voit en lui le partenaire idéal pour relancer sa carrière et à nouveau faire rire les foules. Porté par un duo de comédiens extraordinaires, _Chocolat_ raconte cette bouleversante aventure faite de rires et de larmes."
+      }
+    ],
+    "generique": [
+      "Omar Sy",
+      "James Thierrée",
+      "Clotilde Hesme",
+      "Olivier Gourmet"
+    ],
+    "adaptation": "D'après l'ouvrage _Chocolat, clown nègre_ de Gérard Noiriel."
+  },
+  {
+    "titre": "Cirque",
+    "art": "Le",
+    "titreVo": "Circus",
+    "artVo": "The",
+    "idFilm": 31156,
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "ageMinimal": 4,
+    "realisateurs": "Charles Chaplin",
+    "annee": 1927,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "C'est par hasard que Charlot devient la vedette d'un petit cirque, mais c'est par amour pour la belle écuyère qu'il reste dans la troupe."
+      }
+    ],
+    "generique": [
+      "Al Ernest Garcia",
+      "Merna Kennedy",
+      "Harry Crocker",
+      "George Davis"
+    ]
+  },
+  {
+    "titre": "Cirque fantastique",
+    "art": "Le",
+    "titreVo": "Big Circus",
+    "artVo": "The",
+    "idFilm": 35687,
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "ageMinimal": 8,
+    "realisateurs": "Joseph M. Newman",
+    "annee": 1959,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "De nombreuses embuches se dressent sur la route du cirque de Hank. Comment arrivera-t-il à sauver sa périlleuse situationalors qu'un lion s'évade dans la foule, qu'un incendie se déclare dans la ménagerie et que le train qui les transporte déraille...? Des numéros de cirque spectaculaires, un monsieur Loyal, un funambule et un clown blanc interprétés par de grands acteurs d'Hollywood."
+      }
+    ],
+    "generique": [
+      "Victor Mature",
+      "Vincent Price",
+      "Peter Lorre",
+      "Rhonda Fleming"
+    ]
+  },
+  {
+    "titre": "Fantasmagorie",
+    "titreVo": "",
+    "idFilm": 52367,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": 6,
+    "realisateurs": "Émile Cohl",
+    "annee": 1908,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Emile Cohl a inventé un monde étrange, qui fait la part belle à la métamorphose, à l'absurdité, à l'humour décalé. Il s'amuse avec des situations quotidiennes qu'il réinvente en les dessinant à la main. Dans ce programme, des films où les objets s'animent complètent ce panorama de l'un des tout premiers réalisateurs de dessin animé."
+      }
+    ]
+  },
+  {
+    "titre": "Frères Boutdebois",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 105376,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": 6,
+    "realisateurs": "Émile Cohl",
+    "annee": 1908,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Emile Cohl a inventé un monde étrange, qui fait la part belle à la métamorphose, à l'absurdité, à l'humour décalé. Il s'amuse avec des situations quotidiennes qu'il réinvente en les dessinant à la main. Dans ce programme, des films où les objets s'animent complètent ce panorama de l'un des tout premiers réalisateurs de dessin animé."
+      }
+    ]
+  },
+  {
+    "titre": "Histoire de fantômes chinois",
+    "titreVo": "Chinese Ghost Story",
+    "idFilm": 72116,
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "ageMinimal": 8,
+    "realisateurs": "Hark Tsui",
+    "annee": 1997,
+    "pays": "Hong-Kong",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Dans une Chine de légende et de magie, un jeune homme fait la rencontre de la jolie Quian. Mais cette jeune fille est un fantôme chasseur d'âmes. Comment déjouer les pièges que démons, sorciers et chasseurs de fantômes placent sur leur route, et vivre leur amour impossible?"
+      }
+    ],
+    "generique": [
+      "Hark Tsui"
+    ]
+  },
+  {
+    "titre": "Inventaire fantôme",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 140720,
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "ageMinimal": 6,
+    "realisateurs": "Franck Dion",
+    "annee": 2004,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Films à trucs des pionniers du cinéma et film d'animation deviennent le terrain de jeu de fantômes en tout genre! Apparitions, disparitions, objets qui se déplacent seuls, le cinéma s'amuse à nous faire croire aux phénomènes les plus invraisemblables."
+      }
+    ]
+  },
+  {
+    "titre": "Laban et Labolina",
+    "titreVo": "Spöket Laban",
+    "idFilm": 110470,
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "ageMinimal": 3,
+    "realisateurs": "Lasse Persson, Per Åhlin, Alicja Jaworski, [etc.]",
+    "annee": 2007,
+    "pays": "Suède",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Laban a peur du noir, pas facile pour un fantôme! Sa petite sœur, Labolina, est bien plus téméraire. Ça promet de belles aventures! De beaux contes suédois pour ravir les plus petits spectateurs."
+      }
+    ],
+    "generique": [
+      "Colette Noël"
+    ],
+    "adaptation": "D'après les livres _Laban, le petit fantôme_ de Lasse Sandberg et Inger Sandberg."
+  },
+  {
+    "titre": "Léo et Fred",
+    "titreVo": "Leo es Fred",
+    "idFilm": 121060,
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "ageMinimal": 3,
+    "realisateurs": "Pál Tóth",
+    "annee": 1984,
+    "pays": "Hongrie",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Léo, le lion, forme avec son dompteur Fred, un duo lié par une solide complicité. Chaque soir, sous le chapiteau, ils ravissent petits et grands avec leurs numéros. À la fois farfelus et attachants, ils nous entraînent tout au long de leur carrière, dans un quotidien riche en surprises..."
+      }
+    ]
+  },
+  {
+    "titre": "Luge",
+    "art": "La",
+    "titreVo": "Shchukina Olesya",
+    "idFilm": 140743,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": null,
+    "realisateurs": "Olesya Shchukina",
+    "annee": 2016,
+    "pays": "Russie",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+      }
+    ]
+  },
+  {
+    "titre": "Lunettes féériques",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 105549,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": 6,
+    "realisateurs": "Émile Cohl",
+    "annee": 1909,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Emile Cohl a inventé un monde étrange, qui fait la part belle à la métamorphose, à l'absurdité, à l'humour décalé. Il s'amuse avec des situations quotidiennes qu'il réinvente en les dessinant à la main. Dans ce programme, des films où les objets s'animent complètent ce panorama de l'un des tout premiers réalisateurs de dessin animé."
+      }
+    ]
+  },
+  {
+    "titre": "Lutteur et le clown",
+    "art": "Le",
+    "titreVo": "Borec i kloun",
+    "idFilm": 53490,
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "ageMinimal": 10,
+    "realisateurs": "Boris Barnet, Constantin Youdine",
+    "annee": 1957,
+    "pays": "URSS",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "L'amitié indestructible entre un impressionnant lutteur et un petit clown surdoué, depuis leur rencontre au célèbre cirque d'Odessa, puis à travers l'Europe."
+      }
+    ],
+    "generique": [
+      "Stanislav Tchekan",
+      "Alexandre Mikhailov",
+      "Boris Petker",
+      "Iya Arepina"
+    ]
+  },
+  {
+    "titre": "Maison des revenants",
+    "art": "La",
+    "titreVo": "Casa de los duendes",
+    "artVo": "La",
+    "idFilm": 113579,
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "ageMinimal": 3,
+    "realisateurs": "Segundo de Chomón",
+    "annee": 1911,
+    "pays": "Espagne",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Films à trucs des pionniers du cinéma et film d'animation deviennent le terrain de jeu de fantômes en tout genre! Apparitions, disparitions, objets qui se déplacent seuls, le cinéma s'amuse à nous faire croire aux phénomènes les plus invraisemblables."
+      }
+    ]
+  },
+  {
+    "titre": "Malec chez les fantômes",
+    "titreVo": "Haunted House",
+    "artVo": "The",
+    "idFilm": 32706,
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "ageMinimal": 6,
+    "realisateurs": "Buster Keaton, Eddie Cline",
+    "annee": 1921,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Films à trucs des pionniers du cinéma et film d'animation deviennent le terrain de jeu de fantômes en tout genre! Apparitions, disparitions, objets qui se déplacent seuls, le cinéma s'amuse à nous faire croire aux phénomènes les plus invraisemblables."
+      }
+    ],
+    "generique": [
+      "Buster Keaton",
+      "Joe Roberts",
+      "Virginia Fox",
+      "Edward F. Cline"
+    ]
+  },
+  {
+    "titre": "Mini et les voleurs de miel",
+    "titreVo": "Cykelmyggen og minibillen",
+    "idFilm": 130195,
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "ageMinimal": 3,
+    "realisateurs": "Jannik Hastrup, Flemming Quist Møller",
+    "annee": 2014,
+    "pays": "Danemark",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Un cirque d'insectes colorés, ainsi que leur réserve de miel, sont menacés par des insectes voyous venus semer la zizanie."
+      }
+    ],
+    "generique": [
+      "Achille Dubois",
+      "Alayin Dubois",
+      "Erwin Grunspan",
+      "Maxime Donnay"
+    ]
+  },
+  {
+    "titre": "Mon oncle",
+    "titreVo": "",
+    "idFilm": 51367,
+    "idCycle": 421,
+    "idCategorie": 1872,
+    "ageMinimal": 6,
+    "realisateurs": "Jacques Tati",
+    "annee": 1957,
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Gérard fuit la maison ultramoderne de ses parents pour passer du bon temps dans les rues avec son drôle d'oncle. Entre tradition et modernité, sa petite ville est revisitée par la fantaisie de Monsieur Hulot."
+      }
+    ],
+    "generique": [
+      "Jacques Tati",
+      "Jean-Pierre Zola",
+      "Adrienne Servantie",
+      "Alain Bécourt"
+    ]
+  },
+  {
+    "titre": "Monsieur Clown chez les Lilliputiens",
+    "titreVo": "",
+    "idFilm": 105470,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": 6,
+    "realisateurs": "Émile Cohl",
+    "annee": 1909,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Emile Cohl a inventé un monde étrange, qui fait la part belle à la métamorphose, à l'absurdité, à l'humour décalé. Il s'amuse avec des situations quotidiennes qu'il réinvente en les dessinant à la main. Dans ce programme, des films où les objets s'animent complètent ce panorama de l'un des tout premiers réalisateurs de dessin animé."
+      }
+    ]
+  },
+  {
+    "titre": "Moufle",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 132699,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": null,
+    "realisateurs": "Clémentine Robach",
+    "annee": 2014,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+      }
+    ]
+  },
+  {
+    "titre": "Musicomanie",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 105636,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": 6,
+    "realisateurs": "Émile Cohl",
+    "annee": 1910,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Emile Cohl a inventé un monde étrange, qui fait la part belle à la métamorphose, à l'absurdité, à l'humour décalé. Il s'amuse avec des situations quotidiennes qu'il réinvente en les dessinant à la main. Dans ce programme, des films où les objets s'animent complètent ce panorama de l'un des tout premiers réalisateurs de dessin animé."
+      }
+    ]
+  },
+  {
+    "titre": "Olas del cielo",
+    "titreVo": "",
+    "idFilm": 140745,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": null,
+    "realisateurs": "Pablo Pera",
+    "annee": 2013,
+    "pays": "Mexique",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+      }
+    ]
+  },
+  {
+    "titre": "Peintre néo-impressionniste",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 105627,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": 6,
+    "realisateurs": "Émile Cohl",
+    "annee": 1910,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Emile Cohl a inventé un monde étrange, qui fait la part belle à la métamorphose, à l'absurdité, à l'humour décalé. Il s'amuse avec des situations quotidiennes qu'il réinvente en les dessinant à la main. Dans ce programme, des films où les objets s'animent complètent ce panorama de l'un des tout premiers réalisateurs de dessin animé."
+      }
+    ]
+  },
+  {
+    "titre": "Petite bande",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 48125,
+    "idCycle": 421,
+    "idCategorie": 1911,
+    "ageMinimal": 8,
+    "realisateurs": "Michel Deville",
+    "annee": 1982,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Sept petits Anglais âgés de sept à dix ans partent à l'aventure, se nourrissant sans un centime en poche, échappant aux gendarmes, visitant les combles d'un château, déjouant même une machine à vieillir."
+      },
+      {
+        "typeTexte": 203,
+        "texte": "Petite fable toute en musique qui met en scène sept petits Anglais, âgés de sept à dix ans Les enfants partent à l'aventure en France et perturbent l'ordre établi pour le plus grand plaisir des spectateurs. À l'occasion de la rétrospective consacrée à Michel Deville, un film étonnant sur l'enfance."
+      }
+    ],
+    "generique": [
+      "François Marthouret",
+      "Roland Amstutz",
+      "Nathalie Bécue",
+      "Françoise Lugagne"
+    ]
+  },
+  {
+    "titre": "Pez volador",
+    "art": "El",
+    "titreVo": "",
+    "idFilm": 140749,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": 3,
+    "realisateurs": "Pablo Pera",
+    "annee": 2017,
+    "pays": "Uruguay",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+      }
+    ]
+  },
+  {
+    "titre": "Placier est tenace",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 52428,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": 6,
+    "realisateurs": "Émile Cohl",
+    "annee": 1910,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Emile Cohl a inventé un monde étrange, qui fait la part belle à la métamorphose, à l'absurdité, à l'humour décalé. Il s'amuse avec des situations quotidiennes qu'il réinvente en les dessinant à la main. Dans ce programme, des films où les objets s'animent complètent ce panorama de l'un des tout premiers réalisateurs de dessin animé."
+      }
+    ]
+  },
+  {
+    "titre": "Quatre petits tailleurs",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 44662,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": 6,
+    "realisateurs": "Émile Cohl",
+    "annee": 1910,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Emile Cohl a inventé un monde étrange, qui fait la part belle à la métamorphose, à l'absurdité, à l'humour décalé. Il s'amuse avec des situations quotidiennes qu'il réinvente en les dessinant à la main. Dans ce programme, des films où les objets s'animent complètent ce panorama de l'un des tout premiers réalisateurs de dessin animé."
+      }
+    ]
+  },
+  {
+    "titre": "Quel cirque !",
+    "titreVo": "",
+    "idFilm": 137200,
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "ageMinimal": 3,
+    "realisateurs": "Bretislav Pojar, Karel Zeman, Zdenek Ostrcil",
+    "annee": 1957,
+    "pays": "République tchèque",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Un programme de courts métrages qui déploie un univers fantaisiste, fait de jouets, de clowns et de cabrioles. Poésie, facétie et inventivité sont les maîtres-mots de ce programme où l'on pourra apprécier l'inventivité des grands noms du cinéma d'animation tchèque."
+      }
+    ]
+  },
+  {
+    "titre": "S.O.S. fantômes",
+    "titreVo": "Ghostbusters",
+    "idFilm": 35077,
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "ageMinimal": 8,
+    "realisateurs": "Ivan Reitman",
+    "annee": 1984,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Des scientifiques un peu farfelus se spécialisent dans la chasse aux fantômes. D'abord incrédules, les New- Yorkais vont bientôt en faire des héros. Et ils en auront bien besoin car le terrible Gozer arrive!"
+      }
+    ],
+    "generique": [
+      "Sigourney Weaver",
+      "Bill Murray",
+      "Dan Aykroyd"
+    ]
+  },
+  {
+    "titre": "Soupe au caillou",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 132700,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": 3,
+    "realisateurs": "Clémentine Robach",
+    "annee": 2015,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+      }
+    ]
+  },
+  {
+    "titre": "Trapeze",
+    "titreVo": "",
+    "idFilm": 35530,
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "ageMinimal": 8,
+    "realisateurs": "Carol Reed",
+    "annee": 1955,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Une ancienne vedette du trapèze, écartée à cause d'une blessure, devient le mentor d'un nouvel acrobate fringuant qui n'a pas froid aux yeux. Tous deux s'entraînent avec persévérance. Parviendront-ils à réaliser le légendaire triple saut sans filet? À l'origine du projet de ce film, le grand Burt Lancaster lui-même, issu du monde des acrobates et du cirque."
+      }
+    ],
+    "generique": [
+      "Burt Lancaster",
+      "Tony Curtis",
+      "Gina Lollobrigida",
+      "Gabrielle Fontan"
+    ]
+  },
+  {
+    "titre": "Treize fantômes",
+    "titreVo": "Thirteen Ghosts",
+    "idFilm": 109356,
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "ageMinimal": 8,
+    "realisateurs": "William Castle",
+    "annee": 1960,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "La famille du paléontologue Cyrius Zorba hérite d'une maison hantée, ancienne propriété d'un savant fou qui leur lègue également ses lunettes permettant de voir les fantômes. Tout le monde dans la famille n'est pas encore habitué à ce genre d'apparitions. Et vous ?"
+      }
+    ],
+    "generique": [
+      "Charles Herbert",
+      "Jo Morrow",
+      "Rosemary DeCamp",
+      "Martin Milner"
+    ]
+  },
+  {
+    "titre": "Vacances de Mr. Bean",
+    "art": "Les",
+    "titreVo": "Mr. Bean's holiday",
+    "idFilm": 101619,
+    "idCycle": 421,
+    "idCategorie": 1872,
+    "ageMinimal": 8,
+    "realisateurs": "Steve Bendelack",
+    "annee": 2006,
+    "pays": "Grande-Bretagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Mr. Bean a gagné une semaine de vacances sur la Côte d'Azur, et une caméra vidéo. Il quitte son Angleterre natale pour la France."
+      },
+      {
+        "typeTexte": 203,
+        "texte": "Mr. Bean a gagné une semaine de vacances sur la Côte d'Azur et une caméra vidéo. Il quitte son Angleterre natale pour la France. Attention, Mr. Bean débarque!"
+      }
+    ],
+    "generique": [
+      "Rowan Atkinson",
+      "Max Baldry",
+      "Emma de Caunes",
+      "Willem Dafoe"
+    ]
+  },
+  {
+    "titre": "Voleur invisible",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 113052,
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "ageMinimal": null,
+    "realisateurs": "Segundo de Chomón",
+    "annee": 1909,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Films à trucs des pionniers du cinéma et film d'animation deviennent le terrain de jeu de fantômes en tout genre! Apparitions, disparitions, objets qui se déplacent seuls, le cinéma s'amuse à nous faire croire aux phénomènes les plus invraisemblables."
+      }
+    ]
+  },
+  {
+    "titre": "Voyage de Chihiro",
+    "art": "Le",
+    "titreVo": "Sen to Chihiro no kamikakushi",
+    "idFilm": 77554,
+    "idCycle": 421,
+    "idCategorie": 1865,
+    "ageMinimal": 8,
+    "realisateurs": "Hayao Miyazaki",
+    "annee": 2001,
+    "pays": "Japon",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Chihiro et ses parents franchissent sans l'avoir voulu une frontière imaginaire. Ils se retrouvent propulsés dans un monde de fantômes, de sorciers et d'esclaves gouverné par la sorcière Yubaba qu'il leur faudra affronter pour revenir de l'autre côté."
+      }
+    ],
+    "generique": [
+      "Rumi Hiiragi",
+      "Florine Orphelin",
+      "Mari Natsuki",
+      "Anne Ludovik"
+    ]
+  },
+  {
+    "titre": "Yoyo",
+    "titreVo": "",
+    "idFilm": 48430,
+    "idCycle": 421,
+    "idCategorie": 1871,
+    "ageMinimal": 6,
+    "realisateurs": "Pierre Etaix",
+    "annee": 1964,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un milliardaire ruiné quitte son grand château triste et blanc pour rejoindre le chapiteau coloré d'un cirque. Là, il retrouve la belle écuyère et leur fils, Yoyo, qui deviendra un clown célèbre. Héritier de la grande tradition clownesque, Pierre Etaix invente un merveilleux personnage d'enfant clown."
+      }
+    ],
+    "generique": [
+      "Pierre Etaix",
+      "Claudine Auger",
+      "Philippe Dionnet",
+      "Luce Klein"
+    ]
+  },
+  {
+    "titre": "Zoo",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 140735,
+    "idCycle": 421,
+    "idCategorie": 1874,
+    "ageMinimal": 3,
+    "realisateurs": "Nina Heckel",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Qu'ils soient grands, petits, sauvages ou fantastiques, les animaux sont à l'honneur de ce programme spécial composé de dix courts métrages, réalisés entre 2015 et 2018. Une façon de découvrir en famille la richesse et la diversité du cinéma d'animation contemporain. Films proposés par le festival Image/image (le Val-d'Oise) et Ojo de pescado, Cine para Niños (Valparaiso). Durée totale: 60 min. Séance en présence de réalisateurs."
+      }
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+[{
+    "idCycle": 143,
+    "idCategorie": 1879,
+    "idEvenement": 18879,
+    "idSeance": 29832,
+    "dateHeure": "2019-03-08T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [{
+      "idFilm": 140771,
+      "ordre": 1,
+      "idSeance": 29832,
+      "idCopie": 17955,
+      "duree": 70,
+      "version": "INT. FR.",
+      "format": "35 mm",
+      "valide": 1
+    }],
+    "mention": "Séance présentée par Emmanuelle Berthault"
+  },
+  {
+    "idCycle": 143,
+    "idCategorie": 1879,
+    "idEvenement": 18878,
+    "idSeance": 29831,
+    "dateHeure": "2019-03-08T21:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [{
+      "idFilm": 41615,
+      "ordre": 1,
+      "idSeance": 29831,
+      "idCopie": 17866,
+      "duree": 97,
+      "version": "INT. FR.",
+      "format": "16 mm",
+      "valide": 1
+    }],
+    "mention": "Séance présentée par Emmanuelle Berthault"
+  },
+  {
+    "idCycle": 143,
+    "idCategorie": 1878,
+    "idEvenement": 18875,
+    "idSeance": 29834,
+    "dateHeure": "2019-04-05T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [{
+        "idFilm": 133809,
+        "ordre": 1,
+        "idSeance": 29834,
+        "idCopie": 17864,
+        "duree": 14,
+        "version": "INT. FR.",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 54345,
+        "ordre": 2,
+        "idSeance": 29834,
+        "idCopie": 17863,
+        "duree": 77,
+        "version": "INT. FR.",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Emmanuelle Champomier et Laurent Veray"
+  },
+  {
+    "idCycle": 143,
+    "idCategorie": 1878,
+    "idEvenement": 18876,
+    "idSeance": 29833,
+    "dateHeure": "2019-04-05T20:45:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [{
+        "idFilm": 139535,
+        "ordre": 1,
+        "idSeance": 29833,
+        "idCopie": 17865,
+        "duree": 5,
+        "version": "INT. FR.",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 112921,
+        "ordre": 2,
+        "idSeance": 29833,
+        "idCopie": 2075,
+        "duree": 93,
+        "version": "STF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Laurent Veray et Emmanuelle Champomier"
+  }
+]

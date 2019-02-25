@@ -1,0 +1,146 @@
+[
+  {
+    "idCycle": 418,
+    "idCategorie": 1861,
+    "idEvenement": 18711,
+    "idSeance": 29509,
+    "dateHeure": "2019-03-06T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Compagnons de la nouba (Les)",
+    "items": [
+      {
+        "idFilm": 35839,
+        "ordre": 1,
+        "idSeance": 29509,
+        "idCopie": 7638,
+        "duree": 68,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 418,
+    "idCategorie": 1861,
+    "idEvenement": 18712,
+    "idSeance": 28860,
+    "dateHeure": "2019-03-07T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Bons pour le servcie",
+    "items": [
+      {
+        "idFilm": 33495,
+        "ordre": 1,
+        "idSeance": 28860,
+        "idCopie": 17685,
+        "duree": 80,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 418,
+    "idCategorie": 1861,
+    "idEvenement": 18713,
+    "idSeance": 28866,
+    "dateHeure": "2019-03-08T17:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Laurel et Hardy au Far West",
+    "items": [
+      {
+        "idFilm": 41287,
+        "ordre": 1,
+        "idSeance": 28866,
+        "idCopie": 17717,
+        "duree": 64,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 418,
+    "idCategorie": 1861,
+    "idEvenement": 18714,
+    "idSeance": 28873,
+    "dateHeure": "2019-03-09T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Têtes de pioche",
+    "items": [
+      {
+        "idFilm": 30482,
+        "ordre": 1,
+        "idSeance": 28873,
+        "idCopie": 17689,
+        "duree": 58,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 418,
+    "idCategorie": 1861,
+    "idEvenement": 18716,
+    "idSeance": 28881,
+    "dateHeure": "2019-03-10T17:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "As d' Oxford (Les)",
+    "items": [
+      {
+        "idFilm": 32260,
+        "ordre": 1,
+        "idSeance": 28881,
+        "idCopie": 17684,
+        "duree": 63,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 418,
+    "idCategorie": 1861,
+    "idEvenement": 18715,
+    "idSeance": 28888,
+    "dateHeure": "2019-03-11T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Laurel et Hardy conscrits = Les Conscrits",
+    "items": [
+      {
+        "idFilm": 60878,
+        "ordre": 1,
+        "idSeance": 28888,
+        "idCopie": 17686,
+        "duree": 65,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  }
+]

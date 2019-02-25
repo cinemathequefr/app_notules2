@@ -1,0 +1,141 @@
+[
+  {
+    "titre": "As d' Oxford",
+    "art": "Les",
+    "titreVo": "A Chump at Oxford",
+    "idFilm": 32260,
+    "idCycle": 418,
+    "idCategorie": 1861,
+    "ageMinimal": null,
+    "realisateurs": "Alfred J. Goulding",
+    "annee": 1939,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Laurel et Hardy se retrouvent à faire des études à Oxford, récompense d'un banquier qu'ils ont sauvé d'une attaque. Après un coup sur la tête, Laurel devient très érudit..."
+      }
+    ],
+    "generique": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Forrester Harvey",
+      "Wilfred Lucas"
+    ]
+  },
+  {
+    "titre": "Bons pour le service",
+    "titreVo": "Bonnie Scotland",
+    "idFilm": 33495,
+    "idCycle": 418,
+    "idCategorie": 1861,
+    "ageMinimal": null,
+    "realisateurs": "James W. Horne",
+    "annee": 1935,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Laurel et Hardy se rendent en Écosse pour un héritage insolite. Démunis, ils s'engagent par mégarde dans un régiment en partance pour les Indes."
+      }
+    ],
+    "generique": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "June Lang",
+      "William Janney"
+    ]
+  },
+  {
+    "titre": "Compagnons de la nouba",
+    "art": "Les",
+    "titreVo": "Sons of the Desert",
+    "idFilm": 35839,
+    "idCycle": 418,
+    "idCategorie": 1861,
+    "ageMinimal": null,
+    "realisateurs": "William A. Seiter",
+    "annee": 1933,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Laurel et Hardy appartiennent à un club. Pour assister à sa convention annuelle, ils disent à leurs épouses qu'ils partent en croisière, mais le bateau qu'ils étaient censés prendre a coulé."
+      }
+    ],
+    "generique": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Charley Chase"
+    ]
+  },
+  {
+    "titre": "Laurel et Hardy au Far West",
+    "titreVo": "Way out West",
+    "idFilm": 41287,
+    "idCycle": 418,
+    "idCategorie": 1861,
+    "ageMinimal": null,
+    "realisateurs": "James W. Horne",
+    "annee": 1936,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Stan et Oliver font route vers l'Ouest pour remettre à une jeune fille l'acte de propriété d'une mine d'or de la part de son père défunt."
+      }
+    ],
+    "generique": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "James Finlayson"
+    ]
+  },
+  {
+    "titre": "Laurel et Hardy conscrits = Les Conscrits",
+    "titreVo": "Flying Deuces",
+    "artVo": "The",
+    "idFilm": 60878,
+    "idCycle": 418,
+    "idCategorie": 1861,
+    "ageMinimal": null,
+    "realisateurs": "A. Edward Sutherland",
+    "annee": 1939,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Après une vaine tentative de suicide, Oliver s'engage dans l'armée avec Stan. Devant la dureté de la vie militaire, les deux compères quittent le camp, laissant une lettre au colonel."
+      }
+    ],
+    "generique": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Jean Parker",
+      "Reginald Gardiner"
+    ]
+  },
+  {
+    "titre": "Têtes de pioche",
+    "titreVo": "Block-Heads",
+    "idFilm": 30482,
+    "idCycle": 418,
+    "idCategorie": 1861,
+    "ageMinimal": null,
+    "realisateurs": "John G. Blystone",
+    "annee": 1938,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Vingt ans après l'armistice de 1918, Stan Laurel ne sait toujours pas que la guerre est terminée. Il reste dans les tranchées comme on lui avait ordonné quelques années auparavant."
+      }
+    ],
+    "generique": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Billy Gilbert",
+      "Patricia Ellis"
+    ]
+  }
+]
