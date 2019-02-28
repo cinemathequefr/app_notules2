@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="8.0(370)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="8.0" Self="d">
+  <Story Self="story">
+  
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/CATEGORIE">
+      <Content>Les films</Content>
+    </ParagraphStyleRange>
+    <Br />
+  
+    <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/CATEGORIE">
+      <Content>Autour de Jerzy Skolimowski en personne</Content>
+    </ParagraphStyleRange>
+  
+ </Story>
+</Document>

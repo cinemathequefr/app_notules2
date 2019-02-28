@@ -8,8 +8,10 @@ const helpers = require("./lib/helpers.js");
 const merge = require("./lib/transforms/merge.js");
 const cleanTitreEvenement = require("./lib/transforms/clean_titre_evenement.js");
 const render = require("./lib/transforms/render.js");
+
 const markdown = require("./lib/transforms/markdown.js");
-// const summary = require("./lib/transforms/summary.js");
+const icml = require("./lib/transforms/icml.js");
+const tt = require("./lib/transforms/tt.js"); // Tagged text
 
 const writeFile = promisify(fs.writeFile);
 
@@ -67,13 +69,26 @@ try {
     "utf8"
   );
 
-  let md = markdown(cycle);
-
   await writeFile(
     `./data/cycles/markdown/PROG${idProg}_CYCL${idCycle} ${cycleConfig.titreCycle}.md`,
-    md,
+    markdown(cycle),
     "utf8"
   );
+
+  await writeFile(
+    `./data/cycles/tt/PROG${idProg}_CYCL${idCycle} ${cycleConfig.titreCycle}.txt`,
+    tt(cycle),
+    "latin1"
+  );
+
+  // await writeFile(
+  //   `./data/cycles/icml/PROG${idProg}_CYCL${idCycle} ${cycleConfig.titreCycle}.icml`,
+  //   icml(cycle),
+  //   "utf8"
+  // );
+
+
+
 
 
 })();

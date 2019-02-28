@@ -8,7 +8,7 @@
       "titreCycle": "Otar Iosseliani",
       "sousCycles": [{
         "titre": "Les films",
-        "cats": [],
+        "cats": [1925],
         "tri": 1
       }]
     },
@@ -71,7 +71,7 @@
       "titreCycle": "Plein les yeux ! Saison 3",
       "sousCycles": [{
         "titre": "Les films",
-        "cats": [1931],
+        "cats": [1933],
         "tri": 1
       }]
     }

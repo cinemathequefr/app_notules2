@@ -1,0 +1,393 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+
+<pstyle:CATEGORIE>Autour de 
+
+<pstyle:TITRE>Bloc-notes d'un cinéaste
+<pstyle:TITRE_ANG>(Block-notes di un regista)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1969/60'/VOSTF/Numérique
+<pstyle:TECHNIQUE>Avec Federico Fellini, Giulietta Masina, Marcello Mastroianni.
+<pstyle:SYNOPSIS>Face aux décors d<cSkew:9>'Il viaggio di G. Mastorna<cSkew:>, Fellini se souvient de ce projet abandonné et parle du film qu'il veut réaliser, <cSkew:9>Fellini-Satyricon<cSkew:>.
+<pstyle:><cstyle:INFOSBLEUES>je 09 maiXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Film suivi de [Et Fellini a rêvé de Picasso] de Isaki Lacuesta
+<pstyle:EVENEMENT>Film suivi de [Publicités réalisées par Fellini] de Federico Fellini
+
+<pstyle:TITRE>[Et Fellini a rêvé de Picasso]
+<pstyle:TITRE_ANG>(Y Fellini sono con Picasso)
+<pstyle:TECHNIQUE>de Isaki Lacuesta
+<pstyle:TECHNIQUE>Espagne/2018/24'/VOSTF/Numérique
+<pstyle:SYNOPSIS>Pour l’exposition <cSkew:9>Et Fellini a rêvé de Picasso<cSkew:> au musée Picasso de Málaga en 2018, Isaki Lacuesta rapproche les processus créatifs des deux artistes à partir de rêves récurrents du cinéaste sur sa rencontre avec le peintre.
+<pstyle:><cstyle:INFOSBLEUES>je 09 maiXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Film précédé de Bloc-notes d'un cinéaste de Federico Fellini
+<pstyle:EVENEMENT>Film suivi de [Publicités réalisées par Fellini] de Federico Fellini
+
+<pstyle:TITRE>Fellini
+<pstyle:TECHNIQUE>de André Delvaux
+<pstyle:TECHNIQUE>Belgique/1960/187'/VOSTF/16mm
+<pstyle:SYNOPSIS>Documentaire en quatre épisodes, conçu à partir de longs entretiens et rencontres avec Fellini, réalisé entre 1960 et 1962 pour la RTBF et la Cinémathèque Royale de Belgique.
+<pstyle:><cstyle:INFOSBLEUES>je 18 avrXXX14h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Il était une fois : La Dolce vita [TV]
+<pstyle:TECHNIQUE>de Serge July, Antoine de Gaudemar et Marie Genin
+<pstyle:TECHNIQUE>France/2009/52'/VOSTF/Numérique
+<pstyle:SYNOPSIS>Antoine de Gaudemar convoque de nombreux témoins (Anouk Aimée, Antonio Tabucchi...) pour évoquer ce film mythique, récit de l'errance d'un journaliste "de fête en fête, de nuit en nuit et de femme en femme".
+<pstyle:><cstyle:INFOSBLEUES>ve 03 maiXXX19h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>[Publicités réalisées par Fellini]
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1970/9'/VOSTF/Numérique
+<pstyle:SYNOPSIS>Spots publicitaires réalisés pour la Banca di Roma notamment (<cSkew:9>Leone<cSkew:>, <cSkew:9>Treno<cSkew:>, <cSkew:9>Tunnel<cSkew:>)
+<pstyle:><cstyle:INFOSBLEUES>je 09 maiXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Film précédé de Bloc-notes d'un cinéaste de Federico Fellini
+<pstyle:EVENEMENT>Film précédé de [Et Fellini a rêvé de Picasso] de Isaki Lacuesta
+
+<pstyle:TITRE>Qu'il est étrange de s'appeler Federico
+<pstyle:TITRE_ANG>(Che strano chiamarsi Federico ! Scola racconta Fellini)
+<pstyle:TECHNIQUE>de Ettore Scola
+<pstyle:TECHNIQUE>Italie/2012/93'/VOSTF/DCP
+<pstyle:SYNOPSIS>Dans ce film hommage, Ettore Scola revient sur sa rencontre avec Federico Fellini, au journal Marc’Aurelio dans les Années 50, sur leurs amis communs, parmi lesquels Marcello Mastroianni, et leur passion commune du cinéma.
+<pstyle:><cstyle:INFOSBLEUES>ve 03 maiXXX21h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Sur les traces de Fellini
+<pstyle:TECHNIQUE>de Gérald Morin
+<pstyle:TECHNIQUE>Suisse/2012/80'/DCP
+<pstyle:SYNOPSIS>Gérald Morin, ancien assistant de Fellini, retourne en Italie sur ses traces et fait appel à certains de ses anciens collaborateurs pour évoquer le "Maestro".
+<pstyle:><cstyle:INFOSBLEUES>lu 15 avrXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:CATEGORIE>Catégorie principale
+
+<pstyle:TITRE>Amarcord
+<pstyle:TITRE_ANG>(Amarcord)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1973/127'/VOSTF/35mm
+<pstyle:TECHNIQUE>d'après Tonino Guerra, Federico Fellini
+<pstyle:TECHNIQUE>Avec Bruno Zanin, Pupella Maggio, Armando Brancia.
+<pstyle:SYNOPSIS>À l'heure du fascisme triomphant, une année dans la petite ville de Rimini sur la côte adriatique. Une chronique vue au prisme de la famille de Titta, un collégien adepte de l'école buissonnière.
+<pstyle:><cstyle:INFOSBLEUES>sa 06 avrXXX17h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>ve 12 avrXXX21h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>di 21 avrXXX16h45XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>L'Amour à la ville : Agence matrimoniale
+<pstyle:TITRE_ANG>(Amore in città : Agenzia matrimoniale)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1953/85'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Antonio Cifariello, Livia Venturelli, Maresa Gallo.
+<pstyle:SYNOPSIS><cSkew:9>Agence matrimoniale<cSkew:>, quatrième sketch de <cSkew:9>L'Amour à la ville<cSkew:>, suit l'enquête d'un jeune journaliste sur les agences matrimoniales.
+<pstyle:><cstyle:INFOSBLEUES>lu 15 avrXXX17h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>di 28 avrXXX19h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Il Bidone
+<pstyle:TITRE_ANG>(Il Bidone)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1955/108'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Broderick Crawford, Richard Basehart, Franco Fabrizi.
+<pstyle:SYNOPSIS>Trois misérables escrocs, Augusto, Picasso et Roberto, se déguisent en prêtres pour voler les pauvres. C'est ainsi qu'Augusto "travaille" aussi à assurer l'avenir de sa fille.
+<pstyle:><cstyle:INFOSBLEUES>sa 06 avrXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>je 18 avrXXX19h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>sa 18 maiXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Boccace 70
+<pstyle:TITRE_ANG>(Boccaccio '70)
+<pstyle:TECHNIQUE>de Mario Monicelli, Federico Fellini, Luchino Visconti et Vittorio De Sica
+<pstyle:TECHNIQUE>Italie-France/1961/200'/VOSTF/35mm
+<pstyle:SYNOPSIS>Quatre adaptations modernes des contes pour adultes de Boccace qui mettent en scène des femmes fatales, dont <cSkew:9>Les <cSkew:><cSkew:9>Tentations<cSkew:><cSkew:9> du docteur Antoine <cSkew:>de Fellini: un jour, on placarde en face de la maison d'un farouche défenseur de la vertu un immense panneau publicitaire oUUU une femme plantureuse vante les bienfaits du lait.
+<pstyle:INFOS_UTILES><cSkew:9>sous réserve<cSkew:>
+<pstyle:><cstyle:INFOSBLEUES>di 07 avrXXX19h45XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Le Casanova de Fellini = Casanova
+<pstyle:TITRE_ANG>(Casanova)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1975/150'/VOSTF/35mm
+<pstyle:TECHNIQUE>d'après <cSkew:9>Storia della mia vita<cSkew:> de Giacomo Casanova
+<pstyle:TECHNIQUE>Avec Donald Sutherland, Tina Aumont, Margareth Clementi.
+<pstyle:SYNOPSIS>Le séducteur mythique, Giacomo Casanova, est emprisonné à Venise à la suite d'un scandale. Il s'évade et voyage d'une cour européenne à l'autre.
+<pstyle:><cstyle:INFOSBLEUES>sa 13 avrXXX18h15XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>La Cité des femmes
+<pstyle:TITRE_ANG>(La Citta delle donne)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1979/137'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Marcello Mastroianni, Ettore Manni, Bernice Stegers.
+<pstyle:SYNOPSIS>Un vieux séducteur descend d’un train en pleine campagne pour suivre une belle voyageuse. Il se retrouve au cœur d’un congrès féministe.
+<pstyle:INFOS_UTILES>Numérisé en 2K par Gaumont.
+<pstyle:><cstyle:INFOSBLEUES>ve 19 avrXXX21h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>lu 22 avrXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>sa 11 maiXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Les Clowns
+<pstyle:TITRE_ANG>(I Clowns)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France-République fédérale d'Allemagne/1970/93'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Federico Fellini, Liana Orfei, Franco Migliorini.
+<pstyle:SYNOPSIS>L'enfant Fellini évoque la découverte du cirque et la magie des clowns de Rimini. L'adulte Fellini entreprend un voyage nostalgique à la rencontre d'anciens clowns et de leurs souvenirs.
+<pstyle:><cstyle:INFOSBLEUES>ve 05 avrXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>ve 12 avrXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>di 28 avrXXX21h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>La Dolce vita
+<pstyle:TITRE_ANG>(Dolce vita)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1959/172'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Marcello Mastroianni, Anita Ekberg, Anouk Aimée.
+<pstyle:SYNOPSIS>Un journaliste traverse avec désinvolture et amertume la folle vie nocturne de la <cSkew:9>jet set <cSkew:>romaine.
+<pstyle:INFOS_UTILES>Copie restaurée par Pathé.
+<pstyle:><cstyle:INFOSBLEUES>me 03 avrXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>sa 27 avrXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>sa 11 maiXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>sa 25 maiXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Et vogue le navire
+<pstyle:TITRE_ANG>(E la nave va)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1982/128'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Freddie Jones, Barbara Jefford, Victor Poletti.
+<pstyle:SYNOPSIS>À la veille de la Première Guerre mondiale, un paquebot prend la mer pour déverser en plein océan les cendres d'une cantatrice célèbre.
+<pstyle:><cstyle:INFOSBLEUES>je 02 maiXXX19h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>je 16 maiXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>me 22 maiXXX14h30XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Film également projeté dans le cadre du cycle Ciné-club Jean Douchet - Ciné-Club Douchet Mars - Mai 2019
+
+<pstyle:TITRE>Fellini Roma
+<pstyle:TITRE_ANG>(Roma)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1971/119'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Peter Gonzales Falcon, Fiona Florence, Marne Maitland.
+<pstyle:SYNOPSIS>Rome de 1930 à nos jours vue par un de ses admirateurs, Federico Fellini. Fresque monumentale oUUU réalité et fantasme sont étroitement mêlés.
+<pstyle:><cstyle:INFOSBLEUES>je 04 avrXXX21h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Voir aussi Conférence p.X
+<pstyle:><cstyle:INFOSBLEUES>di 14 avrXXX16h30XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Les Feux du music-hall
+<pstyle:TITRE_ANG>(Luci del varietà)
+<pstyle:TECHNIQUE>de Federico Fellini et Alberto Lattuada
+<pstyle:TECHNIQUE>Italie/1950/100'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Carla Del Poggio, Giulietta Masina, Folco Lulli.
+<pstyle:SYNOPSIS>Dans l'Italie provinciale des années 1930, une petite troupe de théâtre ambulant accueille une jeune et belle danseuse, Liliana, attirée par le monde des paillettes.
+<pstyle:><cstyle:INFOSBLEUES>me 10 avrXXX19h30XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>lu 22 avrXXX16h45XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Ginger et Fred
+<pstyle:TITRE_ANG>(Ginger e Fred)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France-République fédérale d'Allemagne/1985/127'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Marcello Mastroianni, Giulietta Masina, Franco Fabrizi.
+<pstyle:SYNOPSIS>Deux danseurs, qui imitaient trente ans auparavant le couple Ginger Rogers/Fred Astaire, se retrouvent à l’occasion d’une émission de télévision invitant des sosies d’artistes.
+<pstyle:><cstyle:INFOSBLEUES>di 21 avrXXX19h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>je 23 maiXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Histoires extraordinaires
+<pstyle:TITRE_ANG>(Histoires extraordinaires : Il ne faut jamais parier sa tête avec le diable)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>France-Italie/1967/120'/VOSTF/35mm
+<pstyle:TECHNIQUE>d'après la nouvelle "Il ne faut jamais parier sa tête avec le diable" de Edgar Allan Poe
+<pstyle:TECHNIQUE>Avec Terence Stamp, Salvo Randone, Antonia Pietrosi.
+<pstyle:SYNOPSIS>Toby Dammit, un acteur britannique, se rend à Rome pour tourner un western à l'italienne. Lors d'une étrange soirée, durant laquelle défilent prêtres et journalistes, il est tourmenté par les apparitions d'une mystérieuse fillette.
+<pstyle:><cstyle:INFOSBLEUES>sa 20 avrXXX17h15XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>me 24 avrXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Huit et demi
+<pstyle:TITRE_ANG>(Otto e mezzo)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1962/128'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Marcello Mastroianni, Claudia Cardinale, Anouk Aimée.
+<pstyle:SYNOPSIS>Le cinéaste Guido Anselmi, en cure dans une station thermale, éprouve la crise du créateur. Alors qu'il cherche l'inspiration pour son prochain film, il se trouve happé par ses souvenirs et ses fantasmes.
+<pstyle:><cstyle:INFOSBLEUES>sa 06 avrXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>di 14 avrXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>me 08 maiXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Intervista
+<pstyle:TITRE_ANG>(Intervista)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1987/106'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Sergio Rubini, Maurizio Mein, Lara Wendel.
+<pstyle:SYNOPSIS>Dans les studios de Cinecittà, Fellini répond aux questions de journalistes japonais tandis qu'il prépare une adaptation de<cSkew:9> L'Amérique<cSkew:> de Franz Kafka.
+<pstyle:><cstyle:INFOSBLEUES>sa 13 avrXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Voir aussi Table ronde p.X
+<pstyle:><cstyle:INFOSBLEUES>lu 22 avrXXX21h45XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>ve 24 maiXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Juliette des esprits
+<pstyle:TITRE_ANG>(Giulietta degli spiriti)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1964/129'/VOSTF/35mm
+<pstyle:TECHNIQUE>d'après une idée originale de Federico Fellini
+<pstyle:TECHNIQUE>Avec Giulietta Masina, Sandra Milo, Mario Pisu.
+<pstyle:SYNOPSIS>Le jour oUUU Juliette, bourgeoise et conformiste, se met à soupçonner son mari de vouloir la quitter, son extravagante voisine l'entraîne alors dans un monde onirique et fantasmagorique.
+<pstyle:><cstyle:INFOSBLEUES>di 07 avrXXX17h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Les Nuits de Cabiria
+<pstyle:TITRE_ANG>(Le Notti di Cabiria)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1956/115'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Giulietta Masina, François Périer, Franca Marzi.
+<pstyle:SYNOPSIS>Une petite prostituée romaine croit découvrir l'amour avec un homme qui se révèle être un escroc.
+<pstyle:><cstyle:INFOSBLEUES>ve 05 avrXXX21h15XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>je 11 avrXXX21h45XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Voir aussi Conférence p.X
+<pstyle:><cstyle:INFOSBLEUES>ve 19 avrXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Répétition d'orchestre
+<pstyle:TITRE_ANG>(Prova d'orchestra)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-République fédérale d'Allemagne/1978/70'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Balduin Baas, Clara Colosimo, Elizabeth Labi.
+<pstyle:SYNOPSIS>Une équipe de télévision fait un reportage dans un monastère sur la préparation d'un concert par un orchestre réputé. Un groupe de musiciens se révolte contre le pouvoir tyrannique du chef d'orchestre.
+<pstyle:><cstyle:INFOSBLEUES>me 17 avrXXX19h30XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>di 21 avrXXX22h15XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>lu 13 maiXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Satyricon
+<pstyle:TITRE_ANG>(Fellini Satyricon)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1969/138'/VOSTF/35mm
+<pstyle:TECHNIQUE>d'après une libre inspiration du roman de Pétrone
+<pstyle:TECHNIQUE>Avec Martin Potter, Hiram Keller, Max Born.
+<pstyle:SYNOPSIS>Dans la Rome antique, Encolpe et Ascylte, deux étudiants du quartier souterrain de Subure oUUU ils vivent de rapines, se disputent les faveurs de leur jeune esclave, Giton. Les trois comparses, tour à tour désunis et réunis, vivent différentes histoires au gré de leurs rencontres.
+<pstyle:><cstyle:INFOSBLEUES>sa 13 avrXXX21h30XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Lo Sceicco ritrovato
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1952/50'/VOSTF/Vidéo
+<pstyle:SYNOPSIS>Moraldo Rossi, collaborateur de Federico Fellini sur <cSkew:9>Le Cheik blanc,<cSkew:> commente et compare les scènes coupées par Fellini avant la présentation du film à Venise avec la version définitive.
+.
+<pstyle:><cstyle:INFOSBLEUES>di 05 maiXXX20h45XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>lu 27 maiXXX14h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Le Sheik blanc
+<pstyle:TITRE_ANG>(Lo Sceicco bianco)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1951/87'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Alberto Sordi, Brunella Bovo, Leopoldo Trieste, Giulietta Masina.
+<pstyle:SYNOPSIS>En voyage de noces à Rome, Wanda, une lectrice passionnée de romans-photos, se perd et rencontre son héros sur la plage d’Ostie oUUU se déroule un tournage.
+
+ 
+<pstyle:><cstyle:INFOSBLEUES>me 10 avrXXX21h45XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>je 18 avrXXX22h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>di 05 maiXXX18h45XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>La Strada
+<pstyle:TITRE_ANG>(La Strada)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1954/107'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Giulietta Masina, Anthony Quinn, Richard Basehart.
+<pstyle:SYNOPSIS>Gelsomina est vendue par sa mère à Zampano, un saltimbanque qui la brutalise et ne cesse de la tromper. Ils partent ensemble sur les routes, vivant misérablement du numéro de Zampano. Surgit le Fou, violoniste et poète, qui seul sait parler à Gelsomina.
+<pstyle:><cstyle:INFOSBLEUES>je 11 avrXXX16h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>lu 15 avrXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>me 15 maiXXX14h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Les  Vitelloni
+<pstyle:TITRE_ANG>(I Vitelloni)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1953/107'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Franco Interlenghi, Franco Fabrizi, Alberto Sordi.
+<pstyle:SYNOPSIS>À la fin de l'été, dans les rues désertées de Pescara, une petite station balnéaire italienne. Cinq amis d'une trentaine d'années, surnommés "les vitelloni", se promènent sans rien faire, reculant sans cesse le moment d'affronter la vie d'adulte.
+<pstyle:><cstyle:INFOSBLEUES>ve 05 avrXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>sa 20 avrXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:><cstyle:INFOSBLEUES>sa 04 maiXXX20h30XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>La Voce della luna
+<pstyle:TITRE_ANG>(La Voce della luna)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1989/120'/VOSTF/35mm
+<pstyle:TECHNIQUE>librement inspiré du roman<cSkew:9> Le Poème des lunatiques<cSkew:> de Ermanno Cavazzoni
+<pstyle:TECHNIQUE>Avec Roberto Benigni, Paolo Villaggio, Nadia Ottaviani.
+<pstyle:SYNOPSIS>Ivo Salvini, un vagabond, part pour une étrange contrée rendre un escarpin d'argent à la blonde Aldina, si belle qu'il la prend pour la lune.
+<pstyle:><cstyle:INFOSBLEUES>me 17 avrXXX21h15XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>me 24 avrXXX21h30XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:><cstyle:INFOSBLEUES>lu 20 maiXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:CATEGORIE>Rencontres et conférences
+
+<pstyle:CONFERENCE TITRE>« Quand Fellini rêvait de Picasso » par Audrey Norcia
+<pstyle:CONFERENCE TXT>De nombreuses affinités existent entre Fellini et Picasso, des affinités que dessine le parcours de l’exposition de La Cinémathèque française. À travers le prisme picassien, celle-ci propose une relecture de la filmographie et des sujets de prédilection du Maestro: les femmes, le cirque mais aussi l’Antiquité, la danse et la corrida, sans oublier une réflexion sur l’acte de création que mettent en abîme plusieurs films, tout en participant à l’écriture consciente du «mythe Fellini». L’exposition, qui croise les œuvres et les médiums, est aussi l’occasion d’interroger la place du cinéma dans l’œuvre de Picasso.
+<pstyle:CONFERENCE NOTE><cTypeface:Bold>Audrey Norcia<cTypeface:> est historienne d’art, spécialiste des relations entre l’Antiquité et l’art contemporain. Sa thèse, <cSkew:9>Ruines, rebuts et traces<cSkew:> (à paraître en 2019, aux Presses du réel) convoque ces deux grands génies que sont Fellini et Picasso dans leur rapport aux civilisations et rites archaïques méditerranéens. Elle a signé plusieurs textes sur le Maître de la peinture moderne et réalisé au Museo Picasso de Málaga l’exposition «Y Fellini soñó con Picasso ». Elle est commissaire de l’exposition «Quand Fellini rêvait de Picasso», présentée à La Cinémathèque française.
+<pstyle:><cstyle:INFOSBLEUES>je 04 avrXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:CONFERENCE NOTE>À la suite de la conférence, à 21H30, projection d’un film choisi par le conférencier : Fellini Roma (Roma) de Federico Fellini. Voir P.xx.
+<pstyle:PRATIQUE>Tarifs conférence : PT 5 <0x20AC>, TR 4 <0x20AC>, Libre Pass accès libre.
+Possibilité billet couplé conférence + séance : 9.5 <0x20AC> (au lieu de 12 <0x20AC>).
+
+<pstyle:CONFERENCE TITRE>« Fellini erratique » par Jean-Paul Manganaro
+<pstyle:CONFERENCE TXT>Depuis son premier film, <cSkew:9>Les Feux du music-hall <cSkew:>(1950), jusqu’au dernier, <cSkew:9>La voce della luna<cSkew:> (1990), l’errance aura été un des thèmes majeurs de l’œuvre de Fellini : non seulement un thème, d’ailleurs, mais un structure autour de laquelle des significations se nouent, se déploient, s’expliquent. Ces significations sont tantôt narratives, tantôt politiques, mais surtout esthétiques et donnent un corps à la fois précis et flottant à la création.
+Si dans la première partie de l’œuvre – jusqu’à <cSkew:9>Huit et demi<cSkew:> (1963) – ces errances sont présentées de manière explicite, dans la deuxième phase elles assument des valeurs plus abstraites, mais tout aussi tremblantes et inquiétantes. L’errance en tant que telle révèle aussi son caractère méditatif : elle n’est pas uniquement une forme d’égarement, mais plus encore une recherche d’absolu, de destination.
+<pstyle:CONFERENCE NOTE><cTypeface:Bold>Jean-Paul Manganaro<cTypeface:> est professeur émérite de Littératures italiennes contemporaines à l’Université de Lille. Il a traduit de très nombreuses œuvres littéraires de l’italien en français, Carmelo Bene, Italo Calvino, Pier Paolo Pasolini, Luigi Pirandello, G. Tomasi di Lampedusa, entre autres. Il a édité <cSkew:9>Carmelo Bene<cSkew:> (1977) et <cSkew:9>Douze mois à Naples. Rêve d’un masque<cSkew:> (Dramaturgie Éditions, 1984) ; <cSkew:9>L’Ingénieur et le Baroque. Essai sur l’écriture de C.E. Gadda<cSkew:> (1994) et <cSkew:9>Italo Calvino, romancier et conteur<cSkew:> (Seuil, 2000) ; <cSkew:9>François Tanguy et le Radeau <cSkew:>(2008), <cSkew:9>Federico Fellini. Romance <cSkew:>(2009), <cSkew:9>Confusion de genres<cSkew:> (2011), <cSkew:9>Cul in air <cSkew:>(2014) et <cSkew:9>Liz T., Autobiographie<cSkew:> (P.O.L, 2015).
+<pstyle:><cstyle:INFOSBLEUES>je 11 avrXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:CONFERENCE NOTE>À la suite de la conférence, à 21H45, projection d’un film choisi par le conférencier : Les Nuits de Cabiria (Le Notti di Cabiria) de Federico Fellini. Voir P.xx.
+
+<pstyle:CONFERENCE TITRE>« Fellini au travail » animée par Audrey Norcia, Matthieu Orléan
+<pstyle:CONFERENCE TXT>«<cSkew:9>Intervista<cSkew:> est un film qui, avec les années, les expériences, les souvenirs, s’est accumulé à mon insu. C’est la sécrétion d’une vie, d’une profession, d’un sentiment fait d’amour, de sympathie, et aussi d’une destinée. En effet, il me semble que cette définition, un film qui s’est fait tout seul, peut résumer le sens d’une vie créative.»
+
+<cTypeface:Bold>Federico Fellini<cTypeface:>
+<pstyle:CONFERENCE NOTE>Le réalisateur <cTypeface:Bold>Dominique Delouche <cTypeface:>a commencé sa carrière comme assistant de Federico Fellini sur le tournage de <cSkew:9>Il Bidone, Les Nuits de Cabiria <cSkew:>et <cSkew:9>La dolce vita<cSkew:>. De cette expérience, il tire plusieurs ouvrages, dont <cSkew:9>Les Chemins de Fellini,<cSkew:> suivi du<cSkew:9> Journal d’un Bidoniste<cSkew:> (Éditions du Cerf, 1956), <cSkew:9>Mes felliniennes années: 1954-1960<cSkew:> (Éditions P.A.S., 2007) et de <cSkew:9>Federico Fellini, six ans avec le maestro <cSkew:>(Éditions La Tour Verte, 2019).
+<pstyle:CONFERENCE NOTE>Ancien journaliste à l’ORTF, <cTypeface:Bold>Gérald Morin<cTypeface:> rencontre Federico Fellini sur le tournage de <cSkew:9>Fellini Roma<cSkew:>,puis devient l’assistant-réalisateur du cinéaste<cSkew:9> <cSkew:>sur <cSkew:9>Amarcord <cSkew:>et <cSkew:9>Casanova<cSkew:>. Co-fondateur d’une «Fondation Fellini pour le cinéma», il a aussi publié de nombreux articles sur le réalisateur italien. Il a lui-même réalisé un documentaire, <cSkew:9>Sur les traces de Fellini<cSkew:> (2012).
+<pstyle:><cstyle:INFOSBLEUES>sa 13 avrXXX14h30XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:CONFERENCE NOTE>À la suite de la projection de Intervista (Intervista) de Federico Fellini (Voir P.xx), Table ronde avec Dominique Delouche, Gérald Morin.

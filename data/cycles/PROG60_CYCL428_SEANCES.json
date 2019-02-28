@@ -13,7 +13,13 @@
     "items": [
       {
         "idFilm": 47856,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30395,
+        "idCopie": 18146,
+        "duree": 107,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
       }
     ]
   }

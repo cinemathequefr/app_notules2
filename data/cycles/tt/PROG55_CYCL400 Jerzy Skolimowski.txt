@@ -1,0 +1,85 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>><dcs:ITAL=<cTypeface:Italic>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>11 minutes
+<pstyle:TITRE_ANG>(11 minut)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Pologne-Irlande/2014/81'/VOSTF/DCP
+<pstyle:TITRE>Les Aventures du brigadier Gérard
+<pstyle:TITRE_ANG>(The Adventures of Gerard)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Grande-Bretagne-Italie-Suisse/1968/91'/VOSTF/35 mm
+<pstyle:TITRE>La Barrière
+<pstyle:TITRE_ANG>(Bariera)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Pologne/1966/79'/VOSTF/35 mm
+<pstyle:TITRE>Le Bateau-phare
+<pstyle:TITRE_ANG>(The Lightship)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>États-Unis/1985/87'/VOSTF/DCP
+<pstyle:TITRE>La Bourse ou la vie
+<pstyle:TITRE_ANG>(Pieniadze albo zycie)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Pologne/1959/6'/VOSTF/DCP
+<pstyle:TITRE>Le Cri du sorcier
+<pstyle:TITRE_ANG>(The Shout)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Grande-Bretagne/1978/87'/VOSTF/DCP
+<pstyle:TITRE>Le Départ
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Belgique/1967/88'/VOSTF/DCP
+<pstyle:TITRE>Dialog 20-40-60
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Tchécoslovaquie/1968/90'/VOSTF/Numérique
+<pstyle:TITRE>Les Eaux printanières
+<pstyle:TITRE_ANG>(Aqua di primavera)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Italie-France/1988/101'/VOSTF/35 mm
+<pstyle:TITRE>Erotik
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Pologne/1960/3'/VOSTF/35 mm
+<pstyle:TITRE>Essential killing
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Pologne-Norvège-Irlande-Hongrie/2009/83'/VOSTF/DCP
+<pstyle:TITRE>Ferdydurke
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>France-Pologne/1991/96'/VOSTF/35 mm
+<pstyle:TITRE>Haut les mains
+<pstyle:TITRE_ANG>(Rece do gory)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Pologne/1967/72'/VOSTF/DCP
+<pstyle:TITRE>L'Ril torve
+<pstyle:TITRE_ANG>(Oko wykol)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Pologne/1959/3'/35 mm
+<pstyle:TITRE>Le Petit Hamlet
+<pstyle:TITRE_ANG>(Hamles)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Pologne/1959/8'/VOSTF/35 mm
+<pstyle:TITRE>Quatre nuits avec Anna
+<pstyle:TITRE_ANG>(Cztery noce z Anna)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Pologne-France/2007/87'/VOSTF/35 mm
+<pstyle:TITRE>Roi, dame, valet
+<pstyle:TITRE_ANG>(Herzbube = König, Dame, Bube)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>RFA-États-Unis/1971/92'/VOSTF/35 mm
+<pstyle:TECHNIQUE>D'après le roman <cstyle:ITAL>Roi, dame, valet<cstyle:> de Vladimir Nabokov.
+<pstyle:TITRE>Signes particuliers : néant
+<pstyle:TITRE_ANG>(Rysopis)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Pologne/1962/76'/VOSTF/DCP
+<pstyle:TITRE>Le Succès à tout prix
+<pstyle:TITRE_ANG>(Success Is the Best Revenge)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Grande-Bretagne-France/1984/89'/VF/35 mm
+<pstyle:TITRE>Travail au noir
+<pstyle:TITRE_ANG>(Moonlighting)
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Grande-Bretagne/1982/97'/VOSTF/DCP
+<pstyle:TITRE>Walkower
+<pstyle:TECHNIQUE>de Jerzy Skolimowski
+<pstyle:TECHNIQUE>Pologne/1965/78'/VOSTF/DCP
+<pstyle:CATEGORIE>Autour de Jerzy Skolimowski
+

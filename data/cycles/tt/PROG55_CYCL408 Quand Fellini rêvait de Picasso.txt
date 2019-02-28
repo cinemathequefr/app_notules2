@@ -1,0 +1,121 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>><dcs:ITAL=<cTypeface:Italic>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>Amarcord
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1973/127'/VOSTF/35 mm
+<pstyle:TITRE>L'Amour à la ville : Agence matrimoniale
+<pstyle:TITRE_ANG>(Amore in città : Agenzia matrimoniale)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1953/85'/VOSTF/DCP
+<pstyle:TITRE>Il Bidone
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1955/108'/VOSTF/DCP
+<pstyle:TITRE>Boccace 70
+<pstyle:TITRE_ANG>(Boccaccio '70)
+<pstyle:TECHNIQUE>de Mario Monicelli, Federico Fellini, Luchino Visconti, [etc.]
+<pstyle:TECHNIQUE>Italie-France/1961/200'/VOSTF/35 mm
+<pstyle:TITRE>Le Casanova de Fellini = Casanova
+<pstyle:TITRE_ANG>(Il Casanova di Federico Fellini)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1975/150'/VOSTF/35 mm
+<pstyle:TECHNIQUE>D'après <cstyle:ITAL>Storia della mia vita<cstyle:> de Giacomo Casanova.
+<pstyle:TITRE>La Cité des femmes
+<pstyle:TITRE_ANG>(La Citta delle donne)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1979/137'/VOSTF/DCP
+<pstyle:TITRE>Les Clowns
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France-RFA/1970/93'/VOSTF/DCP
+<pstyle:TITRE>La Dolce vita
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1959/172'/VOSTF/DCP
+<pstyle:TITRE>Et vogue le navire
+<pstyle:TITRE_ANG>(E la nave va)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1982/128'/VOSTF/DCP
+<pstyle:TITRE>Fellini Roma
+<pstyle:TITRE_ANG>(Roma)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1971/119'/VOSTF/35 mm
+<pstyle:TITRE>Les Feux du music-hall
+<pstyle:TITRE_ANG>(Luci del varietà)
+<pstyle:TECHNIQUE>de Federico Fellini, Alberto Lattuada
+<pstyle:TECHNIQUE>Italie/1950/100'/VOSTF/35 mm
+<pstyle:TITRE>Ginger et Fred
+<pstyle:TITRE_ANG>(Ginger e Fred)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France-RFA/1985/127'/VOSTF/DCP
+<pstyle:TITRE>Histoires extraordinaires
+<pstyle:TITRE_ANG>(Histoires extraordinaires : Il ne faut jamais parier sa tête avec le diable)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>France-Italie/1967/120'/VASTF/35 mm
+<pstyle:TECHNIQUE>D'après la nouvelle <cstyle:ITAL>Il ne faut jamais parier sa tête avec le diable<cstyle:> d'Edgar Allan Poe.
+<pstyle:TITRE>Huit et demi
+<pstyle:TITRE_ANG>(Otto e mezzo)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1962/128'/VOSTF/DCP
+<pstyle:TITRE>Intervista
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1987/106'/VOSTF/35 mm
+<pstyle:TITRE>Juliette des esprits
+<pstyle:TITRE_ANG>(Giulietta degli spiriti)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1964/129'/VOSTF/35 mm
+<pstyle:TITRE>Les Nuits de Cabiria
+<pstyle:TITRE_ANG>(Le Notti di Cabiria)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1956/115'/VOSTF/35 mm
+<pstyle:TITRE>Répétition d'orchestre
+<pstyle:TITRE_ANG>(Prova d'orchestra)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-RFA/1978/70'/VOSTF/DCP
+<pstyle:TITRE>Satyricon
+<pstyle:TITRE_ANG>(Fellini Satyricon)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1969/138'/VOSTF/35 mm
+<pstyle:TITRE>Lo Sceicco ritrovato
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1952/50'/VOSTF/Vidéo
+<pstyle:TITRE>Le Sheik blanc
+<pstyle:TITRE_ANG>(Lo Sceicco bianco)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1951/87'/VOSTF/35 mm
+<pstyle:TITRE>La Strada
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1954/107'/VOSTF/DCP
+<pstyle:TITRE>Les Vitelloni
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1953/107'/VOSTF/35 mm
+<pstyle:TITRE>La Voce della luna
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie-France/1989/120'/VOSTF/35 mm
+<pstyle:CATEGORIE>Autour de Federico Fellini
+
+<pstyle:TITRE>Bloc-notes d'un cinéaste
+<pstyle:TITRE_ANG>(Block-notes di un regista)
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1969/60'/VOSTF/Numérique
+<pstyle:TITRE>Et Fellini a rêvé de Picasso
+<pstyle:TITRE_ANG>(Y Fellini sono con Picasso)
+<pstyle:TECHNIQUE>d'Isaki Lacuesta
+<pstyle:TECHNIQUE>Espagne/2018/24'/VOSTF/Numérique
+<pstyle:TITRE>Fellini
+<pstyle:TECHNIQUE>de Dominique Delouche
+<pstyle:TECHNIQUE>Belgique/1960/187'/VOSTF/16 mm
+<pstyle:TITRE>Il était une fois : La Dolce vita TV
+<pstyle:TECHNIQUE>de Serge July, Antoine de Gaudemar, Marie Genin
+<pstyle:TECHNIQUE>France/2009/52'/VOSTF/Numérique
+<pstyle:TITRE>Publicités réalisées par Fellini
+<pstyle:TECHNIQUE>de Federico Fellini
+<pstyle:TECHNIQUE>Italie/1970/9'/VOSTF/Numérique
+<pstyle:TITRE>Qu'il est étrange de s'appeler Federico
+<pstyle:TITRE_ANG>(Che strano chiamarsi Federico ! Scola racconta Fellini)
+<pstyle:TECHNIQUE>d'Ettore Scola
+<pstyle:TECHNIQUE>Italie/2012/93'/VOSTF/DCP
+<pstyle:TITRE>Sur les traces de Fellini
+<pstyle:TECHNIQUE>de Gérald Morin
+<pstyle:TECHNIQUE>Suisse/2012/80'/DCP
+<pstyle:CATEGORIE>Rencontres et conférences
+
