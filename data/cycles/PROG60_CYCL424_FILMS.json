@@ -1,0 +1,288 @@
+[
+  {
+    "titre": "Adieu, plancher des vaches !",
+    "titreVo": "",
+    "idFilm": 64294,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1998,
+    "pays": "France-Suisse-Italie",
+    "generique": [
+      "Nico Tarielashvili",
+      "Lily Lavina",
+      "Otar Iosseliani",
+      "Philippe Bas"
+    ]
+  },
+  {
+    "titre": "Aquarelle",
+    "titreVo": "Akvareli",
+    "idFilm": 70506,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1958,
+    "pays": "URSS",
+    "generique": [
+      "Guennadi Kracheninnikov",
+      "Sofiko Tchiaoureli"
+    ]
+  },
+  {
+    "titre": "Avril",
+    "titreVo": "Aprili",
+    "idFilm": 69050,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1961,
+    "pays": "URSS",
+    "generique": [
+      "Tania Tchantouria",
+      "Guia Tchirakadze",
+      "Alexandre Tchikvaidze",
+      "V. Maisouradze"
+    ]
+  },
+  {
+    "titre": "Brigands, chapitre VII",
+    "titreVo": "",
+    "idFilm": 60179,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1995,
+    "pays": "France-Suisse-URSS-Italie",
+    "generique": [
+      "Amiran Amiranachvili",
+      "Dato Gogibedachvili",
+      "Guio Tzintsadze",
+      "Nino Ordjonikidze"
+    ]
+  },
+  {
+    "titre": "Chant de la fleur introuvable",
+    "art": "Le",
+    "titreVo": "Sapovnela",
+    "idFilm": 70507,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1959,
+    "pays": "URSS"
+  },
+  {
+    "titre": "Chant d'hiver",
+    "titreVo": "",
+    "idFilm": 128987,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 2014,
+    "pays": "France"
+  },
+  {
+    "titre": "Chantrapas",
+    "titreVo": "",
+    "idFilm": 111730,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 2009,
+    "pays": "France-Géorgie-Ukraine",
+    "generique": [
+      "Dato Tarielashvili",
+      "Tamuna Karumidze",
+      "Fanny Gonin",
+      "Givi Sarchimelidze"
+    ]
+  },
+  {
+    "titre": "Chasse aux papillons",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 58158,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1991,
+    "pays": "France-Allemagne-Italie",
+    "generique": [
+      "Narda Blanchet",
+      "Pierrette Pompon-Bailhache",
+      "Alexandre Tcherkassoff",
+      "Thamar Tarassachvili"
+    ]
+  },
+  {
+    "titre": "Chute des feuilles",
+    "art": "La",
+    "titreVo": "Giorgobistve",
+    "idFilm": 58785,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1966,
+    "pays": "URSS",
+    "generique": [
+      "Ramaz Guiorgobiani",
+      "Marina Kartsivadze",
+      "Gogui Kharabadze",
+      "Badour Tsouladze"
+    ]
+  },
+  {
+    "titre": "Et la lumière fut",
+    "titreVo": "",
+    "idFilm": 49272,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1989,
+    "pays": "France-Allemagne-Italie",
+    "generique": [
+      "Sigalon Sagna",
+      "Saly Badji",
+      "Binta Cissé",
+      "Marie-Christine Dième"
+    ]
+  },
+  {
+    "titre": "Favoris de la lune",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 52619,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1984,
+    "pays": "France",
+    "generique": [
+      "Pascal Aubier",
+      "Alix de Montaigu",
+      "Gaspard Flori",
+      "Emilie Aubry"
+    ]
+  },
+  {
+    "titre": "Fonte",
+    "art": "La",
+    "titreVo": "Toudji",
+    "idFilm": 70508,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1964,
+    "pays": "URSS"
+  },
+  {
+    "titre": "Il était une fois un merle chanteur",
+    "titreVo": "Zil pevcij drozd",
+    "idFilm": 41206,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1971,
+    "pays": "URSS",
+    "generique": [
+      "Gogi Chkheidze"
+    ]
+  },
+  {
+    "titre": "Jardins en automne",
+    "titreVo": "",
+    "idFilm": 99999,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 2005,
+    "pays": "France",
+    "generique": [
+      "Séverin Blanchet",
+      "Michel Piccoli",
+      "Muriel Motte",
+      "Pascal Vincent"
+    ]
+  },
+  {
+    "titre": "Otar Iosseliani, le merle siffleur",
+    "titreVo": "",
+    "idFilm": 102442,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Julieeeeeee Bertuccelli",
+    "annee": 2006,
+    "pays": "France"
+  },
+  {
+    "titre": "Pastorale",
+    "titreVo": "Pastoral",
+    "idFilm": 41458,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1976,
+    "pays": "URSS"
+  },
+  {
+    "titre": "Sept pièces pour le cinéma noir et blanc",
+    "titreVo": "",
+    "idFilm": 53105,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1982,
+    "pays": "France"
+  },
+  {
+    "titre": "Seule, Georgie",
+    "titreVo": "",
+    "idFilm": 117982,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1994,
+    "pays": "France"
+  },
+  {
+    "titre": "Un petit monastère en Toscane",
+    "titreVo": "",
+    "idFilm": 73985,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1988,
+    "pays": "France"
+  },
+  {
+    "titre": "Vieilles chansons Georgiennes",
+    "titreVo": "Starinnaja gruzinskaja pesnja",
+    "idFilm": 70509,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 1968,
+    "pays": "URSS"
+  }
+]

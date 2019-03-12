@@ -4,6 +4,24 @@
   "dateFrom": "",
   "dateTo": "",
   "cycles": [{
+      "idCycleProg": 140,
+      "titreCycle": "Ciné-club Jean Douchet",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1944],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 152,
+      "titreCycle": "Parlons cinéma avec Grégory Schneider",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1945],
+        "tri": 1
+      }]
+    },
+    {
       "idCycleProg": 424,
       "titreCycle": "Otar Iosseliani",
       "sousCycles": [{
@@ -25,10 +43,21 @@
       "idCycleProg": 426,
       "titreCycle": "John Cassavetes",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [1927],
+          "tri": 1
+        },
+        {
+          "titre": "John Cassavetes acteur",
+          "cats": [1935],
+          "tri": 1
+        },
+        {
+          "titre": "Autour de John Cassavetes",
+          "cats": [1936],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 427,
@@ -50,11 +79,11 @@
     },
     {
       "idCycleProg": 429,
-      "titreCycle": "Festival LGBT",
+      "titreCycle": "Révoltes sexuelles, révolutions visuelles",
       "sousCycles": [{
         "titre": "Les films",
         "cats": [1930],
-        "tri": 1
+        "tri": 4
       }]
     },
     {
@@ -63,6 +92,15 @@
       "sousCycles": [{
         "titre": "Les films",
         "cats": [1931],
+        "tri": 1
+      }]
+    },
+    {
+      "idCycleProg": 431,
+      "titreCycle": "Semaine du cinéma chilien contemporain",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1932],
         "tri": 1
       }]
     },

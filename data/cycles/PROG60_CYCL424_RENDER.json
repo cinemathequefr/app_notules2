@@ -1,0 +1,699 @@
+{
+  "header": {
+    "idCycleProg": 424,
+    "titreCycle": "Otar Iosseliani",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          1925
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 60
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 424,
+          "idFilm": 64294,
+          "titre": "Adieu, plancher des vaches !",
+          "titreVo": "",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1998,
+          "pays": "France-Suisse-Italie",
+          "generique": [
+            "Nico Tarielashvili",
+            "Lily Lavina",
+            "Otar Iosseliani",
+            "Philippe Bas"
+          ],
+          "seance": [
+            {
+              "idSeance": 29975,
+              "ordre": 1,
+              "idEvenement": 19085,
+              "dateHeure": "2019-06-02T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30064,
+              "ordre": 1,
+              "idEvenement": 19085,
+              "dateHeure": "2019-06-17T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 70506,
+          "titre": "Aquarelle",
+          "titreVo": "Akvareli",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1958,
+          "pays": "URSS",
+          "generique": [
+            "Guennadi Kracheninnikov",
+            "Sofiko Tchiaoureli"
+          ],
+          "seance": [
+            {
+              "idSeance": 30444,
+              "ordre": 1,
+              "idEvenement": 19086,
+              "dateHeure": "2019-05-31T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30063,
+              "ordre": 1,
+              "idEvenement": 19086,
+              "dateHeure": "2019-06-17T16:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film suivi de _Le Chant de la fleur introuvable_ d'Otar Iosseliani, _La Fonte_ d'Otar Iosseliani, _Vieilles chansons Georgiennes_ d'Otar Iosseliani."
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 69050,
+          "titre": "Avril",
+          "titreVo": "Aprili",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1961,
+          "pays": "URSS",
+          "generique": [
+            "Tania Tchantouria",
+            "Guia Tchirakadze",
+            "Alexandre Tchikvaidze",
+            "V. Maisouradze"
+          ],
+          "seance": [
+            {
+              "idSeance": 30405,
+              "ordre": 1,
+              "idEvenement": 19087,
+              "dateHeure": "2019-05-30T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30021,
+              "ordre": 1,
+              "idEvenement": 19087,
+              "dateHeure": "2019-06-10T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film suivi de _Sept pièces pour le cinéma noir et blanc_ d'Otar Iosseliani."
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 60179,
+          "titre": "Brigands, chapitre VII",
+          "titreVo": "",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1995,
+          "pays": "France-Suisse-URSS-Italie",
+          "generique": [
+            "Amiran Amiranachvili",
+            "Dato Gogibedachvili",
+            "Guio Tzintsadze",
+            "Nino Ordjonikidze"
+          ],
+          "seance": [
+            {
+              "idSeance": 29966,
+              "ordre": 1,
+              "idEvenement": 19088,
+              "dateHeure": "2019-06-01T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30061,
+              "ordre": 1,
+              "idEvenement": 19088,
+              "dateHeure": "2019-06-16T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 70507,
+          "titre": "Chant de la fleur introuvable",
+          "art": "Le",
+          "titreVo": "Sapovnela",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1959,
+          "pays": "URSS",
+          "seance": [
+            {
+              "idSeance": 30444,
+              "ordre": 4,
+              "idEvenement": 19086,
+              "dateHeure": "2019-05-31T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30063,
+              "ordre": 4,
+              "idEvenement": 19086,
+              "dateHeure": "2019-06-17T16:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé d'_Aquarelle_ d'Otar Iosseliani, _La Fonte_ d'Otar Iosseliani, _Vieilles chansons Georgiennes_ d'Otar Iosseliani."
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 128987,
+          "titre": "Chant d'hiver",
+          "titreVo": "",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 2014,
+          "pays": "France",
+          "seance": [
+            {
+              "idSeance": 30007,
+              "ordre": 1,
+              "idEvenement": 19089,
+              "dateHeure": "2019-06-08T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30088,
+              "ordre": 1,
+              "idEvenement": 19089,
+              "dateHeure": "2019-06-21T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 111730,
+          "titre": "Chantrapas",
+          "titreVo": "",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 2009,
+          "pays": "France-Géorgie-Ukraine",
+          "generique": [
+            "Dato Tarielashvili",
+            "Tamuna Karumidze",
+            "Fanny Gonin",
+            "Givi Sarchimelidze"
+          ],
+          "seance": [
+            {
+              "idSeance": 30486,
+              "ordre": 1,
+              "idEvenement": 19091,
+              "dateHeure": "2019-06-02T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30485,
+              "ordre": 1,
+              "idEvenement": 19091,
+              "dateHeure": "2019-06-08T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 58158,
+          "titre": "Chasse aux papillons",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1991,
+          "pays": "France-Allemagne-Italie",
+          "generique": [
+            "Narda Blanchet",
+            "Pierrette Pompon-Bailhache",
+            "Alexandre Tcherkassoff",
+            "Thamar Tarassachvili"
+          ],
+          "seance": [
+            {
+              "idSeance": 30452,
+              "ordre": 1,
+              "idEvenement": 19092,
+              "dateHeure": "2019-05-29T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 30060,
+              "ordre": 1,
+              "idEvenement": 19092,
+              "dateHeure": "2019-06-16T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 58785,
+          "titre": "Chute des feuilles",
+          "art": "La",
+          "titreVo": "Giorgobistve",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1966,
+          "pays": "URSS",
+          "generique": [
+            "Ramaz Guiorgobiani",
+            "Marina Kartsivadze",
+            "Gogui Kharabadze",
+            "Badour Tsouladze"
+          ],
+          "seance": [
+            {
+              "idSeance": 30406,
+              "ordre": 1,
+              "idEvenement": 19093,
+              "dateHeure": "2019-05-30T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30022,
+              "ordre": 1,
+              "idEvenement": 19093,
+              "dateHeure": "2019-06-10T21:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 49272,
+          "titre": "Et la lumière fut",
+          "titreVo": "",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1989,
+          "pays": "France-Allemagne-Italie",
+          "generique": [
+            "Sigalon Sagna",
+            "Saly Badji",
+            "Binta Cissé",
+            "Marie-Christine Dième"
+          ],
+          "duree": 103,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 29964,
+              "ordre": 1,
+              "idEvenement": 19094,
+              "dateHeure": "2019-06-01T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30052,
+              "ordre": 1,
+              "idEvenement": 19094,
+              "dateHeure": "2019-06-15T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 52619,
+          "titre": "Favoris de la lune",
+          "art": "Les",
+          "titreVo": "",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1984,
+          "pays": "France",
+          "generique": [
+            "Pascal Aubier",
+            "Alix de Montaigu",
+            "Gaspard Flori",
+            "Emilie Aubry"
+          ],
+          "seance": [
+            {
+              "idSeance": 30430,
+              "ordre": 1,
+              "idEvenement": 19095,
+              "dateHeure": "2019-06-02T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30051,
+              "ordre": 1,
+              "idEvenement": 19095,
+              "dateHeure": "2019-06-15T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 70508,
+          "titre": "Fonte",
+          "art": "La",
+          "titreVo": "Toudji",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1964,
+          "pays": "URSS",
+          "seance": [
+            {
+              "idSeance": 30444,
+              "ordre": 2,
+              "idEvenement": 19086,
+              "dateHeure": "2019-05-31T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30063,
+              "ordre": 2,
+              "idEvenement": 19086,
+              "dateHeure": "2019-06-17T16:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé d'_Aquarelle_ d'Otar Iosseliani et suivi de de _Le Chant de la fleur introuvable_ d'Otar Iosseliani, _Vieilles chansons Georgiennes_ d'Otar Iosseliani."
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 41206,
+          "titre": "Il était une fois un merle chanteur",
+          "titreVo": "Zil pevcij drozd",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1971,
+          "pays": "URSS",
+          "generique": [
+            "Gogi Chkheidze"
+          ],
+          "seance": [
+            {
+              "idSeance": 29957,
+              "ordre": 1,
+              "idEvenement": 19097,
+              "dateHeure": "2019-05-31T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30029,
+              "ordre": 1,
+              "idEvenement": 19097,
+              "dateHeure": "2019-06-12T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 99999,
+          "titre": "Jardins en automne",
+          "titreVo": "",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 2005,
+          "pays": "France",
+          "generique": [
+            "Séverin Blanchet",
+            "Michel Piccoli",
+            "Muriel Motte",
+            "Pascal Vincent"
+          ],
+          "seance": [
+            {
+              "idSeance": 29986,
+              "ordre": 1,
+              "idEvenement": 19098,
+              "dateHeure": "2019-06-05T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30065,
+              "ordre": 1,
+              "idEvenement": 19098,
+              "dateHeure": "2019-06-17T21:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 102442,
+          "titre": "Otar Iosseliani, le merle siffleur",
+          "titreVo": "",
+          "realisateurs": "Julieeeeeee Bertuccelli",
+          "annee": 2006,
+          "pays": "France",
+          "seance": [
+            {
+              "idSeance": 30002,
+              "ordre": 1,
+              "idEvenement": 19238,
+              "dateHeure": "2019-06-07T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 41458,
+          "titre": "Pastorale",
+          "titreVo": "Pastoral",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1976,
+          "pays": "URSS",
+          "seance": [
+            {
+              "idSeance": 30030,
+              "ordre": 1,
+              "idEvenement": 19099,
+              "dateHeure": "2019-06-12T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30071,
+              "ordre": 1,
+              "idEvenement": 19099,
+              "dateHeure": "2019-06-19T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 53105,
+          "titre": "Sept pièces pour le cinéma noir et blanc",
+          "titreVo": "",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1982,
+          "pays": "France",
+          "seance": [
+            {
+              "idSeance": 30405,
+              "ordre": 2,
+              "idEvenement": 19087,
+              "dateHeure": "2019-05-30T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30021,
+              "ordre": 2,
+              "idEvenement": 19087,
+              "dateHeure": "2019-06-10T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé d'_Avril_ d'Otar Iosseliani."
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 117982,
+          "titre": "Seule, Georgie",
+          "titreVo": "",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1994,
+          "pays": "France",
+          "seance": [
+            {
+              "idSeance": 30015,
+              "ordre": 1,
+              "idEvenement": 19101,
+              "dateHeure": "2019-06-09T17:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 73985,
+          "titre": "Un petit monastère en Toscane",
+          "titreVo": "",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1988,
+          "pays": "France",
+          "seance": [
+            {
+              "idSeance": 30487,
+              "ordre": 1,
+              "idEvenement": 19102,
+              "dateHeure": "2019-06-05T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30050,
+              "ordre": 1,
+              "idEvenement": 19102,
+              "dateHeure": "2019-06-15T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idFilm": 70509,
+          "titre": "Vieilles chansons Georgiennes",
+          "titreVo": "Starinnaja gruzinskaja pesnja",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1968,
+          "pays": "URSS",
+          "seance": [
+            {
+              "idSeance": 30444,
+              "ordre": 3,
+              "idEvenement": 19086,
+              "dateHeure": "2019-05-31T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30063,
+              "ordre": 3,
+              "idEvenement": 19086,
+              "dateHeure": "2019-06-17T16:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé d'_Aquarelle_ d'Otar Iosseliani, _La Fonte_ d'Otar Iosseliani et suivi de de _Le Chant de la fleur introuvable_ d'Otar Iosseliani."
+        }
+      ]
+    }
+  ]
+}

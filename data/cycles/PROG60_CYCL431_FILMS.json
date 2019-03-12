@@ -1,0 +1,164 @@
+[
+  {
+    "titre": "Club",
+    "art": "El",
+    "titreVo": "",
+    "idFilm": 127976,
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "ageMinimal": null,
+    "realisateurs": "Pablo Larraín",
+    "annee": 2014,
+    "pays": "Chili",
+    "generique": [
+      "Alfredo Castro",
+      "Roberto Farías",
+      "Antonia Zegers",
+      "Jaime Vadell"
+    ]
+  },
+  {
+    "titre": "Gloria",
+    "titreVo": "",
+    "idFilm": 121514,
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "ageMinimal": null,
+    "realisateurs": "Sebastián Lelio",
+    "annee": 2012,
+    "pays": "Chili-Espagne",
+    "generique": [
+      "Paulina García",
+      "Sergio Hernández",
+      "Marcial Tagle",
+      "Diego Fontecilla"
+    ]
+  },
+  {
+    "titre": "Jesús – Petit criminel",
+    "titreVo": "",
+    "idFilm": 138610,
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "ageMinimal": null,
+    "realisateurs": "Fernando Guzzoni",
+    "annee": 2016,
+    "pays": "France-Chili-Allemagne-Grèce",
+    "generique": [
+      "Nicolás Durán",
+      "Alejandro Goic",
+      "Gastón Salgado",
+      "Sebastián Ayala"
+    ]
+  },
+  {
+    "titre": "Lucia",
+    "titreVo": "",
+    "idFilm": 141182,
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "ageMinimal": null,
+    "realisateurs": "Niles Attalah",
+    "annee": 2010,
+    "pays": "Chili"
+  },
+  {
+    "titre": "Nana",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 109182,
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "ageMinimal": null,
+    "realisateurs": "Sebastián Silva",
+    "annee": 2008,
+    "pays": "Chili-Mexique",
+    "generique": [
+      "Catalina Saavedra",
+      "Claudia Celedón",
+      "Alejandro Goic",
+      "Andrea García-Huidobro"
+    ]
+  },
+  {
+    "titre": "No",
+    "titreVo": "",
+    "idFilm": 116547,
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "ageMinimal": null,
+    "realisateurs": "Pablo Larraín",
+    "annee": 2011,
+    "pays": "Chili",
+    "generique": [
+      "Gael García Bernal",
+      "Antonia Zegers",
+      "Alfredo Castro",
+      "Luis Gnecco"
+    ],
+    "adaptation": "D'après la pièce _The Referendum_ d'Antonio Skármeta."
+  },
+  {
+    "titre": "Tarde para morir joven",
+    "titreVo": "",
+    "idFilm": 141183,
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "ageMinimal": null,
+    "realisateurs": "Dominga Sotomayor Castillo",
+    "annee": 2018,
+    "pays": "Chili"
+  },
+  {
+    "titre": "Tuer un homme",
+    "titreVo": "Matar a un hombre",
+    "idFilm": 124638,
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "ageMinimal": null,
+    "realisateurs": "Alejandro Fernández Almendras",
+    "annee": 2013,
+    "pays": "Chili-France",
+    "generique": [
+      "Daniel Candia",
+      "Alejandra Yañez",
+      "Daniel Antivilo",
+      "Ariel Mateluna"
+    ]
+  },
+  {
+    "titre": "Une femme fantastique",
+    "titreVo": "Una Mujer Fantástica",
+    "idFilm": 136314,
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "ageMinimal": null,
+    "realisateurs": "Sebastián Lelio",
+    "annee": 2016,
+    "pays": "Chili-Allemagne-Espagne",
+    "generique": [
+      "Daniela Vega",
+      "Francisco Reyes",
+      "Luis Gnecco",
+      "Aline Küppenheim"
+    ]
+  },
+  {
+    "titre": "Violeta",
+    "titreVo": "Violeta se fue a los cielos",
+    "idFilm": 117938,
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "ageMinimal": null,
+    "realisateurs": "Andrés Wood",
+    "annee": 2011,
+    "pays": "Chili-Argentine-Brésil",
+    "generique": [
+      "Francisca Gavilán",
+      "Cristian Quevedo",
+      "Thomas Durand",
+      "Luis Machín"
+    ],
+    "adaptation": "D'après le livre _Violeta Parra, ma mère_ d'Ángel Parra."
+  }
+]

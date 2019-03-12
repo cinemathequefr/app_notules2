@@ -5,6 +5,7 @@ const {
 } = require("util"); // https://stackoverflow.com/questions/40593875/using-filesystem-in-node-js-with-async-await
 
 const helpers = require("./lib/helpers.js");
+const format = require("./lib/format.js");
 const markdownFilms = require("./lib/transforms/markdown_films.js");
 const writeFile = promisify(fs.writeFile);
 
@@ -32,7 +33,7 @@ try {
   });
 
   await writeFile(
-    `./data/cycles/markdown/PROG${idProg}_CYCL${idCycle}_FILMS ${cycleConfig.titreCycle}.md`,
+    `./data/cycles/markdown/PROG${idProg}_CYCL${idCycle}_FILMS ${format.stripInvalidFilenameChars(cycleConfig.titreCycle)}.md`,
     md,
     "utf8"
   );

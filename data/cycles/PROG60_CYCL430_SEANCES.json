@@ -3,8 +3,8 @@
     "idCycle": 430,
     "idCategorie": 1931,
     "idEvenement": 19040,
-    "idSeance": 30113,
-    "dateHeure": "2019-06-26T20:00:00",
+    "idSeance": 30156,
+    "dateHeure": "2019-07-03T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -13,6 +13,528 @@
     "items": [
       {
         "idFilm": 42596,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19027,
+    "idSeance": 30173,
+    "dateHeure": "2019-07-05T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Ile de l'épouvante (L')",
+    "items": [
+      {
+        "idFilm": 66016,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19031,
+    "idSeance": 30179,
+    "dateHeure": "2019-07-06T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Mille et une nuits (Les)",
+    "items": [
+      {
+        "idFilm": 66461,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19030,
+    "idSeance": 30180,
+    "dateHeure": "2019-07-06T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Masque du démon (Le)",
+    "items": [
+      {
+        "idFilm": 45212,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19026,
+    "idSeance": 30181,
+    "dateHeure": "2019-07-06T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Hercule contre les vampires",
+    "items": [
+      {
+        "idFilm": 45039,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19037,
+    "idSeance": 30189,
+    "dateHeure": "2019-07-07T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Ruée des vikings (La)",
+    "items": [
+      {
+        "idFilm": 100644,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19025,
+    "idSeance": 30190,
+    "dateHeure": "2019-07-07T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Fille qui en savait trop (La)",
+    "items": [
+      {
+        "idFilm": 42594,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19082,
+    "idSeance": 30197,
+    "dateHeure": "2019-07-10T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Vampires (Les)",
+    "items": [
+      {
+        "idFilm": 32360,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19155,
+    "idSeance": 30201,
+    "dateHeure": "2019-07-10T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Danger vient de l'espace (Le)",
+    "items": [
+      {
+        "idFilm": 43456,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19014,
+    "idSeance": 30202,
+    "dateHeure": "2019-07-10T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Arizona Bill",
+    "items": [
+      {
+        "idFilm": 86739,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19019,
+    "idSeance": 30207,
+    "dateHeure": "2019-07-11T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Corps et le fouet = Le Manoir de la peur (Le)",
+    "items": [
+      {
+        "idFilm": 59013,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19038,
+    "idSeance": 30208,
+    "dateHeure": "2019-07-11T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Six femmes pour l'assassin",
+    "items": [
+      {
+        "idFilm": 83125,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19023,
+    "idSeance": 30215,
+    "dateHeure": "2019-07-12T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Duel au couteau",
+    "items": [
+      {
+        "idFilm": 82898,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19034,
+    "idSeance": 30216,
+    "dateHeure": "2019-07-12T22:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Planète des vampires (La)",
+    "items": [
+      {
+        "idFilm": 88798,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19022,
+    "idSeance": 30222,
+    "dateHeure": "2019-07-13T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Dollars du Nebraska (Les)",
+    "items": [
+      {
+        "idFilm": 90841,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19039,
+    "idSeance": 30450,
+    "dateHeure": "2019-07-13T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Spie vengono dal semifreddo",
+    "items": [
+      {
+        "idFilm": 73697,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19033,
+    "idSeance": 30220,
+    "dateHeure": "2019-07-13T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Operazione paura",
+    "items": [
+      {
+        "idFilm": 87698,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19020,
+    "idSeance": 30221,
+    "dateHeure": "2019-07-13T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Danger, Diabolik",
+    "items": [
+      {
+        "idFilm": 46006,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19036,
+    "idSeance": 30228,
+    "dateHeure": "2019-07-14T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Rosso segno della follia (Il)",
+    "items": [
+      {
+        "idFilm": 92335,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19028,
+    "idSeance": 30495,
+    "dateHeure": "2019-07-14T19:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Lisa et le diable",
+    "items": [
+      {
+        "idFilm": 110686,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19015,
+    "idSeance": 30229,
+    "dateHeure": "2019-07-14T21:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Baie sanglante (La)",
+    "items": [
+      {
+        "idFilm": 58483,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19016,
+    "idSeance": 30244,
+    "dateHeure": "2019-07-17T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Baron vampire",
+    "items": [
+      {
+        "idFilm": 42592,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19035,
+    "idSeance": 30245,
+    "dateHeure": "2019-07-17T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Quante volte, quella notte",
+    "items": [
+      {
+        "idFilm": 101126,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19026,
+    "idSeance": 30253,
+    "dateHeure": "2019-07-18T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Hercule contre les vampires",
+    "items": [
+      {
+        "idFilm": 45039,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19037,
+    "idSeance": 30247,
+    "dateHeure": "2019-07-18T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Ruée des vikings (La)",
+    "items": [
+      {
+        "idFilm": 100644,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19025,
+    "idSeance": 30258,
+    "dateHeure": "2019-07-19T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Fille qui en savait trop (La)",
+    "items": [
+      {
+        "idFilm": 42594,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19040,
+    "idSeance": 30259,
+    "dateHeure": "2019-07-19T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Trois visages de la peur (Les)",
+    "items": [
+      {
+        "idFilm": 42596,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19024,
+    "idSeance": 30265,
+    "dateHeure": "2019-07-20T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Esther et le roi",
+    "items": [
+      {
+        "idFilm": 37834,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19038,
+    "idSeance": 30500,
+    "dateHeure": "2019-07-20T17:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Six femmes pour l'assassin",
+    "items": [
+      {
+        "idFilm": 83125,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "idEvenement": 19019,
+    "idSeance": 30266,
+    "dateHeure": "2019-07-20T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Corps et le fouet = Le Manoir de la peur (Le)",
+    "items": [
+      {
+        "idFilm": 59013,
         "ordre": 1
       }
     ]

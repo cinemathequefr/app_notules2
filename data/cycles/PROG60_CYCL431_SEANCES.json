@@ -1,0 +1,242 @@
+[
+  {
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "idEvenement": 19225,
+    "idSeance": 30027,
+    "dateHeure": "2019-06-12T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "No",
+    "items": [
+      {
+        "idFilm": 116547,
+        "ordre": 1,
+        "idSeance": 30027,
+        "idCopie": 18268,
+        "duree": 115,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "idEvenement": 19221,
+    "idSeance": 30440,
+    "dateHeure": "2019-06-13T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Nana (La)",
+    "items": [
+      {
+        "idFilm": 109182,
+        "ordre": 1,
+        "idSeance": 30440,
+        "idCopie": 18266,
+        "duree": 95,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "idEvenement": 19222,
+    "idSeance": 30439,
+    "dateHeure": "2019-06-14T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Lucia",
+    "items": [
+      {
+        "idFilm": 141182,
+        "ordre": 1,
+        "idSeance": 30439,
+        "idCopie": 18267,
+        "duree": 80,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "idEvenement": 19224,
+    "idSeance": 30441,
+    "dateHeure": "2019-06-15T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Club (El)",
+    "items": [
+      {
+        "idFilm": 127976,
+        "ordre": 1,
+        "idSeance": 30441,
+        "idCopie": 18270,
+        "duree": 97,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "idEvenement": 19229,
+    "idSeance": 30053,
+    "dateHeure": "2019-06-15T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Une femme fantastique",
+    "items": [
+      {
+        "idFilm": 136314,
+        "ordre": 1,
+        "idSeance": 30053,
+        "idCopie": 18272,
+        "duree": 104,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "idEvenement": 19227,
+    "idSeance": 30443,
+    "dateHeure": "2019-06-15T21:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Tuer un homme",
+    "items": [
+      {
+        "idFilm": 124638,
+        "ordre": 1,
+        "idSeance": 30443,
+        "idCopie": 7816,
+        "duree": 82,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "idEvenement": 19226,
+    "idSeance": 30442,
+    "dateHeure": "2019-06-16T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Gloria",
+    "items": [
+      {
+        "idFilm": 121514,
+        "ordre": 1,
+        "idSeance": 30442,
+        "idCopie": 6527,
+        "duree": 110,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "idEvenement": 19223,
+    "idSeance": 30058,
+    "dateHeure": "2019-06-16T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Violeta",
+    "items": [
+      {
+        "idFilm": 117938,
+        "ordre": 1,
+        "idSeance": 30058,
+        "idCopie": 18269,
+        "duree": 110,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "idEvenement": 19230,
+    "idSeance": 30066,
+    "dateHeure": "2019-06-17T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Tarde para morir joven",
+    "items": [
+      {
+        "idFilm": 141183,
+        "ordre": 1,
+        "idSeance": 30066,
+        "idCopie": 18273,
+        "duree": 110,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "idEvenement": 19228,
+    "idSeance": 30074,
+    "dateHeure": "2019-06-19T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Jesús - Petit criminel",
+    "items": [
+      {
+        "idFilm": 138610,
+        "ordre": 1,
+        "idSeance": 30074,
+        "idCopie": 18271,
+        "duree": 85,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>><dcs:ITAL=<cTypeface:Italic>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>A pair of boots
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1962
+<pstyle:TITRE>Ainsi va l'amour
+<pstyle:TITRE_ANG>(Minnie and Moskowitz)
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1971/115'/VOSTF/35 mm
+<pstyle:TITRE>Le Bal des vauriens = Meurtre d'un bookmaker chinois
+<pstyle:TITRE_ANG>(The Killing of a chinese bookie)
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1976/135'
+<pstyle:TITRE>La Ballade des sans-espoirs
+<pstyle:TITRE_ANG>(Too late blues)
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1961/98'/VOSTF/35 mm
+<pstyle:TITRE>Big Trouble
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1984
+<pstyle:TITRE>Faces
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1968/130'/VOSTF/DCP
+<pstyle:TITRE>Gloria
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1979/123'/VOSTF/35 mm
+<pstyle:TITRE>Maris
+<pstyle:TITRE_ANG>(Husbands)
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1970/140'/VOSTF/35 mm
+<pstyle:TITRE>My daddy can lick your daddy
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1962
+<pstyle:TITRE>Opening Night
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1977/144'/VOSTF/DCP
+<pstyle:TITRE>Shadows
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1959/87'/VOSTF/DCP
+<pstyle:TITRE>Torrents d'amour
+<pstyle:TITRE_ANG>(Love Streams)
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1983/141'/VOSTF/35 mm
+<pstyle:TITRE>Un enfant attend
+<pstyle:TITRE_ANG>(A Child Is Waiting)
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1962/102'/VOSTF/DCP
+<pstyle:TITRE>Une femme sous influence
+<pstyle:TITRE_ANG>(A woman under the influence)
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1974/146'/VOSTF/DCP
+<pstyle:CATEGORIE>John Cassavetes acteur
+
+<pstyle:TITRE>A bout portant
+<pstyle:TITRE_ANG>(The Killers)
+<pstyle:TECHNIQUE>de Don Siegel
+<pstyle:TECHNIQUE>États-Unis/1964/95'/VOSTF/35 mm
+<pstyle:TECHNIQUE>D'après le roman <cstyle:ITAL>The Killers<cstyle:> d'Ernest Hemingway.
+<pstyle:TITRE>Le Bébé de Rosemary
+<pstyle:TITRE_ANG>(Rosemary's Baby)
+<pstyle:TECHNIQUE>de Roman Polanski
+<pstyle:TECHNIQUE>États-Unis/1967/137'/VOSTF/DCP
+<pstyle:TECHNIQUE>D'après le roman <cstyle:ITAL>Rosemary's baby<cstyle:> d'Ira Levin.
+<pstyle:TITRE>La Cible étoilée
+<pstyle:TITRE_ANG>(Brass Target)
+<pstyle:TECHNIQUE>de John Hough
+<pstyle:TECHNIQUE>États-Unis/1978/111'
+<pstyle:TECHNIQUE>D'après le roman <cstyle:ITAL>The Algonquin project<cstyle:> de Frederick Nolan.
+<pstyle:TITRE>Les Douze salopards
+<pstyle:TITRE_ANG>(The Dirty Dozen)
+<pstyle:TECHNIQUE>de Robert Aldrich
+<pstyle:TECHNIQUE>États-Unis/1966/149'
+<pstyle:TECHNIQUE>D'après le roman <cstyle:ITAL>The Dirty Dozen<cstyle:> d'E.M. Nathanson.
+<pstyle:TITRE>Furie
+<pstyle:TITRE_ANG>(The Fury)
+<pstyle:TECHNIQUE>de Brian De Palma
+<pstyle:TECHNIQUE>États-Unis/1978/117'/Numérique
+<pstyle:TECHNIQUE>D'après le roman <cstyle:ITAL>Furie<cstyle:> de John Farris.
+<pstyle:TITRE>L'Homme qui tua la peur
+<pstyle:TITRE_ANG>(Edge of the City)
+<pstyle:TECHNIQUE>de Martin Ritt
+<pstyle:TECHNIQUE>États-Unis/1956/85'
+<pstyle:TITRE>Incubus
+<pstyle:TECHNIQUE>de John Hough
+<pstyle:TECHNIQUE>Canada/1981/93'
+<pstyle:TITRE>Les Intouchables
+<pstyle:TITRE_ANG>(Gli Intoccabili)
+<pstyle:TECHNIQUE>de Giuliano Montaldo
+<pstyle:TECHNIQUE>Italie/1968/96'
+<pstyle:TITRE>Un tueur dans la foule
+<pstyle:TITRE_ANG>(Two-minute Warning)
+<pstyle:TECHNIQUE>de Larry Peerce
+<pstyle:TECHNIQUE>États-Unis/1976/115'/VOSTF/Numérique
+<pstyle:TECHNIQUE>D'après le roman <cstyle:ITAL>Two-Minute Warning<cstyle:> de George La Fountaine.
+<pstyle:CATEGORIE>Autour de John Cassavetes
+
+<pstyle:TITRE>John Cassavetes (Hollywood 1965, Paris 1968)
+<pstyle:TECHNIQUE>de Hubert Knapp, André S. Labarthe
+<pstyle:TECHNIQUE>France/1998

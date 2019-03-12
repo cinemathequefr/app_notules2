@@ -1,0 +1,43 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>><dcs:ITAL=<cTypeface:Italic>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>Les Apprentis sorciers
+<pstyle:TECHNIQUE>d'Edgardo Cozarinsky
+<pstyle:TECHNIQUE>France-RFA/1976/89'/VOSTA/35 mm
+<pstyle:TITRE>Citizen Langlois
+<pstyle:TECHNIQUE>d'Edgardo Cozarinsky
+<pstyle:TECHNIQUE>France/1995/67'/VF/35 mm
+<pstyle:TITRE>Dans le rouge du couchant
+<pstyle:TECHNIQUE>d'Edgardo Cozarinsky
+<pstyle:TECHNIQUE>France-Espagne/2003/90'/35 mm
+<pstyle:TITRE>Fantômes de Tanger
+<pstyle:TECHNIQUE>d'Edgardo Cozarinsky
+<pstyle:TECHNIQUE>France-Maroc-Allemagne/1997/90'/35 mm
+<pstyle:TITRE>La Guerre d'un seul homme
+<pstyle:TECHNIQUE>d'Edgardo Cozarinsky
+<pstyle:TECHNIQUE>France/1982/107'/35 mm
+<pstyle:TITRE>Guerriers et captives
+<pstyle:TECHNIQUE>d'Edgardo Cozarinsky
+<pstyle:TECHNIQUE>France-Suisse-Argentine/1988/97'/35 mm
+<pstyle:TITRE>Lettre à un père
+<pstyle:TITRE_ANG>(Carta a un padre)
+<pstyle:TECHNIQUE>d'Edgardo Cozarinsky
+<pstyle:TECHNIQUE>Argentine-France/2013/63'/VOSTF/Numérique
+<pstyle:TITRE>Nocturnos
+<pstyle:TECHNIQUE>d'Edgardo Cozarinsky
+<pstyle:TECHNIQUE>Argentine/2011/63'/VOSTF/DCP
+<pstyle:TITRE>Notes pour une biographie imaginaire
+<pstyle:TITRE_ANG>(Apuntes para una biografía imaginaria)
+<pstyle:TECHNIQUE>d'Edgardo Cozarinsky
+<pstyle:TECHNIQUE>Argentine/2010/60'/DCP
+<pstyle:TITRE>Puntos suspensivos o Esperando a los bárbaros
+<pstyle:TECHNIQUE>d'Edgardo Cozarinsky
+<pstyle:TECHNIQUE>Argentine/1971/79'/VOSTF/35 mm
+<pstyle:TITRE>Ronde de nuit
+<pstyle:TITRE_ANG>(Ronda nocturna)
+<pstyle:TECHNIQUE>d'Edgardo Cozarinsky
+<pstyle:TECHNIQUE>Argentine-France/2005/80'/35 mm
+<pstyle:TITRE>Le Violon de Rothschild
+<pstyle:TECHNIQUE>d'Edgardo Cozarinsky
+<pstyle:TECHNIQUE>France-Suisse-Finlande-Hongrie/1996/100'/Vidéo

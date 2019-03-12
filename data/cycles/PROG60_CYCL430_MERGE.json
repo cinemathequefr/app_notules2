@@ -1,0 +1,747 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idFilm": 86739,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19014,
+          "idSeance": 30202,
+          "dateHeure": "2019-07-10T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Arizona Bill",
+          "titreVo": "Strada per Fort Alamo",
+          "artVo": "La",
+          "realisateurs": "Mario Bava",
+          "annee": 1964,
+          "pays": "Italie-France",
+          "generique": [
+            "Ken Clark",
+            "Jany Clair",
+            "Michel Lemoine"
+          ]
+        },
+        {
+          "idFilm": 58483,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19015,
+          "idSeance": 30229,
+          "dateHeure": "2019-07-14T21:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Baie sanglante",
+          "art": "La",
+          "titreVo": "Ecologia del delitto = Reazione a Catena",
+          "realisateurs": "Mario Bava",
+          "annee": 1971,
+          "pays": "Italie",
+          "generique": [
+            "Claudine Auger",
+            "Luigi Pistilli",
+            "Claudio Volonté",
+            "Anna Maria Rosati"
+          ]
+        },
+        {
+          "idFilm": 42592,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19016,
+          "idSeance": 30244,
+          "dateHeure": "2019-07-17T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Baron vampire",
+          "titreVo": "Orrori del castello di Norimberga",
+          "artVo": "Gli",
+          "realisateurs": "Mario Bava",
+          "annee": 1971,
+          "pays": "Italie-RFA",
+          "generique": [
+            "Joseph Cotten",
+            "Elke Sommer",
+            "Massimo Girotti"
+          ]
+        },
+        {
+          "idFilm": 59013,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19019,
+          "idSeance": 30207,
+          "dateHeure": "2019-07-11T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Corps et le fouet = Le Manoir de la peur",
+          "art": "Le",
+          "titreVo": "Frusta e il corpo",
+          "artVo": "La",
+          "realisateurs": "John Old",
+          "annee": 1963,
+          "pays": "Italie-France",
+          "generique": [
+            "Daliah Lavi",
+            "Christopher Lee",
+            "Tony Kendall",
+            "Isli Oberon"
+          ]
+        },
+        {
+          "idFilm": 59013,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19019,
+          "idSeance": 30266,
+          "dateHeure": "2019-07-20T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Corps et le fouet = Le Manoir de la peur",
+          "art": "Le",
+          "titreVo": "Frusta e il corpo",
+          "artVo": "La",
+          "realisateurs": "John Old",
+          "annee": 1963,
+          "pays": "Italie-France",
+          "generique": [
+            "Daliah Lavi",
+            "Christopher Lee",
+            "Tony Kendall",
+            "Isli Oberon"
+          ]
+        },
+        {
+          "idFilm": 43456,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19155,
+          "idSeance": 30201,
+          "dateHeure": "2019-07-10T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Danger vient de l'espace",
+          "art": "Le",
+          "titreVo": "Morte viene dallo spazio",
+          "artVo": "La",
+          "realisateurs": "Paolo Heusch",
+          "annee": 1958,
+          "pays": "Italie-France",
+          "generique": [
+            "Paul Hubschmid",
+            "Madeleine Fischer",
+            "Fiorella Mari",
+            "Ivo Garrani"
+          ]
+        },
+        {
+          "idFilm": 46006,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19020,
+          "idSeance": 30221,
+          "dateHeure": "2019-07-13T21:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Danger, Diabolik",
+          "titreVo": "Diabolik",
+          "realisateurs": "Mario Bava",
+          "annee": 1967,
+          "pays": "Italie-France",
+          "generique": [
+            "John Philip Law",
+            "Marisa Mell",
+            "Michel Piccoli",
+            "Adolfo Celi"
+          ]
+        },
+        {
+          "idFilm": 90841,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19022,
+          "idSeance": 30222,
+          "dateHeure": "2019-07-13T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Dollars du Nebraska",
+          "art": "Les",
+          "titreVo": "Ringo del Nebraska",
+          "realisateurs": "Mario Bava",
+          "annee": 1966,
+          "pays": "Espagne-Italie",
+          "generique": [
+            "Ken Clark",
+            "Yvonne Bastien",
+            "Piero Lulli",
+            "Howard Ross"
+          ]
+        },
+        {
+          "idFilm": 82898,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19023,
+          "idSeance": 30215,
+          "dateHeure": "2019-07-12T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Duel au couteau",
+          "titreVo": "Coltelli del vendicatore",
+          "artVo": "I",
+          "realisateurs": "Mario Bava",
+          "annee": 1964,
+          "pays": "Italie",
+          "generique": [
+            "Cameron Mitchell",
+            "Fausto Tozzi"
+          ]
+        },
+        {
+          "idFilm": 37834,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19024,
+          "idSeance": 30265,
+          "dateHeure": "2019-07-20T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Esther et le roi",
+          "titreVo": "Esther e il re",
+          "realisateurs": "Raoul Walsh, Mario Bava",
+          "annee": 1960,
+          "pays": "Italie-États-Unis",
+          "generique": [
+            "Joan Collins",
+            "Richard Egan",
+            "Rik Battaglia",
+            "Denis O'Dea"
+          ]
+        },
+        {
+          "idFilm": 42594,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19025,
+          "idSeance": 30190,
+          "dateHeure": "2019-07-07T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Fille qui en savait trop",
+          "art": "La",
+          "titreVo": "Ragazza che sapeva troppo",
+          "artVo": "La",
+          "realisateurs": "Mario Bava",
+          "annee": 1962,
+          "pays": "Italie",
+          "generique": [
+            "Leticia Roman",
+            "John Saxon",
+            "Valentina Cortese",
+            "Dante DiPaolo"
+          ]
+        },
+        {
+          "idFilm": 42594,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19025,
+          "idSeance": 30258,
+          "dateHeure": "2019-07-19T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Fille qui en savait trop",
+          "art": "La",
+          "titreVo": "Ragazza che sapeva troppo",
+          "artVo": "La",
+          "realisateurs": "Mario Bava",
+          "annee": 1962,
+          "pays": "Italie",
+          "generique": [
+            "Leticia Roman",
+            "John Saxon",
+            "Valentina Cortese",
+            "Dante DiPaolo"
+          ]
+        },
+        {
+          "idFilm": 45039,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19026,
+          "idSeance": 30181,
+          "dateHeure": "2019-07-06T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Hercule contre les vampires",
+          "titreVo": "Ercole al centro della terra",
+          "realisateurs": "Mario Bava",
+          "annee": 1961,
+          "pays": "Italie",
+          "generique": [
+            "Reg Park",
+            "Eleonora Ruffo",
+            "Christopher Lee",
+            "Giorgio Ardisson"
+          ]
+        },
+        {
+          "idFilm": 45039,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19026,
+          "idSeance": 30253,
+          "dateHeure": "2019-07-18T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Hercule contre les vampires",
+          "titreVo": "Ercole al centro della terra",
+          "realisateurs": "Mario Bava",
+          "annee": 1961,
+          "pays": "Italie",
+          "generique": [
+            "Reg Park",
+            "Eleonora Ruffo",
+            "Christopher Lee",
+            "Giorgio Ardisson"
+          ]
+        },
+        {
+          "idFilm": 66016,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19027,
+          "idSeance": 30173,
+          "dateHeure": "2019-07-05T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Ile de l'épouvante",
+          "art": "L'",
+          "titreVo": "Cinque bambole per la luna d'agosto",
+          "realisateurs": "Mario Bava",
+          "annee": 1970,
+          "pays": "Italie",
+          "generique": [
+            "Ira de Fürstenberg",
+            "Edwige Fenech"
+          ]
+        },
+        {
+          "idFilm": 110686,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19028,
+          "idSeance": 30495,
+          "dateHeure": "2019-07-14T19:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Lisa et le diable",
+          "titreVo": "Lisa e il diavolo",
+          "realisateurs": "Mario Bava",
+          "annee": 1972,
+          "pays": "Italie-RFA-Espagne",
+          "generique": [
+            "Eduardo Fajardo",
+            "Sylva Koscina",
+            "Alessio Orano"
+          ]
+        },
+        {
+          "idFilm": 45212,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19030,
+          "idSeance": 30180,
+          "dateHeure": "2019-07-06T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Masque du démon",
+          "art": "Le",
+          "titreVo": "Maschera del demonio",
+          "artVo": "La",
+          "realisateurs": "Mario Bava",
+          "annee": 1960,
+          "pays": "Italie",
+          "generique": [
+            "Barbara Steele",
+            "John Richardson",
+            "Ivo Garrani",
+            "Andrea Checchi"
+          ],
+          "adaptation": "D'après la nouvelle _Vij_ de Nicolas Gogol."
+        },
+        {
+          "idFilm": 66461,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19031,
+          "idSeance": 30179,
+          "dateHeure": "2019-07-06T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Mille et une nuits",
+          "art": "Les",
+          "titreVo": "Meraviglie di Aladino",
+          "artVo": "La",
+          "realisateurs": "Mario Bava",
+          "annee": 1961,
+          "pays": "Italie-France",
+          "generique": [
+            "Donald O'Connor",
+            "Raymond Bussières",
+            "Michèle Mercier",
+            "Vittorio De Sica"
+          ]
+        },
+        {
+          "idFilm": 87698,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19033,
+          "idSeance": 30220,
+          "dateHeure": "2019-07-13T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Operazione paura",
+          "titreVo": "",
+          "realisateurs": "Mario Bava",
+          "annee": 1966,
+          "pays": "Italie",
+          "generique": [
+            "Giacomo Rossi-Stuart",
+            "Erika Blanc",
+            "Fabienne Dali",
+            "Gianna Vivaldi"
+          ]
+        },
+        {
+          "idFilm": 88798,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19034,
+          "idSeance": 30216,
+          "dateHeure": "2019-07-12T22:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Planète des vampires",
+          "art": "La",
+          "titreVo": "Terrore nello spazio",
+          "realisateurs": "Mario Bava",
+          "annee": 1965,
+          "pays": "Italie-Espagne",
+          "generique": [
+            "Barry Sullivan",
+            "Norma Bengell",
+            "Ángel Aranda",
+            "Evi Marandi"
+          ],
+          "adaptation": "D'après le roman _Una notte di 21 ore_ de Renato Pestriniero."
+        },
+        {
+          "idFilm": 101126,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19035,
+          "idSeance": 30245,
+          "dateHeure": "2019-07-17T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Quante volte, quella notte",
+          "titreVo": "",
+          "realisateurs": "Mario Bava",
+          "annee": 1969,
+          "pays": "Italie-RFA",
+          "generique": [
+            "Pascale Petit"
+          ]
+        },
+        {
+          "idFilm": 92335,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19036,
+          "idSeance": 30228,
+          "dateHeure": "2019-07-14T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Rosso segno della follia",
+          "art": "Il",
+          "titreVo": "",
+          "realisateurs": "Mario Bava",
+          "annee": 1970,
+          "pays": "Italie",
+          "generique": [
+            "Laura Betti"
+          ]
+        },
+        {
+          "idFilm": 100644,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19037,
+          "idSeance": 30189,
+          "dateHeure": "2019-07-07T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Ruée des vikings",
+          "art": "La",
+          "titreVo": "Invasori",
+          "artVo": "Gli",
+          "realisateurs": "Mario Bava",
+          "annee": 1961,
+          "pays": "Italie-France",
+          "generique": [
+            "Cameron Mitchell",
+            "Folco Lulli",
+            "Françoise Christophe"
+          ]
+        },
+        {
+          "idFilm": 100644,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19037,
+          "idSeance": 30247,
+          "dateHeure": "2019-07-18T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Ruée des vikings",
+          "art": "La",
+          "titreVo": "Invasori",
+          "artVo": "Gli",
+          "realisateurs": "Mario Bava",
+          "annee": 1961,
+          "pays": "Italie-France",
+          "generique": [
+            "Cameron Mitchell",
+            "Folco Lulli",
+            "Françoise Christophe"
+          ]
+        },
+        {
+          "idFilm": 83125,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19038,
+          "idSeance": 30208,
+          "dateHeure": "2019-07-11T21:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Six femmes pour l'assassin",
+          "titreVo": "Sei donne per l'assassino",
+          "realisateurs": "Mario Bava",
+          "annee": 1964,
+          "pays": "Italie-France-RFA",
+          "generique": [
+            "Eva Bartok",
+            "Cameron Mitchell",
+            "Thomas Reiner",
+            "Ariana Gorini"
+          ]
+        },
+        {
+          "idFilm": 83125,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19038,
+          "idSeance": 30500,
+          "dateHeure": "2019-07-20T17:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Six femmes pour l'assassin",
+          "titreVo": "Sei donne per l'assassino",
+          "realisateurs": "Mario Bava",
+          "annee": 1964,
+          "pays": "Italie-France-RFA",
+          "generique": [
+            "Eva Bartok",
+            "Cameron Mitchell",
+            "Thomas Reiner",
+            "Ariana Gorini"
+          ]
+        },
+        {
+          "idFilm": 73697,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19039,
+          "idSeance": 30450,
+          "dateHeure": "2019-07-13T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Spie vengono dal semifreddo",
+          "titreVo": "",
+          "realisateurs": "Mario Bava",
+          "annee": 1966,
+          "pays": "Italie-États-Unis",
+          "generique": [
+            "Vincent Price",
+            "Fabian",
+            "Laura Antonelli"
+          ]
+        },
+        {
+          "idFilm": 42596,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19040,
+          "idSeance": 30156,
+          "dateHeure": "2019-07-03T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Trois visages de la peur",
+          "art": "Les",
+          "titreVo": "Tre volti della paura",
+          "artVo": "I",
+          "realisateurs": "Mario Bava",
+          "annee": 1963,
+          "pays": "Italie-France",
+          "generique": [
+            "Michèle Mercier",
+            "Boris Karloff",
+            "Jacqueline Pierreux"
+          ]
+        },
+        {
+          "idFilm": 42596,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19040,
+          "idSeance": 30259,
+          "dateHeure": "2019-07-19T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Trois visages de la peur",
+          "art": "Les",
+          "titreVo": "Tre volti della paura",
+          "artVo": "I",
+          "realisateurs": "Mario Bava",
+          "annee": 1963,
+          "pays": "Italie-France",
+          "generique": [
+            "Michèle Mercier",
+            "Boris Karloff",
+            "Jacqueline Pierreux"
+          ]
+        },
+        {
+          "idFilm": 32360,
+          "ordre": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19082,
+          "idSeance": 30197,
+          "dateHeure": "2019-07-10T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Vampires",
+          "art": "Les",
+          "titreVo": "Vampiri",
+          "artVo": "I",
+          "realisateurs": "Riccardo Freda",
+          "annee": 1956,
+          "pays": "Italie",
+          "generique": [
+            "Gianna Maria Canale",
+            "Antoine Balpêtré",
+            "Paul Muller",
+            "Carlo D'Angelo"
+          ]
+        }
+      ]
+    }
+  ],
+  "info": {}
+}

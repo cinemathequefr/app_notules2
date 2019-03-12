@@ -118,6 +118,25 @@
     ]
   },
   {
+    "titre": "Danger vient de l'espace",
+    "art": "Le",
+    "titreVo": "Morte viene dallo spazio",
+    "artVo": "La",
+    "idFilm": 43456,
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "ageMinimal": null,
+    "realisateurs": "Paolo Heusch",
+    "annee": 1958,
+    "pays": "Italie-France",
+    "generique": [
+      "Paul Hubschmid",
+      "Madeleine Fischer",
+      "Fiorella Mari",
+      "Ivo Garrani"
+    ]
+  },
+  {
     "titre": "Démons de la nuit",
     "art": "Les",
     "titreVo": "Schock",
@@ -233,6 +252,21 @@
     "generique": [
       "Ira de Fürstenberg",
       "Edwige Fenech"
+    ]
+  },
+  {
+    "titre": "Inferno",
+    "titreVo": "",
+    "idFilm": 42508,
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "ageMinimal": null,
+    "realisateurs": "Dario Argento",
+    "annee": 1979,
+    "pays": "Italie",
+    "generique": [
+      "Alida Valli",
+      "Sacha Pitoëff"
     ]
   },
   {
@@ -452,6 +486,25 @@
       "Michèle Mercier",
       "Boris Karloff",
       "Jacqueline Pierreux"
+    ]
+  },
+  {
+    "titre": "Vampires",
+    "art": "Les",
+    "titreVo": "Vampiri",
+    "artVo": "I",
+    "idFilm": 32360,
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "ageMinimal": null,
+    "realisateurs": "Riccardo Freda",
+    "annee": 1956,
+    "pays": "Italie",
+    "generique": [
+      "Gianna Maria Canale",
+      "Antoine Balpêtré",
+      "Paul Muller",
+      "Carlo D'Angelo"
     ]
   },
   {

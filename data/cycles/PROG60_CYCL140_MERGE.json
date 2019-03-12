@@ -1,0 +1,150 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idFilm": 33564,
+          "ordre": 1,
+          "idSeance": 30198,
+          "idCopie": 18090,
+          "duree": 128,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 192,
+          "idCategorie": 1944,
+          "idEvenement": 19045,
+          "dateHeure": "2019-07-10T19:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Comtesse aux pieds nus",
+          "art": "La",
+          "titreVo": "Barefoot Contessa",
+          "artVo": "The",
+          "realisateurs": "Joseph L. Mankiewicz",
+          "annee": 1954,
+          "pays": "États-Unis",
+          "generique": [
+            "Humphrey Bogart",
+            "Ava Gardner",
+            "Rossano Brazzi",
+            "Edmond O'Brien"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lors des funérailles de la comtesse Torlato-Favrini, un certain nombre de personnages évoquent sa folle vie. Le réalisateur Harry Dawes raconte comment il a connu la défunte, alors qu'elle dansait dans un cabaret sous le nom de Maria Vargas."
+            }
+          ]
+        },
+        {
+          "idFilm": 33564,
+          "ordre": 1,
+          "idSeance": 30490,
+          "idCopie": 18090,
+          "duree": 128,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 192,
+          "idCategorie": 1944,
+          "idEvenement": 19045,
+          "dateHeure": "2019-07-12T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Comtesse aux pieds nus",
+          "art": "La",
+          "titreVo": "Barefoot Contessa",
+          "artVo": "The",
+          "realisateurs": "Joseph L. Mankiewicz",
+          "annee": 1954,
+          "pays": "États-Unis",
+          "generique": [
+            "Humphrey Bogart",
+            "Ava Gardner",
+            "Rossano Brazzi",
+            "Edmond O'Brien"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lors des funérailles de la comtesse Torlato-Favrini, un certain nombre de personnages évoquent sa folle vie. Le réalisateur Harry Dawes raconte comment il a connu la défunte, alors qu'elle dansait dans un cabaret sous le nom de Maria Vargas."
+            }
+          ]
+        },
+        {
+          "idFilm": 133605,
+          "ordre": 1,
+          "idSeance": 30496,
+          "idCopie": 17124,
+          "duree": 138,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCycle": 192,
+          "idCategorie": 1944,
+          "idEvenement": 19217,
+          "dateHeure": "2019-07-24T19:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Manchester by the Sea",
+          "titreVo": "",
+          "realisateurs": "Kenneth Lonergan",
+          "annee": 2015,
+          "pays": "États-Unis",
+          "generique": [
+            "Casey Affleck",
+            "Ben O'Brien",
+            "Kyle Chandler",
+            "Richard Donnelly"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lee Chandler, homme à tout faire dans un immeuble de Boston, vit en solitaire. Un jour d'hiver, il reçoit un appel qui le rappelle dans sa ville natale, Manchester-by-the-Sea. Le soudain décès de son frère fait de lui le tuteur de son neveu âgé de seize ans."
+            }
+          ]
+        },
+        {
+          "idFilm": 33181,
+          "ordre": 1,
+          "idCycle": 192,
+          "idCategorie": 1944,
+          "idEvenement": 19237,
+          "idSeance": 30242,
+          "dateHeure": "2019-07-17T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Terre des pharaons",
+          "titreVo": "Land of the Pharaohs",
+          "realisateurs": "Howard Hawks",
+          "annee": 1954,
+          "pays": "États-Unis",
+          "generique": [
+            "Jack Hawkins",
+            "Joan Collins",
+            "Dewey Martin",
+            "Alexis Minotis"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En Égypte, 3000 ans avant J.-C., le pharaon Khéops veut faire édifier son tombeau. En échange de l'édification de la sépulture la plus majestueuse et la plus inviolable jamais réalisée, il promet la liberté à un esclave-architecte."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "info": {}
+}

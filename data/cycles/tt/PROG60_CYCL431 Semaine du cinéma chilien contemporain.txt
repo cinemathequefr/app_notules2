@@ -1,0 +1,39 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>><dcs:ITAL=<cTypeface:Italic>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>El Club
+<pstyle:TECHNIQUE>de Pablo Larraín
+<pstyle:TECHNIQUE>Chili/2014/97'
+<pstyle:TITRE>Gloria
+<pstyle:TECHNIQUE>de Sebastián Lelio
+<pstyle:TECHNIQUE>Chili-Espagne/2012/110'/DCP
+<pstyle:TITRE>Jesús  Petit criminel
+<pstyle:TECHNIQUE>de Fernando Guzzoni
+<pstyle:TECHNIQUE>France-Chili-Allemagne-Grèce/2016/85'
+<pstyle:TITRE>Lucia
+<pstyle:TECHNIQUE>de Niles Attalah
+<pstyle:TECHNIQUE>Chili/2010/80'
+<pstyle:TITRE>La Nana
+<pstyle:TECHNIQUE>de Sebastián Silva
+<pstyle:TECHNIQUE>Chili-Mexique/2008/95'
+<pstyle:TITRE>No
+<pstyle:TECHNIQUE>de Pablo Larraín
+<pstyle:TECHNIQUE>Chili/2011/115'
+<pstyle:TECHNIQUE>D'après la pièce <cstyle:ITAL>The Referendum<cstyle:> d'Antonio Skármeta.
+<pstyle:TITRE>Tarde para morir joven
+<pstyle:TECHNIQUE>de Dominga Sotomayor Castillo
+<pstyle:TECHNIQUE>Chili/2018/110'
+<pstyle:TITRE>Tuer un homme
+<pstyle:TITRE_ANG>(Matar a un hombre)
+<pstyle:TECHNIQUE>d'Alejandro Fernández Almendras
+<pstyle:TECHNIQUE>Chili-France/2013/82'/VOSTF/DCP
+<pstyle:TITRE>Une femme fantastique
+<pstyle:TITRE_ANG>(Una Mujer Fantástica)
+<pstyle:TECHNIQUE>de Sebastián Lelio
+<pstyle:TECHNIQUE>Chili-Allemagne-Espagne/2016/104'
+<pstyle:TITRE>Violeta
+<pstyle:TITRE_ANG>(Violeta se fue a los cielos)
+<pstyle:TECHNIQUE>d'Andrés Wood
+<pstyle:TECHNIQUE>Chili-Argentine-Brésil/2011/110'
+<pstyle:TECHNIQUE>D'après le livre <cstyle:ITAL>Violeta Parra, ma mère<cstyle:> d'Ángel Parra.

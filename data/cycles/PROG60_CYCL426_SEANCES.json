@@ -1,0 +1,714 @@
+[
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19118,
+    "idSeance": 29949,
+    "dateHeure": "2019-05-30T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Maris",
+    "items": [
+      {
+        "idFilm": 57072,
+        "ordre": 1,
+        "idSeance": 29949,
+        "idCopie": 284,
+        "duree": 140,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19150,
+    "idSeance": 29954,
+    "dateHeure": "2019-05-31T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Un tueur dans la foule",
+    "items": [
+      {
+        "idFilm": 35750,
+        "ordre": 1,
+        "idSeance": 29954,
+        "idCopie": 12634,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19105,
+    "idSeance": 29955,
+    "dateHeure": "2019-05-31T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Meurtre d'un bookmaker chinois (Le)",
+    "items": [
+      {
+        "idFilm": 31048,
+        "ordre": 1,
+        "idSeance": 29955,
+        "idCopie": 18153,
+        "duree": 135,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19120,
+    "idSeance": 29960,
+    "dateHeure": "2019-06-01T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "A bout portant",
+    "items": [
+      {
+        "idFilm": 44746,
+        "ordre": 1,
+        "idSeance": 29960,
+        "idCopie": 688,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19111,
+    "idSeance": 29961,
+    "dateHeure": "2019-06-01T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Shadows",
+    "items": [
+      {
+        "idFilm": 31061,
+        "ordre": 1,
+        "idSeance": 29961,
+        "idCopie": 16136,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19106,
+    "idSeance": 29962,
+    "dateHeure": "2019-06-01T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Ballade des sans-espoirs (La)",
+    "items": [
+      {
+        "idFilm": 31074,
+        "ordre": 1,
+        "idSeance": 29962,
+        "idCopie": 18166,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19109,
+    "idSeance": 29963,
+    "dateHeure": "2019-06-01T21:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Un enfant attend",
+    "items": [
+      {
+        "idFilm": 31013,
+        "ordre": 1,
+        "idSeance": 29963,
+        "idCopie": 18164,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19108,
+    "idSeance": 30402,
+    "dateHeure": "2019-06-02T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Une femme sous influence",
+    "items": [
+      {
+        "idFilm": 31019,
+        "ordre": 1,
+        "idSeance": 30402,
+        "idCopie": 11615,
+        "duree": 146,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19110,
+    "idSeance": 29970,
+    "dateHeure": "2019-06-02T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Gloria",
+    "items": [
+      {
+        "idFilm": 31044,
+        "ordre": 1,
+        "idSeance": 29970,
+        "idCopie": 18169,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19107,
+    "idSeance": 29978,
+    "dateHeure": "2019-06-03T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Big Trouble",
+    "items": [
+      {
+        "idFilm": 80369,
+        "ordre": 1,
+        "idSeance": 29978,
+        "idCopie": 18155,
+        "duree": 0,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19153,
+    "idSeance": 29979,
+    "dateHeure": "2019-06-03T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Intouchables (Les)",
+    "items": [
+      {
+        "idFilm": 53564,
+        "ordre": 1,
+        "idSeance": 29979,
+        "idCopie": 18178,
+        "duree": 96,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19154,
+    "idSeance": 29998,
+    "dateHeure": "2019-06-07T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Incubus",
+    "items": [
+      {
+        "idFilm": 54503,
+        "ordre": 1,
+        "idSeance": 29998,
+        "idCopie": 18177,
+        "duree": 93,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19152,
+    "idSeance": 29999,
+    "dateHeure": "2019-06-07T22:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Cible étoilée (La)",
+    "items": [
+      {
+        "idFilm": 31920,
+        "ordre": 1,
+        "idSeance": 29999,
+        "idCopie": 18175,
+        "duree": 111,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19117,
+    "idSeance": 30397,
+    "dateHeure": "2019-06-08T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Faces",
+    "items": [
+      {
+        "idFilm": 31041,
+        "ordre": 1,
+        "idSeance": 30397,
+        "idCopie": 18158,
+        "duree": 130,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19113,
+    "idSeance": 30004,
+    "dateHeure": "2019-06-08T18:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Ainsi va l'amour",
+    "items": [
+      {
+        "idFilm": 31065,
+        "ordre": 1,
+        "idSeance": 30004,
+        "idCopie": 18167,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19114,
+    "idSeance": 30009,
+    "dateHeure": "2019-06-08T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "A pair of boots / My daddy can lick your daddy",
+    "items": [
+      {
+        "idFilm": 75642,
+        "ordre": 1
+      },
+      {
+        "idFilm": 75643,
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19112,
+    "idSeance": 30013,
+    "dateHeure": "2019-06-09T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Opening Night",
+    "items": [
+      {
+        "idFilm": 31070,
+        "ordre": 1,
+        "idSeance": 30013,
+        "idCopie": 13308,
+        "duree": 144,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1936,
+    "idEvenement": 19123,
+    "idSeance": 30031,
+    "dateHeure": "2019-06-12T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "John Cassavetes (Hollywood 1965, Paris 1968)",
+    "items": [
+      {
+        "idFilm": 65068,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19119,
+    "idSeance": 30034,
+    "dateHeure": "2019-06-13T16:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Bébé de Rosemary (Le)",
+    "items": [
+      {
+        "idFilm": 35811,
+        "ordre": 1,
+        "idSeance": 30034,
+        "idCopie": 12459,
+        "duree": 137,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19118,
+    "idSeance": 30035,
+    "dateHeure": "2019-06-13T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Maris",
+    "items": [
+      {
+        "idFilm": 57072,
+        "ordre": 1,
+        "idSeance": 30035,
+        "idCopie": 284,
+        "duree": 140,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19111,
+    "idSeance": 30036,
+    "dateHeure": "2019-06-13T21:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Shadows",
+    "items": [
+      {
+        "idFilm": 31061,
+        "ordre": 1,
+        "idSeance": 30036,
+        "idCopie": 16136,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19122,
+    "idSeance": 30039,
+    "dateHeure": "2019-06-14T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Furie",
+    "items": [
+      {
+        "idFilm": 31442,
+        "ordre": 1,
+        "idSeance": 30039,
+        "idCopie": 15614,
+        "duree": 117,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19149,
+    "idSeance": 30040,
+    "dateHeure": "2019-06-14T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Homme qui tua la peur (L')",
+    "items": [
+      {
+        "idFilm": 45218,
+        "ordre": 1,
+        "idSeance": 30040,
+        "idCopie": 18176,
+        "duree": 85,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19116,
+    "idSeance": 30041,
+    "dateHeure": "2019-06-14T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Torrents d'amour",
+    "items": [
+      {
+        "idFilm": 31059,
+        "ordre": 1,
+        "idSeance": 30041,
+        "idCopie": 18172,
+        "duree": 141,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19109,
+    "idSeance": 30042,
+    "dateHeure": "2019-06-14T22:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Un enfant attend",
+    "items": [
+      {
+        "idFilm": 31013,
+        "ordre": 1,
+        "idSeance": 30042,
+        "idCopie": 18164,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19121,
+    "idSeance": 30046,
+    "dateHeure": "2019-06-15T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Douze salopards (Les)",
+    "items": [
+      {
+        "idFilm": 45368,
+        "ordre": 1,
+        "idSeance": 30046,
+        "idCopie": 18174,
+        "duree": 149,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19108,
+    "idSeance": 30048,
+    "dateHeure": "2019-06-15T18:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Une femme sous influence",
+    "items": [
+      {
+        "idFilm": 31019,
+        "ordre": 1,
+        "idSeance": 30048,
+        "idCopie": 11615,
+        "duree": 146,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19113,
+    "idSeance": 30049,
+    "dateHeure": "2019-06-15T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Ainsi va l'amour",
+    "items": [
+      {
+        "idFilm": 31065,
+        "ordre": 1,
+        "idSeance": 30049,
+        "idCopie": 18167,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19112,
+    "idSeance": 30054,
+    "dateHeure": "2019-06-16T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Opening Night",
+    "items": [
+      {
+        "idFilm": 31070,
+        "ordre": 1,
+        "idSeance": 30054,
+        "idCopie": 13308,
+        "duree": 144,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19105,
+    "idSeance": 30056,
+    "dateHeure": "2019-06-16T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Meurtre d'un bookmaker chinois (Le)",
+    "items": [
+      {
+        "idFilm": 31048,
+        "ordre": 1,
+        "idSeance": 30056,
+        "idCopie": 18153,
+        "duree": 135,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  }
+]

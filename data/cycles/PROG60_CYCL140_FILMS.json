@@ -1,0 +1,73 @@
+[
+  {
+    "titre": "Comtesse aux pieds nus",
+    "art": "La",
+    "titreVo": "Barefoot Contessa",
+    "artVo": "The",
+    "idFilm": 33564,
+    "idCycle": 192,
+    "idCategorie": 1944,
+    "ageMinimal": 0,
+    "realisateurs": "Joseph L. Mankiewicz",
+    "annee": 1954,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Lors des funérailles de la comtesse Torlato-Favrini, un certain nombre de personnages évoquent sa folle vie. Le réalisateur Harry Dawes raconte comment il a connu la défunte, alors qu'elle dansait dans un cabaret sous le nom de Maria Vargas."
+      }
+    ],
+    "generique": [
+      "Humphrey Bogart",
+      "Ava Gardner",
+      "Rossano Brazzi",
+      "Edmond O'Brien"
+    ]
+  },
+  {
+    "titre": "Manchester by the Sea",
+    "titreVo": "",
+    "idFilm": 133605,
+    "idCycle": 192,
+    "idCategorie": 1944,
+    "ageMinimal": null,
+    "realisateurs": "Kenneth Lonergan",
+    "annee": 2015,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Lee Chandler, homme à tout faire dans un immeuble de Boston, vit en solitaire. Un jour d'hiver, il reçoit un appel qui le rappelle dans sa ville natale, Manchester-by-the-Sea. Le soudain décès de son frère fait de lui le tuteur de son neveu âgé de seize ans."
+      }
+    ],
+    "generique": [
+      "Casey Affleck",
+      "Ben O'Brien",
+      "Kyle Chandler",
+      "Richard Donnelly"
+    ]
+  },
+  {
+    "titre": "Terre des pharaons",
+    "titreVo": "Land of the Pharaohs",
+    "idFilm": 33181,
+    "idCycle": 192,
+    "idCategorie": 1944,
+    "ageMinimal": null,
+    "realisateurs": "Howard Hawks",
+    "annee": 1954,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En Égypte, 3000 ans avant J.-C., le pharaon Khéops veut faire édifier son tombeau. En échange de l'édification de la sépulture la plus majestueuse et la plus inviolable jamais réalisée, il promet la liberté à un esclave-architecte."
+      }
+    ],
+    "generique": [
+      "Jack Hawkins",
+      "Joan Collins",
+      "Dewey Martin",
+      "Alexis Minotis"
+    ]
+  }
+]

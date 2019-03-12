@@ -1,0 +1,439 @@
+{
+  "header": {
+    "idCycleProg": 428,
+    "titreCycle": "Edgardo Cozarinsky",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          1929
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 60
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 428,
+          "idFilm": 57671,
+          "titre": "Apprentis sorciers",
+          "art": "Les",
+          "titreVo": "",
+          "realisateurs": "Edgardo Cozarinsky",
+          "annee": 1976,
+          "pays": "France-RFA",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A Paris, la mallette pleine de documents secrets d'un espion sud-américain passe de main en main."
+            }
+          ],
+          "generique": [
+            "Zouzou",
+            "Peter Chatel",
+            "Marie-France Pisier",
+            "Christian Marquand"
+          ],
+          "duree": 89,
+          "format": "35 mm",
+          "version": "VOSTA",
+          "seance": [
+            {
+              "idSeance": 30419,
+              "ordre": 1,
+              "idEvenement": 19075,
+              "dateHeure": "2019-06-27T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 428,
+          "idFilm": 43605,
+          "titre": "Citizen Langlois",
+          "titreVo": "",
+          "realisateurs": "Edgardo Cozarinsky",
+          "annee": 1995,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "« Autrefois les films finissaient à la poubelle. Un homme a eu l'idée de les sauver, de les conserver, de les montrer aux jeune générations. C'est ainsi qu'il a gardé la mémoire de l'imaginaire du XX° siècle. Il s'appelait Henri Langlois. Qu'est-ce qui fait qu'à vingt ans, au lieu de se lancer vers l'avenir, une jeune homme décide de consacrer sa vie à sauver les traces du passé » (Edgardo Cozarinsky)"
+            }
+          ],
+          "generique": [
+            "Henri Langlois",
+            "Eric Rohmer",
+            "Freddy Buache",
+            "Marie Epstein"
+          ],
+          "duree": 67,
+          "format": "35 mm",
+          "version": "VF",
+          "seance": [
+            {
+              "idSeance": 30138,
+              "ordre": 1,
+              "idEvenement": 19067,
+              "dateHeure": "2019-06-29T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 428,
+          "idFilm": 93371,
+          "titre": "Dans le rouge du couchant",
+          "titreVo": "",
+          "realisateurs": "Edgardo Cozarinsky",
+          "annee": 2003,
+          "pays": "France-Espagne",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au début du XXIe siècle, trois personnes (deux ont la cinquantaine et l'autre est plus jeune) se frôlent sans que leur vie en soit changée. Chacun ont en commun une ville: Buenos Aires."
+            }
+          ],
+          "generique": [
+            "Marisa Paredes",
+            "Feodor Atkine",
+            "Bruno Putzulu",
+            "Didier Flamand"
+          ],
+          "duree": 90,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30432,
+              "ordre": 1,
+              "idEvenement": 19068,
+              "dateHeure": "2019-06-30T17:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 428,
+          "idFilm": 29159,
+          "titre": "Fantômes de Tanger",
+          "titreVo": "",
+          "realisateurs": "Edgardo Cozarinsky",
+          "annee": 1997,
+          "pays": "France-Maroc-Allemagne",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans le Tanger d'aujourd'hui, deux personnages croisent leurs chemins sans jamais se rencontrer. L'un est un petit garçon venu du sud marocain, avec le seul espoir de traverser clandestinement, comme tant d'autres, le détroit de Gibraltar pour arriver en Espagne. L'autre est un écrivain européen en panne d'inspiration."
+            }
+          ],
+          "generique": [
+            "Laurent Grevill",
+            "Larbi Yacoubi",
+            "Brenda Gerolemou",
+            "Dick Chapman"
+          ],
+          "duree": 90,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30147,
+              "ordre": 1,
+              "idEvenement": 19070,
+              "dateHeure": "2019-06-30T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 428,
+          "idFilm": 47856,
+          "titre": "Guerre d'un seul homme",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Edgardo Cozarinsky",
+          "annee": 1982,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pour mettre en images des extraits des « journaux parisiens » d'Ernst Junger, écrivain et officier allemand, Edgardo Cozarinsky a eu recours aux bandes d'actualités tournées par les Nazis et le gouvernement de Vichy sous l'Occupation. La distance et le décalage entre les remarques tantôt frivoles, tantôt graves, issues des textes lus par Niels Arestrup, et les commentaires de propagande provoquent une confrontation intéressante et renouvellent le genre du documentaire historique."
+            }
+          ],
+          "duree": 107,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30395,
+              "ordre": 1,
+              "idEvenement": 19071,
+              "dateHeure": "2019-06-26T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 428,
+          "idFilm": 47857,
+          "titre": "Guerriers et captives",
+          "titreVo": "",
+          "realisateurs": "Edgardo Cozarinsky",
+          "annee": 1988,
+          "pays": "France-Suisse-Argentine",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Argentine, dans les années 1880 en Patagonie, le colonel Garay est chargé de sécuriser le nouveau chemin de fer qui aidera l'effort de colonisation européen. Les tribus locales se rebellent et planifient une attaque."
+            }
+          ],
+          "generique": [
+            "Leslie Caron",
+            "Dominique Sanda",
+            "Federico Luppi",
+            "China Zorrilla"
+          ],
+          "duree": 97,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30137,
+              "ordre": 1,
+              "idEvenement": 19072,
+              "dateHeure": "2019-06-29T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 428,
+          "idFilm": 124231,
+          "titre": "Lettre à un père",
+          "titreVo": "Carta a un padre",
+          "realisateurs": "Edgardo Cozarinsky",
+          "annee": 2013,
+          "pays": "Argentine-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Edgardo Cozarinsky voyage sur les traces de sa famille paternelle, retraçant l'existence d'une colonie juive fondée à la fin du XIXe siècle dans l'Entre Ríos"
+            }
+          ],
+          "duree": 63,
+          "format": "Numérique",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30434,
+              "ordre": 1,
+              "idEvenement": 19066,
+              "dateHeure": "2019-07-07T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 428,
+          "idFilm": 124232,
+          "titre": "Nocturnos",
+          "titreVo": "",
+          "realisateurs": "Edgardo Cozarinsky",
+          "annee": 2011,
+          "pays": "Argentine",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un homme roule de nuit dans les rues de Buenos Aires après avoir attendu en vain le retour d'une femme qui l'a quitté."
+            }
+          ],
+          "generique": [
+            "Esteban Lamothe",
+            "Marta Lubos",
+            "Esmeralda Mitre",
+            "Jimena Anganuzzi"
+          ],
+          "duree": 63,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30433,
+              "ordre": 1,
+              "idEvenement": 19078,
+              "dateHeure": "2019-07-06T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 428,
+          "idFilm": 124233,
+          "titre": "Notes pour une biographie imaginaire",
+          "titreVo": "Apuntes para una biografía imaginaria",
+          "realisateurs": "Edgardo Cozarinsky",
+          "annee": 2010,
+          "pays": "Argentine",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En paraphrase de Borges, on pourrait proposer cette fable: un cinéaste a vécu en cueillant des images, des mots, des musiques. Un jour, il reconnaît dans cette collection de fragments, où l'Histoire dialogue avec les destinées individuelles et leur douleur muette, son propre portrait."
+            }
+          ],
+          "duree": 60,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30159,
+              "ordre": 1,
+              "idEvenement": 19074,
+              "dateHeure": "2019-07-03T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 428,
+          "idFilm": 127308,
+          "titre": "Puntos suspensivos o Esperando a los bárbaros",
+          "titreVo": "",
+          "realisateurs": "Edgardo Cozarinsky",
+          "annee": 1971,
+          "pays": "Argentine",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "_\"A l'intérieur du film il y a un personnage, qu'on a le droit de trouver pittoresque, monstrueux, héroïque : un survivant de l'extrême-droite ancienne manière, pour qui la défaite d'Hitler en 1945 a marqué le début de l'Apocalypse, pour qui l'éclipse de son idéologie signifie l'éclipse de toute la civilisation. Mais il ne m'intéresse pas comme personnage. Je l'ai plutôt pris comme figure, un chiffre auquel correspond certains attributs parce que d'autres gens les leur collent, un vide central autour duquel les autres éléments se distribuent des rôles, des rapports, des hiérarchies  »..._ Edgardo Cozarinsky"
+            }
+          ],
+          "generique": [
+            "Roberto Villanueva",
+            "Jorge Álvarez"
+          ],
+          "duree": 79,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30118,
+              "ordre": 1,
+              "idEvenement": 19080,
+              "dateHeure": "2019-06-27T21:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 428,
+          "idFilm": 98629,
+          "titre": "Ronde de nuit",
+          "titreVo": "Ronda nocturna",
+          "realisateurs": "Edgardo Cozarinsky",
+          "annee": 2005,
+          "pays": "Argentine-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Buenos Aires, la nuit. Victor, à peine sorti de l'adolescence, déambule dans les rues de son quartier. Protégé par un inspecteur de police, il partage son temps entre le racolage, la drague dans les saunas de luxe et les soirées privées. Sa soif de découvertes et d'expériences le conduit à côtoyer la lisière des deux mondes."
+            }
+          ],
+          "generique": [
+            "Gonzalo Heredia",
+            "Moro Anghileri",
+            "Rafael Ferro",
+            "Dario Tripicchio"
+          ],
+          "duree": 80,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30158,
+              "ordre": 1,
+              "idEvenement": 19079,
+              "dateHeure": "2019-07-03T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 428,
+          "idFilm": 58337,
+          "titre": "Violon de Rothschild",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Edgardo Cozarinsky",
+          "annee": 1996,
+          "pays": "France-Suisse-Finlande-Hongrie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un jeune étudiant du conservatoire, Benjamin Fleischmann, choisit un récit de Tchekhov pour en tirer un opéra en un acte qu'il compose sous la houlette de son professeur, Dimitri Chostakovitch. Mais le jeune homme est tué pendant la guerre et Chostakovitch decide alors d'orchestrer l'opéra inachevé de son élève pour honorer sa mémoire."
+            }
+          ],
+          "generique": [
+            "Serguei Makovetsky",
+            "Dainius Kazlauskas",
+            "Tarmo Männard",
+            "Tamara Solodnikova"
+          ],
+          "duree": 100,
+          "format": "Vidéo",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30146,
+              "ordre": 1,
+              "idEvenement": 19077,
+              "dateHeure": "2019-06-30T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

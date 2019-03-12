@@ -1,0 +1,586 @@
+[
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19092,
+    "idSeance": 30452,
+    "dateHeure": "2019-05-29T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Chasse aux papillons (La)",
+    "items": [
+      {
+        "idFilm": 58158,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19087,
+    "idSeance": 30405,
+    "dateHeure": "2019-05-30T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Avril / Sept pièces pour le cinéma noir et blanc",
+    "items": [
+      {
+        "idFilm": 69050,
+        "ordre": 1
+      },
+      {
+        "idFilm": 53105,
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19093,
+    "idSeance": 30406,
+    "dateHeure": "2019-05-30T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Chute des feuilles (La)",
+    "items": [
+      {
+        "idFilm": 58785,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19097,
+    "idSeance": 29957,
+    "dateHeure": "2019-05-31T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Il était une fois un merle chanteur",
+    "items": [
+      {
+        "idFilm": 41206,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19086,
+    "idSeance": 30444,
+    "dateHeure": "2019-05-31T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Aquarelle / Fonte (La) / Vieilles chansons Georgiennes / Chant de la fleur introuvable (Le)",
+    "items": [
+      {
+        "idFilm": 70506,
+        "ordre": 1
+      },
+      {
+        "idFilm": 70508,
+        "ordre": 2
+      },
+      {
+        "idFilm": 70509,
+        "ordre": 3
+      },
+      {
+        "idFilm": 70507,
+        "ordre": 4
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19094,
+    "idSeance": 29964,
+    "dateHeure": "2019-06-01T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Et la lumière fut",
+    "items": [
+      {
+        "idFilm": 49272,
+        "ordre": 1,
+        "idSeance": 29964,
+        "idCopie": 18138,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19088,
+    "idSeance": 29966,
+    "dateHeure": "2019-06-01T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Brigands, chapitre VII",
+    "items": [
+      {
+        "idFilm": 60179,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19095,
+    "idSeance": 30430,
+    "dateHeure": "2019-06-02T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Favoris de la lune (Les)",
+    "items": [
+      {
+        "idFilm": 52619,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19091,
+    "idSeance": 30486,
+    "dateHeure": "2019-06-02T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Chantrapas",
+    "items": [
+      {
+        "idFilm": 111730,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19085,
+    "idSeance": 29975,
+    "dateHeure": "2019-06-02T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Adieu, plancher des vaches !",
+    "items": [
+      {
+        "idFilm": 64294,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19098,
+    "idSeance": 29986,
+    "dateHeure": "2019-06-05T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Jardins en automne",
+    "items": [
+      {
+        "idFilm": 99999,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19102,
+    "idSeance": 30487,
+    "dateHeure": "2019-06-05T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Un petit monastère en Toscane",
+    "items": [
+      {
+        "idFilm": 73985,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19238,
+    "idSeance": 30002,
+    "dateHeure": "2019-06-07T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Otar Iosseliani, le merle siffleur",
+    "items": [
+      {
+        "idFilm": 102442,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19089,
+    "idSeance": 30007,
+    "dateHeure": "2019-06-08T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Chant d'hiver",
+    "items": [
+      {
+        "idFilm": 128987,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19091,
+    "idSeance": 30485,
+    "dateHeure": "2019-06-08T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Chantrapas",
+    "items": [
+      {
+        "idFilm": 111730,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19101,
+    "idSeance": 30015,
+    "dateHeure": "2019-06-09T17:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Seule, Georgie",
+    "items": [
+      {
+        "idFilm": 117982,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19087,
+    "idSeance": 30021,
+    "dateHeure": "2019-06-10T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Avril / Sept pièces pour le cinéma noir et blanc",
+    "items": [
+      {
+        "idFilm": 69050,
+        "ordre": 1
+      },
+      {
+        "idFilm": 53105,
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19093,
+    "idSeance": 30022,
+    "dateHeure": "2019-06-10T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Chute des feuilles (La)",
+    "items": [
+      {
+        "idFilm": 58785,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19097,
+    "idSeance": 30029,
+    "dateHeure": "2019-06-12T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Il était une fois un merle chanteur",
+    "items": [
+      {
+        "idFilm": 41206,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19099,
+    "idSeance": 30030,
+    "dateHeure": "2019-06-12T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Pastorale",
+    "items": [
+      {
+        "idFilm": 41458,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19102,
+    "idSeance": 30050,
+    "dateHeure": "2019-06-15T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Un petit monastère en Toscane",
+    "items": [
+      {
+        "idFilm": 73985,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19095,
+    "idSeance": 30051,
+    "dateHeure": "2019-06-15T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Favoris de la lune (Les)",
+    "items": [
+      {
+        "idFilm": 52619,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19094,
+    "idSeance": 30052,
+    "dateHeure": "2019-06-15T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Et la lumière fut",
+    "items": [
+      {
+        "idFilm": 49272,
+        "ordre": 1,
+        "idSeance": 30052,
+        "idCopie": 18138,
+        "duree": 103,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19092,
+    "idSeance": 30060,
+    "dateHeure": "2019-06-16T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Chasse aux papillons (La)",
+    "items": [
+      {
+        "idFilm": 58158,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19088,
+    "idSeance": 30061,
+    "dateHeure": "2019-06-16T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Brigands, chapitre VII",
+    "items": [
+      {
+        "idFilm": 60179,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19086,
+    "idSeance": 30063,
+    "dateHeure": "2019-06-17T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Aquarelle / Fonte (La) / Vieilles chansons Georgiennes / Chant de la fleur introuvable (Le)",
+    "items": [
+      {
+        "idFilm": 70506,
+        "ordre": 1
+      },
+      {
+        "idFilm": 70508,
+        "ordre": 2
+      },
+      {
+        "idFilm": 70509,
+        "ordre": 3
+      },
+      {
+        "idFilm": 70507,
+        "ordre": 4
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19085,
+    "idSeance": 30064,
+    "dateHeure": "2019-06-17T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Adieu, plancher des vaches !",
+    "items": [
+      {
+        "idFilm": 64294,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19098,
+    "idSeance": 30065,
+    "dateHeure": "2019-06-17T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Jardins en automne",
+    "items": [
+      {
+        "idFilm": 99999,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19099,
+    "idSeance": 30071,
+    "dateHeure": "2019-06-19T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Pastorale",
+    "items": [
+      {
+        "idFilm": 41458,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19089,
+    "idSeance": 30088,
+    "dateHeure": "2019-06-21T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Chant d'hiver",
+    "items": [
+      {
+        "idFilm": 128987,
+        "ordre": 1
+      }
+    ]
+  }
+]

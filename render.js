@@ -5,12 +5,13 @@ const {
 } = require("util"); // https://stackoverflow.com/questions/40593875/using-filesystem-in-node-js-with-async-await
 
 const helpers = require("./lib/helpers.js");
+const format = require("./lib/format.js");
 const merge = require("./lib/transforms/merge.js");
 const cleanTitreEvenement = require("./lib/transforms/clean_titre_evenement.js");
 const render = require("./lib/transforms/render.js");
 
 const markdown = require("./lib/transforms/markdown.js");
-const icml = require("./lib/transforms/icml.js");
+// const icml = require("./lib/transforms/icml.js");
 const tt = require("./lib/transforms/tt.js"); // Tagged text
 
 const writeFile = promisify(fs.writeFile);
@@ -70,13 +71,13 @@ try {
   );
 
   await writeFile(
-    `./data/cycles/markdown/PROG${idProg}_CYCL${idCycle} ${cycleConfig.titreCycle}.md`,
+    `./data/cycles/markdown/PROG${idProg}_CYCL${idCycle} ${format.stripInvalidFilenameChars(cycleConfig.titreCycle)}.md`,
     markdown(cycle),
     "utf8"
   );
 
   await writeFile(
-    `./data/cycles/tt/PROG${idProg}_CYCL${idCycle} ${cycleConfig.titreCycle}.txt`,
+    `./data/cycles/tt/PROG${idProg}_CYCL${idCycle} ${format.stripInvalidFilenameChars(cycleConfig.titreCycle)}.txt`,
     tt(cycle),
     "latin1"
   );

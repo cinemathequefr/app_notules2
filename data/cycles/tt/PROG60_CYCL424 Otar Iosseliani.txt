@@ -1,0 +1,72 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>><dcs:ITAL=<cTypeface:Italic>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>Adieu, plancher des vaches !
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France-Suisse-Italie/1998
+<pstyle:TITRE>Aquarelle
+<pstyle:TITRE_ANG>(Akvareli)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1958
+<pstyle:TITRE>Avril
+<pstyle:TITRE_ANG>(Aprili)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1961
+<pstyle:TITRE>Brigands, chapitre VII
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France-Suisse-URSS-Italie/1995
+<pstyle:TITRE>Le Chant de la fleur introuvable
+<pstyle:TITRE_ANG>(Sapovnela)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1959
+<pstyle:TITRE>Chant d'hiver
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France/2014
+<pstyle:TITRE>Chantrapas
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France-Géorgie-Ukraine/2009
+<pstyle:TITRE>La Chasse aux papillons
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France-Allemagne-Italie/1991
+<pstyle:TITRE>La Chute des feuilles
+<pstyle:TITRE_ANG>(Giorgobistve)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1966
+<pstyle:TITRE>Et la lumière fut
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France-Allemagne-Italie/1989/103'/VOSTF/35 mm
+<pstyle:TITRE>Les Favoris de la lune
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France/1984
+<pstyle:TITRE>La Fonte
+<pstyle:TITRE_ANG>(Toudji)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1964
+<pstyle:TITRE>Il était une fois un merle chanteur
+<pstyle:TITRE_ANG>(Zil pevcij drozd)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1971
+<pstyle:TITRE>Jardins en automne
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France/2005
+<pstyle:TITRE>Otar Iosseliani, le merle siffleur
+<pstyle:TECHNIQUE>de Julieeeeeee Bertuccelli
+<pstyle:TECHNIQUE>France/2006
+<pstyle:TITRE>Pastorale
+<pstyle:TITRE_ANG>(Pastoral)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1976
+<pstyle:TITRE>Sept pièces pour le cinéma noir et blanc
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France/1982
+<pstyle:TITRE>Seule, Georgie
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France/1994
+<pstyle:TITRE>Un petit monastère en Toscane
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France/1988
+<pstyle:TITRE>Vieilles chansons Georgiennes
+<pstyle:TITRE_ANG>(Starinnaja gruzinskaja pesnja)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1968

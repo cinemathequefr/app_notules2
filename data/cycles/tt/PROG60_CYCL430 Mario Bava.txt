@@ -1,0 +1,98 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>><dcs:ITAL=<cTypeface:Italic>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>Arizona Bill
+<pstyle:TITRE_ANG>(La Strada per Fort Alamo)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie-France/1964
+<pstyle:TITRE>La Baie sanglante
+<pstyle:TITRE_ANG>(Ecologia del delitto = Reazione a Catena)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie/1971
+<pstyle:TITRE>Baron vampire
+<pstyle:TITRE_ANG>(Gli Orrori del castello di Norimberga)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie-RFA/1971
+<pstyle:TITRE>Le Corps et le fouet = Le Manoir de la peur
+<pstyle:TITRE_ANG>(La Frusta e il corpo)
+<pstyle:TECHNIQUE>de John Old
+<pstyle:TECHNIQUE>Italie-France/1963
+<pstyle:TITRE>Danger, Diabolik
+<pstyle:TITRE_ANG>(Diabolik)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie-France/1967
+<pstyle:TITRE>Le Danger vient de l'espace
+<pstyle:TITRE_ANG>(La Morte viene dallo spazio)
+<pstyle:TECHNIQUE>de Paolo Heusch
+<pstyle:TECHNIQUE>Italie-France/1958
+<pstyle:TITRE>Les Dollars du Nebraska
+<pstyle:TITRE_ANG>(Ringo del Nebraska)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Espagne-Italie/1966
+<pstyle:TITRE>Duel au couteau
+<pstyle:TITRE_ANG>(I Coltelli del vendicatore)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie/1964
+<pstyle:TITRE>Esther et le roi
+<pstyle:TITRE_ANG>(Esther e il re)
+<pstyle:TECHNIQUE>de Raoul Walsh, Mario Bava
+<pstyle:TECHNIQUE>Italie-États-Unis/1960
+<pstyle:TITRE>La Fille qui en savait trop
+<pstyle:TITRE_ANG>(La Ragazza che sapeva troppo)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie/1962
+<pstyle:TITRE>Hercule contre les vampires
+<pstyle:TITRE_ANG>(Ercole al centro della terra)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie/1961
+<pstyle:TITRE>L'Ile de l'épouvante
+<pstyle:TITRE_ANG>(Cinque bambole per la luna d'agosto)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie/1970
+<pstyle:TITRE>Lisa et le diable
+<pstyle:TITRE_ANG>(Lisa e il diavolo)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie-RFA-Espagne/1972
+<pstyle:TITRE>Le Masque du démon
+<pstyle:TITRE_ANG>(La Maschera del demonio)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie/1960
+<pstyle:TECHNIQUE>D'après la nouvelle <cstyle:ITAL>Vij<cstyle:> de Nicolas Gogol.
+<pstyle:TITRE>Les Mille et une nuits
+<pstyle:TITRE_ANG>(La Meraviglie di Aladino)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie-France/1961
+<pstyle:TITRE>Operazione paura
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie/1966
+<pstyle:TITRE>La Planète des vampires
+<pstyle:TITRE_ANG>(Terrore nello spazio)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie-Espagne/1965
+<pstyle:TECHNIQUE>D'après le roman <cstyle:ITAL>Una notte di 21 ore<cstyle:> de Renato Pestriniero.
+<pstyle:TITRE>Quante volte, quella notte
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie-RFA/1969
+<pstyle:TITRE>Il Rosso segno della follia
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie/1970
+<pstyle:TITRE>La Ruée des vikings
+<pstyle:TITRE_ANG>(Gli Invasori)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie-France/1961
+<pstyle:TITRE>Six femmes pour l'assassin
+<pstyle:TITRE_ANG>(Sei donne per l'assassino)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie-France-RFA/1964
+<pstyle:TITRE>Spie vengono dal semifreddo
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie-États-Unis/1966
+<pstyle:TITRE>Les Trois visages de la peur
+<pstyle:TITRE_ANG>(I Tre volti della paura)
+<pstyle:TECHNIQUE>de Mario Bava
+<pstyle:TECHNIQUE>Italie-France/1963
+<pstyle:TITRE>Les Vampires
+<pstyle:TITRE_ANG>(I Vampiri)
+<pstyle:TECHNIQUE>de Riccardo Freda
+<pstyle:TECHNIQUE>Italie/1956

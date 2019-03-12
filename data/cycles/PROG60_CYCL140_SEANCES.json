@@ -1,0 +1,92 @@
+[
+  {
+    "idCycle": 192,
+    "idCategorie": 1944,
+    "idEvenement": 19045,
+    "idSeance": 30198,
+    "dateHeure": "2019-07-10T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Comtesse aux pieds nus (La)",
+    "items": [
+      {
+        "idFilm": 33564,
+        "ordre": 1,
+        "idSeance": 30198,
+        "idCopie": 18090,
+        "duree": 128,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 192,
+    "idCategorie": 1944,
+    "idEvenement": 19045,
+    "idSeance": 30490,
+    "dateHeure": "2019-07-12T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Comtesse aux pieds nus (La)",
+    "items": [
+      {
+        "idFilm": 33564,
+        "ordre": 1,
+        "idSeance": 30490,
+        "idCopie": 18090,
+        "duree": 128,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 192,
+    "idCategorie": 1944,
+    "idEvenement": 19237,
+    "idSeance": 30242,
+    "dateHeure": "2019-07-17T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Terre des pharaons",
+    "items": [
+      {
+        "idFilm": 33181,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 192,
+    "idCategorie": 1944,
+    "idEvenement": 19217,
+    "idSeance": 30496,
+    "dateHeure": "2019-07-24T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Manchester by the Sea",
+    "items": [
+      {
+        "idFilm": 133605,
+        "ordre": 1,
+        "idSeance": 30496,
+        "idCopie": 17124,
+        "duree": 138,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,1951 @@
+{
+  "header": {
+    "idCycleProg": 429,
+    "titreCycle": "Révoltes sexuelles, révolutions visuelles",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          1930
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 60
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19218,
+          "titreEvenement": "Ouverture",
+          "films": [
+            {
+              "idFilm": 141290,
+              "titre": "Glacier",
+              "titreVo": "",
+              "realisateurs": "Jonathan Caouette",
+              "annee": 2015,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Clip du musicien queer John Grant retraçant le mouvement LGBT à travers des images d'archives et de films."
+                }
+              ],
+              "duree": 8,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141291,
+              "titre": "Chic Point : Fashion For Israeli Checkpoints",
+              "titreVo": "",
+              "realisateurs": "Sharif Waked",
+              "annee": 2003,
+              "pays": "Israël",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un défilé de mode pour les « checkpoints »; ces barrières de contrôle formées par les forces militaires israéliennes."
+                }
+              ],
+              "generique": [
+                "Saleh Bakri"
+              ],
+              "duree": 7,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 141292,
+              "titre": "Makita Witch",
+              "titreVo": "",
+              "realisateurs": "Angela Marzullo",
+              "annee": 2008,
+              "pays": "Suisse",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "L'artiste Makita vole sur son balai dans une pièce remplie de miroir."
+                }
+              ],
+              "duree": 3,
+              "format": "",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 141293,
+              "titre": "Kiki",
+              "titreVo": "",
+              "realisateurs": "Sara Jordenö",
+              "annee": 2016,
+              "pays": "Suède",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "A New York, une nouvelle génération de jeunes LGBTQ forment une sous-culture artistique activiste nommée « Scène Kiki » inspirée du Ballroom des années 90."
+                }
+              ],
+              "duree": 94,
+              "format": "",
+              "version": "",
+              "ordre": 4
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-19T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19133,
+          "titreEvenement": "Séance 7 : Pink Narcissus",
+          "films": [
+            {
+              "idFilm": 69494,
+              "titre": "Pink Narcissus",
+              "titreVo": "",
+              "realisateurs": "James Bidgood",
+              "annee": 1971,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Entre quelques visites, un beau gigolo gay donne libre court à son imagination érotique. Il est tour à tour matador ou esclave romain."
+                }
+              ],
+              "generique": [
+                "Bobby Kendall",
+                "Don Brooks",
+                "Charles Ludman"
+              ],
+              "duree": 67,
+              "format": "35 mm",
+              "version": "VO",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-20T20:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19156,
+          "titreEvenement": "Séance 1 : Dickson Experimental Sound Film / Salomé",
+          "films": [
+            {
+              "idFilm": 141214,
+              "titre": "Dickson Experimental Sound Film",
+              "titreVo": "",
+              "realisateurs": "William K.L. Dickson",
+              "annee": 1894,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Deux hommes dansent sur un air de violon."
+                }
+              ],
+              "duree": 1,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 30994,
+              "titre": "Salome",
+              "titreVo": "",
+              "realisateurs": "Charles Bryant, Alla Nazimova",
+              "annee": 1922,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Herode a épousé Herodias, la femme de son frère décédé. Le prophète Iokanaan critique ce mariage incestueux. Salomé, l'envoutante fille de Herodias, séduit Herode en effectuant la danse des sept voiles. En échange, elle veut la tête de Iokanaan..."
+                }
+              ],
+              "adaptation": "D'après la pièce _Salomé_ d'Oscar Wilde.",
+              "generique": [
+                "Alla Nazimova",
+                "Rose Dione",
+                "Mitchell Lewis",
+                "Nigel De Brulier"
+              ],
+              "duree": 72,
+              "format": "35 mm",
+              "version": "INT. ALL.",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-20T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19127,
+          "titreEvenement": "Séance 2 : Fireworks / Sang d'un poète (Le)",
+          "films": [
+            {
+              "idFilm": 47713,
+              "titre": "Sang d'un poète",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Jean Cocteau",
+              "annee": 1930,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une cheminée d'usine est prête à s'écrouler. Pendant ce temps, un artiste passe de l'autre côté du miroir à l'invitation d'une statue..."
+                }
+              ],
+              "generique": [
+                "Rivero",
+                "Lee Miller",
+                "Féral Benga",
+                "Pauline Carton"
+              ],
+              "duree": 55,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 30131,
+              "titre": "Fireworks",
+              "titreVo": "",
+              "realisateurs": "Kenneth Anger",
+              "annee": 1947,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un jeune homme est torturé par une bande de marins lubriques."
+                }
+              ],
+              "generique": [
+                "Kenneth Anger",
+                "Gordon Gray",
+                "Bill Seltzer"
+              ],
+              "duree": 20,
+              "format": "16 mm",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-22T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19143,
+          "titreEvenement": "Séance 23 : Baise-moi",
+          "films": [
+            {
+              "idFilm": 69377,
+              "titre": "Baise-moi",
+              "titreVo": "",
+              "realisateurs": "Virginie Despentes, Coralie Trinh Thi",
+              "annee": 1999,
+              "pays": "France",
+              "generique": [
+                "Raffaëla Anderson",
+                "Karen Bach",
+                "Céline Beugnot",
+                "Adama Niane"
+              ],
+              "duree": 77,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-22T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19135,
+          "titreEvenement": "Séance 11 : Droit du plus fort (Le)",
+          "films": [
+            {
+              "idFilm": 38648,
+              "titre": "Droit du plus fort",
+              "art": "Le",
+              "titreVo": "Faustrecht der Freiheit",
+              "realisateurs": "Rainer Werner Fassbinder",
+              "annee": 1974,
+              "pays": "RFA",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un jeune homosexuel forain et paumé perd son travail. Il gagne à la loterie et tombe amoureux d'un bourgeois très intéressé par son argent."
+                }
+              ],
+              "generique": [
+                "Rainer Werner Fassbinder",
+                "Peter Chatel",
+                "Karlheinz Böhm",
+                "Rudolf Lenz"
+              ],
+              "duree": 123,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-22T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19136,
+          "titreEvenement": "Séance 12 : Je, tu, il, elle",
+          "films": [
+            {
+              "idFilm": 56787,
+              "titre": "Je, tu, il, elle",
+              "titreVo": "",
+              "realisateurs": "Chantal Akerman",
+              "annee": 1974,
+              "pays": "Belgique",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "_Je,_ délaissée par _Tu,_ passe du temps seule dans sa chambre. Sur la route, _Il_ la prend en stop puis _Je_ finit par rejoindre _Elle_."
+                }
+              ],
+              "generique": [
+                "Chantal Akerman",
+                "Niels Arestrup",
+                "Claire Wauthion"
+              ],
+              "duree": 90,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-23T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19141,
+          "titreEvenement": "Séance 16 : Born in flames",
+          "films": [
+            {
+              "idFilm": 107314,
+              "titre": "Born in flames",
+              "titreVo": "",
+              "realisateurs": "Lizzie Borden",
+              "annee": 1983,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "A New-York, après une tentative de révolution sociale qui a échoué, deux femmes, l'une noire et l'autre blanche, tentent d'éveiller les consciences via deux radios pirates."
+                }
+              ],
+              "generique": [
+                "Honey",
+                "Adele Bertei",
+                "Jean Satterfield"
+              ],
+              "duree": 80,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-23T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19163,
+          "titreEvenement": "Séance 8 : Curt McDowell",
+          "films": [
+            {
+              "idFilm": 141221,
+              "titre": "Confessions",
+              "titreVo": "",
+              "realisateurs": "Curt McDowell",
+              "annee": 1972,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Mc Dowell, un étudiant diplômé de l'Art Institute de San Fransisco, confesse à ses parents ses péchés de chair."
+                }
+              ],
+              "generique": [
+                "Carla Cooper",
+                "Mark Ellinger",
+                "Ted Davis"
+              ],
+              "duree": 11,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141222,
+              "titre": "Nudes : A Sketchbook",
+              "titreVo": "",
+              "realisateurs": "Curt McDowell",
+              "annee": 1974,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une série de vignettes illustrant des fantaisies sexuelles."
+                }
+              ],
+              "generique": [
+                "Mark Ellinger",
+                "Christopher",
+                "Virginia Giritlian"
+              ],
+              "duree": 30,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 141223,
+              "titre": "Loads",
+              "titreVo": "",
+              "realisateurs": "Curt McDowell",
+              "annee": 1985,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Pendant 20 ans, Curt McDowell a baladé sa caméra dans les coins les plus libidineux de San Fransisco."
+                }
+              ],
+              "duree": 19,
+              "format": "",
+              "version": "",
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-24T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19179,
+          "titreEvenement": "Séance 18 : Maria Klonaris et Katerina Thomadaki",
+          "films": [
+            {
+              "idFilm": 141237,
+              "titre": "Selva. Un portrait de Parvaneh Navaï",
+              "titreVo": "",
+              "realisateurs": "Maria Klonaris",
+              "annee": 1983,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Le portrait abordé comme un moment privilégié de rencontre entre deux sujets: celle qui filme et celle qui est filmée. \\[...\\] La caméra devient pinceau. Transes – danses, projection hors corps. » Maria Klonaris"
+                }
+              ],
+              "generique": [
+                "Parvaneh Navaï"
+              ],
+              "duree": 75,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-24T21:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19166,
+          "titreEvenement": "Séance 9 : Guy Hocquenghem",
+          "films": [
+            {
+              "idFilm": 141224,
+              "titre": "F.H.A.R. (Front Homosexuel d'Action Révolutionnaire)",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Carole Roussopoulos",
+              "annee": 1971,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Documentaire sur la première manifestation de rue gay et lesbienne en France à Paris."
+                }
+              ],
+              "duree": 26,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 51286,
+              "titre": "Race d'ep",
+              "titreVo": "",
+              "realisateurs": "Lionel Soukaz",
+              "annee": 1978,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Cent ans d'homosexualité, illustrés par trois reconstitutions (1900, 1930, 1960), et une fiction racontant la rencontre à Paris d'un Américain marié et d'un homosexuel."
+                }
+              ],
+              "generique": [
+                "Elizar Van Effenterre",
+                "Pierre Stone",
+                "Gilles Sandier",
+                "Christian"
+              ],
+              "duree": 95,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-26T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19168,
+          "titreEvenement": "Séance 10 : Barbara Hammer",
+          "films": [
+            {
+              "idFilm": 141225,
+              "titre": "Sisters !",
+              "titreVo": "",
+              "realisateurs": "Barbara Hammer",
+              "annee": 1974,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un collage, en forme d'hymne aux lesbiennes, parsemé d'images d'évènements festifs lesbiens et de métiers, habituellement masculins, exercés ici par des femmes."
+                }
+              ],
+              "duree": 8,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141226,
+              "titre": "Dyketactics",
+              "titreVo": "",
+              "realisateurs": "Barbara Hammer",
+              "annee": 1973,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une histoire d'amour charnelle entre deux femmes, filmée pour la première fois par une réalisatrice reconnue lesbienne."
+                }
+              ],
+              "duree": 4,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 141227,
+              "titre": "Superdyke Meets Madame X",
+              "titreVo": "",
+              "realisateurs": "Barbara Hammer",
+              "annee": 1976,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "De leur premier baiser jusqu'à leur rupture, la vidéaste Max Almy et Barbara Hammer ont enregistré sur pellicule leur relation amoureuse."
+                }
+              ],
+              "generique": [
+                "Max Almy",
+                "Barbara Hammer"
+              ],
+              "duree": 19,
+              "format": "",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 141228,
+              "titre": "Multiple Orgasm",
+              "titreVo": "",
+              "realisateurs": "Barbara Hammer",
+              "annee": 1976,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Surimpressions de plans de stimulations clitoridiennes, de visages d'extases et de formations rocheuses."
+                }
+              ],
+              "duree": 6,
+              "format": "",
+              "version": "",
+              "ordre": 4
+            },
+            {
+              "idFilm": 141229,
+              "titre": "Women I Love",
+              "titreVo": "",
+              "realisateurs": "Barbara Hammer",
+              "annee": 1979,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Série de portraits des amis et des amantes de la réalisatrice, entrecoupée d'images de fruits et de légumes pixelisés."
+                }
+              ],
+              "duree": 25,
+              "format": "",
+              "version": "",
+              "ordre": 5
+            },
+            {
+              "idFilm": 141230,
+              "titre": "Synch Touch",
+              "titreVo": "",
+              "realisateurs": "Barbara Hammer",
+              "annee": 1981,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Série de vignettes révélant les aspects enfantins, sexuels et intellectuels de la philosophie de Barbara Hammer."
+                }
+              ],
+              "duree": 10,
+              "format": "",
+              "version": "",
+              "ordre": 6
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-26T21:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19138,
+          "titreEvenement": "Séance 13 : Bambi / Paradis perdu",
+          "films": [
+            {
+              "idFilm": 128050,
+              "titre": "Paradis perdu",
+              "titreVo": "",
+              "realisateurs": "Franssou Prenant",
+              "annee": 1975,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Un riche tombe amoureux d'une belle gazoline_._ »  Franssou Prenant"
+                }
+              ],
+              "generique": [
+                "Hélène Hazéra",
+                "Alain Aptekman",
+                "Marie France",
+                "René Scherer"
+              ],
+              "duree": 25,
+              "format": "16 mm",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 120245,
+              "titre": "Bambi",
+              "titreVo": "",
+              "realisateurs": "Sébastien Lifshitz",
+              "annee": 2012,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Documentaire sur la vie de Marie Pierre Pruvot, né Jean-Pierre, qui fut l'une des grandes figures de la transexualité en France et qui se produisait à Pigalle dans les cabarets de Madame Arthur et du Carrousel."
+                }
+              ],
+              "generique": [
+                "Bambi"
+              ],
+              "duree": 58,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-27T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19177,
+          "titreEvenement": "Séance 17 : \"Black Men loving Black Men is a revolutionary act\"",
+          "films": [
+            {
+              "idFilm": 141234,
+              "titre": "This Is Not an AIDS Advertisement",
+              "titreVo": "",
+              "realisateurs": "Isaac Julien",
+              "annee": 1988,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Vidéo contre la vision puritaine de la maladie du SIDA,composée d'une première partie poétique qui traite de la mort et d'une seconde partie plus rythmée et joyeuse."
+                }
+              ],
+              "duree": 11,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141235,
+              "titre": "Looking for Langston",
+              "titreVo": "",
+              "realisateurs": "Isaac Julien",
+              "annee": 1989,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Exploration lyrique et romancée de la vie du poète, nouvelliste et dramaturge Langston Hugues en plein essor du mouvement culturel afro-américian _La Renaissance de Harlem._"
+                }
+              ],
+              "generique": [
+                "Ben Ellison",
+                "Matthew Baidoo",
+                "Akim Mogaji"
+              ],
+              "duree": 45,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 141236,
+              "titre": "Tongues Untied",
+              "titreVo": "",
+              "realisateurs": "Marlon Riggs",
+              "annee": 1989,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Des hommes noirs aimant d'autres hommes est L'ACTE révolutionnaire » proclame Marlon Riggs dans son film, mélange de récits personnels, de poèmes et de chansons de la culture noire-américaine et plus particulièrement du new black queer cinema."
+                }
+              ],
+              "generique": [
+                "Marlon Riggs",
+                "Michael Bell",
+                "Kerrigan Black"
+              ],
+              "duree": 55,
+              "format": "",
+              "version": "",
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-27T21:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19181,
+          "titreEvenement": "Séance 19 : Fast Trip, Long Drop / L Is for the Way You Look / O Happy Day",
+          "films": [
+            {
+              "idFilm": 141238,
+              "titre": "L Is for the Way You Look",
+              "titreVo": "",
+              "realisateurs": "Jean Carlomusto",
+              "annee": 1991,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Récit humoristique sur l'histoire de la population lesbienne fait de souvenirs et de commérages."
+                }
+              ],
+              "duree": 24,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141239,
+              "titre": "Fast Trip, Long Drop",
+              "titreVo": "",
+              "realisateurs": "Gregg Bordowitz",
+              "annee": 1994,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Atteint du SIDA, le réalisateur se livre à travers plusieurs portraits plus ou moins fictifs créés à partir d'archives personnelles ou historiques, d'extraits de films et de parodies."
+                }
+              ],
+              "duree": 54,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 141240,
+              "titre": "O Happy Day",
+              "titreVo": "",
+              "realisateurs": "Charles Lofton",
+              "annee": 1996,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Le film utilise la technique du found footage pour érotiser le mouvement du Black Power et ainsi inventer une période révolutionnaire dans l'histoire homosexuelle."
+                }
+              ],
+              "duree": 6,
+              "format": "",
+              "version": "",
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-28T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19185,
+          "titreEvenement": "Séance 22 : William E. Jones",
+          "films": [
+            {
+              "idFilm": 141242,
+              "titre": "Fall of Communism as Seen in Gay Pornography",
+              "art": "The",
+              "titreVo": "",
+              "realisateurs": "William E. Jones",
+              "annee": 1998,
+              "pays": "États-Unis",
+              "duree": 19,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141243,
+              "titre": "Tearoom",
+              "titreVo": "",
+              "realisateurs": "William E. Jones",
+              "annee": 2008,
+              "pays": "États-Unis",
+              "duree": 56,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-28T21:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19129,
+          "titreEvenement": "Séance 4 : Cavalier noir (Le)",
+          "films": [
+            {
+              "idFilm": 39579,
+              "titre": "Cavalier Noir",
+              "art": "Le",
+              "titreVo": "Singer Not the Song",
+              "artVo": "The",
+              "realisateurs": "Roy Ward Baker",
+              "annee": 1960,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un prêtre arrive dans un petit village mexicain tenu en joug par le bandit Anacleto, le cavalier noir. L'obstination et la foi du jeune prêtre finissent par payer et bientôt il réussit à réunir un groupe de fidèles ce qui déplaît au cavalier noir..."
+                }
+              ],
+              "generique": [
+                "Dirk Bogarde",
+                "John Mills",
+                "Mylène Demongeot",
+                "Laurence Naismith"
+              ],
+              "duree": 132,
+              "format": "",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-29T20:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19139,
+          "titreEvenement": "Séance 14 : Equation à un inconnu",
+          "films": [
+            {
+              "idFilm": 132661,
+              "titre": "Equation à un inconnu",
+              "titreVo": "",
+              "realisateurs": "Dietrich De Velsa",
+              "annee": 1994,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« L'acmé du porno mélancolique. Une succession de fantasmes au masculin dont les beautés fracassantes finissent par se dissoudre en abandonnant le rêveur érotomane à sa solitude. » Yann Gonzalez"
+                }
+              ],
+              "generique": [
+                "Jean-Jacques Loupmon",
+                "Gianfranco Longhi",
+                "Reinhard Montz"
+              ],
+              "duree": 93,
+              "format": "16 mm",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-29T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19142,
+          "titreEvenement": "Séance 21 : Tabou",
+          "films": [
+            {
+              "idFilm": 68683,
+              "titre": "Tabou",
+              "titreVo": "Gohatto",
+              "realisateurs": "Nagisa Oshima",
+              "annee": 1999,
+              "pays": "Japon",
+              "generique": [
+                "Takeshi Kitano",
+                "Ryuhei Matsuda",
+                "Shinji Takeda",
+                "Tadanobu Asano"
+              ],
+              "duree": 100,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-01T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19144,
+          "titreEvenement": "Séance 24 : Fantasma (O)",
+          "films": [
+            {
+              "idFilm": 73443,
+              "titre": "Fantasma",
+              "art": "O",
+              "titreVo": "",
+              "realisateurs": "João Pedro Rodrigues",
+              "annee": 2000,
+              "pays": "Portugal",
+              "generique": [
+                "Ricardo Meneses",
+                "Beatriz Torcato",
+                "André Barbosa",
+                "Eurico Vieira"
+              ],
+              "duree": 97,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-01T21:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19145,
+          "titreEvenement": "Séance 25 : Courts-métrages",
+          "films": [
+            {
+              "idFilm": 141244,
+              "titre": "Paixao Nacional",
+              "titreVo": "",
+              "realisateurs": "Karim Aïnouz",
+              "annee": 1996,
+              "pays": "Brésil-Canada",
+              "duree": 9,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141034,
+              "titre": "Gay ?",
+              "titreVo": "",
+              "realisateurs": "Jean-Gabriel Périot",
+              "annee": 2001,
+              "pays": "France",
+              "duree": 2,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 141035,
+              "titre": "Avant j'étais triste",
+              "titreVo": "",
+              "realisateurs": "Jean-Gabriel Périot",
+              "annee": 2002,
+              "pays": "France",
+              "duree": 2,
+              "format": "",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 141245,
+              "titre": "Al-ilka al-hamra",
+              "titreVo": "",
+              "realisateurs": "Akram Zaatari",
+              "annee": 2000,
+              "pays": "Liban",
+              "duree": 10,
+              "format": "",
+              "version": "",
+              "ordre": 4
+            },
+            {
+              "idFilm": 141246,
+              "titre": "How I Love You",
+              "titreVo": "",
+              "realisateurs": "Akram Zaatari",
+              "annee": 2002,
+              "pays": "Liban",
+              "ordre": 5
+            },
+            {
+              "idFilm": 117477,
+              "titre": "Natpwe, le festin des esprits",
+              "titreVo": "",
+              "realisateurs": "Tiane Doan na Champassak, Jean Dubrel",
+              "annee": 2004,
+              "pays": "France-Myanmar",
+              "duree": 30,
+              "format": "Vidéo",
+              "version": "",
+              "ordre": 6
+            },
+            {
+              "idFilm": 141247,
+              "titre": "There Is a Spider Living Between Us",
+              "titreVo": "",
+              "realisateurs": "Tejal Shah",
+              "annee": 2009,
+              "pays": "Inde",
+              "duree": 7,
+              "format": "",
+              "version": "",
+              "ordre": 7
+            },
+            {
+              "idFilm": 117484,
+              "titre": "Dans le village",
+              "titreVo": "",
+              "realisateurs": "Laurence Rebouillon, Patricia Godal",
+              "annee": 2009,
+              "pays": "France",
+              "duree": 6,
+              "format": "Super 8",
+              "version": "",
+              "ordre": 8
+            },
+            {
+              "idFilm": 141248,
+              "titre": "Reluctantly Queer",
+              "titreVo": "",
+              "realisateurs": "Akosua Adoma Owusu",
+              "annee": 2016,
+              "pays": "Ghana",
+              "duree": 8,
+              "format": "",
+              "version": "",
+              "ordre": 9
+            },
+            {
+              "idFilm": 141249,
+              "titre": "Mahogany Too",
+              "titreVo": "",
+              "realisateurs": "Akosua Adoma Owusu",
+              "annee": 2018,
+              "pays": "États-Unis",
+              "duree": 3,
+              "format": "",
+              "version": "",
+              "ordre": 10
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-03T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19192,
+          "titreEvenement": "Séance 26 : L'Ordre des mots / Vos papiers",
+          "films": [
+            {
+              "idFilm": 141250,
+              "titre": "Ordre des mots",
+              "art": "L'",
+              "titreVo": "",
+              "realisateurs": "Cynthia Arra, Mélissa Arra",
+              "annee": 2007,
+              "pays": "France",
+              "duree": 75,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141251,
+              "titre": "Vos papiers",
+              "titreVo": "",
+              "realisateurs": "Bruce",
+              "annee": 2013,
+              "pays": "France",
+              "duree": 36,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-03T21:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19194,
+          "titreEvenement": "Séance 27 : Vie et survie trans",
+          "films": [
+            {
+              "idFilm": 141252,
+              "titre": "All That Sheltering Emptiness",
+              "titreVo": "",
+              "realisateurs": "Gina Carducci, Mattilda Bernstein Sycamore",
+              "annee": 2010,
+              "pays": "États-Unis",
+              "duree": 7,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141253,
+              "titre": "Ben/O",
+              "titreVo": "",
+              "realisateurs": "Güldem Durmaz",
+              "annee": 2011,
+              "pays": "Belgique-Turquie",
+              "duree": 22,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 141254,
+              "titre": "Stealth",
+              "titreVo": "",
+              "realisateurs": "Chase Joynt, Alexis Mitchell",
+              "annee": 2014,
+              "pays": "Canada",
+              "duree": 17,
+              "format": "",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 141255,
+              "titre": "Beware !",
+              "titreVo": "",
+              "realisateurs": "Bruce, Samuel B. Atman",
+              "annee": 2012,
+              "pays": "France",
+              "generique": [
+                "Lalla Kowska",
+                "Mattia Sieger"
+              ],
+              "duree": 7,
+              "format": "",
+              "version": "",
+              "ordre": 4
+            },
+            {
+              "idFilm": 141256,
+              "titre": "Bradley Manning Had Secrets",
+              "titreVo": "",
+              "realisateurs": "Adam Butcher",
+              "annee": 2012,
+              "pays": "Grande-Bretagne",
+              "duree": 6,
+              "format": "",
+              "version": "",
+              "ordre": 5
+            },
+            {
+              "idFilm": 141257,
+              "titre": "Baby You're Frozen",
+              "titreVo": "",
+              "realisateurs": "Sadie Lune",
+              "annee": 2012,
+              "pays": "Allemagne-États-Unis",
+              "duree": 24,
+              "format": "",
+              "version": "",
+              "ordre": 6
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-04T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19200,
+          "titreEvenement": "Séance 28 : Stéphane Gérard",
+          "films": [
+            {
+              "idFilm": 141258,
+              "titre": "Gouines & pédés : Refuser l'égalité des droits, c'est être homphobe !",
+              "titreVo": "",
+              "realisateurs": "Les Panthères Roses, Les DurEs à Queer",
+              "annee": 2012,
+              "pays": "France",
+              "duree": 3,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141259,
+              "titre": "Conte de Noël des Panthères Roses",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Les Panthères Roses",
+              "annee": 2012,
+              "pays": "France",
+              "duree": 1,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 141260,
+              "titre": "N'ayez pas peur",
+              "titreVo": "",
+              "realisateurs": "Collectif 360° et même plus",
+              "annee": 2013,
+              "pays": "France",
+              "duree": 8,
+              "format": "",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 141261,
+              "titre": "Rien n'oblige à répéter l'histoire",
+              "titreVo": "",
+              "realisateurs": "Stéphane Gérard",
+              "annee": 2014,
+              "pays": "France",
+              "duree": 85,
+              "format": "",
+              "version": "",
+              "ordre": 4
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-04T21:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19206,
+          "titreEvenement": "Séance 30 : B.U.C.K.L.E / The Shakedown",
+          "films": [
+            {
+              "idFilm": 141263,
+              "titre": "B.U.C.K.L.E.",
+              "titreVo": "",
+              "realisateurs": "Catherine Gund, Julie Tolentino",
+              "annee": 1993,
+              "pays": "États-Unis",
+              "duree": 11,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141264,
+              "titre": "Shakedown",
+              "art": "The",
+              "titreVo": "",
+              "realisateurs": "Leilah Weinraub",
+              "annee": 2018,
+              "pays": "États-Unis",
+              "duree": 72,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-05T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19173,
+          "titreEvenement": "Séance 15 : Lionel Soukaz",
+          "films": [
+            {
+              "idFilm": 76873,
+              "titre": "Ixe",
+              "titreVo": "",
+              "realisateurs": "Lionel Soukaz",
+              "annee": 1980,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Ixe (...) est un film implosé, crucifié. Conçu pour être projeté sur quatre écrans simultanément, X est un écartèlement : aux quatre points cardinaux, aux quatre extrémités de la croix, la guerre, le sexe, la religion et la drogue. » Guy Hocquenghem"
+                }
+              ],
+              "generique": [
+                "Philippe Veschi",
+                "François Dantchev",
+                "Hervé Leymarie",
+                "Jean-François B."
+              ],
+              "duree": 48,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141231,
+              "titre": "RV, mon ami",
+              "titreVo": "",
+              "realisateurs": "Lionel Soukaz",
+              "annee": 1994,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Le poème de Guillaume Apollinaire _La Chanson du mal aimé_ chanté par Léo Ferré. Des images de photos, d'écrits, de souvenirs pour rendre hommage à RV, l'ami de Lionel Soukaz, décédé le 1er Août 94."
+                }
+              ],
+              "duree": 28,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 141232,
+              "titre": "Loi X – La nuit en permanence",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Lionel Soukaz",
+              "annee": 2001,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Des hommes en costume qui ont instauré la loi X, sur lesquels Soukaz a dessiné des graffitis de pellicule, entrecoupés d'extraits de films classés X."
+                }
+              ],
+              "duree": 14,
+              "format": "",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 141233,
+              "titre": "Nu lacté",
+              "titreVo": "",
+              "realisateurs": "Lionel Soukaz, Othello Vilgard, Xavier Baert",
+              "annee": 2002,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "L'artiste Tom de Pékin se met à nu devant la caméra des trois réalisateurs qui s'amusent à voiler et à dévoiler la pellicule."
+                }
+              ],
+              "duree": 5,
+              "format": "",
+              "version": "",
+              "ordre": 4
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-05T21:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19204,
+          "titreEvenement": "Séance 29 : Jean Genet, un captif amoureux, parcours d'un poète combattant",
+          "films": [
+            {
+              "idFilm": 141262,
+              "titre": "Jean Genet, un captif amoureux, parcours d'un poète combattant",
+              "titreVo": "",
+              "realisateurs": "Michèle Collery",
+              "annee": 2016,
+              "pays": "France",
+              "duree": 74,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-06T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19183,
+          "titreEvenement": "Séance 20 : Marble Ass",
+          "films": [
+            {
+              "idFilm": 141241,
+              "titre": "Marble Ass",
+              "titreVo": "Dupe od mramora",
+              "realisateurs": "Zelimir Zilnik",
+              "annee": 1995,
+              "pays": "Yougoslavie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "A Belgrade dans les années 90, deux hommes activistes et pacifistes se travestissent pour protéger les femmes des pulsions des soldats serbes rentrés du front."
+                }
+              ],
+              "generique": [
+                "Aleksandar Brujic",
+                "Vjeran Miladinovic",
+                "Milja Milenkovic"
+              ],
+              "duree": 86,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-06T21:15:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19157,
+          "titreEvenement": "Séance 3 : Jean Genet et cie",
+          "films": [
+            {
+              "idFilm": 54392,
+              "titre": "Un chant d'amour",
+              "titreVo": "",
+              "realisateurs": "Jean Genet",
+              "annee": 1950,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Deux prisonniers se livrent à des jeux sensuels grâce à un trou percé dans le mur qui les sépare, sous le regard sadique de leur geôlier."
+                }
+              ],
+              "generique": [
+                "Lucien Sénemaud",
+                "Coco le Martiniquais",
+                "Java",
+                "André Reybaz"
+              ],
+              "duree": 25,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141215,
+              "titre": "Genet parle d'Angela Davis",
+              "titreVo": "",
+              "realisateurs": "Carole Roussopoulos",
+              "annee": 1970,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Le 16 octobre 1970 à l 'Hôtel Cecil à Paris, le groupe Video Out filme la déclaration de Jean Genet enregistrée après l'annonce de l'arrestation d'Angela Davis."
+                }
+              ],
+              "duree": 7,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 141216,
+              "titre": "Manifestation contre la répression de l'homosexualité : Juin 1977",
+              "titreVo": "",
+              "realisateurs": "Le lézard du péril mauve, Ortie 14",
+              "annee": 1977,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "En 1977, à Paris, a lieu la première manifestation contre les « hétéro-flics » en réaction notamment à la violente campagne anti-homosexuels d'Anita Bryant aux États-Unis."
+                }
+              ],
+              "duree": 22,
+              "format": "Vidéo",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 141217,
+              "titre": "Troisième œil",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "André Almuro",
+              "annee": 1989,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Deux corps masculins se mélangent en un tourbillon sexuel pour devenir un seul et même œil."
+                }
+              ],
+              "duree": 8,
+              "format": "8 mm",
+              "version": "",
+              "ordre": 4
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-10T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19161,
+          "titreEvenement": "Séance 5 : Dream Sphinx / Flaming creatures / Jerovi / Lupe",
+          "films": [
+            {
+              "idFilm": 58030,
+              "titre": "Flaming creatures",
+              "titreVo": "",
+              "realisateurs": "Jack Smith",
+              "annee": 1963,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Jack Smith met en scène avec humour divas en costumes orientaux et autres corps hors normes dansant, tombant et faisant l'amour, renvoyant ainsi à l'artifice et à la décadence d'un Hollywood révolu."
+                }
+              ],
+              "generique": [
+                "Francis Francine",
+                "Sheila Bick",
+                "Joel Markman"
+              ],
+              "duree": 45,
+              "format": "16 mm",
+              "version": "VOSTF",
+              "ordre": 1
+            },
+            {
+              "idFilm": 132660,
+              "titre": "Jerovi",
+              "titreVo": "",
+              "realisateurs": "Jose Rodriguez-Soltero",
+              "annee": 1965,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Narcisse méconnu et présumé splendide, dans la lignée queer virevoltante de Jack Smith. (Yann Gonzalez)"
+                }
+              ],
+              "duree": 11,
+              "format": "16 mm",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 141218,
+              "titre": "Lupe",
+              "titreVo": "",
+              "realisateurs": "Jose Rodriguez-Soltero",
+              "annee": 1966,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Biographie fantasmée de l'actrice mexicaine des années 30 Lupe Vélez."
+                }
+              ],
+              "generique": [
+                "Mario Montez"
+              ],
+              "duree": 50,
+              "format": "",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 141219,
+              "titre": "Dream Sphinx",
+              "titreVo": "",
+              "realisateurs": "Roger Jacoby",
+              "annee": 1974,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "L'histoire d'amour extatique entre la star Sally Dixon et Ondine."
+                }
+              ],
+              "duree": 7,
+              "format": "",
+              "version": "",
+              "ordre": 4
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-10T21:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 429,
+          "idCategorie": 1930,
+          "idEvenement": 19162,
+          "titreEvenement": "Séance 6 : Holding / Reine (La)",
+          "films": [
+            {
+              "idFilm": 37028,
+              "titre": "Reine",
+              "art": "La",
+              "titreVo": "Queen",
+              "artVo": "The",
+              "realisateurs": "Frank Simon",
+              "annee": 1967,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Documentaire sur un concours de beauté de Drag Queen en 1967, de l'arrivée des concurrents en passant par leur préparation jusqu'à leur retour à la gare."
+                }
+              ],
+              "generique": [
+                "Jack Doroshow",
+                "Richard Finocchio",
+                "Crystal"
+              ],
+              "duree": 68,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141220,
+              "titre": "Holding",
+              "titreVo": "",
+              "realisateurs": "Constance Beeson",
+              "annee": 1971,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "La relation amoureuse de deux femmes, entre fantaisie et sensualité, via des images du passé du présent et du futur qui se mêlent en un collage temporel."
+                }
+              ],
+              "duree": 13,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-11T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

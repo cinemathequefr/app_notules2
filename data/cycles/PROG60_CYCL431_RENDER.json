@@ -1,0 +1,316 @@
+{
+  "header": {
+    "idCycleProg": 431,
+    "titreCycle": "Semaine du cinéma chilien contemporain",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          1932
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 60
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 431,
+          "idFilm": 127976,
+          "titre": "Club",
+          "art": "El",
+          "titreVo": "",
+          "realisateurs": "Pablo Larraín",
+          "annee": 2014,
+          "pays": "Chili",
+          "generique": [
+            "Alfredo Castro",
+            "Roberto Farías",
+            "Antonia Zegers",
+            "Jaime Vadell"
+          ],
+          "duree": 97,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30441,
+              "ordre": 1,
+              "idEvenement": 19224,
+              "dateHeure": "2019-06-15T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 431,
+          "idFilm": 121514,
+          "titre": "Gloria",
+          "titreVo": "",
+          "realisateurs": "Sebastián Lelio",
+          "annee": 2012,
+          "pays": "Chili-Espagne",
+          "generique": [
+            "Paulina García",
+            "Sergio Hernández",
+            "Marcial Tagle",
+            "Diego Fontecilla"
+          ],
+          "duree": 110,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30442,
+              "ordre": 1,
+              "idEvenement": 19226,
+              "dateHeure": "2019-06-16T17:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 431,
+          "idFilm": 138610,
+          "titre": "Jesús – Petit criminel",
+          "titreVo": "",
+          "realisateurs": "Fernando Guzzoni",
+          "annee": 2016,
+          "pays": "France-Chili-Allemagne-Grèce",
+          "generique": [
+            "Nicolás Durán",
+            "Alejandro Goic",
+            "Gastón Salgado",
+            "Sebastián Ayala"
+          ],
+          "duree": 85,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30074,
+              "ordre": 1,
+              "idEvenement": 19228,
+              "dateHeure": "2019-06-19T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 431,
+          "idFilm": 141182,
+          "titre": "Lucia",
+          "titreVo": "",
+          "realisateurs": "Niles Attalah",
+          "annee": 2010,
+          "pays": "Chili",
+          "duree": 80,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30439,
+              "ordre": 1,
+              "idEvenement": 19222,
+              "dateHeure": "2019-06-14T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 431,
+          "idFilm": 109182,
+          "titre": "Nana",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Sebastián Silva",
+          "annee": 2008,
+          "pays": "Chili-Mexique",
+          "generique": [
+            "Catalina Saavedra",
+            "Claudia Celedón",
+            "Alejandro Goic",
+            "Andrea García-Huidobro"
+          ],
+          "duree": 95,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30440,
+              "ordre": 1,
+              "idEvenement": 19221,
+              "dateHeure": "2019-06-13T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 431,
+          "idFilm": 116547,
+          "titre": "No",
+          "titreVo": "",
+          "realisateurs": "Pablo Larraín",
+          "annee": 2011,
+          "pays": "Chili",
+          "adaptation": "D'après la pièce _The Referendum_ d'Antonio Skármeta.",
+          "generique": [
+            "Gael García Bernal",
+            "Antonia Zegers",
+            "Alfredo Castro",
+            "Luis Gnecco"
+          ],
+          "duree": 115,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30027,
+              "ordre": 1,
+              "idEvenement": 19225,
+              "dateHeure": "2019-06-12T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 431,
+          "idFilm": 141183,
+          "titre": "Tarde para morir joven",
+          "titreVo": "",
+          "realisateurs": "Dominga Sotomayor Castillo",
+          "annee": 2018,
+          "pays": "Chili",
+          "duree": 110,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30066,
+              "ordre": 1,
+              "idEvenement": 19230,
+              "dateHeure": "2019-06-17T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 431,
+          "idFilm": 124638,
+          "titre": "Tuer un homme",
+          "titreVo": "Matar a un hombre",
+          "realisateurs": "Alejandro Fernández Almendras",
+          "annee": 2013,
+          "pays": "Chili-France",
+          "generique": [
+            "Daniel Candia",
+            "Alejandra Yañez",
+            "Daniel Antivilo",
+            "Ariel Mateluna"
+          ],
+          "duree": 82,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30443,
+              "ordre": 1,
+              "idEvenement": 19227,
+              "dateHeure": "2019-06-15T21:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 431,
+          "idFilm": 136314,
+          "titre": "Une femme fantastique",
+          "titreVo": "Una Mujer Fantástica",
+          "realisateurs": "Sebastián Lelio",
+          "annee": 2016,
+          "pays": "Chili-Allemagne-Espagne",
+          "generique": [
+            "Daniela Vega",
+            "Francisco Reyes",
+            "Luis Gnecco",
+            "Aline Küppenheim"
+          ],
+          "duree": 104,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30053,
+              "ordre": 1,
+              "idEvenement": 19229,
+              "dateHeure": "2019-06-15T18:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 431,
+          "idFilm": 117938,
+          "titre": "Violeta",
+          "titreVo": "Violeta se fue a los cielos",
+          "realisateurs": "Andrés Wood",
+          "annee": 2011,
+          "pays": "Chili-Argentine-Brésil",
+          "adaptation": "D'après le livre _Violeta Parra, ma mère_ d'Ángel Parra.",
+          "generique": [
+            "Francisca Gavilán",
+            "Cristian Quevedo",
+            "Thomas Durand",
+            "Luis Machín"
+          ],
+          "duree": 110,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30058,
+              "ordre": 1,
+              "idEvenement": 19223,
+              "dateHeure": "2019-06-16T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

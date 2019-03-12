@@ -1,0 +1,15 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>><dcs:ITAL=<cTypeface:Italic>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>La Comtesse aux pieds nus
+<pstyle:TITRE_ANG>(The Barefoot Contessa)
+<pstyle:TECHNIQUE>de Joseph L. Mankiewicz
+<pstyle:TECHNIQUE>États-Unis/1954/128'/VOSTF/DCP
+<pstyle:TITRE>Manchester by the Sea
+<pstyle:TECHNIQUE>de Kenneth Lonergan
+<pstyle:TECHNIQUE>États-Unis/2015/138'/VOSTF/DCP
+<pstyle:TITRE>Terre des pharaons
+<pstyle:TITRE_ANG>(Land of the Pharaohs)
+<pstyle:TECHNIQUE>de Howard Hawks
+<pstyle:TECHNIQUE>États-Unis/1954
