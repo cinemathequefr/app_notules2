@@ -373,11 +373,23 @@
     "items": [
       {
         "idFilm": 75642,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30009,
+        "idCopie": 18282,
+        "duree": 48,
+        "version": "",
+        "format": "",
+        "valide": 0
       },
       {
         "idFilm": 75643,
-        "ordre": 2
+        "ordre": 2,
+        "idSeance": 30009,
+        "idCopie": 18284,
+        "duree": 22,
+        "version": "",
+        "format": "",
+        "valide": 0
       }
     ]
   },
@@ -547,8 +559,8 @@
     "idCycle": 426,
     "idCategorie": 1927,
     "idEvenement": 19116,
-    "idSeance": 30041,
-    "dateHeure": "2019-06-14T19:00:00",
+    "idSeance": 30502,
+    "dateHeure": "2019-06-14T20:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -558,35 +570,11 @@
       {
         "idFilm": 31059,
         "ordre": 1,
-        "idSeance": 30041,
+        "idSeance": 30502,
         "idCopie": 18172,
         "duree": 141,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 426,
-    "idCategorie": 1927,
-    "idEvenement": 19109,
-    "idSeance": 30042,
-    "dateHeure": "2019-06-14T22:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "titreEvenement": "Un enfant attend",
-    "items": [
-      {
-        "idFilm": 31013,
-        "ordre": 1,
-        "idSeance": 30042,
-        "idCopie": 18164,
-        "duree": 102,
-        "version": "VOSTF",
-        "format": "DCP",
         "valide": 0
       }
     ]
@@ -707,6 +695,150 @@
         "duree": 135,
         "version": "",
         "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19106,
+    "idSeance": 30057,
+    "dateHeure": "2019-06-16T21:45:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Ballade des sans-espoirs (La)",
+    "items": [
+      {
+        "idFilm": 31074,
+        "ordre": 1,
+        "idSeance": 30057,
+        "idCopie": 18166,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19117,
+    "idSeance": 30062,
+    "dateHeure": "2019-06-17T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Faces",
+    "items": [
+      {
+        "idFilm": 31041,
+        "ordre": 1,
+        "idSeance": 30062,
+        "idCopie": 18158,
+        "duree": 130,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19109,
+    "idSeance": 30068,
+    "dateHeure": "2019-06-19T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Un enfant attend",
+    "items": [
+      {
+        "idFilm": 31013,
+        "ordre": 1,
+        "idSeance": 30068,
+        "idCopie": 18164,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19107,
+    "idSeance": 30503,
+    "dateHeure": "2019-06-20T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Big Trouble",
+    "items": [
+      {
+        "idFilm": 80369,
+        "ordre": 1,
+        "idSeance": 30503,
+        "idCopie": 18155,
+        "duree": 0,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19151,
+    "idSeance": 30083,
+    "dateHeure": "2019-06-21T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Libre comme le vent",
+    "items": [
+      {
+        "idFilm": 35769,
+        "ordre": 1,
+        "idSeance": 30083,
+        "idCopie": 18179,
+        "duree": 84,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19110,
+    "idSeance": 30504,
+    "dateHeure": "2019-06-22T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Gloria",
+    "items": [
+      {
+        "idFilm": 31044,
+        "ordre": 1,
+        "idSeance": 30504,
+        "idCopie": 18169,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]

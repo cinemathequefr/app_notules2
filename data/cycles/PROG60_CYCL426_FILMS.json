@@ -33,7 +33,18 @@
     "ageMinimal": null,
     "realisateurs": "John Cassavetes",
     "annee": 1962,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pendant la guerre de Sécession, un officier sudiste, au terme d'une bataille sanglante, propose un cessez-le-feu a son collègue nordiste. Mais cet arrêt est violé par un soldat confédéré dément qui tue un nordiste uniquement pour lui voler ses bottes!"
+      }
+    ],
+    "generique": [
+      "Seymour Cassel",
+      "Lloyd Bridges",
+      "Royal Dano"
+    ]
   },
   {
     "titre": "Ainsi va l'amour",
@@ -416,7 +427,18 @@
     "ageMinimal": null,
     "realisateurs": "John Cassavetes",
     "annee": 1962,
-    "pays": "États-Unis"
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pappy Davlin est un champion de boxe poids lourd, qui doit défendre son titre... face à son fils"
+      }
+    ],
+    "generique": [
+      "Lloyd Bridges",
+      "Gary Lockwood",
+      "Mary Murphy"
+    ]
   },
   {
     "titre": "Opening Night",

@@ -40,6 +40,20 @@
           "realisateurs": "John Cassavetes",
           "annee": 1962,
           "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pendant la guerre de Sécession, un officier sudiste, au terme d'une bataille sanglante, propose un cessez-le-feu a son collègue nordiste. Mais cet arrêt est violé par un soldat confédéré dément qui tue un nordiste uniquement pour lui voler ses bottes!"
+            }
+          ],
+          "generique": [
+            "Seymour Cassel",
+            "Lloyd Bridges",
+            "Royal Dano"
+          ],
+          "duree": 48,
+          "format": "",
+          "version": "",
           "seance": [
             {
               "idSeance": 30009,
@@ -182,6 +196,16 @@
                 "HL",
                 "Henri Langlois"
               ]
+            },
+            {
+              "idSeance": 30057,
+              "ordre": 1,
+              "idEvenement": 19106,
+              "dateHeure": "2019-06-16T21:45:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
             }
           ]
         },
@@ -213,6 +237,16 @@
               "ordre": 1,
               "idEvenement": 19107,
               "dateHeure": "2019-06-03T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30503,
+              "ordre": 1,
+              "idEvenement": 19107,
+              "dateHeure": "2019-06-20T20:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -252,6 +286,16 @@
                 "HL",
                 "Henri Langlois"
               ]
+            },
+            {
+              "idSeance": 30062,
+              "ordre": 1,
+              "idEvenement": 19117,
+              "dateHeure": "2019-06-17T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
             }
           ]
         },
@@ -284,6 +328,16 @@
               "ordre": 1,
               "idEvenement": 19110,
               "dateHeure": "2019-06-02T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 30504,
+              "ordre": 1,
+              "idEvenement": 19110,
+              "dateHeure": "2019-06-22T16:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -345,6 +399,20 @@
           "realisateurs": "John Cassavetes",
           "annee": 1962,
           "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pappy Davlin est un champion de boxe poids lourd, qui doit défendre son titre... face à son fils"
+            }
+          ],
+          "generique": [
+            "Lloyd Bridges",
+            "Gary Lockwood",
+            "Mary Murphy"
+          ],
+          "duree": 22,
+          "format": "",
+          "version": "",
           "seance": [
             {
               "idSeance": 30009,
@@ -476,10 +544,10 @@
           "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30041,
+              "idSeance": 30502,
               "ordre": 1,
               "idEvenement": 19116,
-              "dateHeure": "2019-06-14T19:00:00",
+              "dateHeure": "2019-06-14T20:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -522,13 +590,13 @@
               ]
             },
             {
-              "idSeance": 30042,
+              "idSeance": 30068,
               "ordre": 1,
               "idEvenement": 19109,
-              "dateHeure": "2019-06-14T22:00:00",
+              "dateHeure": "2019-06-19T17:00:00",
               "idSalle": [
-                "HL",
-                "Henri Langlois"
+                "GF",
+                "Georges Franju"
               ]
             }
           ]
@@ -882,6 +950,42 @@
               "idSalle": [
                 "GF",
                 "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 426,
+          "idFilm": 35769,
+          "titre": "Libre comme le vent",
+          "titreVo": "Saddle the Wind",
+          "realisateurs": "Robert Parrish",
+          "annee": 1958,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": " Steve Sinclair est un pistolero repenti et coule maintenant des jours paisibles dans son ranch. Son jeune frère Tony ne s'est pas retiré de la vie tumultueuse des affrontements aux revolvers et se vante d'être un roi de la gâchette. Ayant fait la connaissance de la belle Joan Blake, chanteuse dans un saloon, il vient présenter à son frère sa future fiancée. Afin de prouver qu'il est le meilleur tireur des alentours il abat un hors-la-loi qui s'en prenait à son frère avant de s'attaquer à Clay Ellison, un ancien soldat confédéré revendiquant un bout de terrain soit disant commun..."
+            }
+          ],
+          "generique": [
+            "Robert Taylor",
+            "John Cassavetes",
+            "Julie London",
+            "Donald Crisp"
+          ],
+          "duree": 84,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30083,
+              "ordre": 1,
+              "idEvenement": 19151,
+              "dateHeure": "2019-06-21T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
               ]
             }
           ]

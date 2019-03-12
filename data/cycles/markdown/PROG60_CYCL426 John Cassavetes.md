@@ -4,7 +4,9 @@
 
 **A pair of boots**  
 de John Cassavetes  
-États-Unis / 1962  
+États-Unis / 1962 / 48 min  
+Avec Seymour Cassel, Lloyd Bridges, Royal Dano.  
+Pendant la guerre de Sécession, un officier sudiste, au terme d'une bataille sanglante, propose un cessez-le-feu a son collègue nordiste. Mais cet arrêt est violé par un soldat confédéré dément qui tue un nordiste uniquement pour lui voler ses bottes!  
 Film suivi de _My daddy can lick your daddy_ de John Cassavetes.
 
 - Sam 8 juin 21h30 GF
@@ -36,7 +38,8 @@ de John Cassavetes
 Avec Bobby Darin, Stella Stevens, John Cassavetes, J. Alan Hopkins.  
 Chronique de la vie d'un groupe de musiciens de jazz qui refusent, en vain, de se soumettre a un monde conformiste et hostile. OU George, qui dirige un groupe de jazz, le quitte et devient l'amant d'une comtesse. Il est engagé comme pianiste dans les bars à la mode. Il tente un jour de retrouver ses anciens compagnons.
 
-- Sam 1 juin 19h00 HL
+- Sam 1 juin 19h00 HL  
+- Dim 16 juin 21h45 HL
 
 **Big Trouble**  
 de John Cassavetes  
@@ -44,7 +47,8 @@ de John Cassavetes
 Avec Peter Falk, Robert Stack, Valerie Curtin.  
 Parce qu'il a besoin d'argent pour envoyer ses fils triplés faire leurs études à Yale, un courtier en assurances accepte d'assurer sur la vie le mari d'une blonde et d'aider celui-ci à mourir. L'époux, gravement malade, souhaite, soi-disant, qu'on mette fin à ses jours. Le pauvre courtier n'est pas au bout de ses peines avec ce couple insolite. Particulièrement avec le mari, un escroc qui regorge d'idées ....
 
-- Lun 3 juin 19h00 GF
+- Lun 3 juin 19h00 GF  
+- Jeu 20 juin 20h00 GF
 
 **Faces**  
 de John Cassavetes  
@@ -52,7 +56,8 @@ de John Cassavetes
 Avec Gena Rowlands, John Marley, Lynn Carlin.  
 Richard et Freddie rencontrent dans un bar une call-girl, Jeannie, qui les emmène chez elle. À son retour chez lui, Richard se dispute avec sa femme, Maria, claque la porte et repart chez Jeannie. Maria, à son tour, décide de passer la nuit dehors.
 
-- Sam 8 juin 14h30 HL
+- Sam 8 juin 14h30 HL  
+- Lun 17 juin 17h00 HL
 
 **Gloria**  
 de John Cassavetes  
@@ -60,7 +65,8 @@ de John Cassavetes
 Avec Gena Rowlands, John Adames, Julie Carmen, Buck Henry.  
 Après le massacre de sa famille par la mafia, un enfant en possession de documents compromettants est recueilli par sa voisine, une ancienne actrice.
 
-- Dim 2 juin 20h00 HL
+- Dim 2 juin 20h00 HL  
+- Sam 22 juin 16h30 HL
 
 **Maris**  
 **(Husbands)**  
@@ -74,7 +80,9 @@ Trois amis font une virée de plusieurs jours après avoir appris la mort d'un d
 
 **My daddy can lick your daddy**  
 de John Cassavetes  
-États-Unis / 1962  
+États-Unis / 1962 / 22 min  
+Avec Lloyd Bridges, Gary Lockwood, Mary Murphy.  
+Pappy Davlin est un champion de boxe poids lourd, qui doit défendre son titre... face à son fils  
 Film précédé d'_A pair of boots_ de John Cassavetes.
 
 - Sam 8 juin 21h30 GF
@@ -104,7 +112,7 @@ de John Cassavetes
 Avec John Cassavetes, Gena Rowlands, Diahnne Abbott, Seymour Cassel.  
 Les tendres et solides relations entre un frère et une sœur. Lui, écrivain, passe son temps, entouré de filles vénales et ne réussit pas a établir le contact avec son jeune fils. Elle, brisée par son récent divorce, et de retour d'un voyage en Europe, n'arrive pas a oublier son mari et sa fille.
 
-- Ven 14 juin 19h00 HL
+- Ven 14 juin 20h30 HL
 
 **Un enfant attend**  
 **(A Child Is Waiting)**  
@@ -114,7 +122,7 @@ Avec Burt Lancaster, Judy Garland, Gena Rowlands, Bruce Ritchey.
 Dans une institution spécialisée qui accueille des enfants autistes et trisomiques, une professeur de musique, en désaccord avec les méthodes du directeur psychanalyste, s'attache à un enfant rebelle à toute vie de groupe.
 
 - Sam 1 juin 21h15 HL  
-- Ven 14 juin 22h00 HL
+- Mer 19 juin 17h00 GF
 
 **Une femme sous influence**  
 **(A woman under the influence)**  
@@ -203,6 +211,15 @@ Avec John Cassavetes, Florinda Bolkan, Peter Falk, Gena Rowlands.
 Un parrain de la mafia parvient à faire sortir de prison le gangster Hank McCain, après douze années de détention. Jack, son fils, le convainc alors de participer à un vol dans un casino de Las Vegas.
 
 - Lun 3 juin 21h00 GF
+
+**Libre comme le vent**  
+**(Saddle the Wind)**  
+de Robert Parrish  
+États-Unis / 1958 / 84 min  
+Avec Robert Taylor, John Cassavetes, Julie London, Donald Crisp.  
+ Steve Sinclair est un pistolero repenti et coule maintenant des jours paisibles dans son ranch. Son jeune frère Tony ne s'est pas retiré de la vie tumultueuse des affrontements aux revolvers et se vante d'être un roi de la gâchette. Ayant fait la connaissance de la belle Joan Blake, chanteuse dans un saloon, il vient présenter à son frère sa future fiancée. Afin de prouver qu'il est le meilleur tireur des alentours il abat un hors-la-loi qui s'en prenait à son frère avant de s'attaquer à Clay Ellison, un ancien soldat confédéré revendiquant un bout de terrain soit disant commun...
+
+- Ven 21 juin 17h00 HL
 
 **Un tueur dans la foule**  
 **(Two-minute Warning)**  

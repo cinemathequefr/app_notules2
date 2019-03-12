@@ -10,7 +10,9 @@ Après l'exécution d'un contrat, deux tueurs cherchent à connaître le passé 
 
 **A pair of boots**  
 de John Cassavetes  
-États-Unis / 1962
+États-Unis / 1962  
+Avec Seymour Cassel, Lloyd Bridges, Royal Dano.  
+Pendant la guerre de Sécession, un officier sudiste, au terme d'une bataille sanglante, propose un cessez-le-feu a son collègue nordiste. Mais cet arrêt est violé par un soldat confédéré dément qui tue un nordiste uniquement pour lui voler ses bottes!
 
 **Ainsi va l'amour**  
 **(Minnie and Moskowitz)**  
@@ -124,7 +126,9 @@ Trois amis font une virée de plusieurs jours après avoir appris la mort d'un d
 
 **My daddy can lick your daddy**  
 de John Cassavetes  
-États-Unis / 1962
+États-Unis / 1962  
+Avec Lloyd Bridges, Gary Lockwood, Mary Murphy.  
+Pappy Davlin est un champion de boxe poids lourd, qui doit défendre son titre... face à son fils
 
 **Opening Night**  
 de John Cassavetes  

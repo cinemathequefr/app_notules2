@@ -7,10 +7,15 @@
         {
           "idFilm": 75642,
           "ordre": 1,
+          "idSeance": 30009,
+          "idCopie": 18282,
+          "duree": 48,
+          "version": "",
+          "format": "",
+          "valide": 0,
           "idCycle": 426,
           "idCategorie": 1927,
           "idEvenement": 19114,
-          "idSeance": 30009,
           "dateHeure": "2019-06-08T21:30:00",
           "idSalle": [
             "GF",
@@ -20,7 +25,18 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1962,
-          "pays": "États-Unis"
+          "pays": "États-Unis",
+          "generique": [
+            "Seymour Cassel",
+            "Lloyd Bridges",
+            "Royal Dano"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pendant la guerre de Sécession, un officier sudiste, au terme d'une bataille sanglante, propose un cessez-le-feu a son collègue nordiste. Mais cet arrêt est violé par un soldat confédéré dément qui tue un nordiste uniquement pour lui voler ses bottes!"
+            }
+          ]
         },
         {
           "idFilm": 31065,
@@ -201,6 +217,42 @@
           ]
         },
         {
+          "idFilm": 31074,
+          "ordre": 1,
+          "idSeance": 30057,
+          "idCopie": 18166,
+          "duree": 98,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 426,
+          "idCategorie": 1927,
+          "idEvenement": 19106,
+          "dateHeure": "2019-06-16T21:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Ballade des sans-espoirs",
+          "art": "La",
+          "titreVo": "Too late blues",
+          "realisateurs": "John Cassavetes",
+          "annee": 1961,
+          "pays": "États-Unis",
+          "generique": [
+            "Bobby Darin",
+            "Stella Stevens",
+            "John Cassavetes",
+            "J. Alan Hopkins"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Chronique de la vie d'un groupe de musiciens de jazz qui refusent, en vain, de se soumettre a un monde conformiste et hostile. OU George, qui dirige un groupe de jazz, le quitte et devient l'amant d'une comtesse. Il est engagé comme pianiste dans les bars à la mode. Il tente un jour de retrouver ses anciens compagnons."
+            }
+          ]
+        },
+        {
           "idFilm": 80369,
           "ordre": 1,
           "idSeance": 29978,
@@ -213,6 +265,40 @@
           "idCategorie": 1927,
           "idEvenement": 19107,
           "dateHeure": "2019-06-03T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Big Trouble",
+          "titreVo": "",
+          "realisateurs": "John Cassavetes",
+          "annee": 1984,
+          "pays": "États-Unis",
+          "generique": [
+            "Peter Falk",
+            "Robert Stack",
+            "Valerie Curtin"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Parce qu'il a besoin d'argent pour envoyer ses fils triplés faire leurs études à Yale, un courtier en assurances accepte d'assurer sur la vie le mari d'une blonde et d'aider celui-ci à mourir. L'époux, gravement malade, souhaite, soi-disant, qu'on mette fin à ses jours. Le pauvre courtier n'est pas au bout de ses peines avec ce couple insolite. Particulièrement avec le mari, un escroc qui regorge d'idées ...."
+            }
+          ]
+        },
+        {
+          "idFilm": 80369,
+          "ordre": 1,
+          "idSeance": 30503,
+          "idCopie": 18155,
+          "duree": 0,
+          "version": "",
+          "format": "",
+          "valide": 0,
+          "idCycle": 426,
+          "idCategorie": 1927,
+          "idEvenement": 19107,
+          "dateHeure": "2019-06-20T20:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -269,6 +355,40 @@
           ]
         },
         {
+          "idFilm": 31041,
+          "ordre": 1,
+          "idSeance": 30062,
+          "idCopie": 18158,
+          "duree": 130,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 0,
+          "idCycle": 426,
+          "idCategorie": 1927,
+          "idEvenement": 19117,
+          "dateHeure": "2019-06-17T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Faces",
+          "titreVo": "",
+          "realisateurs": "John Cassavetes",
+          "annee": 1968,
+          "pays": "États-Unis",
+          "generique": [
+            "Gena Rowlands",
+            "John Marley",
+            "Lynn Carlin"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Richard et Freddie rencontrent dans un bar une call-girl, Jeannie, qui les emmène chez elle. À son retour chez lui, Richard se dispute avec sa femme, Maria, claque la porte et repart chez Jeannie. Maria, à son tour, décide de passer la nuit dehors."
+            }
+          ]
+        },
+        {
           "idFilm": 31044,
           "ordre": 1,
           "idSeance": 29970,
@@ -281,6 +401,41 @@
           "idCategorie": 1927,
           "idEvenement": 19110,
           "dateHeure": "2019-06-02T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Gloria",
+          "titreVo": "",
+          "realisateurs": "John Cassavetes",
+          "annee": 1979,
+          "pays": "États-Unis",
+          "generique": [
+            "Gena Rowlands",
+            "John Adames",
+            "Julie Carmen",
+            "Buck Henry"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Après le massacre de sa famille par la mafia, un enfant en possession de documents compromettants est recueilli par sa voisine, une ancienne actrice."
+            }
+          ]
+        },
+        {
+          "idFilm": 31044,
+          "ordre": 1,
+          "idSeance": 30504,
+          "idCopie": 18169,
+          "duree": 123,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 426,
+          "idCategorie": 1927,
+          "idEvenement": 19110,
+          "dateHeure": "2019-06-22T16:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -376,10 +531,15 @@
         {
           "idFilm": 75643,
           "ordre": 2,
+          "idSeance": 30009,
+          "idCopie": 18284,
+          "duree": 22,
+          "version": "",
+          "format": "",
+          "valide": 0,
           "idCycle": 426,
           "idCategorie": 1927,
           "idEvenement": 19114,
-          "idSeance": 30009,
           "dateHeure": "2019-06-08T21:30:00",
           "idSalle": [
             "GF",
@@ -389,7 +549,18 @@
           "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1962,
-          "pays": "États-Unis"
+          "pays": "États-Unis",
+          "generique": [
+            "Lloyd Bridges",
+            "Gary Lockwood",
+            "Mary Murphy"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pappy Davlin est un champion de boxe poids lourd, qui doit défendre son titre... face à son fils"
+            }
+          ]
         },
         {
           "idFilm": 31070,
@@ -534,7 +705,7 @@
         {
           "idFilm": 31059,
           "ordre": 1,
-          "idSeance": 30041,
+          "idSeance": 30502,
           "idCopie": 18172,
           "duree": 141,
           "version": "VOSTF",
@@ -543,7 +714,7 @@
           "idCycle": 426,
           "idCategorie": 1927,
           "idEvenement": 19116,
-          "dateHeure": "2019-06-14T19:00:00",
+          "dateHeure": "2019-06-14T20:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -604,7 +775,7 @@
         {
           "idFilm": 31013,
           "ordre": 1,
-          "idSeance": 30042,
+          "idSeance": 30068,
           "idCopie": 18164,
           "duree": 102,
           "version": "VOSTF",
@@ -613,10 +784,10 @@
           "idCycle": 426,
           "idCategorie": 1927,
           "idEvenement": 19109,
-          "dateHeure": "2019-06-14T22:00:00",
+          "dateHeure": "2019-06-19T17:00:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "titre": "Un enfant attend",
           "titreVo": "A Child Is Waiting",
@@ -1002,6 +1173,41 @@
             {
               "typeTexte": 9,
               "texte": "Un parrain de la mafia parvient à faire sortir de prison le gangster Hank McCain, après douze années de détention. Jack, son fils, le convainc alors de participer à un vol dans un casino de Las Vegas."
+            }
+          ]
+        },
+        {
+          "idFilm": 35769,
+          "ordre": 1,
+          "idSeance": 30083,
+          "idCopie": 18179,
+          "duree": 84,
+          "version": "",
+          "format": "",
+          "valide": 0,
+          "idCycle": 426,
+          "idCategorie": 1935,
+          "idEvenement": 19151,
+          "dateHeure": "2019-06-21T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Libre comme le vent",
+          "titreVo": "Saddle the Wind",
+          "realisateurs": "Robert Parrish",
+          "annee": 1958,
+          "pays": "États-Unis",
+          "generique": [
+            "Robert Taylor",
+            "John Cassavetes",
+            "Julie London",
+            "Donald Crisp"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": " Steve Sinclair est un pistolero repenti et coule maintenant des jours paisibles dans son ranch. Son jeune frère Tony ne s'est pas retiré de la vie tumultueuse des affrontements aux revolvers et se vante d'être un roi de la gâchette. Ayant fait la connaissance de la belle Joan Blake, chanteuse dans un saloon, il vient présenter à son frère sa future fiancée. Afin de prouver qu'il est le meilleur tireur des alentours il abat un hors-la-loi qui s'en prenait à son frère avant de s'attaquer à Clay Ellison, un ancien soldat confédéré revendiquant un bout de terrain soit disant commun..."
             }
           ]
         },
