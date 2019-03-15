@@ -27,6 +27,12 @@
           "realisateurs": "Pablo Larraín",
           "annee": 2014,
           "pays": "Chili",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans une ville côtière du Chili, des prêtres marginalisés par l'Eglise vivent ensemble dans une maison. L'arrivée d'un nouveau pensionnaire va perturber le semblant d'équilibre qui y règne."
+            }
+          ],
           "generique": [
             "Alfredo Castro",
             "Roberto Farías",
@@ -57,6 +63,12 @@
           "realisateurs": "Sebastián Lelio",
           "annee": 2012,
           "pays": "Chili-Espagne",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Gloria, célibataire de 58 ans, se sent jeune et vit sa vie comme une fête. Sa rencontre avec Rodolfo chamboule son existence lorsqu'ils entretiennent une liaison tumultueuse."
+            }
+          ],
           "generique": [
             "Paulina García",
             "Sergio Hernández",
@@ -87,6 +99,12 @@
           "realisateurs": "Fernando Guzzoni",
           "annee": 2016,
           "pays": "France-Chili-Allemagne-Grèce",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Depuis la mort de sa mère, Jesús, 18 ans, vit avec son père souvent absent, dans un petit appartement du centre-ville de Santiago. Il danse dans un groupe à la façon des pop-stars coréennes. Il ne va plus à l'école et préfère trainer le soir avec son groupe de copains. Il séduit les filles, aussi les garçons. Une nuit d'excès, tout dérape Jesús se retrouve impliqué dans un terrible fait divers."
+            }
+          ],
           "generique": [
             "Nicolás Durán",
             "Alejandro Goic",
@@ -117,6 +135,16 @@
           "realisateurs": "Niles Attalah",
           "annee": 2010,
           "pays": "Chili",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lucía, une jeune femme de Santiago du Chili, partage une maison délabrée avec son père Luis. Elle travaille dans une petite entreprise avec d'autres femmes, en tant que couturière. L'histoire se déroule en décembre 2006 au moment des funérailles en grande pompe de l'ancien dictateur Pinochet. Niles Atallah reprend un procédé qui lui était cher dans ses courts-métrages (Lucía, Luis y el lobo) : il utilise dans quelques scènes le principe de l'animation, image par image. Ce procédé ouvre des portes oniriques et fantastiques dans la vie de Lucía, reflet d'une génération se construisant avec l'héritage d'un lourd passé, multipliant ainsi les liens entre histoire individuelle et histoire collective d'un pays, où l'indicible se traduit sous forme esthétique."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film inédit en France."
+            }
+          ],
           "duree": 80,
           "format": "",
           "version": "",
@@ -142,6 +170,12 @@
           "realisateurs": "Sebastián Silva",
           "annee": 2008,
           "pays": "Chili-Mexique",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Raquel fête son anniversaire chez ses employeurs où elle travaille comme bonne à tout faire depuis plus de vingt ans. Lorsque sa patronne lui annonce l'arrivée de Mercedes qui doit l'aider dans ses tâches, Raquel le prend très mal et commence à exercer une pression psychologique néfaste sur son entourage."
+            }
+          ],
           "generique": [
             "Catalina Saavedra",
             "Claudia Celedón",
@@ -149,7 +183,7 @@
             "Andrea García-Huidobro"
           ],
           "duree": 95,
-          "format": "",
+          "format": "DCP",
           "version": "",
           "seance": [
             {
@@ -172,6 +206,12 @@
           "realisateurs": "Pablo Larraín",
           "annee": 2011,
           "pays": "Chili",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Chili, 1988. Lorsque le dictateur chilien Augusto Pinochet, face à la pression internationale, consent à organiser un référendum sur sa présidence, les dirigeants de l'opposition persuadent un jeune et brillant publicitaire, René Saavedra, de concevoir leur campagne. Avec peu de moyens, mais des méthodes innovantes, Saavedra et son équipe construisent un plan audacieux pour libérer le pays de l'oppression, malgré la surveillance constante des hommes de Pinochet."
+            }
+          ],
           "adaptation": "D'après la pièce _The Referendum_ d'Antonio Skármeta.",
           "generique": [
             "Gael García Bernal",
@@ -180,7 +220,7 @@
             "Luis Gnecco"
           ],
           "duree": 115,
-          "format": "",
+          "format": "DCP",
           "version": "",
           "seance": [
             {
@@ -203,6 +243,16 @@
           "realisateurs": "Dominga Sotomayor Castillo",
           "annee": 2018,
           "pays": "Chili",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En 1990, peu après la chute du régime de Pinochet, deux adolescents découvrent la liberté alors qu'ils parcourent ensemble le Chili."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Fim inédit en France."
+            }
+          ],
           "duree": 110,
           "format": "",
           "version": "",
@@ -227,6 +277,12 @@
           "realisateurs": "Alejandro Fernández Almendras",
           "annee": 2013,
           "pays": "Chili-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Jorge est un homme honnête qui travaille dur pour faire vivre sa famille. Une nuit, il se fait insulter par une bande de jeunes gens, menée par un ancien délinquant du quartier. Son fils se fait à son tour agresser. La crainte et l'angoisse envahissent peu à peu la famille dont le quotidien devient infernal."
+            }
+          ],
           "generique": [
             "Daniel Candia",
             "Alejandra Yañez",
@@ -257,6 +313,12 @@
           "realisateurs": "Sebastián Lelio",
           "annee": 2016,
           "pays": "Chili-Allemagne-Espagne",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Marina et Orlando, de vingt ans son aîné, s'aiment loin des regards et se projettent vers l'avenir. Lorsqu'il meurt soudainement, Marina subit l'hostilité des proches d'Orlando : une « sainte famille » qui rejette tout ce qu'elle représente. Marina va se battre, avec la même énergie que celle dépensée depuis toujours pour devenir la femme qu'elle est : une femme forte, courageuse, digne... une femme fantastique !"
+            }
+          ],
           "generique": [
             "Daniela Vega",
             "Francisco Reyes",
@@ -264,7 +326,7 @@
             "Aline Küppenheim"
           ],
           "duree": 104,
-          "format": "",
+          "format": "DCP",
           "version": "",
           "seance": [
             {
@@ -287,6 +349,12 @@
           "realisateurs": "Andrés Wood",
           "annee": 2011,
           "pays": "Chili-Argentine-Brésil",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Violeta Parra, chanteuse, poète et peintre, est une véritable icône de la culture chilienne. _Violeta_ retrace le destin d'une femme hors du commun, ses succès et sa déchéance."
+            }
+          ],
           "adaptation": "D'après le livre _Violeta Parra, ma mère_ d'Ángel Parra.",
           "generique": [
             "Francisca Gavilán",
