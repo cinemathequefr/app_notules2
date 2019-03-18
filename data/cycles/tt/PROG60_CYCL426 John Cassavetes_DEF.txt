@@ -8,6 +8,7 @@
 <pstyle:TECHNIQUE>Avec Seymour Cassel, Lloyd Bridges, Royal Dano.
 <pstyle:SYNOPSIS>Pendant la guerre de Sécession, un officier sudiste, au terme d'une bataille sanglante, propose un cessez-le-feu à l'ennemi. Mais cette trêve est rompue par un soldat confédéré dément, qui tue un nordiste pour lui voler ses bottes.
 <pstyle:><cstyle:INFOSBLEUES>Sam 8 juin 21h30 GF
+
 <pstyle:TITRE>La Ballade des sans-espoirs
 <pstyle:TITRE_ANG>(Too Late Blues)
 <pstyle:TECHNIQUE>de John Cassavetes
@@ -16,6 +17,7 @@
 <pstyle:SYNOPSIS>Chronique de la vie d'un groupe de musiciens de jazz qui refusent, en vain, de se soumettre à un monde conformiste et hostile.
 <pstyle:><cstyle:INFOSBLEUES>Sam 1 juin 19h00 HL
 <cstyle:INFOSBLEUES>Dim 16 juin 21h45 HL
+
 <pstyle:TITRE>Big Trouble
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1984
@@ -23,6 +25,7 @@
 <pstyle:SYNOPSIS>Parce qu'il a besoin d'argent pour envoyer ses fils étudier à Yale, un courtier en assurances accepte d'établir un contrat frauduleux pour un couple étrange.
 <pstyle:><cstyle:INFOSBLEUES>Lun 3 juin 19h00 GF
 <cstyle:INFOSBLEUES>Jeu 20 juin 20h00 GF
+
 <pstyle:TITRE>Faces
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1968/130'/VOSTF/DCP
@@ -30,6 +33,7 @@
 <pstyle:SYNOPSIS>Richard et Freddie rencontrent dans un bar une call-girl, Jeannie, qui les entraîne chez elle. De retour chez lui, Richard se dispute avec sa femme, Maria, et repart chez Jeannie. Maria décide à son tour de passer la nuit dehors.
 <pstyle:><cstyle:INFOSBLEUES>Sam 8 juin 14h30 HL
 <cstyle:INFOSBLEUES>Lun 17 juin 17h00 HL
+
 <pstyle:TITRE>Gloria
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1979/123'/VOSTF/35 mm
@@ -37,6 +41,7 @@
 <pstyle:SYNOPSIS>Gloria, New-Yorkaise solitaire et ancienne maîtresse d'un gangster, recueille le jeune fils de ses voisins de palier, assassinés par la mafia. Elle décide de s'enfuir avec lui pour le protéger de la pègre.
 <pstyle:><cstyle:INFOSBLEUES>Dim 2 juin 20h00 HL
 <cstyle:INFOSBLEUES>Sam 22 juin 16h30 HL
+
 <pstyle:TITRE>Husbands
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1970/140'/VOSTF/35 mm
@@ -44,6 +49,7 @@
 <pstyle:SYNOPSIS>Après avoir enterré l'un de leurs amis, trois quadragénaires plutôt tranquilles quittent tout et partent pour une virée de plusieurs jours.
 <pstyle:><cstyle:INFOSBLEUES>Jeu 30 mai 20h00 HL
 <cstyle:INFOSBLEUES>Jeu 13 juin 19h00 HL
+
 <pstyle:TITRE>Love Streams
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1983/141'/VOSTF/35 mm
@@ -51,6 +57,7 @@
 <pstyle:TECHNIQUE>Avec John Cassavetes, Gena Rowlands, Diahnne Abbott, Seymour Cassel.
 <pstyle:SYNOPSIS>Les tendres et solides relations entre un frère et une s<0x0153>ur. Lui, écrivain, fêtard et alcoolique, est entouré de filles vénales, et ne réussit pas à communiquer avec son jeune fils. Elle, brisée par son récent divorce, ne parvient pas à oublier son mari et sa fille.
 <pstyle:><cstyle:INFOSBLEUES>Ven 14 juin 20h30 HL
+
 <pstyle:TITRE>Meurtre d'un bookmaker chinois
 <pstyle:TITRE_ANG>(The Killing of a Chinese Bookie)
 <pstyle:TECHNIQUE>de John Cassavetes
@@ -59,6 +66,7 @@
 <pstyle:SYNOPSIS>Cosmo Vitelli vient de rembourser la dernière hypothèque de sa boîte de nuit et fête l'événement à une table de jeux, où il perd une très grosse somme d'argent. La pègre lui propose, pour éponger sa dette, d'assassiner un vieux bookmaker chinois devenu gênant.
 <pstyle:><cstyle:INFOSBLEUES>Ven 31 mai 19h00 HL
 <cstyle:INFOSBLEUES>Dim 16 juin 19h00 HL
+
 <pstyle:TITRE>Minnie et Moskowitz
 <pstyle:TITRE_ANG>(Minnie and Moskowitz)
 <pstyle:TECHNIQUE>de John Cassavetes
@@ -67,12 +75,14 @@
 <pstyle:SYNOPSIS>Seymour Moskowitz, beatnik vieillissant, gardien de parking, quitte New York pour Los Angeles. Il y rencontre Minnie Moore, une blonde sophistiquée employée dans un musée. Tout les sépare, excepté leur solitude et leur maladresse.
 <pstyle:><cstyle:INFOSBLEUES>Sam 8 juin 18h30 HL
 <cstyle:INFOSBLEUES>Sam 15 juin 21h00 HL
+
 <pstyle:TITRE>My Daddy Can Lick Your Daddy
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1962/22'
 <pstyle:TECHNIQUE>Avec Lloyd Bridges, Gary Lockwood, Mary Murphy.
 <pstyle:SYNOPSIS>Pappy Davlin est un champion de boxe poids lourd, qui doit défendre son titre... face à son fils
 <pstyle:><cstyle:INFOSBLEUES>Sam 8 juin 21h30 GF
+
 <pstyle:TITRE>Opening Night
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1977/144'/VOSTF/DCP
@@ -80,6 +90,7 @@
 <pstyle:SYNOPSIS>Après une représentation, la comédienne Myrtle Gordon assiste à la mort accidentelle d'une admiratrice. Elle se noie dans le whisky, bouleversée par ce décès, alors qu'elle doit justement interpréter le rôle d'une femme désespérée.
 <pstyle:><cstyle:INFOSBLEUES>Dim 9 juin 19h00 HL
 <cstyle:INFOSBLEUES>Dim 16 juin 14h30 HL
+
 <pstyle:TITRE>Shadows
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1959/87'/VOSTF/DCP
@@ -87,6 +98,7 @@
 <pstyle:SYNOPSIS>Benny, Hugh et Lelia sont trois jeunes afro-américains, frères et s<0x0153>ur, et partagent le même appartement à New York. Alors que Benny passe ses journées entre la rue et les bars, Hugh tente de faire carrière comme chanteur de jazz. Lelia, quant à elle, rêve d'écrire.
 <pstyle:><cstyle:INFOSBLEUES>Sam 1 juin 17h00 HL
 <cstyle:INFOSBLEUES>Jeu 13 juin 21h45 HL
+
 <pstyle:TITRE>Un enfant attend
 <pstyle:TITRE_ANG>(A Child Is Waiting)
 <pstyle:TECHNIQUE>de John Cassavetes
@@ -95,6 +107,7 @@
 <pstyle:SYNOPSIS>Dans une institution spécialisée qui accueille des enfants autistes et trisomiques, une professeur de musique, en désaccord avec les méthodes du directeur, s'attache à un enfant rétif.
 <pstyle:><cstyle:INFOSBLEUES>Sam 1 juin 21h15 HL
 <cstyle:INFOSBLEUES>Mer 19 juin 17h00 GF
+
 <pstyle:TITRE>Une femme sous influence
 <pstyle:TITRE_ANG>(A Woman Under the Influence)
 <pstyle:TECHNIQUE>de John Cassavetes
@@ -103,6 +116,7 @@
 <pstyle:SYNOPSIS>Face à l'indifférence de son mari et sous la pression exercée par son milieu social, une femme glisse peu à peu vers la folie.
 <pstyle:><cstyle:INFOSBLEUES>Dim 2 juin 17h00 HL
 <cstyle:INFOSBLEUES>Sam 15 juin 18h00 HL
+
 <pstyle:CATEGORIE>John Cassavetes acteur
 
 <pstyle:TITRE>À bout portant
@@ -113,6 +127,7 @@
 <pstyle:TECHNIQUE>Avec Lee Marvin, John Cassavetes, Angie Dickinson.
 <pstyle:SYNOPSIS>Après l'exécution d'un contrat, deux tueurs cherchent à connaître le passé de leur victime.
 <pstyle:><cstyle:INFOSBLEUES>Sam 1 juin 14h30 HL
+
 <pstyle:TITRE>La Cible étoilée
 <pstyle:TITRE_ANG>(Brass Target)
 <pstyle:TECHNIQUE>de John Hough
@@ -121,6 +136,7 @@
 <pstyle:TECHNIQUE>Avec Sophia Loren, John Cassavetes, George Kennedy, Robert Vaughn.
 <pstyle:SYNOPSIS>Août 1945, en Allemagne. L'or de la banque fédérale, réquisitionné par les alliés, est dérobé lors d'un transfert. Les Soviétiques accusant les Américains, le général Patton décide de mener lui-même l'enquête.
 <pstyle:><cstyle:INFOSBLEUES>Ven 7 juin 22h00 HL
+
 <pstyle:TITRE>Les Douze salopards
 <pstyle:TITRE_ANG>(The Dirty Dozen)
 <pstyle:TECHNIQUE>de Robert Aldrich
@@ -129,6 +145,7 @@
 <pstyle:TECHNIQUE>Avec Lee Marvin, Ernest Borgnine, Charles Bronson.
 <pstyle:SYNOPSIS>En 1944, douze soldats américains, condamnés à mort ou à de fortes peines, ont pour mission d'attaquer un château abritant de hauts dignitaires nazis, en échange d'une possible amnistie.
 <pstyle:><cstyle:INFOSBLEUES>Sam 15 juin 14h30 HL
+
 <pstyle:TITRE>Furie
 <pstyle:TITRE_ANG>(The Fury)
 <pstyle:TECHNIQUE>de Brian De Palma
@@ -137,6 +154,7 @@
 <pstyle:TECHNIQUE>Avec Kirk Douglas, John Cassavetes, Amy Irving, Charles Durning.
 <pstyle:SYNOPSIS>Un jeune homme doué de perception extrasensorielle est enlevé par une agence de contre-espionnage qui veut utiliser ses aptitudes paranormales à des fins politiques. Son père le recherche activement, aidé par une jeune étudiante dotée des mêmes pouvoirs.
 <pstyle:><cstyle:INFOSBLEUES>Ven 14 juin 14h30 HL
+
 <pstyle:TITRE>L'Homme qui tua la peur
 <pstyle:TITRE_ANG>(Edge of the City)
 <pstyle:TECHNIQUE>de Martin Ritt
@@ -144,12 +162,14 @@
 <pstyle:TECHNIQUE>Avec John Cassavetes, Sidney Poitier, Jack Warden.
 <pstyle:SYNOPSIS>Un déserteur trouve un emploi dans les docks, où il se lie avec un ouvrier noir. Mais leur amitié irrite le chef de chantier.
 <pstyle:><cstyle:INFOSBLEUES>Ven 14 juin 17h00 HL
+
 <pstyle:TITRE>Incubus
 <pstyle:TECHNIQUE>de John Hough
 <pstyle:TECHNIQUE>Canada/1981/93'
 <pstyle:TECHNIQUE>Avec John Cassavetes, John Ireland, Kerrie Keane, Helen Hughes.
 <pstyle:SYNOPSIS>Une petite ville américaine est frappée par une série de viols particulièrement étranges et brutaux. Un médecin et une journaliste mènent l'enquête. Leurs soupçons se portent sur le jeune Tim, sujet à d'étranges cauchemars.
 <pstyle:><cstyle:INFOSBLEUES>Ven 7 juin 20h00 HL
+
 <pstyle:TITRE>Les Intouchables
 <pstyle:TITRE_ANG>(Gli Intoccabili)
 <pstyle:TECHNIQUE>de Giuliano Montaldo
@@ -157,6 +177,7 @@
 <pstyle:TECHNIQUE>Avec John Cassavetes, Britt Ekland, Peter Falk, Gena Rowlands.
 <pstyle:SYNOPSIS>Hank McCain vient de sortir de prison après douze années de détention. Son fils Jack le convainc de dévaliser un casino de Las Vegas appartenant à la mafia.
 <pstyle:><cstyle:INFOSBLEUES>Lun 3 juin 21h00 GF
+
 <pstyle:TITRE>Libre comme le vent
 <pstyle:TITRE_ANG>(Saddle the Wind)
 <pstyle:TECHNIQUE>de Robert Parrish
@@ -164,6 +185,7 @@
 <pstyle:TECHNIQUE>Avec Robert Taylor, John Cassavetes, Julie London, Donald Crisp.
 <pstyle:SYNOPSIS>Steve Sinclair, pistolero repenti, coule désormais des jours paisibles dans son ranch. Son jeune frère Tony, qui se vante d'être un roi de la gâchette, lui présente sa jolie fiancée. Pour montrer sa suprématie, Tony abat un hors-la-loi puis un fermier, avant de s'en prendre à un homme qui les considère, lui et son frère, comme ses fils.
 <pstyle:><cstyle:INFOSBLEUES>Ven 21 juin 17h00 HL
+
 <pstyle:TITRE>Rosemary's Baby
 <pstyle:TECHNIQUE>de Roman Polanski
 <pstyle:TECHNIQUE>États-Unis/1967/137'/VOSTF/DCP
@@ -171,6 +193,7 @@
 <pstyle:TECHNIQUE>Avec John Cassavetes, Mia Farrow, Ruth Gordon, Sidney Blackmer.
 <pstyle:SYNOPSIS>Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un ancien immeuble de Manhattan, que leur fidèle ami Hutch juge maléfique. Leurs voisins, un couple de retraités excentriques, se montrent rapidement envahissants.
 <pstyle:><cstyle:INFOSBLEUES>Jeu 13 juin 16h15 HL
+
 <pstyle:TITRE>Un tueur dans la foule
 <pstyle:TITRE_ANG>(Two-Minute Warning)
 <pstyle:TECHNIQUE>de Larry Peerce
@@ -179,6 +202,7 @@
 <pstyle:TECHNIQUE>Avec Charlton Heston, John Cassavetes, Martin Balsam, Beau Bridges.
 <pstyle:SYNOPSIS>Un tireur embusqué menace de tirer sur la foule lors d'un match de championnat de football américain au Los Angeles Memorial Coliseum. Repéré par une caméra, il est traqué par le capitaine Peter Holly et le sergent Button, qui doivent l'intercepter avant la fin du match.
 <pstyle:><cstyle:INFOSBLEUES>Ven 31 mai 16h30 HL
+
 <pstyle:CATEGORIE>Autour de John Cassavetes
 
 <pstyle:TITRE>John Cassavetes (Hollywood 1965, Paris 1968)
@@ -186,3 +210,4 @@
 <pstyle:TECHNIQUE>France/1998
 <pstyle:SYNOPSIS>En 1965, André Labarthe et Hubert Knapp partent à Hollywood et rencontrent John Cassavetes, le futur chef de file du jeune cinéma indépendant américain. En 1968, ils le retrouvent à Paris à l'occasion de la sortie de <cSkew:9>Faces<cSkew:>. De ces rencontres improvisées va naître l'un des épisodes mythiques de la série <cSkew:9>Cinéastes de notre temps<cSkew:>.
 <pstyle:><cstyle:INFOSBLEUES>Mer 12 juin 20h30 JE
+

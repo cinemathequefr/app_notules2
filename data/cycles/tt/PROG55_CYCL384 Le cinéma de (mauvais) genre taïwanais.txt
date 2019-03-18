@@ -1,0 +1,114 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>><dcs:ITAL=<cTypeface:Italic>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>The Best Secret Agent
+<pstyle:TECHNIQUE>de Ying Chang
+<pstyle:TECHNIQUE>Taïwan/1964/102'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Hong Bai, Chun-Hsiung Ko, Tsai-Tsai Ai, Ching Liu.
+<pstyle:SYNOPSIS>Qui est patriote ? Qui est collaborateur ? Et surtout qui est l'agent 001 ?
+Remake d'un film de 1945, The Best Secret Agent lance la mode des super espionnes dans le cinéma en taïwanais, avec deux grandes stars BAI Hong et Ko chun-hsiung.
+<pstyle:><cstyle:INFOSBLEUES>Dim 21 avr 20h00 GF
+<cstyle:INFOSBLEUES>Dim 28 avr 20h00 JE
+
+<pstyle:TITRE>Cuo wu de di yi bu
+<pstyle:TECHNIQUE>de Yang-Ming Tsai
+<pstyle:TECHNIQUE>Taïwan/1979/99'/VOSTF/Numérique
+<pstyle:TECHNIQUE>Avec Hui-Shan Yang, Sha Ma, Hsiu-Shen Liang.
+<pstyle:SYNOPSIS>La trajectoire de Ma Sha, petit voyou devenu assassin. Il s'évade de prison, est repris et finit par s'amender. Film qui lance la mode des films noirs.
+Un film qui lance la mode des films noirs.
+<pstyle:><cstyle:INFOSBLEUES>Mer 24 avr 19h00 JE
+
+<pstyle:TITRE>Da xia mei hua lu
+<pstyle:TECHNIQUE>de Ying Chang
+<pstyle:TECHNIQUE>Taïwan/1961/87'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Yun Ling, Hung Pai, Lin Lin, Hong Bai.
+<pstyle:SYNOPSIS>Une fantaisie animalière où les acteurs sont déguisés en animaux de la forêt. Sous couvert d'un conte avec de cruels loups et des daims, une métaphore plus ambiguë : un film anti-communiste ou un film anti-KMT ?
+<pstyle:><cstyle:INFOSBLEUES>Sam 20 avr 19h30 GF
+<cstyle:INFOSBLEUES>Ven 26 avr 21h00 JE
+
+<pstyle:TITRE>Dangerous Youth
+<pstyle:TECHNIQUE>de Chi Hsin
+<pstyle:TECHNIQUE>Taïwan/1969/95'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Ying Shih, Xiaofeng Zheng, Hsing-Chih Kao.
+<pstyle:SYNOPSIS>L'innocente Chin-mi tombe amoureuse de Kuei-yuan, un mauvais garçon qui lui préfère bientôt Yu-chen, une hôtesse de bar. Il abandonne Chin-mi enceinte.
+<pstyle:><cstyle:INFOSBLEUES>Sam 20 avr 14h30 GF
+<cstyle:INFOSBLEUES>Jeu 25 avr 22h00 JE
+
+<pstyle:TITRE>Di yu xin niang
+<pstyle:TECHNIQUE>de Chi Hsin
+<pstyle:TECHNIQUE>Taïwan/1965/117'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Mei Chin, Chun-Hsiung Ko, Wei Ou.
+<pstyle:SYNOPSIS>Sui-mi devient gouvernante dans une maison où l'épouse a mystérieusement disparu et semble hanter la maison. Elle mène l'enquête. Suspense, séduction et danger !
+Adapté d'un roman inspiré de <cSkew:9>Jane Eyre<cSkew:>.
+<pstyle:><cstyle:INFOSBLEUES>Jeu 18 avr 21h30 GF
+<cstyle:INFOSBLEUES>Sam 27 avr 21h00 JE
+
+<pstyle:TITRE>The Elegant Mr. Hu
+<pstyle:TECHNIQUE>de Fei-jian Wu
+<pstyle:TECHNIQUE>Taïwan/1966/93'/VOSTF/Numérique
+<pstyle:TECHNIQUE>Avec Chai-Choi Ai, Ling Ling, Kuan-Chang Li.
+<pstyle:SYNOPSIS>Kang-ding est cireur et croise souvent le riche M. Hu. Le jour où ce dernier offre par erreur une bague en toc à sa femme à la place de sa maîtresse, il aura besoin de Kang-ding pour s'en sortir.
+<pstyle:><cstyle:INFOSBLEUES>Sam 20 avr 21h30 GF
+<cstyle:INFOSBLEUES>Sam 27 avr 19h00 JE
+
+<pstyle:TITRE>The End of the Track
+<pstyle:TECHNIQUE>de Tun Fei Mou
+<pstyle:TECHNIQUE>Taïwan/1970/91'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Tun-fei Mou.
+<pstyle:SYNOPSIS>Tong et Yong-sheng sont amis. Yong-sheng meurt dans un accident de sport et Tong est miné par la culpabilité.
+Film interdit au moment de sa sortie, une des rares <0x0153>uvres de Mou Tun-fei.
+<pstyle:><cstyle:INFOSBLEUES>Dim 21 avr 17h45 GF
+<cstyle:INFOSBLEUES>Jeu 25 avr 19h30 JE
+
+<pstyle:TITRE>Foolish Bride, Naïve Bridegroom
+<pstyle:TECHNIQUE>de Chi Hsin
+<pstyle:TECHNIQUE>Taïwan/1968/99'/VOSTF/Numérique
+<pstyle:TECHNIQUE>Avec Chun Shih, Mei Chin, Yue-fan Yang.
+<pstyle:SYNOPSIS>Bun-de est la coqueluche des filles du quartier si bien que son père le claquemure à la maison, mais Gui-zu est prête à tout pour le conquérir et l'arracher aux griffes paternelles.
+<pstyle:><cstyle:INFOSBLEUES>Mer 24 avr 17h00 GF
+<cstyle:INFOSBLEUES>Ven 26 avr 19h00 JE
+
+<pstyle:TITRE>Lady Avenger
+<pstyle:TITRE_ANG>(Feng huang nu sha xing)
+<pstyle:TECHNIQUE>de Chia-yun Yang
+<pstyle:TECHNIQUE>Taïwan/1981/91'/VOSTF/Vidéo
+<pstyle:TECHNIQUE>Avec Hsiao-Fen Lu, Lun Hua, Nien-Kuo Kao.
+<pstyle:SYNOPSIS>Une journaliste qui enquête sur un viol est elle-même violée par quatre hommes. Elle décide de se venger.
+Un des rares <cSkew:9>rape and revenge<cSkew:> taïwanais tournés par une femme.
+<pstyle:><cstyle:INFOSBLEUES>Ven 19 avr 22h15 GF
+
+<pstyle:TITRE>The Mountain
+<pstyle:TECHNIQUE>de Richard Yao-chi Chen
+<pstyle:TECHNIQUE>Taïwan/1966/19'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Tun-fei Mou.
+<pstyle:SYNOPSIS>Chen Yao-chi filme trois amis, dont Mou Tun-fei. Au son de <cSkew:9>California Dreamin<cSkew:>, ils évoquent leur rêve de liberté pendant cette période dictatoriale.
+<pstyle:><cstyle:INFOSBLEUES>Dim 21 avr 17h45 GF
+<cstyle:INFOSBLEUES>Jeu 25 avr 19h30 JE
+
+<pstyle:TITRE>San feng zhen wu lin
+<pstyle:TECHNIQUE>de Hung Min Chen
+<pstyle:TECHNIQUE>Taïwan/1968/88'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Li-Hua Yang, Qing Liu, Mei Chin.
+<pstyle:SYNOPSIS>Trois s<0x0153>urs sont bien décidées à venger leurs parents assassinés.
+Avec trois stars du cinéma en taïwanais dirigées par le monteur de King Hu.
+<pstyle:><cstyle:INFOSBLEUES>Ven 26 avr 17h00 GF
+<cstyle:INFOSBLEUES>Jeu 2 mai 20h30 JE
+
+<pstyle:TITRE>Tai feng
+<pstyle:TECHNIQUE>de Lei Pan
+<pstyle:TECHNIQUE>Taïwan/1962/110'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Ching Tang, Hong Mu, Bao-Yun Tang.
+<pstyle:SYNOPSIS>Un gangster se réfugie au mont Ali accompagné d'une petite fugueuse qui se fait passer pour sa fille. Il séduit une femme alcoolique et frustrée, puis une jeune aborigène. Mais la police le traque toujours
+<pstyle:><cstyle:INFOSBLEUES>Mer 17 avr 20h00 HL
+<cstyle:INFOSBLEUES>Mer 24 avr 21h15 JE
+
+<pstyle:TITRE>Woman Revenger
+<pstyle:TECHNIQUE>de Chun Ouyang
+<pstyle:TECHNIQUE>Taïwan/1982/85'/VOSTF/Numérique
+<pstyle:TECHNIQUE>Avec Hui-Shan Yang, Yi-Fung Lu, Ying-Zhen Zhang, Te-Kai Liu.
+<pstyle:SYNOPSIS>Ling-Ling essaie de sauver son amie d'enfance enfermée dans une maison close au Japon. Un groupe de jeunes femmes l'aidera dans sa vengeance sans merci.
+<pstyle:><cstyle:INFOSBLEUES>Ven 19 avr 20h00 GF
+
+<pstyle:CATEGORIE>Rencontres et conférences
+

@@ -18,7 +18,7 @@ de John Cassavetes
 Avec Bobby Darin, Stella Stevens, Everett Chambers, Nick Dennis.  
 Chronique de la vie d'un groupe de musiciens de jazz qui refusent, en vain, de se soumettre à un monde conformiste et hostile.
 
-- Sam 1 juin 19h00 HL
+- Sam 1 juin 19h00 HL  
 - Dim 16 juin 21h45 HL
 
 **Big Trouble**  
@@ -27,7 +27,7 @@ de John Cassavetes
 Avec Peter Falk, Alan Arkin, Robert Stack, Valerie Curtin.  
 Parce qu'il a besoin d'argent pour envoyer ses fils étudier à Yale, un courtier en assurances accepte d'établir un contrat frauduleux pour un couple étrange.
 
-- Lun 3 juin 19h00 GF
+- Lun 3 juin 19h00 GF  
 - Jeu 20 juin 20h00 GF
 
 **Faces**  
@@ -36,7 +36,7 @@ de John Cassavetes
 Avec Gena Rowlands, John Marley, Lynn Carlin.  
 Richard et Freddie rencontrent dans un bar une call-girl, Jeannie, qui les entraîne chez elle. De retour chez lui, Richard se dispute avec sa femme, Maria, et repart chez Jeannie. Maria décide à son tour de passer la nuit dehors.
 
-- Sam 8 juin 14h30 HL
+- Sam 8 juin 14h30 HL  
 - Lun 17 juin 17h00 HL
 
 **Gloria**  
@@ -45,7 +45,7 @@ de John Cassavetes
 Avec Gena Rowlands, John Adames, Julie Carmen, Buck Henry.  
 Gloria, New-Yorkaise solitaire et ancienne maîtresse d'un gangster, recueille le jeune fils de ses voisins de palier, assassinés par la mafia. Elle décide de s'enfuir avec lui pour le protéger de la pègre.
 
-- Dim 2 juin 20h00 HL
+- Dim 2 juin 20h00 HL  
 - Sam 22 juin 16h30 HL
 
 **Husbands**  
@@ -54,7 +54,7 @@ de John Cassavetes
 Avec John Cassavetes, Ben Gazzara, Peter Falk, Jenny Runacre.  
 Après avoir enterré l'un de leurs amis, trois quadragénaires plutôt tranquilles quittent tout et partent pour une virée de plusieurs jours.
 
-- Jeu 30 mai 20h00 HL
+- Jeu 30 mai 20h00 HL  
 - Jeu 13 juin 19h00 HL
 
 **Love Streams**  
@@ -73,7 +73,7 @@ de John Cassavetes
 Avec Ben Gazzara, Tomothy Carey, Seymour Cassel.  
 Cosmo Vitelli vient de rembourser la dernière hypothèque de sa boîte de nuit et fête l'événement à une table de jeux, où il perd une très grosse somme d'argent. La pègre lui propose, pour éponger sa dette, d'assassiner un vieux bookmaker chinois devenu gênant.
 
-- Ven 31 mai 19h00 HL
+- Ven 31 mai 19h00 HL  
 - Dim 16 juin 19h00 HL
 
 **Minnie et Moskowitz**  
@@ -83,7 +83,7 @@ de John Cassavetes
 Avec Gena Rowlands, Seymour Cassel, Val Avery.  
 Seymour Moskowitz, beatnik vieillissant, gardien de parking, quitte New York pour Los Angeles. Il y rencontre Minnie Moore, une blonde sophistiquée employée dans un musée. Tout les sépare, excepté leur solitude et leur maladresse.
 
-- Sam 8 juin 18h30 HL
+- Sam 8 juin 18h30 HL  
 - Sam 15 juin 21h00 HL
 
 **My Daddy Can Lick Your Daddy**  
@@ -101,7 +101,7 @@ de John Cassavetes
 Avec John Cassavetes, Gena Rowlands, Joan Blondell, Ben Gazzara.  
 Après une représentation, la comédienne Myrtle Gordon assiste à la mort accidentelle d'une admiratrice. Elle se noie dans le whisky, bouleversée par ce décès, alors qu'elle doit justement interpréter le rôle d'une femme désespérée.
 
-- Dim 9 juin 19h00 HL
+- Dim 9 juin 19h00 HL  
 - Dim 16 juin 14h30 HL
 
 **Shadows**  
@@ -110,7 +110,7 @@ de John Cassavetes
 Avec Ben Carruthers, Lelia Goldoni, Hugh Hurd, Anthony Ray.  
 Benny, Hugh et Lelia sont trois jeunes afro-américains, frères et sœur, et partagent le même appartement à New York. Alors que Benny passe ses journées entre la rue et les bars, Hugh tente de faire carrière comme chanteur de jazz. Lelia, quant à elle, rêve d'écrire.
 
-- Sam 1 juin 17h00 HL
+- Sam 1 juin 17h00 HL  
 - Jeu 13 juin 21h45 HL
 
 **Un enfant attend**  
@@ -120,7 +120,7 @@ de John Cassavetes
 Avec Burt Lancaster, Judy Garland, Gena Rowlands.  
 Dans une institution spécialisée qui accueille des enfants autistes et trisomiques, une professeur de musique, en désaccord avec les méthodes du directeur, s'attache à un enfant rétif.
 
-- Sam 1 juin 21h15 HL
+- Sam 1 juin 21h15 HL  
 - Mer 19 juin 17h00 GF
 
 **Une femme sous influence**  
@@ -130,7 +130,7 @@ de John Cassavetes
 Avec Peter Falk, Gena Rowlands, Fred Draper.  
 Face à l'indifférence de son mari et sous la pression exercée par son milieu social, une femme glisse peu à peu vers la folie.
 
-- Dim 2 juin 17h00 HL
+- Dim 2 juin 17h00 HL  
 - Sam 15 juin 18h00 HL
 
 ## John Cassavetes acteur
@@ -237,3 +237,4 @@ France / 1998
 En 1965, André Labarthe et Hubert Knapp partent à Hollywood et rencontrent John Cassavetes, le futur chef de file du jeune cinéma indépendant américain. En 1968, ils le retrouvent à Paris à l'occasion de la sortie de _Faces_. De ces rencontres improvisées va naître l'un des épisodes mythiques de la série _Cinéastes de notre temps_.
 
 - Mer 12 juin 20h30 JE
+
