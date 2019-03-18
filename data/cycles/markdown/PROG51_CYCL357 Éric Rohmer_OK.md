@@ -5,7 +5,7 @@
 **L'Amour l'après-midi**  
 d'Eric Rohmer  
 France / 1972 / 95 min / DCP  
-Avec Bernard Verley, Zouzou, Françoise Verley.  
+Avec Bernard Verley, Zouzou, Françoise Verley, Daniel Ceccaldi.  
 Frédéric, un jeune cadre, vit auprès de sa femme un bonheur tranquille en apparence. Un jour, Chloé, la maîtresse d'un de ses amis de jeunesse, reprend contact avec lui. Elle est indépendante, impulsive, inquiétante, attirante.
 
 - Ven 11 jan 21h45 HL
@@ -13,13 +13,13 @@ Frédéric, un jeune cadre, vit auprès de sa femme un bonheur tranquille en app
 **La Boulangère de Monceau**  
 d'Eric Rohmer  
 France / 1962 / 26 min / DCP  
-Avec Barbet Schroeder, Michèle Girardon, Claudine Soubrier.  
+Avec Barbet Schroeder, Michèle Girardon, Claudine Soubrier, Fred Junk.  
 Un étudiant, secrètement épris d'une jeune femme élégante qu'il croise tous les jours n'ose l'aborder. Désœuvré, il passe ses journées à la chercher et, pour tromper son ennui, entreprend de séduire une jeune boulangère qui lui témoigne de l'intérêt.  
 suivi de  
 **La Carrière de Suzanne**  
 d'Eric Rohmer  
 France / 1963 / 52 min / DCP  
-Avec Philippe Beuzen, Catherine Sée, Christian Charrière.  
+Avec Philippe Beuzen, Catherine Sée, Christian Charrière, Diane Wilkinson.  
 Deux étudiants abordent dans un café une jeune femme indépendante. Par jeu, l'un d'eux entreprend de la séduire. Le second admire l'attitude donjuanesque de son camarade, tandis qu'il s'agace de celle, trop libre à son goût, de la jeune femme...
 
 - Jeu 10 jan 19h30 HL  
@@ -28,7 +28,7 @@ Séance présentée par Barbet Schroeder (sous réserve)
 **La Collectionneuse**  
 d'Eric Rohmer  
 France / 1966 / 90 min / DCP  
-Avec Patrick Bauchau, Haydée Politoff, Daniel Pommereulle.  
+Avec Patrick Bauchau, Haydée Politoff, Daniel Pommereulle, Alain Jouffroy.  
 À Saint-Tropez, un jeune homme rencontre une fille, belle et libre, qui collectionne les garçons.
 
 - Dim 13 jan 14h30 HL
@@ -36,7 +36,7 @@ Avec Patrick Bauchau, Haydée Politoff, Daniel Pommereulle.
 **Le Genou de Claire**  
 d'Eric Rohmer  
 France / 1970 / 105 min / DCP  
-Avec Jean-Claude Brialy, Aurora Cornu, Laurence de Monaghan.  
+Avec Jean-Claude Brialy, Aurora Cornu, Béatrice Romand, Laurence de Monaghan.  
 Jérôme, trente-cinq ans, attaché d'ambassade, se rend près d'Annecy pour vendre la propriété familiale. Il y retrouve une ancienne amie, Aurora, romancière qui lui présente son hôtesse, Mme Walter, et sa fille Laura, une jeune lycéenne de seize ans.
 
 - Ven 11 jan 19h00 HL
@@ -44,7 +44,7 @@ Jérôme, trente-cinq ans, attaché d'ambassade, se rend près d'Annecy pour ven
 **Ma nuit chez Maud**  
 d'Eric Rohmer  
 France / 1969 / 110 min / DCP  
-Avec Jean-Louis Trintignant, Françoise Fabian, Marie-Christine Barrault.  
+Avec Jean-Louis Trintignant, Françoise Fabian, Marie-Christine Barrault, Antoine Vitez.  
 Deux hommes, un marxiste et un ingénieur catholique, se retrouvent lors d'une soirée chez Maud, une femme libre, et parlent philosophie. L'ingénieur est contraint de passer la nuit chez la jeune femme.
 
 - Mer 16 jan 19h30 GF
@@ -54,7 +54,7 @@ Deux hommes, un marxiste et un ingénieur catholique, se retrouvent lors d'une s
 **L'Ami de mon amie**  
 d'Eric Rohmer  
 France / 1986 / 100 min / DCP  
-Avec Emmanuelle Chaulet, Sophie Renoir, Anne-Laure Meury.  
+Avec Emmanuelle Chaulet, Eric Vieillard, Sophie Renoir, Anne-Laure Meury.  
 Blanche vient de s'installer à Cergy-Pontoise où elle travaille comme attachée d'administration de la mairie. Lors d'une pause-déjeuner, elle rencontre Léa, une jeune femme sympathique qui va devenir son amie.
 
 - Lun 14 jan 19h15 GF
@@ -62,7 +62,7 @@ Blanche vient de s'installer à Cergy-Pontoise où elle travaille comme attaché
 **Le Beau mariage**  
 d'Eric Rohmer  
 France / 1981 / 95 min / DCP  
-Avec Béatrice Romand, André Dussollier, Feodor Atkine.  
+Avec Béatrice Romand, Arielle Dombasle, André Dussollier, Feodor Atkine.  
 Sabine, étudiante, ne veut plus être la maîtresse de Simon. D'ailleurs, elle en a assez d'être cantonnée au rôle de maîtresse et décide de se marier. Avec qui, elle l'ignore: il s'agit avant tout de faire un beau mariage.
 
 - Dim 13 jan 19h00 HL
@@ -70,7 +70,7 @@ Sabine, étudiante, ne veut plus être la maîtresse de Simon. D'ailleurs, elle 
 **La Femme de l'aviateur**  
 d'Eric Rohmer  
 France / 1980 / 104 min / DCP  
-Avec Philippe Marlaud, Marie Rivière, Anne-Laure Meury.  
+Avec Philippe Marlaud, Marie Rivière, Anne-Laure Meury, Mathieu Carrière.  
 Un matin, François voit Anne en compagnie d'un aviateur. L'après-midi, il reconnaît l'aviateur avec une autre femme et les suit. Il rencontre Lucie, une lycéenne curieuse et espiègle.
 
 - Mer 16 jan 21h45 GF
@@ -78,7 +78,7 @@ Un matin, François voit Anne en compagnie d'un aviateur. L'après-midi, il reco
 **Les Nuits de la pleine lune**  
 d'Eric Rohmer  
 France / 1984 / 100 min / DCP  
-Avec Pascale Ogier, Tchéky Karyo, Fabrice Luchini.  
+Avec Pascale Ogier, Tchéky Karyo, Fabrice Luchini, Virginie Thévenet.  
 Louise parvient à convaincre Rémi, son petit ami qui vit en banlieue, de conserver son appartement pour passer de temps en temps la nuit à Paris.
 
 - Mer 9 jan 20h00 HL  
@@ -87,7 +87,7 @@ Ouverture de la rétrospective
 **Pauline à la plage**  
 d'Eric Rohmer  
 France / 1982 / 100 min / DCP  
-Avec Amanda Langlet, Arielle Dombasle, Pascal Greggory.  
+Avec Amanda Langlet, Arielle Dombasle, Pascal Greggory, Feodor Atkine.  
 Pauline passe l'été chez sa cousine Marion. Sur la plage, Marion rencontre Pierre, un ancien soupirant qui lui fait une déclaration brûlante. Elle le repousse et se jette dans les bras d'Henri, que Pierre a été contraint de lui présenter.
 
 - Sam 12 jan 19h30 HL
@@ -95,7 +95,7 @@ Pauline passe l'été chez sa cousine Marion. Sur la plage, Marion rencontre Pie
 **Le Rayon vert**  
 d'Eric Rohmer  
 France / 1985 / 90 min / DCP  
-Avec Marie Rivière, Vincent Gauthier, Rosette.  
+Avec Marie Rivière, Vincent Gauthier, Rosette, Béatrice Romand.  
 Délaissée par son amie, Delphine se rend seule en Normandie, à la montagne, et échoue à Biarritz. Les conseils d'une Suédoise affranchie ne font qu'aviver sa solitude, jusqu'à ce qu'une conversation à propos du rayon vert lui redonne espoir.
 
 - Sam 2 fév 20h00 HL
@@ -105,7 +105,7 @@ Délaissée par son amie, Delphine se rend seule en Normandie, à la montagne, e
 **Conte de printemps**  
 d'Eric Rohmer  
 France / 1989 / 110 min / DCP  
-Avec Anne Teyssèdre, Hugues Quester, Florence Darel.  
+Avec Anne Teyssèdre, Hugues Quester, Florence Darel, Eloïse Bennett.  
 Une jeune femme, professeur de philosophie, est hébergée par une jeune fille qui lui présente son père.
 
 - Dim 20 jan 21h15 HL
@@ -122,7 +122,7 @@ Séance présentée par Melvil Poupaud (sous réserve) et Amanda Langlet
 **Conte d'hiver**  
 d'Eric Rohmer  
 France / 1991 / 114 min / DCP  
-Avec Charlotte Véry, Frédéric Van den Driessche, Michel Voletti.  
+Avec Charlotte Véry, Frédéric Van den Driessche, Michel Voletti, Hervé Furic.  
 Félicie a connu Charles en vacances, et a perdu sa trace à la suite d'un malencontreux quiproquo. Elise, cinq ans, est le fruit de leur passion. Contre toute raison, Félicie continue d'aimer Charles et d'espérer son retour.
 
 - Lun 21 jan 21h30 GF  
@@ -131,7 +131,7 @@ Séance présentée par Charlotte Véry
 **Conte d'automne**  
 d'Eric Rohmer  
 France / 1997 / 110 min / DCP  
-Avec Marie Rivière, Béatrice Romand, Alain Libolt.  
+Avec Marie Rivière, Béatrice Romand, Alain Libolt, Didier Sandre.  
 Magali, la quarantaine, est viticultrice. Veuve, elle aime son travail mais souffre de la solitude depuis que ses enfants sont partis. Ses amies veulent lui trouver un mari sans qu'elle le sache.
 
 - Sam 26 jan 19h30 GF  
@@ -143,7 +143,7 @@ Séance présentée par Diane Baratier
 d'Eric Rohmer  
 France-Italie-Espagne / 2006 / 110 min / 35 mm  
 D'après le texte _L'Astrée_ de Honoré d'Urfé.  
-Avec Andy Gillet, Stéphanie Crayencour, Cécile Cassel.  
+Avec Andy Gillet, Stéphanie Crayencour, Cécile Cassel, Véronique Reymond.  
 Au temps des druides, le berger Céladon et la bergère Astrée s'aiment d'amour pur. Trompée par un prétendant jaloux, Astrée congédie Céladon qui, désespéré, se jette dans une rivière. Elle le croit mort mais il est secrètement sauvé par des nymphes.
 
 - Jeu 17 jan 19h30 HL
@@ -152,7 +152,7 @@ Au temps des druides, le berger Céladon et la bergère Astrée s'aiment d'amour
 d'Eric Rohmer  
 France / 2000 / 129 min / VO / 35 mm  
 D'après le récit _Journal de ma vie durant la Révolution Française_ de Grace Elliott.  
-Avec Lucy Russell, Jean-Claude Dreyfus, François Marthouret.  
+Avec Lucy Russell, Jean-Claude Dreyfus, François Marthouret, Léonard Cobiant.  
 1789\. Aristocrate britannique vivant en France, bénéficiant de la protection du Duc d'Orléans, cousin du roi, ancien amant et révolutionnaire influent, Grace Elliott affirme haut et fort son attachement à la monarchie. Survient le 10 août 1792.
 
 - Dim 27 jan 14h30 HL  
@@ -161,7 +161,7 @@ Séance présentée par Françoise Etchegaray
 **L'Arbre, le maire et la médiathèque**  
 d'Eric Rohmer  
 France / 1992 / 105 min / DCP  
-Avec Pascal Greggory, Arielle Dombasle, Fabrice Luchini.  
+Avec Pascal Greggory, Arielle Dombasle, Fabrice Luchini, Clémentine Amouroux.  
 Dans un petit village de Vendée, le jeune maire socialiste ambitionne de faire construire un complexe culturel et sportif. Apprécié des locaux, il trouve les crédits nécessaires. Tout irait pour le mieux dans le meilleur des villages possibles, si...
 
 - Sam 19 jan 20h00 HL  
@@ -171,7 +171,7 @@ Séance présentée par Françoise Etchegaray et Pascal Greggory (sous réserve)
 **La Marquise d'O**  
 d'Eric Rohmer  
 France-RFA / 1975 / 105 min / DCP  
-Avec Edith Clever, Bruno Ganz, Edda Seipel.  
+Avec Edith Clever, Bruno Ganz, Peter Lühr, Edda Seipel.  
 Lors de la prise d'une place forte en Lombardie en 1799 par les troupes russes, une jeune veuve est sauvée du déshonneur par un officier ennemi. Peu après, elle apprend qu'elle est enceinte et décide de retrouver le père par petite annonce.
 
 - Lun 14 jan 17h00 GF  
@@ -188,7 +188,7 @@ _Place de l'Etoile_ est le segment réalisé par Éric Rohmer dans ce film colle
 **Perceval le Gallois**  
 d'Eric Rohmer  
 France-Suisse-Italie / 1978 / 140 min / DCP  
-Avec Fabrice Luchini, André Dussollier, Solange Boulanger.  
+Avec Fabrice Luchini, André Dussollier, Solange Boulanger, Catherine Schroeder.  
 Émerveillé par les armures étincelantes d'un groupe de chevaliers qu'il avait pris pour des anges, le naïf Perceval décide de devenir à son tour chevalier au service du roi Arthur.
 
 - Dim 13 jan 21h00 HL
@@ -196,7 +196,7 @@ Avec Fabrice Luchini, André Dussollier, Solange Boulanger.
 **Quatre aventures de Reinette et Mirabelle**  
 d'Eric Rohmer  
 France / 1986 / 100 min / DCP  
-Avec Joëlle Miquel, Jessica Forde, Philippe Laudenbach.  
+Avec Joëlle Miquel, Jessica Forde, Philippe Laudenbach, Yasmine Haury.  
 Quatre court métrages, quatre aventures de Reinette, une jeune femme de la campagne et Mirabelle, une jeune Parisienne.
 
 - Ven 18 jan 21h00 HL
@@ -204,7 +204,7 @@ Quatre court métrages, quatre aventures de Reinette, une jeune femme de la camp
 **Les Rendez-vous de Paris**  
 d'Eric Rohmer  
 France / 1994 / 100 min / DCP  
-Avec Clara Bellar, Antoine Basler, Mathias Megard.  
+Avec Clara Bellar, Antoine Basler, Aurore Rauscher, Serge Renko.  
 _Les Rendez-vous de Paris_ raconte trois histoires de séduction amoureuse dans différents quartiers de Paris.
 
 - Sam 26 jan 21h45 GF
@@ -212,7 +212,7 @@ _Les Rendez-vous de Paris_ raconte trois histoires de séduction amoureuse dans 
 **Le Signe du lion**  
 d'Eric Rohmer  
 France / 1959 / 102 min / DCP  
-Avec Jess Hahn, Michèle Girardon, Jean Le Poulain.  
+Avec Jess Hahn, Van Doude, Michèle Girardon, Jean Le Poulain.  
 Un artiste étranger à Paris apprend qu'il a hérité d'une immense fortune. Il organise une soirée où on lui dévoile son horoscope : né sous le signe du Lion, il connaîtra début août une période difficile avant que la chance ne lui sourit.
 
 - Jeu 10 jan 17h00 HL
@@ -220,7 +220,7 @@ Un artiste étranger à Paris apprend qu'il a hérité d'une immense fortune. Il
 **Triple agent**  
 d'Eric Rohmer  
 France-Italie-Espagne-Grèce-Russie / 2003 / 115 min / 35 mm  
-Avec Katerina Didaskalou, Serge Renko, Cyrielle Clair.  
+Avec Katerina Didaskalou, Serge Renko, Cyrielle Clair, Grigori Manoukov.  
 En 1936, alors que le Front Populaire et la Guerre d'Espagne agitent les esprits, un jeune général de l'armée tsariste mène une vie paisible à Paris où il s'est réfugié avec son épouse grecque, Arsinoé.
 
 - Lun 14 jan 21h30 GF
@@ -256,6 +256,7 @@ suivi de
 **Bois ton café**  
 d'Eric Rohmer  
 France / 1987 / 3 min / Numérique  
+Avec Rosette.  
 Clip de Rosette réalisé par Éric Rohmer  
 suivi de  
 **L'Amour symphonique**  
@@ -370,7 +371,6 @@ Courts métrages qui sont des variations sur le thème du modèle au sens artist
 **Catherine de Heilbronn TV**  
 d'Eric Rohmer  
 France / 1980 / 138 min / Numérique  
-Avec Jean Boissery, Daniel Tarrare, Gérard Falconetti.  
 Éric Rohmer présente sa première mise en scène à la Maison de la Culture de Nanterre, adaptation de la pièce de Heinrich von Kleist.
 
 - Lun 28 jan 21h15 GF  
@@ -434,7 +434,6 @@ Le film retrace l'histoire de la sorcellerie à travers le texte de Michelet, de
 **Cinéastes de notre temps : Le celluloïd et le marbre TV**  
 d'Eric Rohmer  
 France / 1966 / 90 min / Numérique  
-Avec César Baldaccini, Georges Candilis, Pierre Klossowski.  
 En 1965, dans une émission de télévision, Rohmer demande à des artistes contemporains de situer leur art par rapport à l' « art cinématographique » pour dresser un état des lieux polémique et désenchanté sur l'art du XXe siècle.
 
 - Jeu 10 jan 15h00 GF
@@ -444,7 +443,6 @@ En 1965, dans une émission de télévision, Rohmer demande à des artistes cont
 **Perceval ou le conte du Graal TV**  
 d'Eric Rohmer  
 France / 1964 / 23 min / Numérique  
-Avec Antoine Vitez.  
 Lecture de passages du roman de _Perceval_ par Chrétien de Troyes, illustrée par des miniatures conservées à la Bibliothèque Nationale de France.  
 suivi de  
 **Don Quichotte de Cervantès TV**  
@@ -460,7 +458,6 @@ suivi de
 **Stéphane Mallarmé TV**  
 d'Eric Rohmer  
 France / 1968 / 27 min / Numérique  
-Avec Jean-Marie Robain.  
 Lecture en costumes d'un texte peu connu de Stéphane Mallarmé.
 
 - Jeu 31 jan 16h45 GF
@@ -470,7 +467,6 @@ Lecture en costumes d'un texte peu connu de Stéphane Mallarmé.
 **Les Histoires extraordinaires d'Edgar Poe TV**  
 d'Eric Rohmer  
 France / 1965 / 25 min / Numérique  
-Avec Antoine Vitez.  
 Émission réalisée par Éric Rohmer en hommage à Edgar Allan Poe qui s'inspire de l'essai _Eureka_.  
 suivi de  
 **Victor Hugo : Les Contemplations, livres V et VI TV**  
@@ -519,7 +515,6 @@ suivi de
 **Entretien sur Pascal TV**  
 d'Eric Rohmer  
 France / 1965 / 22 min / Numérique  
-Avec Brice Parain, Dominique Dubarle.  
 Entretien sur Pascal entre Dominique Dubarle, dominicain, philosophe et mathématicien, et Brice Parain, auteur d'essais de philosophie.
 
 - Mer 6 fév 17h30 HL
@@ -529,7 +524,6 @@ Entretien sur Pascal entre Dominique Dubarle, dominicain, philosophe et mathéma
 **Entretien sur le béton TV**  
 d'Eric Rohmer  
 France / 1969 / 29 min / Numérique  
-Avec Paul Virilio, Claude Parent.  
 Entretiens avec les architectes Paul Virilio et Claude Parent sur les innovations architecturales engendrées par l'utilisation du béton armé.  
 suivi de  
 **Vers l'unité du monde = L'ère industrielle = Métamorphoses du paysage TV**  

@@ -18,7 +18,6 @@
     ],
     "generique": [
       "Emmanuelle Chaulet",
-      "Eric Vieillard",
       "Sophie Renoir",
       "Anne-Laure Meury"
     ]
@@ -66,8 +65,7 @@
     "generique": [
       "Bernard Verley",
       "Zouzou",
-      "Françoise Verley",
-      "Daniel Ceccaldi"
+      "Françoise Verley"
     ]
   },
   {
@@ -108,8 +106,7 @@
     "generique": [
       "Andy Gillet",
       "Stéphanie Crayencour",
-      "Cécile Cassel",
-      "Véronique Reymond"
+      "Cécile Cassel"
     ],
     "adaptation": "D'après le texte _L'Astrée_ de Honoré d'Urfé."
   },
@@ -133,8 +130,7 @@
     "generique": [
       "Lucy Russell",
       "Jean-Claude Dreyfus",
-      "François Marthouret",
-      "Léonard Cobiant"
+      "François Marthouret"
     ],
     "adaptation": "D'après le récit _Journal de ma vie durant la Révolution Française_ de Grace Elliott."
   },
@@ -181,8 +177,7 @@
     "generique": [
       "Pascal Greggory",
       "Arielle Dombasle",
-      "Fabrice Luchini",
-      "Clémentine Amouroux"
+      "Fabrice Luchini"
     ]
   },
   {
@@ -204,7 +199,6 @@
     ],
     "generique": [
       "Béatrice Romand",
-      "Arielle Dombasle",
       "André Dussollier",
       "Feodor Atkine"
     ]
@@ -246,9 +240,6 @@
         "typeTexte": 9,
         "texte": "Clip de Rosette réalisé par Éric Rohmer"
       }
-    ],
-    "generique": [
-      "Rosette"
     ]
   },
   {
@@ -271,8 +262,7 @@
     "generique": [
       "Barbet Schroeder",
       "Michèle Girardon",
-      "Claudine Soubrier",
-      "Fred Junk"
+      "Claudine Soubrier"
     ]
   },
   {
@@ -374,8 +364,7 @@
     "generique": [
       "Philippe Beuzen",
       "Catherine Sée",
-      "Christian Charrière",
-      "Diane Wilkinson"
+      "Christian Charrière"
     ]
   },
   {
@@ -393,6 +382,11 @@
         "typeTexte": 9,
         "texte": "Éric Rohmer présente sa première mise en scène à la Maison de la Culture de Nanterre, adaptation de la pièce de Heinrich von Kleist."
       }
+    ],
+    "generique": [
+      "Jean Boissery",
+      "Daniel Tarrare",
+      "Gérard Falconetti"
     ]
   },
   {
@@ -427,6 +421,11 @@
         "typeTexte": 9,
         "texte": "En 1965, dans une émission de télévision, Rohmer demande à des artistes contemporains de situer leur art par rapport à l' « art cinématographique » pour dresser un état des lieux polémique et désenchanté sur l'art du XXe siècle."
       }
+    ],
+    "generique": [
+      "César Baldaccini",
+      "Georges Candilis",
+      "Pierre Klossowski"
     ]
   },
   {
@@ -449,8 +448,7 @@
     "generique": [
       "Patrick Bauchau",
       "Haydée Politoff",
-      "Daniel Pommereulle",
-      "Alain Jouffroy"
+      "Daniel Pommereulle"
     ]
   },
   {
@@ -472,8 +470,7 @@
     "generique": [
       "Marie Rivière",
       "Béatrice Romand",
-      "Alain Libolt",
-      "Didier Sandre"
+      "Alain Libolt"
     ]
   },
   {
@@ -495,8 +492,7 @@
     "generique": [
       "Anne Teyssèdre",
       "Hugues Quester",
-      "Florence Darel",
-      "Eloïse Bennett"
+      "Florence Darel"
     ]
   },
   {
@@ -541,8 +537,7 @@
     "generique": [
       "Charlotte Véry",
       "Frédéric Van den Driessche",
-      "Michel Voletti",
-      "Hervé Furic"
+      "Michel Voletti"
     ]
   },
   {
@@ -668,6 +663,10 @@
         "typeTexte": 9,
         "texte": "Entretiens avec les architectes Paul Virilio et Claude Parent sur les innovations architecturales engendrées par l'utilisation du béton armé."
       }
+    ],
+    "generique": [
+      "Paul Virilio",
+      "Claude Parent"
     ]
   },
   {
@@ -685,6 +684,10 @@
         "typeTexte": 9,
         "texte": "Entretien sur Pascal entre Dominique Dubarle, dominicain, philosophe et mathématicien, et Brice Parain, auteur d'essais de philosophie."
       }
+    ],
+    "generique": [
+      "Brice Parain",
+      "Dominique Dubarle"
     ]
   },
   {
@@ -742,8 +745,7 @@
     "generique": [
       "Philippe Marlaud",
       "Marie Rivière",
-      "Anne-Laure Meury",
-      "Mathieu Carrière"
+      "Anne-Laure Meury"
     ]
   },
   {
@@ -826,7 +828,6 @@
     "generique": [
       "Jean-Claude Brialy",
       "Aurora Cornu",
-      "Béatrice Romand",
       "Laurence de Monaghan"
     ]
   },
@@ -868,6 +869,9 @@
         "typeTexte": 9,
         "texte": "Émission réalisée par Éric Rohmer en hommage à Edgar Allan Poe qui s'inspire de l'essai _Eureka_."
       }
+    ],
+    "generique": [
+      "Antoine Vitez"
     ]
   },
   {
@@ -1040,8 +1044,7 @@
     "generique": [
       "Jean-Louis Trintignant",
       "Françoise Fabian",
-      "Marie-Christine Barrault",
-      "Antoine Vitez"
+      "Marie-Christine Barrault"
     ]
   },
   {
@@ -1064,7 +1067,6 @@
     "generique": [
       "Edith Clever",
       "Bruno Ganz",
-      "Peter Lühr",
       "Edda Seipel"
     ]
   },
@@ -1148,8 +1150,7 @@
     "generique": [
       "Pascale Ogier",
       "Tchéky Karyo",
-      "Fabrice Luchini",
-      "Virginie Thévenet"
+      "Fabrice Luchini"
     ]
   },
   {
@@ -1193,8 +1194,7 @@
     "generique": [
       "Amanda Langlet",
       "Arielle Dombasle",
-      "Pascal Greggory",
-      "Feodor Atkine"
+      "Pascal Greggory"
     ]
   },
   {
@@ -1216,8 +1216,7 @@
     "generique": [
       "Fabrice Luchini",
       "André Dussollier",
-      "Solange Boulanger",
-      "Catherine Schroeder"
+      "Solange Boulanger"
     ]
   },
   {
@@ -1235,6 +1234,9 @@
         "typeTexte": 9,
         "texte": "Lecture de passages du roman de _Perceval_ par Chrétien de Troyes, illustrée par des miniatures conservées à la Bibliothèque Nationale de France."
       }
+    ],
+    "generique": [
+      "Antoine Vitez"
     ]
   },
   {
@@ -1351,8 +1353,7 @@
     "generique": [
       "Joëlle Miquel",
       "Jessica Forde",
-      "Philippe Laudenbach",
-      "Yasmine Haury"
+      "Philippe Laudenbach"
     ]
   },
   {
@@ -1375,8 +1376,7 @@
     "generique": [
       "Marie Rivière",
       "Vincent Gauthier",
-      "Rosette",
-      "Béatrice Romand"
+      "Rosette"
     ]
   },
   {
@@ -1399,8 +1399,7 @@
     "generique": [
       "Clara Bellar",
       "Antoine Basler",
-      "Aurore Rauscher",
-      "Serge Renko"
+      "Mathias Megard"
     ]
   },
   {
@@ -1531,7 +1530,6 @@
     ],
     "generique": [
       "Jess Hahn",
-      "Van Doude",
       "Michèle Girardon",
       "Jean Le Poulain"
     ]
@@ -1593,6 +1591,9 @@
         "typeTexte": 9,
         "texte": "Lecture en costumes d'un texte peu connu de Stéphane Mallarmé."
       }
+    ],
+    "generique": [
+      "Jean-Marie Robain"
     ]
   },
   {
@@ -1634,8 +1635,7 @@
     "generique": [
       "Katerina Didaskalou",
       "Serge Renko",
-      "Cyrielle Clair",
-      "Grigori Manoukov"
+      "Cyrielle Clair"
     ]
   },
   {
