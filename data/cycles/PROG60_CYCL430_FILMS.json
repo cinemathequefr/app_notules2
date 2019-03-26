@@ -9,12 +9,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1964,
-    "pays": "Italie-France",
-    "generique": [
-      "Ken Clark",
-      "Jany Clair",
-      "Michel Lemoine"
-    ]
+    "pays": "Italie-France"
   },
   {
     "titre": "Baie sanglante",
@@ -26,13 +21,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1971,
-    "pays": "Italie",
-    "generique": [
-      "Claudine Auger",
-      "Luigi Pistilli",
-      "Claudio Volonté",
-      "Anna Maria Rosati"
-    ]
+    "pays": "Italie"
   },
   {
     "titre": "Baron vampire",
@@ -44,12 +33,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1971,
-    "pays": "Italie-RFA",
-    "generique": [
-      "Joseph Cotten",
-      "Elke Sommer",
-      "Massimo Girotti"
-    ]
+    "pays": "Italie-RFA"
   },
   {
     "titre": "Bataille de Marathon",
@@ -96,8 +80,7 @@
     "generique": [
       "Daliah Lavi",
       "Christopher Lee",
-      "Tony Kendall",
-      "Isli Oberon"
+      "Harriet White"
     ]
   },
   {
@@ -128,13 +111,7 @@
     "ageMinimal": null,
     "realisateurs": "Paolo Heusch",
     "annee": 1958,
-    "pays": "Italie-France",
-    "generique": [
-      "Paul Hubschmid",
-      "Madeleine Fischer",
-      "Fiorella Mari",
-      "Ivo Garrani"
-    ]
+    "pays": "Italie-France"
   },
   {
     "titre": "Démons de la nuit",
@@ -146,10 +123,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1977,
-    "pays": "Italie",
-    "generique": [
-      "John Steiner"
-    ]
+    "pays": "Italie"
   },
   {
     "titre": "Dollars du Nebraska",
@@ -161,13 +135,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1966,
-    "pays": "Espagne-Italie",
-    "generique": [
-      "Ken Clark",
-      "Yvonne Bastien",
-      "Piero Lulli",
-      "Howard Ross"
-    ]
+    "pays": "Espagne-Italie"
   },
   {
     "titre": "Duel au couteau",
@@ -179,28 +147,18 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1964,
-    "pays": "Italie",
-    "generique": [
-      "Cameron Mitchell",
-      "Fausto Tozzi"
-    ]
+    "pays": "Italie"
   },
   {
     "titre": "Esther et le roi",
-    "titreVo": "Esther e il re",
+    "titreVo": "Ester e il re",
     "idFilm": 37834,
     "idCycle": 430,
     "idCategorie": 1931,
     "ageMinimal": null,
     "realisateurs": "Raoul Walsh, Mario Bava",
     "annee": 1960,
-    "pays": "Italie-États-Unis",
-    "generique": [
-      "Joan Collins",
-      "Richard Egan",
-      "Rik Battaglia",
-      "Denis O'Dea"
-    ]
+    "pays": "Italie-États-Unis"
   },
   {
     "titre": "Fille qui en savait trop",
@@ -213,13 +171,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1962,
-    "pays": "Italie",
-    "generique": [
-      "Leticia Roman",
-      "John Saxon",
-      "Valentina Cortese",
-      "Dante DiPaolo"
-    ]
+    "pays": "Italie"
   },
   {
     "titre": "Hercule contre les vampires",
@@ -230,13 +182,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1961,
-    "pays": "Italie",
-    "generique": [
-      "Reg Park",
-      "Eleonora Ruffo",
-      "Christopher Lee",
-      "Giorgio Ardisson"
-    ]
+    "pays": "Italie"
   },
   {
     "titre": "Ile de l'épouvante",
@@ -248,11 +194,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1970,
-    "pays": "Italie",
-    "generique": [
-      "Ira de Fürstenberg",
-      "Edwige Fenech"
-    ]
+    "pays": "Italie"
   },
   {
     "titre": "Inferno",
@@ -265,8 +207,9 @@
     "annee": 1979,
     "pays": "Italie",
     "generique": [
-      "Alida Valli",
-      "Sacha Pitoëff"
+      "Irene Miracle",
+      "Sacha Pitoëff",
+      "Alida Valli"
     ]
   },
   {
@@ -278,12 +221,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1972,
-    "pays": "Italie-RFA-Espagne",
-    "generique": [
-      "Eduardo Fajardo",
-      "Sylva Koscina",
-      "Alessio Orano"
-    ]
+    "pays": "Italie-RFA-Espagne"
   },
   {
     "titre": "Maison de l'exorcisme",
@@ -296,13 +234,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava, Alfredo Leone",
     "annee": 1975,
-    "pays": "Italie-Espagne-RFA",
-    "generique": [
-      "Alida Valli",
-      "Elke Sommer",
-      "Telly Savalas",
-      "Sylva Koscina"
-    ]
+    "pays": "Italie-Espagne-RFA"
   },
   {
     "titre": "Masque du démon",
@@ -319,8 +251,7 @@
     "generique": [
       "Barbara Steele",
       "John Richardson",
-      "Ivo Garrani",
-      "Andrea Checchi"
+      "Ivo Garrani"
     ],
     "adaptation": "D'après la nouvelle _Vij_ de Nicolas Gogol."
   },
@@ -335,13 +266,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1961,
-    "pays": "Italie-France",
-    "generique": [
-      "Donald O'Connor",
-      "Raymond Bussières",
-      "Michèle Mercier",
-      "Vittorio De Sica"
-    ]
+    "pays": "Italie-France"
   },
   {
     "titre": "Nostalgia napoletana",
@@ -363,13 +288,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1966,
-    "pays": "Italie",
-    "generique": [
-      "Giacomo Rossi-Stuart",
-      "Erika Blanc",
-      "Fabienne Dali",
-      "Gianna Vivaldi"
-    ]
+    "pays": "Italie"
   },
   {
     "titre": "Planète des vampires",
@@ -382,12 +301,6 @@
     "realisateurs": "Mario Bava",
     "annee": 1965,
     "pays": "Italie-Espagne",
-    "generique": [
-      "Barry Sullivan",
-      "Norma Bengell",
-      "Ángel Aranda",
-      "Evi Marandi"
-    ],
     "adaptation": "D'après le roman _Una notte di 21 ore_ de Renato Pestriniero."
   },
   {
@@ -399,10 +312,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1969,
-    "pays": "Italie-RFA",
-    "generique": [
-      "Pascale Petit"
-    ]
+    "pays": "Italie-RFA"
   },
   {
     "titre": "Rosso segno della follia",
@@ -414,10 +324,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1970,
-    "pays": "Italie",
-    "generique": [
-      "Laura Betti"
-    ]
+    "pays": "Italie"
   },
   {
     "titre": "Ruée des vikings",
@@ -450,8 +357,7 @@
     "generique": [
       "Eva Bartok",
       "Cameron Mitchell",
-      "Thomas Reiner",
-      "Ariana Gorini"
+      "Thomas Reiner"
     ]
   },
   {
@@ -463,12 +369,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1966,
-    "pays": "Italie-États-Unis",
-    "generique": [
-      "Vincent Price",
-      "Fabian",
-      "Laura Antonelli"
-    ]
+    "pays": "Italie-États-Unis"
   },
   {
     "titre": "Trois visages de la peur",
@@ -481,12 +382,7 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava",
     "annee": 1963,
-    "pays": "Italie-France",
-    "generique": [
-      "Michèle Mercier",
-      "Boris Karloff",
-      "Jacqueline Pierreux"
-    ]
+    "pays": "Italie-France"
   },
   {
     "titre": "Vampires",
@@ -502,8 +398,6 @@
     "pays": "Italie",
     "generique": [
       "Gianna Maria Canale",
-      "Antoine Balpêtré",
-      "Paul Muller",
       "Carlo D'Angelo"
     ]
   },
@@ -517,9 +411,6 @@
     "ageMinimal": null,
     "realisateurs": "Mario Bava, Lamberto Bava",
     "annee": 1978,
-    "pays": "Italie",
-    "generique": [
-      "Marc Porel"
-    ]
+    "pays": "Italie"
   }
 ]

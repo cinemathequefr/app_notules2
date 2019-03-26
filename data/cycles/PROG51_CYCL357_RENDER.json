@@ -50,7 +50,7 @@
         "cats": [
           1754
         ],
-        "tri": 3
+        "tri": 1
       }
     ],
     "idProg": 51
@@ -2515,165 +2515,62 @@
     },
     {
       "titreSousCycle": "Autour d'Éric Rohmer",
-      "tri": 3,
+      "tri": 1,
       "items": [
         {
           "idCycle": 357,
-          "idCategorie": 1754,
-          "idEvenement": 18357,
-          "titreEvenement": "Les aventures de Rosette ",
-          "films": [
+          "idFilm": 140054,
+          "titre": "Contes secrets ou Les Rohmériens",
+          "art": "Les",
+          "titreVo": "",
+          "realisateurs": "Marie Binet",
+          "annee": 2005,
+          "pays": "France",
+          "textes": [
             {
-              "idFilm": 125166,
-              "titre": "Rosette cherche une chambre",
-              "titreVo": "",
-              "realisateurs": "Rosette",
-              "annee": 1986,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
-                }
-              ],
-              "generique": [
-                "Rosette"
-              ],
-              "duree": 14,
-              "format": "Numérique",
-              "version": "",
-              "ordre": 1
-            },
-            {
-              "idFilm": 100041,
-              "titre": "Rosette prend sa douche",
-              "titreVo": "",
-              "realisateurs": "Rosette",
-              "annee": 1984,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
-                }
-              ],
-              "generique": [
-                "Arielle Dombasle",
-                "Pascal Greggory",
-                "Jacques Penot",
-                "Rosette"
-              ],
-              "duree": 14,
-              "format": "Numérique",
-              "version": "",
-              "ordre": 2
-            },
-            {
-              "idFilm": 100040,
-              "titre": "Rosette sort le soir",
-              "titreVo": "",
-              "realisateurs": "Rosette",
-              "annee": 1983,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
-                }
-              ],
-              "generique": [
-                "Arielle Dombasle",
-                "Pascal Greggory",
-                "Rosette"
-              ],
-              "duree": 11,
-              "format": "Numérique",
-              "version": "",
-              "ordre": 3
-            },
-            {
-              "idFilm": 125165,
-              "titre": "Rosette vend des roses",
-              "titreVo": "",
-              "realisateurs": "Rosette",
-              "annee": 1985,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
-                }
-              ],
-              "generique": [
-                "Rosette",
-                "Virginie Thévenet",
-                "François-Marie Banier"
-              ],
-              "duree": 12,
-              "format": "Numérique",
-              "version": "",
-              "ordre": 4
-            },
-            {
-              "idFilm": 125167,
-              "titre": "Rosette vole les voleurs",
-              "titreVo": "",
-              "realisateurs": "Rosette",
-              "annee": 1987,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
-                }
-              ],
-              "generique": [
-                "Rosette",
-                "François-Marie Banier",
-                "Marie Rivière"
-              ],
-              "duree": 20,
-              "format": "Numérique",
-              "version": "",
-              "ordre": 5
+              "typeTexte": 9,
+              "texte": "Des personnages surgissent des films d'Éric Rohmer pour dévoiler leur raison d'être, leur destin, leur histoire, expliquer les motifs de leurs actes face aux jeux et aux enjeux de la séduction et de l'amour, de la morale et des épreuves de l'existence. Leurs voix et leurs traits sont ceux de seize célèbres acteurs rohmériens."
             }
           ],
+          "duree": 90,
+          "format": "Numérique",
+          "version": "",
           "seance": [
             {
-              "dateHeure": "2019-02-09T18:00:00",
+              "idSeance": 26500,
+              "ordre": 2,
+              "idEvenement": 18018,
+              "dateHeure": "2019-01-30T19:00:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
               ]
             }
-          ]
+          ],
+          "precedeSuivi": "Film précédé d'_En répétant Perceval_ de Jean Douchet."
         },
         {
           "idCycle": 357,
-          "idCategorie": 1754,
-          "idEvenement": 18022,
-          "films": [
+          "idFilm": 125398,
+          "titre": "En compagnie d'Eric Rohmer",
+          "titreVo": "",
+          "realisateurs": "Marie Rivière",
+          "annee": 2010,
+          "pays": "France",
+          "textes": [
             {
-              "idFilm": 125398,
-              "titre": "En compagnie d'Eric Rohmer",
-              "titreVo": "",
-              "realisateurs": "Marie Rivière",
-              "annee": 2010,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Marie Rivière filme Éric Rohmer dans sons bureau durant ses trois dernières années et convoque le témoignage de quelques-uns de ses comédiens fidèles et auteurs proches."
-                }
-              ],
-              "duree": 86,
-              "format": "Numérique",
-              "version": "",
-              "ordre": 1
+              "typeTexte": 9,
+              "texte": "Marie Rivière filme Éric Rohmer dans sons bureau durant ses trois dernières années et convoque le témoignage de quelques-uns de ses comédiens fidèles et auteurs proches."
             }
           ],
+          "duree": 86,
+          "format": "Numérique",
+          "version": "",
           "seance": [
             {
+              "idSeance": 26496,
+              "ordre": 1,
+              "idEvenement": 18022,
               "dateHeure": "2019-01-30T16:45:00",
               "idSalle": [
                 "GF",
@@ -2684,31 +2581,88 @@
         },
         {
           "idCycle": 357,
-          "idCategorie": 1754,
-          "idEvenement": 18020,
-          "films": [
+          "idFilm": 140053,
+          "titre": "En répétant Perceval",
+          "titreVo": "",
+          "realisateurs": "Jean Douchet",
+          "annee": 1978,
+          "pays": "France",
+          "textes": [
             {
-              "idFilm": 125401,
-              "titre": "Fabrique du Conte d'été",
-              "art": "La",
-              "titreVo": "",
-              "realisateurs": "Jean-André Fieschi, Françoise Etchegaray",
-              "annee": 1996,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Le film de Jean-André Fieschi et Françoise Etchegaray, composé de rushes et d'images du tournage, invite à découvrir la fabrique du réel que constitue le tournage."
-                }
-              ],
-              "duree": 93,
-              "format": "Numérique",
-              "version": "",
-              "ordre": 1
+              "typeTexte": 9,
+              "texte": "Jean Douchet s'entretient avec Éric Rohmer sur le choix de ce texte, _Perceval le Gallois_ de Chrétien de Troyes."
             }
           ],
+          "duree": 28,
+          "format": "Numérique",
+          "version": "",
           "seance": [
             {
+              "idSeance": 26500,
+              "ordre": 1,
+              "idEvenement": 18018,
+              "dateHeure": "2019-01-30T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film suivi de _Les Contes secrets ou Les Rohmériens_ de Marie Binet."
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 62575,
+          "titre": "Eric Rohmer : Preuves à l'appui",
+          "titreVo": "",
+          "realisateurs": "André S. Labarthe",
+          "annee": 1993,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Entretien avec Jean Douchet dans lequel Éric Rohmer se livre et dévoile des essais tournés en Super 8, des cahiers sur lesquels des projets de films ont été consignés..."
+            }
+          ],
+          "duree": 116,
+          "format": "Numérique",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 26501,
+              "ordre": 1,
+              "idEvenement": 18019,
+              "dateHeure": "2019-01-30T21:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 125401,
+          "titre": "Fabrique du Conte d'été",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Jean-André Fieschi, Françoise Etchegaray",
+          "annee": 1996,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le film de Jean-André Fieschi et Françoise Etchegaray, composé de rushes et d'images du tournage, invite à découvrir la fabrique du réel que constitue le tournage."
+            }
+          ],
+          "duree": 93,
+          "format": "Numérique",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 26492,
+              "ordre": 1,
+              "idEvenement": 18020,
               "dateHeure": "2019-01-28T19:00:00",
               "idSalle": [
                 "JE",
@@ -2720,90 +2674,187 @@
         },
         {
           "idCycle": 357,
-          "idCategorie": 1754,
-          "idEvenement": 18019,
-          "films": [
+          "idFilm": 125166,
+          "titre": "Rosette cherche une chambre",
+          "titreVo": "",
+          "realisateurs": "Rosette",
+          "annee": 1986,
+          "pays": "France",
+          "textes": [
             {
-              "idFilm": 62575,
-              "titre": "Eric Rohmer : Preuves à l'appui",
-              "titreVo": "",
-              "realisateurs": "André S. Labarthe",
-              "annee": 1993,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Entretien avec Jean Douchet dans lequel Éric Rohmer se livre et dévoile des essais tournés en Super 8, des cahiers sur lesquels des projets de films ont été consignés..."
-                }
-              ],
-              "duree": 116,
-              "format": "Numérique",
-              "version": "",
-              "ordre": 1
+              "typeTexte": 9,
+              "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
             }
           ],
+          "generique": [
+            "Rosette"
+          ],
+          "duree": 14,
+          "format": "Numérique",
+          "version": "",
           "seance": [
             {
-              "dateHeure": "2019-01-30T21:30:00",
+              "idSeance": 28128,
+              "ordre": 1,
+              "idEvenement": 18357,
+              "titreEvenement": "Les aventures de Rosette ",
+              "dateHeure": "2019-02-09T18:00:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
               ]
             }
-          ]
+          ],
+          "precedeSuivi": "Film suivi de _Rosette prend sa douche_ de Rosette, _Rosette sort le soir_ de Rosette, _Rosette vend des roses_ de Rosette, _Rosette vole les voleurs_ de Rosette."
         },
         {
           "idCycle": 357,
-          "idCategorie": 1754,
-          "idEvenement": 18018,
-          "films": [
+          "idFilm": 100041,
+          "titre": "Rosette prend sa douche",
+          "titreVo": "",
+          "realisateurs": "Rosette",
+          "annee": 1984,
+          "pays": "France",
+          "textes": [
             {
-              "idFilm": 140053,
-              "titre": "En répétant Perceval",
-              "titreVo": "",
-              "realisateurs": "Jean Douchet",
-              "annee": 1978,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Jean Douchet s'entretient avec Éric Rohmer sur le choix de ce texte, _Perceval le Gallois_ de Chrétien de Troyes."
-                }
-              ],
-              "duree": 28,
-              "format": "Numérique",
-              "version": "",
-              "ordre": 1
-            },
-            {
-              "idFilm": 140054,
-              "titre": "Contes secrets ou Les Rohmériens",
-              "art": "Les",
-              "titreVo": "",
-              "realisateurs": "Marie Binet",
-              "annee": 2005,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Des personnages surgissent des films d'Éric Rohmer pour dévoiler leur raison d'être, leur destin, leur histoire, expliquer les motifs de leurs actes face aux jeux et aux enjeux de la séduction et de l'amour, de la morale et des épreuves de l'existence. Leurs voix et leurs traits sont ceux de seize célèbres acteurs rohmériens."
-                }
-              ],
-              "duree": 90,
-              "format": "Numérique",
-              "version": "",
-              "ordre": 2
+              "typeTexte": 9,
+              "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
             }
           ],
+          "generique": [
+            "Arielle Dombasle",
+            "Pascal Greggory",
+            "Jacques Penot",
+            "Rosette"
+          ],
+          "duree": 14,
+          "format": "Numérique",
+          "version": "",
           "seance": [
             {
-              "dateHeure": "2019-01-30T19:00:00",
+              "idSeance": 28128,
+              "ordre": 2,
+              "idEvenement": 18357,
+              "titreEvenement": "Les aventures de Rosette ",
+              "dateHeure": "2019-02-09T18:00:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
               ]
             }
-          ]
+          ],
+          "precedeSuivi": "Film précédé de _Rosette cherche une chambre_ de Rosette et suivi de de _Rosette sort le soir_ de Rosette, _Rosette vend des roses_ de Rosette, _Rosette vole les voleurs_ de Rosette."
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 100040,
+          "titre": "Rosette sort le soir",
+          "titreVo": "",
+          "realisateurs": "Rosette",
+          "annee": 1983,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
+            }
+          ],
+          "generique": [
+            "Arielle Dombasle",
+            "Pascal Greggory",
+            "Rosette"
+          ],
+          "duree": 11,
+          "format": "Numérique",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 28128,
+              "ordre": 3,
+              "idEvenement": 18357,
+              "titreEvenement": "Les aventures de Rosette ",
+              "dateHeure": "2019-02-09T18:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé de _Rosette cherche une chambre_ de Rosette, _Rosette prend sa douche_ de Rosette et suivi de de _Rosette vend des roses_ de Rosette, _Rosette vole les voleurs_ de Rosette."
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 125165,
+          "titre": "Rosette vend des roses",
+          "titreVo": "",
+          "realisateurs": "Rosette",
+          "annee": 1985,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
+            }
+          ],
+          "generique": [
+            "Rosette",
+            "Virginie Thévenet",
+            "François-Marie Banier"
+          ],
+          "duree": 12,
+          "format": "Numérique",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 28128,
+              "ordre": 4,
+              "idEvenement": 18357,
+              "titreEvenement": "Les aventures de Rosette ",
+              "dateHeure": "2019-02-09T18:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé de _Rosette cherche une chambre_ de Rosette, _Rosette prend sa douche_ de Rosette, _Rosette sort le soir_ de Rosette et suivi de de _Rosette vole les voleurs_ de Rosette."
+        },
+        {
+          "idCycle": 357,
+          "idFilm": 125167,
+          "titre": "Rosette vole les voleurs",
+          "titreVo": "",
+          "realisateurs": "Rosette",
+          "annee": 1987,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Courts-métrages réalisés par Rosette et mettant en scène son propre personnage."
+            }
+          ],
+          "generique": [
+            "Rosette",
+            "François-Marie Banier",
+            "Marie Rivière"
+          ],
+          "duree": 20,
+          "format": "Numérique",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 28128,
+              "ordre": 5,
+              "idEvenement": 18357,
+              "titreEvenement": "Les aventures de Rosette ",
+              "dateHeure": "2019-02-09T18:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé de _Rosette cherche une chambre_ de Rosette, _Rosette prend sa douche_ de Rosette, _Rosette sort le soir_ de Rosette, _Rosette vend des roses_ de Rosette."
         }
       ]
     }

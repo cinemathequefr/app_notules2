@@ -19,8 +19,7 @@
     "generique": [
       "Alfredo Castro",
       "Roberto Farías",
-      "Antonia Zegers",
-      "Jaime Vadell"
+      "Antonia Zegers"
     ]
   },
   {
@@ -42,8 +41,7 @@
     "generique": [
       "Paulina García",
       "Sergio Hernández",
-      "Marcial Tagle",
-      "Diego Fontecilla"
+      "Marcial Tagle"
     ]
   },
   {
@@ -65,8 +63,7 @@
     "generique": [
       "Nicolás Durán",
       "Alejandro Goic",
-      "Gastón Salgado",
-      "Sebastián Ayala"
+      "Gastón Salgado"
     ]
   },
   {
@@ -75,7 +72,7 @@
     "idFilm": 141182,
     "idCycle": 431,
     "idCategorie": 1932,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Niles Attalah",
     "annee": 2010,
     "pays": "Chili",
@@ -88,6 +85,12 @@
         "typeTexte": 99,
         "texte": "Film inédit en France."
       }
+    ],
+    "generique": [
+      "Gabriela Aguilera",
+      "Gregory Cohen",
+      "Eduardo Barril",
+      "Esperanza Silva"
     ]
   },
   {
@@ -110,8 +113,7 @@
     "generique": [
       "Catalina Saavedra",
       "Claudia Celedón",
-      "Alejandro Goic",
-      "Andrea García-Huidobro"
+      "Alejandro Goic"
     ]
   },
   {
@@ -133,8 +135,7 @@
     "generique": [
       "Gael García Bernal",
       "Antonia Zegers",
-      "Alfredo Castro",
-      "Luis Gnecco"
+      "Alfredo Castro"
     ],
     "adaptation": "D'après la pièce _The Referendum_ d'Antonio Skármeta."
   },
@@ -178,8 +179,7 @@
     "generique": [
       "Daniel Candia",
       "Alejandra Yañez",
-      "Daniel Antivilo",
-      "Ariel Mateluna"
+      "Daniel Antivilo"
     ]
   },
   {
@@ -201,8 +201,7 @@
     "generique": [
       "Daniela Vega",
       "Francisco Reyes",
-      "Luis Gnecco",
-      "Aline Küppenheim"
+      "Luis Gnecco"
     ]
   },
   {
@@ -224,8 +223,7 @@
     "generique": [
       "Francisca Gavilán",
       "Cristian Quevedo",
-      "Thomas Durand",
-      "Luis Machín"
+      "Thomas Durand"
     ],
     "adaptation": "D'après le livre _Violeta Parra, ma mère_ d'Ángel Parra."
   }

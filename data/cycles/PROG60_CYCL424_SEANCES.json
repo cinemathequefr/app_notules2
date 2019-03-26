@@ -13,7 +13,13 @@
     "items": [
       {
         "idFilm": 58158,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30452,
+        "idCopie": 18314,
+        "duree": 115,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -31,11 +37,23 @@
     "items": [
       {
         "idFilm": 69050,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30405,
+        "idCopie": 18326,
+        "duree": 50,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
       },
       {
         "idFilm": 53105,
-        "ordre": 2
+        "ordre": 2,
+        "idSeance": 30405,
+        "idCopie": 18327,
+        "duree": 25,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -53,7 +71,13 @@
     "items": [
       {
         "idFilm": 58785,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30406,
+        "idCopie": 18307,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -71,7 +95,13 @@
     "items": [
       {
         "idFilm": 41206,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29957,
+        "idCopie": 18309,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -89,19 +119,67 @@
     "items": [
       {
         "idFilm": 70506,
-        "ordre": 1
-      },
-      {
-        "idFilm": 70508,
-        "ordre": 2
-      },
-      {
-        "idFilm": 70509,
-        "ordre": 3
+        "ordre": 1,
+        "idSeance": 30444,
+        "idCopie": 18322,
+        "duree": 10,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
       },
       {
         "idFilm": 70507,
-        "ordre": 4
+        "ordre": 2,
+        "idSeance": 30444,
+        "idCopie": 18325,
+        "duree": 20,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 70508,
+        "ordre": 3,
+        "idSeance": 30444,
+        "idCopie": 18323,
+        "duree": 20,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 70509,
+        "ordre": 4,
+        "idSeance": 30444,
+        "idCopie": 18324,
+        "duree": 20,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19085,
+    "idSeance": 29975,
+    "dateHeure": "2019-06-01T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Adieu, plancher des vaches !",
+    "items": [
+      {
+        "idFilm": 64294,
+        "ordre": 1,
+        "idSeance": 29975,
+        "idCopie": 18328,
+        "duree": 117,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -110,7 +188,7 @@
     "idCategorie": 1925,
     "idEvenement": 19094,
     "idSeance": 29964,
-    "dateHeure": "2019-06-01T19:30:00",
+    "dateHeure": "2019-06-01T18:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -134,7 +212,7 @@
     "idCategorie": 1925,
     "idEvenement": 19088,
     "idSeance": 29966,
-    "dateHeure": "2019-06-01T21:30:00",
+    "dateHeure": "2019-06-01T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -143,7 +221,13 @@
     "items": [
       {
         "idFilm": 60179,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29966,
+        "idCopie": 18312,
+        "duree": 129,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -161,7 +245,13 @@
     "items": [
       {
         "idFilm": 52619,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30430,
+        "idCopie": 18308,
+        "duree": 101,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -179,25 +269,67 @@
     "items": [
       {
         "idFilm": 111730,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30486,
+        "idCopie": 18319,
+        "duree": 122,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
   {
     "idCycle": 424,
     "idCategorie": 1925,
-    "idEvenement": 19085,
-    "idSeance": 29975,
+    "idEvenement": 19086,
+    "idSeance": 30540,
     "dateHeure": "2019-06-02T21:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Adieu, plancher des vaches !",
+    "titreEvenement": "Aquarelle / Fonte (La) / Vieilles chansons Georgiennes / Chant de la fleur introuvable (Le)",
     "items": [
       {
-        "idFilm": 64294,
-        "ordre": 1
+        "idFilm": 70506,
+        "ordre": 1,
+        "idSeance": 30540,
+        "idCopie": 18322,
+        "duree": 10,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 70507,
+        "ordre": 2,
+        "idSeance": 30540,
+        "idCopie": 18325,
+        "duree": 20,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 70508,
+        "ordre": 3,
+        "idSeance": 30540,
+        "idCopie": 18323,
+        "duree": 20,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 70509,
+        "ordre": 4,
+        "idSeance": 30540,
+        "idCopie": 18324,
+        "duree": 20,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -215,13 +347,19 @@
     "items": [
       {
         "idFilm": 99999,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 29986,
+        "idCopie": 18320,
+        "duree": 117,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
   {
     "idCycle": 424,
-    "idCategorie": 1925,
+    "idCategorie": 1984,
     "idEvenement": 19102,
     "idSeance": 30487,
     "dateHeure": "2019-06-05T21:30:00",
@@ -233,13 +371,19 @@
     "items": [
       {
         "idFilm": 73985,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30487,
+        "idCopie": 18310,
+        "duree": 54,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
   {
     "idCycle": 424,
-    "idCategorie": 1925,
+    "idCategorie": 1983,
     "idEvenement": 19238,
     "idSeance": 30002,
     "dateHeure": "2019-06-07T19:30:00",
@@ -251,9 +395,16 @@
     "items": [
       {
         "idFilm": 102442,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30002,
+        "idCopie": 18329,
+        "duree": 92,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Julie Bertuccelli"
   },
   {
     "idCycle": 424,
@@ -262,14 +413,20 @@
     "idSeance": 30007,
     "dateHeure": "2019-06-08T15:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "titreEvenement": "Chant d'hiver",
     "items": [
       {
         "idFilm": 128987,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30007,
+        "idCopie": 18311,
+        "duree": 117,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -280,20 +437,26 @@
     "idSeance": 30485,
     "dateHeure": "2019-06-08T17:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "titreEvenement": "Chantrapas",
     "items": [
       {
         "idFilm": 111730,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30485,
+        "idCopie": 18319,
+        "duree": 122,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
   {
     "idCycle": 424,
-    "idCategorie": 1925,
+    "idCategorie": 1984,
     "idEvenement": 19101,
     "idSeance": 30015,
     "dateHeure": "2019-06-09T17:30:00",
@@ -305,7 +468,13 @@
     "items": [
       {
         "idFilm": 117982,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30015,
+        "idCopie": 18321,
+        "duree": 236,
+        "version": "",
+        "format": "",
+        "valide": 0
       }
     ]
   },
@@ -323,11 +492,23 @@
     "items": [
       {
         "idFilm": 69050,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30021,
+        "idCopie": 18326,
+        "duree": 50,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
       },
       {
         "idFilm": 53105,
-        "ordre": 2
+        "ordre": 2,
+        "idSeance": 30021,
+        "idCopie": 18327,
+        "duree": 25,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -345,7 +526,13 @@
     "items": [
       {
         "idFilm": 58785,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30022,
+        "idCopie": 18307,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -363,7 +550,13 @@
     "items": [
       {
         "idFilm": 41206,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30029,
+        "idCopie": 18309,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -381,13 +574,19 @@
     "items": [
       {
         "idFilm": 41458,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30030,
+        "idCopie": 18306,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
   {
     "idCycle": 424,
-    "idCategorie": 1925,
+    "idCategorie": 1984,
     "idEvenement": 19102,
     "idSeance": 30050,
     "dateHeure": "2019-06-15T15:00:00",
@@ -399,7 +598,13 @@
     "items": [
       {
         "idFilm": 73985,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30050,
+        "idCopie": 18310,
+        "duree": 54,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -417,7 +622,13 @@
     "items": [
       {
         "idFilm": 52619,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30051,
+        "idCopie": 18308,
+        "duree": 101,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -459,7 +670,13 @@
     "items": [
       {
         "idFilm": 58158,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30060,
+        "idCopie": 18314,
+        "duree": 115,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -477,37 +694,13 @@
     "items": [
       {
         "idFilm": 60179,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCycle": 424,
-    "idCategorie": 1925,
-    "idEvenement": 19086,
-    "idSeance": 30063,
-    "dateHeure": "2019-06-17T16:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Aquarelle / Fonte (La) / Vieilles chansons Georgiennes / Chant de la fleur introuvable (Le)",
-    "items": [
-      {
-        "idFilm": 70506,
-        "ordre": 1
-      },
-      {
-        "idFilm": 70508,
-        "ordre": 2
-      },
-      {
-        "idFilm": 70509,
-        "ordre": 3
-      },
-      {
-        "idFilm": 70507,
-        "ordre": 4
+        "ordre": 1,
+        "idSeance": 30061,
+        "idCopie": 18312,
+        "duree": 129,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -525,7 +718,13 @@
     "items": [
       {
         "idFilm": 64294,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30064,
+        "idCopie": 18328,
+        "duree": 117,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -543,7 +742,13 @@
     "items": [
       {
         "idFilm": 99999,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30065,
+        "idCopie": 18320,
+        "duree": 117,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -561,7 +766,13 @@
     "items": [
       {
         "idFilm": 41458,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30071,
+        "idCopie": 18306,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -579,7 +790,13 @@
     "items": [
       {
         "idFilm": 128987,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30088,
+        "idCopie": 18311,
+        "duree": 117,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   }

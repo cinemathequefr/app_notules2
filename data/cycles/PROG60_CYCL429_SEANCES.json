@@ -1,7 +1,7 @@
 [
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1947,
     "idEvenement": 19218,
     "idSeance": 30435,
     "dateHeure": "2019-06-19T20:00:00",
@@ -9,7 +9,7 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Ouverture",
+    "titreEvenement": "Séance d'ouverture",
     "items": [
       {
         "idFilm": 141290,
@@ -55,31 +55,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
-    "idEvenement": 19133,
-    "idSeance": 30483,
-    "dateHeure": "2019-06-20T20:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Séance 7 : Pink Narcissus",
-    "items": [
-      {
-        "idFilm": 69494,
-        "ordre": 1,
-        "idSeance": 30483,
-        "idCopie": 9850,
-        "duree": 67,
-        "version": "VO",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1948,
     "idEvenement": 19156,
     "idSeance": 30455,
     "dateHeure": "2019-06-20T20:30:00",
@@ -113,32 +89,46 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
-    "idEvenement": 19127,
-    "idSeance": 30456,
+    "idCategorie": 1954,
+    "idEvenement": 19133,
+    "idSeance": 30512,
     "dateHeure": "2019-06-22T15:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Séance 2 : Fireworks / Sang d'un poète (Le)",
+    "titreEvenement": "Séance 7 : Pink Narcissus",
     "items": [
       {
-        "idFilm": 47713,
+        "idFilm": 69494,
         "ordre": 1,
-        "idSeance": 30456,
-        "idCopie": 1840,
-        "duree": 55,
-        "version": "",
+        "idSeance": 30512,
+        "idCopie": 9850,
+        "duree": 67,
+        "version": "VO",
         "format": "35 mm",
         "valide": 0
-      },
+      }
+    ]
+  },
+  {
+    "idCycle": 429,
+    "idCategorie": 1961,
+    "idEvenement": 19139,
+    "idSeance": 30547,
+    "dateHeure": "2019-06-22T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Séance 14 : Equation à un inconnu",
+    "items": [
       {
-        "idFilm": 30131,
-        "ordre": 2,
-        "idSeance": 30456,
-        "idCopie": 1976,
-        "duree": 20,
+        "idFilm": 132661,
+        "ordre": 1,
+        "idSeance": 30547,
+        "idCopie": 10387,
+        "duree": 93,
         "version": "",
         "format": "16 mm",
         "valide": 0
@@ -147,31 +137,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
-    "idEvenement": 19143,
-    "idSeance": 30479,
-    "dateHeure": "2019-06-22T19:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Séance 23 : Baise-moi",
-    "items": [
-      {
-        "idFilm": 69377,
-        "ordre": 1,
-        "idSeance": 30479,
-        "idCopie": 18219,
-        "duree": 77,
-        "version": "",
-        "format": "",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1958,
     "idEvenement": 19135,
     "idSeance": 30482,
     "dateHeure": "2019-06-22T21:30:00",
@@ -195,7 +161,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1959,
     "idEvenement": 19136,
     "idSeance": 30478,
     "dateHeure": "2019-06-23T19:30:00",
@@ -219,7 +185,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1963,
     "idEvenement": 19141,
     "idSeance": 30481,
     "dateHeure": "2019-06-23T21:30:00",
@@ -243,7 +209,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1955,
     "idEvenement": 19163,
     "idSeance": 30466,
     "dateHeure": "2019-06-24T19:00:00",
@@ -287,7 +253,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1965,
     "idEvenement": 19179,
     "idSeance": 30484,
     "dateHeure": "2019-06-24T21:00:00",
@@ -298,8 +264,12 @@
     "titreEvenement": "Séance 18 : Maria Klonaris et Katerina Thomadaki",
     "items": [
       {
+        "idFilm": 141455,
+        "ordre": 1
+      },
+      {
         "idFilm": 141237,
-        "ordre": 1,
+        "ordre": 2,
         "idSeance": 30484,
         "idCopie": 18212,
         "duree": 75,
@@ -311,7 +281,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1956,
     "idEvenement": 19166,
     "idSeance": 30453,
     "dateHeure": "2019-06-26T19:30:00",
@@ -345,7 +315,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1957,
     "idEvenement": 19168,
     "idSeance": 30454,
     "dateHeure": "2019-06-26T21:30:00",
@@ -419,7 +389,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1960,
     "idEvenement": 19138,
     "idSeance": 30469,
     "dateHeure": "2019-06-27T19:30:00",
@@ -427,24 +397,34 @@
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 13 : Bambi / Paradis perdu",
+    "titreEvenement": "Séance 13 : Paradis perdu/Farrah",
     "items": [
       {
         "idFilm": 128050,
         "ordre": 1,
         "idSeance": 30469,
         "idCopie": 8041,
-        "duree": 25,
+        "duree": 40,
         "version": "",
         "format": "16 mm",
         "valide": 0
       },
       {
-        "idFilm": 120245,
+        "idFilm": 141507,
         "ordre": 2,
         "idSeance": 30469,
-        "idCopie": 18204,
-        "duree": 58,
+        "idCopie": 18318,
+        "duree": 17,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141505,
+        "ordre": 3,
+        "idSeance": 30469,
+        "idCopie": 18317,
+        "duree": 0,
         "version": "",
         "format": "",
         "valide": 0
@@ -453,8 +433,8 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
-    "idEvenement": 19177,
+    "idCategorie": 1964,
+    "idEvenement": 19269,
     "idSeance": 30470,
     "dateHeure": "2019-06-27T21:30:00",
     "idSalle": [
@@ -464,8 +444,18 @@
     "titreEvenement": "Séance 17 : \"Black Men loving Black Men is a revolutionary act\"",
     "items": [
       {
-        "idFilm": 141234,
+        "idFilm": 141408,
         "ordre": 1,
+        "idSeance": 30470,
+        "idCopie": 18286,
+        "duree": 5,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141234,
+        "ordre": 2,
         "idSeance": 30470,
         "idCopie": 18209,
         "duree": 11,
@@ -475,7 +465,7 @@
       },
       {
         "idFilm": 141235,
-        "ordre": 2,
+        "ordre": 3,
         "idSeance": 30470,
         "idCopie": 18210,
         "duree": 45,
@@ -485,7 +475,7 @@
       },
       {
         "idFilm": 141236,
-        "ordre": 3,
+        "ordre": 4,
         "idSeance": 30470,
         "idCopie": 18211,
         "duree": 55,
@@ -497,7 +487,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1966,
     "idEvenement": 19181,
     "idSeance": 30471,
     "dateHeure": "2019-06-28T19:30:00",
@@ -541,7 +531,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1969,
     "idEvenement": 19185,
     "idSeance": 30472,
     "dateHeure": "2019-06-28T21:30:00",
@@ -575,10 +565,10 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1951,
     "idEvenement": 19129,
     "idSeance": 30129,
-    "dateHeure": "2019-06-29T20:00:00",
+    "dateHeure": "2019-06-29T19:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -599,22 +589,66 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
-    "idEvenement": 19139,
-    "idSeance": 30144,
-    "dateHeure": "2019-06-29T20:30:00",
+    "idCategorie": 1971,
+    "idEvenement": 19268,
+    "idSeance": 30548,
+    "dateHeure": "2019-06-29T22:15:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 14 : Equation à un inconnu",
+    "titreEvenement": "Séance 23 : Virginie Despentes",
     "items": [
       {
-        "idFilm": 132661,
+        "idFilm": 141389,
         "ordre": 1,
-        "idSeance": 30144,
-        "idCopie": 10387,
-        "duree": 93,
+        "idSeance": 30548,
+        "idCopie": 18285,
+        "duree": 30,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 69377,
+        "ordre": 2,
+        "idSeance": 30548,
+        "idCopie": 18219,
+        "duree": 77,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 429,
+    "idCategorie": 1949,
+    "idEvenement": 19127,
+    "idSeance": 30513,
+    "dateHeure": "2019-06-30T17:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Séance 2 : Fireworks / Sang d'un poète (Le)",
+    "items": [
+      {
+        "idFilm": 47713,
+        "ordre": 1,
+        "idSeance": 30513,
+        "idCopie": 1840,
+        "duree": 55,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 30131,
+        "ordre": 2,
+        "idSeance": 30513,
+        "idCopie": 1976,
+        "duree": 20,
         "version": "",
         "format": "16 mm",
         "valide": 0
@@ -623,23 +657,33 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
-    "idEvenement": 19142,
-    "idSeance": 30150,
-    "dateHeure": "2019-07-01T19:00:00",
+    "idCategorie": 1956,
+    "idEvenement": 19166,
+    "idSeance": 30549,
+    "dateHeure": "2019-07-01T19:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Séance 21 : Tabou",
+    "titreEvenement": "Séance 9 : Guy Hocquenghem",
     "items": [
       {
-        "idFilm": 68683,
+        "idFilm": 141224,
         "ordre": 1,
-        "idSeance": 30150,
-        "idCopie": 3982,
-        "duree": 100,
-        "version": "VOSTF",
+        "idSeance": 30549,
+        "idCopie": 18197,
+        "duree": 26,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 51286,
+        "ordre": 2,
+        "idSeance": 30549,
+        "idCopie": 3114,
+        "duree": 95,
+        "version": "",
         "format": "35 mm",
         "valide": 0
       }
@@ -647,22 +691,52 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
-    "idEvenement": 19144,
-    "idSeance": 30151,
-    "dateHeure": "2019-07-01T21:00:00",
+    "idCategorie": 1962,
+    "idEvenement": 19173,
+    "idSeance": 30550,
+    "dateHeure": "2019-07-01T21:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Séance 24 : Fantasma (O)",
+    "titreEvenement": "Séance 15 : Lionel Soukaz",
     "items": [
       {
-        "idFilm": 73443,
+        "idFilm": 76873,
         "ordre": 1,
-        "idSeance": 30151,
-        "idCopie": 18220,
-        "duree": 97,
+        "idSeance": 30550,
+        "idCopie": 2880,
+        "duree": 48,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 141231,
+        "ordre": 2,
+        "idSeance": 30550,
+        "idCopie": 18205,
+        "duree": 28,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141232,
+        "ordre": 3,
+        "idSeance": 30550,
+        "idCopie": 18206,
+        "duree": 14,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141233,
+        "ordre": 4,
+        "idSeance": 30550,
+        "idCopie": 18207,
+        "duree": 5,
         "version": "",
         "format": "",
         "valide": 0
@@ -671,106 +745,72 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
-    "idEvenement": 19145,
-    "idSeance": 30160,
+    "idCategorie": 1957,
+    "idEvenement": 19168,
+    "idSeance": 30551,
     "dateHeure": "2019-07-03T19:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 25 : Courts-métrages",
+    "titreEvenement": "Séance 10 : Barbara Hammer",
     "items": [
       {
-        "idFilm": 141244,
+        "idFilm": 141225,
         "ordre": 1,
-        "idSeance": 30160,
-        "idCopie": 18221,
-        "duree": 9,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141034,
-        "ordre": 2,
-        "idSeance": 30160,
-        "idCopie": 18222,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141035,
-        "ordre": 3,
-        "idSeance": 30160,
-        "idCopie": 18223,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141245,
-        "ordre": 4,
-        "idSeance": 30160,
-        "idCopie": 18224,
-        "duree": 10,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141246,
-        "ordre": 5
-      },
-      {
-        "idFilm": 117477,
-        "ordre": 6,
-        "idSeance": 30160,
-        "idCopie": 698,
-        "duree": 30,
-        "version": "",
-        "format": "Vidéo",
-        "valide": 0
-      },
-      {
-        "idFilm": 141247,
-        "ordre": 7,
-        "idSeance": 30160,
-        "idCopie": 18226,
-        "duree": 7,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 117484,
-        "ordre": 8,
-        "idSeance": 30160,
-        "idCopie": 666,
-        "duree": 6,
-        "version": "",
-        "format": "Super 8",
-        "valide": 0
-      },
-      {
-        "idFilm": 141248,
-        "ordre": 9,
-        "idSeance": 30160,
-        "idCopie": 18227,
+        "idSeance": 30551,
+        "idCopie": 18198,
         "duree": 8,
         "version": "",
         "format": "",
         "valide": 0
       },
       {
-        "idFilm": 141249,
-        "ordre": 10,
-        "idSeance": 30160,
-        "idCopie": 18228,
-        "duree": 3,
+        "idFilm": 141226,
+        "ordre": 2,
+        "idSeance": 30551,
+        "idCopie": 18199,
+        "duree": 4,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141227,
+        "ordre": 3,
+        "idSeance": 30551,
+        "idCopie": 18200,
+        "duree": 19,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141228,
+        "ordre": 4,
+        "idSeance": 30551,
+        "idCopie": 18201,
+        "duree": 6,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141229,
+        "ordre": 5,
+        "idSeance": 30551,
+        "idCopie": 18202,
+        "duree": 25,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141230,
+        "ordre": 6,
+        "idSeance": 30551,
+        "idCopie": 18203,
+        "duree": 10,
         "version": "",
         "format": "",
         "valide": 0
@@ -779,7 +819,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1974,
     "idEvenement": 19192,
     "idSeance": 30473,
     "dateHeure": "2019-07-03T21:30:00",
@@ -813,7 +853,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1975,
     "idEvenement": 19194,
     "idSeance": 30166,
     "dateHeure": "2019-07-04T19:30:00",
@@ -844,18 +884,8 @@
         "valide": 0
       },
       {
-        "idFilm": 141254,
-        "ordre": 3,
-        "idSeance": 30166,
-        "idCopie": 18233,
-        "duree": 17,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
         "idFilm": 141255,
-        "ordre": 4,
+        "ordre": 3,
         "idSeance": 30166,
         "idCopie": 18234,
         "duree": 7,
@@ -865,10 +895,20 @@
       },
       {
         "idFilm": 141256,
-        "ordre": 5,
+        "ordre": 4,
         "idSeance": 30166,
         "idCopie": 18235,
         "duree": 6,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141254,
+        "ordre": 5,
+        "idSeance": 30166,
+        "idCopie": 18233,
+        "duree": 17,
         "version": "",
         "format": "",
         "valide": 0
@@ -887,7 +927,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1976,
     "idEvenement": 19200,
     "idSeance": 30474,
     "dateHeure": "2019-07-04T21:30:00",
@@ -941,32 +981,32 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
-    "idEvenement": 19206,
-    "idSeance": 30174,
+    "idCategorie": 1980,
+    "idEvenement": 19273,
+    "idSeance": 30552,
     "dateHeure": "2019-07-05T19:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 30 : B.U.C.K.L.E / The Shakedown",
+    "titreEvenement": "Séance 29 : Le Projet Sextoy",
     "items": [
       {
-        "idFilm": 141263,
+        "idFilm": 141501,
         "ordre": 1,
-        "idSeance": 30174,
-        "idCopie": 18243,
-        "duree": 11,
+        "idSeance": 30552,
+        "idCopie": 18315,
+        "duree": 4,
         "version": "",
         "format": "",
         "valide": 0
       },
       {
-        "idFilm": 141264,
+        "idFilm": 141450,
         "ordre": 2,
-        "idSeance": 30174,
-        "idCopie": 18244,
-        "duree": 72,
+        "idSeance": 30552,
+        "idCopie": 18303,
+        "duree": 75,
         "version": "",
         "format": "",
         "valide": 0
@@ -975,61 +1015,61 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
-    "idEvenement": 19173,
-    "idSeance": 30475,
+    "idCategorie": 1950,
+    "idEvenement": 19157,
+    "idSeance": 30553,
     "dateHeure": "2019-07-05T21:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 15 : Lionel Soukaz",
+    "titreEvenement": "Séance 3 : Jean Genet et cie",
     "items": [
       {
-        "idFilm": 76873,
+        "idFilm": 54392,
         "ordre": 1,
-        "idSeance": 30475,
-        "idCopie": 2880,
-        "duree": 48,
+        "idSeance": 30553,
+        "idCopie": 18281,
+        "duree": 25,
         "version": "",
         "format": "35 mm",
         "valide": 0
       },
       {
-        "idFilm": 141231,
+        "idFilm": 141215,
         "ordre": 2,
-        "idSeance": 30475,
-        "idCopie": 18205,
-        "duree": 28,
+        "idSeance": 30553,
+        "idCopie": 18186,
+        "duree": 7,
         "version": "",
         "format": "",
         "valide": 0
       },
       {
-        "idFilm": 141232,
+        "idFilm": 141216,
         "ordre": 3,
-        "idSeance": 30475,
-        "idCopie": 18206,
-        "duree": 14,
+        "idSeance": 30553,
+        "idCopie": 18187,
+        "duree": 22,
         "version": "",
-        "format": "",
+        "format": "Vidéo",
         "valide": 0
       },
       {
-        "idFilm": 141233,
+        "idFilm": 141217,
         "ordre": 4,
-        "idSeance": 30475,
-        "idCopie": 18207,
-        "duree": 5,
+        "idSeance": 30553,
+        "idCopie": 18188,
+        "duree": 8,
         "version": "",
-        "format": "",
+        "format": "8 mm",
         "valide": 0
       }
     ]
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1977,
     "idEvenement": 19204,
     "idSeance": 30493,
     "dateHeure": "2019-07-06T19:30:00",
@@ -1037,7 +1077,7 @@
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 29 : Jean Genet, un captif amoureux, parcours d'un poète combattant",
+    "titreEvenement": "Séance 31 : Jean Genet, un captif amoureux, parcours d'un poète combattant",
     "items": [
       {
         "idFilm": 141262,
@@ -1053,7 +1093,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1967,
     "idEvenement": 19183,
     "idSeance": 30182,
     "dateHeure": "2019-07-06T21:15:00",
@@ -1061,14 +1101,24 @@
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 20 : Marble Ass",
+    "titreEvenement": "Séance 20 : B.U.C.K.L.E/The Shakedown",
     "items": [
       {
-        "idFilm": 141241,
+        "idFilm": 141263,
         "ordre": 1,
         "idSeance": 30182,
-        "idCopie": 18216,
-        "duree": 86,
+        "idCopie": 18243,
+        "duree": 11,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141264,
+        "ordre": 2,
+        "idSeance": 30182,
+        "idCopie": 18244,
+        "duree": 72,
         "version": "",
         "format": "",
         "valide": 0
@@ -1077,61 +1127,111 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
-    "idEvenement": 19157,
-    "idSeance": 30203,
+    "idCategorie": 1973,
+    "idEvenement": 19145,
+    "idSeance": 30554,
     "dateHeure": "2019-07-10T19:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 3 : Jean Genet et cie",
+    "titreEvenement": "Séance 25 : Courts-métrages",
     "items": [
       {
-        "idFilm": 54392,
+        "idFilm": 141244,
         "ordre": 1,
-        "idSeance": 30203,
-        "idCopie": 18281,
-        "duree": 25,
+        "idSeance": 30554,
+        "idCopie": 18221,
+        "duree": 9,
         "version": "",
-        "format": "35 mm",
+        "format": "",
         "valide": 0
       },
       {
-        "idFilm": 141215,
+        "idFilm": 141034,
         "ordre": 2,
-        "idSeance": 30203,
-        "idCopie": 18186,
+        "idSeance": 30554,
+        "idCopie": 18222,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141035,
+        "ordre": 3,
+        "idSeance": 30554,
+        "idCopie": 18223,
+        "duree": 2,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141245,
+        "ordre": 4,
+        "idSeance": 30554,
+        "idCopie": 18224,
+        "duree": 10,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 117477,
+        "ordre": 5,
+        "idSeance": 30554,
+        "idCopie": 698,
+        "duree": 30,
+        "version": "",
+        "format": "Vidéo",
+        "valide": 0
+      },
+      {
+        "idFilm": 141247,
+        "ordre": 6,
+        "idSeance": 30554,
+        "idCopie": 18226,
         "duree": 7,
         "version": "",
         "format": "",
         "valide": 0
       },
       {
-        "idFilm": 141216,
-        "ordre": 3,
-        "idSeance": 30203,
-        "idCopie": 18187,
-        "duree": 22,
+        "idFilm": 117484,
+        "ordre": 7,
+        "idSeance": 30554,
+        "idCopie": 666,
+        "duree": 6,
         "version": "",
-        "format": "Vidéo",
+        "format": "Super 8",
         "valide": 0
       },
       {
-        "idFilm": 141217,
-        "ordre": 4,
-        "idSeance": 30203,
-        "idCopie": 18188,
+        "idFilm": 141248,
+        "ordre": 8,
+        "idSeance": 30554,
+        "idCopie": 18227,
         "duree": 8,
         "version": "",
-        "format": "8 mm",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141249,
+        "ordre": 9,
+        "idSeance": 30554,
+        "idCopie": 18228,
+        "duree": 3,
+        "version": "",
+        "format": "",
         "valide": 0
       }
     ]
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1952,
     "idEvenement": 19161,
     "idSeance": 30494,
     "dateHeure": "2019-07-10T21:30:00",
@@ -1185,7 +1285,7 @@
   },
   {
     "idCycle": 429,
-    "idCategorie": 1930,
+    "idCategorie": 1953,
     "idEvenement": 19162,
     "idSeance": 30209,
     "dateHeure": "2019-07-11T20:30:00",

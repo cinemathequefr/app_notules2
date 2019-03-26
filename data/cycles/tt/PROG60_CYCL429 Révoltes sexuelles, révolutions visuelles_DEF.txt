@@ -1,0 +1,449 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>><dcs:ITAL=<cTypeface:Italic>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:CATEGORIE>Séance d'ouverture
+<pstyle:TITRE>Glacier
+<pstyle:TECHNIQUE>de Jonathan Caouette
+<pstyle:TECHNIQUE>États-Unis/2015/8'
+<pstyle:SYNOPSIS>Un clip en forme de récapitulatif visuel des luttes queer.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Chic Point: Fashion For Israeli Checkpoints
+<pstyle:TECHNIQUE>de Sharif Waked
+<pstyle:TECHNIQUE>Israël/2003/7'
+<pstyle:TECHNIQUE>Avec Saleh Bakri.
+<pstyle:SYNOPSIS>«<0x00A0>Boomerang d'ironie.<0x00A0>» (Nicole Brenez)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Makita Witch
+<pstyle:TECHNIQUE>d'Angela Marzullo
+<pstyle:TECHNIQUE>Suisse/2008/3'
+<pstyle:SYNOPSIS>«<0x00A0>Makita en sorcière qui vole sur son balai.<0x00A0>» (Angela Marzullo)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Kiki
+<pstyle:TECHNIQUE>de Sara Jordenö
+<pstyle:TECHNIQUE>Suède/2016/94'
+<pstyle:SYNOPSIS>«<0x00A0>Sur la scène Kiki, espace de performance et d'expression de soi, les jeunes LGBTQ de couleur à Harlem dansent pour inventer leur propre vie, élargir le spectre du genre et transformer le tissu social.<0x00A0>» (Taylor Hess)
+<pstyle:CATEGORIE>Séance 1 : Dickson Experimental Sound Film / Salomé
+<pstyle:TITRE>Dickson Experimental Sound Film
+<pstyle:TECHNIQUE>de William K.L. Dickson
+<pstyle:TECHNIQUE>États-Unis/1894/1'
+<pstyle:SYNOPSIS>«<0x00A0>Aux commencements du cinéma, une valse gaie.<0x00A0>» (Nicole Brenez)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Salomé
+<pstyle:TECHNIQUE>de Charles Bryant, Alla Nazimova
+<pstyle:TECHNIQUE>États-Unis/1922/72'/INT. ALL./35 mm
+<pstyle:TECHNIQUE>D'après la pièce <cSkew:9>Salomé<cSkew:> d'Oscar Wilde.
+<pstyle:TECHNIQUE>Avec Alla Nazimova, Mitchell Lewis, Nigel De Brulier.
+<pstyle:SYNOPSIS>«<0x00A0><cSkew:9>Salomé<cSkew:>, voulu, produit, joué par Alla Nazimova, se débarrasse de toutes les assignations identitaires, s'attache à brouiller toutes les frontières, divisions, répartitions instituées, pour inventer son propre monde.<0x00A0>» (Nicole Brenez)
+<pstyle:CATEGORIE>Séance 7 : Pink Narcissus
+<pstyle:TITRE>Pink Narcissus
+<pstyle:TECHNIQUE>de James Bidgood
+<pstyle:TECHNIQUE>États-Unis/1971/67'/VO/35 mm
+<pstyle:TECHNIQUE>Avec Bobby Kendall, Don Brooks, Charles Ludman.
+<pstyle:SYNOPSIS>«<0x00A0>Apogée d'une imagerie homosexuelle portée à l'incandescence.<0x00A0>» (Nicole Brenez)
+<pstyle:CATEGORIE>Séance 14 : Equation à un inconnu
+<pstyle:TITRE>Équation à un inconnu
+<pstyle:TECHNIQUE>de Dietrich De Velsa
+<pstyle:TECHNIQUE>France/1994/93'/16 mm
+<pstyle:TECHNIQUE>Avec Jean-Jacques Loupmon, Gianfranco Longhi, Reinhard Montz.
+<pstyle:SYNOPSIS>«<0x00A0>L'acmé du porno mélancolique, mis en scène avec une grâce absolue par le mystérieux Dietrich de Velsa, peintre puis directeur artistique de la Grande Eugène qui réalise ici son unique film et néanmoins chef-d'<0x0153>uvre.<0x00A0>» (Yann Gonzalez)
+<pstyle:CATEGORIE>Séance 11 : Droit du plus fort (Le)
+<pstyle:TITRE>Le Droit du plus fort
+<pstyle:TITRE_ANG>(Faustrecht der Freiheit)
+<pstyle:TECHNIQUE>de Rainer Werner Fassbinder
+<pstyle:TECHNIQUE>RFA/1974/123'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Rainer Werner Fassbinder, Peter Chatel, Karlheinz Böhm.
+<pstyle:SYNOPSIS>Franz Biberkopf, un jeune homosexuel, perd son travail et son petit ami, arrêté par la police. Il gagne à la loterie et rencontre un homme très intéressé par son argent.
+<pstyle:SYNOPSIS>«<0x00A0>Le film cherche à représenter, dans la vie quotidienne en Allemagne, les différenciations de classe, à y inscrire la lutte des classes<0x00A0>; et à sortir le monde homosexuel du ghetto mystificateur où il se trouve refoulé.<0x00A0>» (Serge Le Péron)
+<pstyle:CATEGORIE>Séance 12 : Je, tu, il, elle
+<pstyle:TITRE>Je, tu, il, elle
+<pstyle:TECHNIQUE>de Chantal Akerman
+<pstyle:TECHNIQUE>Belgique/1974/90'/DCP
+<pstyle:TECHNIQUE>Avec Chantal Akerman, Niels Arestrup, Claire Wauthion.
+<pstyle:SYNOPSIS>Une jeune femme passe du temps seule dans sa chambre, sur la route en stop, et avec une amie.
+<pstyle:SYNOPSIS>«<0x00A0>Je retournais à Bruxelles en stop voir cette fille, Claire, et j'ai vécu toutes sortes d'aventures avec les camionneurs qui me prenaient en stop, c'était dangereux. Mais à l'époque, on vivait comme ça.<0x00A0>» (Chantal Akerman)
+<pstyle:CATEGORIE>Séance 16 : Born in flames
+<pstyle:TITRE>Born in Flames
+<pstyle:TECHNIQUE>de Lizzie Borden
+<pstyle:TECHNIQUE>États-Unis/1983/80'
+<pstyle:TECHNIQUE>Avec Honey, Adele Bertei, Jean Satterfield.
+<pstyle:SYNOPSIS>Fable de science-fiction tournée caméra au poing dans le downtown new-yorkais rendant hommage comme jamais à une vision radicale dont la lucidité éclate à la manière d'un cocktail Molotov.
+<pstyle:CATEGORIE>Séance 8 : Curt McDowell
+<pstyle:TITRE>Confessions
+<pstyle:TECHNIQUE>de Curt McDowell
+<pstyle:TECHNIQUE>États-Unis/1972/11'
+<pstyle:TECHNIQUE>Avec Carla Cooper, Mark Hellinger, Ted Davis.
+<pstyle:SYNOPSIS>Face caméra, l'auteur explique ses pratiques sexuelles à ses parents.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Nudes : A Sketchbook
+<pstyle:TECHNIQUE>de Curt McDowell
+<pstyle:TECHNIQUE>États-Unis/1974/30'
+<pstyle:TECHNIQUE>Avec Christopher, Mark Hellinger, Virginia Giritlian.
+<pstyle:SYNOPSIS>«<0x00A0>Galerie de portraits affectifs irradiant de désir.<0x00A0>» (Nicole Brenez)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Loads
+<pstyle:TECHNIQUE>de Curt McDowell
+<pstyle:TECHNIQUE>États-Unis/1985/19'
+<pstyle:SYNOPSIS>«<0x00A0>Du mâle hétérosexuel comme fétiche.<0x00A0>» (Nicole Brenez)
+<pstyle:CATEGORIE>Séance 18 : Maria Klonaris et Katerina Thomadaki
+<pstyle:TITRE>Danse du miroir
+<pstyle:TECHNIQUE>de Sothean Nhieim
+<pstyle:TECHNIQUE>France/1981
+<pstyle:SYNOPSIS>«<0x00A0>À jamais le stade du miroir.<0x00A0>» (Nicole Brenez)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Selva , un portrait de Parvaneh Navaï
+<pstyle:TECHNIQUE>de Maria Klonaris
+<pstyle:TECHNIQUE>France/1983/75'
+<pstyle:TECHNIQUE>Avec Parvaneh Navaï.
+<pstyle:SYNOPSIS>«<0x00A0><cSkew:9>Selva<cSkew:> approfondit deux archétypes<0x00A0>: la sorcière et la nymphe. Chez Maria Klonaris, la sorcière est d'abord une dryade, une créature de la forêt, qui révèle et fait rayonner les forces naturelles.<0x00A0>» (Nicole Brenez)
+<pstyle:CATEGORIE>Séance 9 : Guy Hocquenghem
+<pstyle:TITRE>Le F.H.A.R. (Front Homosexuel d'Action Révolutionnaire)
+<pstyle:TECHNIQUE>de Carole Roussopoulos
+<pstyle:TECHNIQUE>France/1971/26'
+<pstyle:SYNOPSIS>«<0x00A0>Nous ne nous contenterons pas de nous défendre, nous allons attaquer.<0x00A0>» (F.H.A.R., <cSkew:9>Rapport contre la normalité<cSkew:>, 1971)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Race d'ep
+<pstyle:TECHNIQUE>de Lionel Soukaz
+<pstyle:TECHNIQUE>France/1978/95'/35 mm
+<pstyle:TECHNIQUE>Avec Elizar Van Effenterre, Pierre Stone, Gilles Sandier.
+<pstyle:SYNOPSIS>«<0x00A0>Pour ce qui en est de la hiérarchie des luttes révolutionnaires selon l'urgence, les homosexuels pensent que ce combat est inséparable de la lutte contre l'exploitation socio-économique. L'un sans l'autre reste lettre morte.<0x00A0>» (Guy Hocquenghem)
+<pstyle:CATEGORIE>Séance 10 : Barbara Hammer
+<pstyle:TITRE>Sisters!
+<pstyle:TECHNIQUE>de Barbara Hammer
+<pstyle:TECHNIQUE>États-Unis/1974/8'
+<pstyle:SYNOPSIS>Célébration du lesbianisme.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Dyketactics
+<pstyle:TECHNIQUE>de Barbara Hammer
+<pstyle:TECHNIQUE>États-Unis/1973/4'
+<pstyle:SYNOPSIS>«<0x00A0>L'imagerie sensuelle qui provoque des sensation physiques chez le spectateur à travers des stimulations visuelles était le principe esthétique de base de mon premier film lesbien fait pour des femmes.<0x00A0>» (Barbara Hammer)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Superdyke Meets Madame X
+<pstyle:TECHNIQUE>de Barbara Hammer
+<pstyle:TECHNIQUE>États-Unis/1976/19'
+<pstyle:TECHNIQUE>Avec Max Almy, Barbara Hammer.
+<pstyle:SYNOPSIS>«<0x00A0>Un joyau des la haute époque des luttes de libération.<0x00A0>» (Juan Antonio Suárez)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Multiple Orgasm
+<pstyle:TECHNIQUE>de Barbara Hammer
+<pstyle:TECHNIQUE>États-Unis/1976/6'
+<pstyle:SYNOPSIS>«<0x00A0>Nature, zone érogène.<0x00A0>» (Nicole Brenez)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Women I Love
+<pstyle:TECHNIQUE>de Barbara Hammer
+<pstyle:TECHNIQUE>États-Unis/1979/25'
+<pstyle:SYNOPSIS>«<0x00A0>Une brassée d'amies.<0x00A0>» (Nicole Brenez)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Synch Touch
+<pstyle:TECHNIQUE>de Barbara Hammer
+<pstyle:TECHNIQUE>États-Unis/1981/10'
+<pstyle:SYNOPSIS>«<0x00A0>Expérience de cinéma haptique.<0x00A0>» (Nicole Brenez)
+<pstyle:CATEGORIE>Séance 13 : Paradis perdu/Farrah
+<pstyle:TITRE>Paradis perdu
+<pstyle:TECHNIQUE>de Franssou Prenant
+<pstyle:TECHNIQUE>France/1975/40'/16 mm
+<pstyle:TECHNIQUE>Avec Hélène Hazéra, Marie France, René Scherer.
+<pstyle:SYNOPSIS>De jeunes femmes trans font des rues de Paris leur cabaret. Leurs rêves sont rapidement rattrapés par la réalité.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Salon de T - Farrah Diod (Parties 1 et 2)
+<pstyle:TECHNIQUE>de Hélène Hazéra, Christophe Martet
+<pstyle:TECHNIQUE>France/2009/17'
+<pstyle:SYNOPSIS>Farrah Diod, depuis près de 30 ans, est la spécialiste de la 3D à qui l'on doit notamment le générique mémorable de l'émission avant-gardiste de Canal + <cSkew:9>L'<0x0152>il du cyclone<cSkew:>.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Farrah, l'Être Ange
+<pstyle:TECHNIQUE>d'Alain Burosse, Jean-Baptiste Erreca, Sébastien Petit
+<pstyle:TECHNIQUE>France/2012
+<pstyle:SYNOPSIS>«<0x00A0>De ses collages transgenres retrouvés à ses sensuelles photos "poilues", de ses avatars sur Second Life aux souvenirs capturés de moments de bonheur, ce montage est un hommage collectif à notre amie, la belle et éternelle Farrah.<0x00A0>»
+<pstyle:CATEGORIE>Séance 17 : "Black Men loving Black Men is a revolutionary act"
+<pstyle:TITRE>I Object
+<pstyle:TECHNIQUE>de House of Colour
+<pstyle:TECHNIQUE>États-Unis/1990/5'
+<pstyle:SYNOPSIS>«<0x00A0>Je veux être l'objet de mon propre désir.<0x00A0>»
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>This Is Not an AIDS Advertisement
+<pstyle:TECHNIQUE>d'Isaac Julien
+<pstyle:TECHNIQUE>Grande-Bretagne/1988/11'
+<pstyle:SYNOPSIS>«<0x00A0>Reconquête du terrain au temps du sida.<0x00A0>» (Isaac Julien)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Looking for Langston
+<pstyle:TECHNIQUE>d'Isaac Julien
+<pstyle:TECHNIQUE>Grande-Bretagne/1989/45'
+<pstyle:TECHNIQUE>Avec Ben Ellison, Matthew Baidoo, Akim Mogaji.
+<pstyle:SYNOPSIS>Fresque onirique de la Harlem Renaissance, fête explosive ponctuée par la voix du poète Langston Hughes, où des hommes noirs s'enivrent de plaisirs.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Tongues Untied
+<pstyle:TECHNIQUE>de Marlon Riggs
+<pstyle:TECHNIQUE>États-Unis/1989/55'
+<pstyle:TECHNIQUE>Avec Marlon Riggs, Michael Bell, Kerrigan Black.
+<pstyle:SYNOPSIS>«<0x00A0>Marlon Riggs réunit ses frères, parmi lesquels le poète Essex Hemphill, dans ce pamphlet sensible autour de l'expérience des hommes noirs homosexuels au moment de l'épidémie de sida.<0x00A0>» (Stéphane Gérard)
+<pstyle:CATEGORIE>Séance 19 : Fast Trip, Long Drop / L Is for the Way You Look / O Happy Day
+<pstyle:TITRE>L Is for the Way You Look
+<pstyle:TECHNIQUE>de Jean Carlomusto
+<pstyle:TECHNIQUE>États-Unis/1991/24'
+<pstyle:SYNOPSIS>Plusieurs lesbiennes racontent les femmes, les icônes, les idoles qui les fascinent, constituant une histoire joyeuse de la politique lesbienne des images.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Fast Trip, Long Drop
+<pstyle:TECHNIQUE>de Gregg Bordowitz
+<pstyle:TECHNIQUE>États-Unis/1994/54'
+<pstyle:SYNOPSIS>Gregg Bordowitz utilise l'annonce de sa séropositivité comme levier pour analyser le rapport à la mort dans un pamphlet qui croise critique des médias, activisme et mise en scène d'archives.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>O Happy Day
+<pstyle:TECHNIQUE>de Charles Lofton
+<pstyle:TECHNIQUE>États-Unis/1996/6'
+<pstyle:SYNOPSIS>L'histoire se réécrit dans cette fusion imaginaire entre le mouvement de libération homosexuelle et le Black Panther Party, utilisant images d'archives et citations de Huey Newton.
+<pstyle:CATEGORIE>Séance 22 : William E. Jones
+<pstyle:TITRE>The Fall of Communism As Seen in Gay Pornography
+<pstyle:TECHNIQUE>de William E. Jones
+<pstyle:TECHNIQUE>États-Unis/1998/19'
+<pstyle:SYNOPSIS>«<0x00A0>L'industrie du X gay à l'Est transforme l'iconographie soviétique en fétiche sexuel.<0x00A0>» (Nicole Brenez)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Tearoom
+<pstyle:TECHNIQUE>de William E. Jones
+<pstyle:TECHNIQUE>États-Unis/2008/56'
+<pstyle:SYNOPSIS>«<0x00A0>Images de surveillance policière, symptômes d'une époque étouffante de répression sexuelle.<0x00A0>» (Nicole Brenez)
+<pstyle:CATEGORIE>Séance 4 : Cavalier noir (Le)
+<pstyle:TITRE>Le Cavalier noir
+<pstyle:TITRE_ANG>(The Singer Not the Song)
+<pstyle:TECHNIQUE>de Roy Ward Baker
+<pstyle:TECHNIQUE>Grande-Bretagne/1960/132'/VOSTF
+<pstyle:TECHNIQUE>Avec Dirk Bogarde, John Mills, Mylène Demongeot.
+<pstyle:SYNOPSIS>Un prêtre prend ses fonctions dans une ville mexicaine reculée qui se trouve sous la coupe d'un bandit impitoyable. La rivalité mortelle entre les deux hommes tourne vite à la fascination réciproque.
+<pstyle:SYNOPSIS>«<0x00A0>Le pantalon moulant vient provoquer la soutane. Indéniablement, ambiguïté et identité sexuelles fascinaient le cinéaste.<0x00A0>» (Olivier Rossignot)
+<pstyle:CATEGORIE>Séance 23 : Virginie Despentes
+<pstyle:TITRE>Lesborama
+<pstyle:TECHNIQUE>de Nathalie Magnan
+<pstyle:TECHNIQUE>France/1995/30'
+<pstyle:SYNOPSIS>«<0x00A0>Une jubilatoire histoire visuelle des lesbiennes dans le cinéma international.<0x00A0>» (Nicole Brenez)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Baise-moi
+<pstyle:TECHNIQUE>de Virginie Despentes, Coralie Trinh Thi
+<pstyle:TECHNIQUE>France/1999/77'
+<pstyle:TECHNIQUE>Avec Raffaëla Anderson, Karen Bach, Céline Beugnot.
+<pstyle:SYNOPSIS>«<0x00A0>Rien ne les possède, elles ne sont pas folles, elles ne sont pas hystériques et elles regardent la réalité en face.<0x00A0>» (Nicole Brenez)
+<pstyle:CATEGORIE>Séance 2 : Fireworks / Sang d'un poète (Le)
+<pstyle:TITRE>Le Sang d'un poète
+<pstyle:TECHNIQUE>de Jean Cocteau
+<pstyle:TECHNIQUE>France/1930/55'/35 mm
+<pstyle:TECHNIQUE>Avec Enrique de Rivero, Lee Miller, Pauline Carton.
+<pstyle:SYNOPSIS>Un artiste passe de l'autre côté du miroir à l'invitation d'une statue.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:SYNOPSIS>«<0x00A0>Dites à Cocteau que je l'aime, parce que, comme s'il revenait des rivages d'une mer, il est le seul à être revenu bronzé du monde des mythes.<0x00A0>» (Rainer Maria Rilke)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Fireworks
+<pstyle:TECHNIQUE>de Kenneth Anger
+<pstyle:TECHNIQUE>États-Unis/1947/20'/16 mm
+<pstyle:TECHNIQUE>Avec Kenneth Anger, Gordon Gray, Bill Seltzer.
+<pstyle:SYNOPSIS>«<0x00A0><cSkew:9>Fireworks<cSkew:> vient du plus profond de la nuit d'où émergent toutes les <0x0153>uvres vraies. Il touche le vif de l'âme et c'est là chose rare.<0x00A0>» (Jean Cocteau)
+<pstyle:CATEGORIE>Séance 15 : Lionel Soukaz
+<pstyle:TITRE>Ixe
+<pstyle:TECHNIQUE>de Lionel Soukaz
+<pstyle:TECHNIQUE>France/1980/48'/35 mm
+<pstyle:TECHNIQUE>Avec Jean-François B., François Dantchev, Karine.
+<pstyle:SYNOPSIS>«<0x00A0><cSkew:9>X<cSkew:> est un écartèlement<0x00A0>: aux quatre points cardinaux, aux quatre extrémités de la croix, la Guerre, le Sexe, la Religion et la Drogue.<0x00A0>» (Guy Hocquenghem)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>RV, mon ami
+<pstyle:TECHNIQUE>de Lionel Soukaz
+<pstyle:TECHNIQUE>France/1994/28'
+<pstyle:SYNOPSIS>«<0x00A0>Élégie de polaroïds tournée en caméra vide et haut, où l'on cherche le point sur des photos floues pour refuser l'absence de l'être aimé.<0x00A0>» (Stéphane Gérard)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>La Loi X  la nuit en permanence
+<pstyle:TECHNIQUE>de Lionel Soukaz
+<pstyle:TECHNIQUE>France/2001/14'
+<pstyle:SYNOPSIS>Sur la fin d'un âge d'or inattendu, celui du cinéma X.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Nu lacté
+<pstyle:TECHNIQUE>de Lionel Soukaz, Othello Vilgard, Xavier Baert
+<pstyle:TECHNIQUE>France/2002/5'
+<pstyle:SYNOPSIS>Performance par Tom de Pékin.
+<pstyle:CATEGORIE>Séance 26 : L'Ordre des mots / Vos papiers
+<pstyle:TITRE>L'Ordre des mots
+<pstyle:TECHNIQUE>de Cynthia Arra, Mélissa Arra
+<pstyle:TECHNIQUE>France/2007/75'
+<pstyle:SYNOPSIS>Une série de portraits qui constitue un panorama du militantisme trans et intersexe en France, en donnant la parole aux personnes militantes pionnières et actrices de ces luttes.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Vos papiers
+<pstyle:TECHNIQUE>de Bruce
+<pstyle:TECHNIQUE>France/2013/36'
+<pstyle:SYNOPSIS>Dans un photomaton, plusieurs personnes trans réfléchissent à leur rapport aux papiers d'identité.
+<pstyle:CATEGORIE>Séance 27 : Vie et survie trans
+<pstyle:TITRE>All That Sheltering Emptiness
+<pstyle:TECHNIQUE>de Gina Carducci, Mattilda Bernstein Sycamore
+<pstyle:TECHNIQUE>États-Unis/2010/7'
+<pstyle:SYNOPSIS>Quand l'anonymat des lobbys d'hôtels rencontre un récit sincère sur la sexualité, l'intimité et le consentement derrière les portes closes.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Ben/O
+<pstyle:TECHNIQUE>de Güldem Durmaz
+<pstyle:TECHNIQUE>Belgique-Turquie/2011/22'
+<pstyle:SYNOPSIS>Expérience d'auto-filature dans laquelle Esmeray, artiste, transsexuelle, kurde et militante féministe, se remet brièvement dans le costume de l'homme qu'elle a cessé d'être depuis vingt ans.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Beware!
+<pstyle:TECHNIQUE>de Bruce, Samuel B. Atman
+<pstyle:TECHNIQUE>France/2012/7'
+<pstyle:TECHNIQUE>Avec Lalla Kowska, Mattia Sieger.
+<pstyle:SYNOPSIS>Une immersion parodique dans la transphobie des années cinquante.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Bradley Manning Had Secrets
+<pstyle:TECHNIQUE>d'Adam Butcher
+<pstyle:TECHNIQUE>Grande-Bretagne/2012/6'
+<pstyle:TECHNIQUE>Avec Angus Dunican, Danny Mahoney.
+<pstyle:SYNOPSIS>L'interprétation en images des chats de Chelsea Manning, alors jeune soldat qui exfiltrait des informations secrètes incriminant l'armée étatsunienne.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Stealth
+<pstyle:TECHNIQUE>de Chase Joynt, Alexis Mitchell
+<pstyle:TECHNIQUE>Canada/2014/17'
+<pstyle:SYNOPSIS>«<0x00A0>En montant des caméras cachées tournées lors de l'hystérectomie d'un patient avec les interviews des instruments gynécologiques utilisés, Stealth figure le contrôle des corps par les technologies médicales et militaires.<0x00A0>» (Stéphane Gérard)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Baby You're Frozen
+<pstyle:TECHNIQUE>de Sadie Lune
+<pstyle:TECHNIQUE>Allemagne-États-Unis/2012/24'
+<pstyle:TECHNIQUE>Avec Kay Garnellen, Sadie Lune.
+<pstyle:SYNOPSIS>Un journal intime qui nous invite, au fil d'appels vidéo, dans le quotidien de la sexualité d'une relation à distance.
+<pstyle:CATEGORIE>Séance 28 : Stéphane Gérard
+<pstyle:TITRE>Gouines & pédés : Refuser l'égalité des droits, c'est être homphobe !
+<pstyle:TECHNIQUE>de Les Panthères Roses, Les Dures à queer
+<pstyle:TECHNIQUE>France/2012/3'
+<pstyle:SYNOPSIS>Lors des discussions autour de la loi pour l'ouverture du mariage aux couples de même sexe, un militant prend la parole lors d'un débat radiophonique.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Le Conte de Noël des Panthères Roses
+<pstyle:TECHNIQUE>de Les Panthères Roses
+<pstyle:TECHNIQUE>France/2012/1'
+<pstyle:SYNOPSIS>«<0x00A0>Sur la liste de Noël des Panthères roses, il y a une plateforme pour l'égalité des droits<0x00A0>: il faudra descendre dans la rue pour l'obtenir (sauf si on croit au Père Noël).<0x00A0>»
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>N'ayez pas peur
+<pstyle:TECHNIQUE>de Collectif 360° et même plus
+<pstyle:TECHNIQUE>France/2013/8'
+<pstyle:SYNOPSIS>«<0x00A0>Un cactus à l'occasion de la marche des partisans du oui "Mariage pour tous", le 16 décembre 2012 à Paris.<0x00A0>» (Stéphane Gérard)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Rien n'oblige à répéter l'histoire
+<pstyle:TECHNIQUE>de Stéphane Gérard
+<pstyle:TECHNIQUE>France/2014/85'
+<pstyle:SYNOPSIS>Sept conversations croisées rencontrent des archives vidéo pour esquisser les moyens par lesquels la notion de communauté se transmet au fil des différentes générations de militantisme LGBT de New York.
+<pstyle:CATEGORIE>Séance 29 : Le Projet Sextoy
+<pstyle:TITRE>Je ne sais pas qui je suis, mais je sais ce que je pense
+<pstyle:TITRE_ANG>(Tra kegro lafi sasam mle ra kgro lafe beln)
+<pstyle:TECHNIQUE>de Mathieu Morel
+<pstyle:TECHNIQUE>France/2019/4'
+<pstyle:SYNOPSIS>«<0x00A0>Je ne sais pas qui je suis mais je sais ce que je pense<0x00A0>: images et sons perçues, quand se fige mon esprit.<0x00A0>» (Mathieu Morel)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Le Projet Sextoy
+<pstyle:TECHNIQUE>d'Anastasia Mordin, Lidia Terki
+<pstyle:TECHNIQUE>France/2014/75'
+<pstyle:SYNOPSIS>Avec comme toile de fond l'univers du clubbing underground des années 90, le film retrace le projet artistique de Delphine Palatsi alias DJ Sextoy.
+<pstyle:CATEGORIE>Séance 3 : Jean Genet et cie
+<pstyle:TITRE>Un chant d'amour
+<pstyle:TECHNIQUE>de Jean Genet
+<pstyle:TECHNIQUE>France/1950/25'/35 mm
+<pstyle:TECHNIQUE>Avec Lucien Sénemaud, Coco le Martiniquais, Java.
+<pstyle:SYNOPSIS>Un prisonnier d'âge mûr cherche à créer un contact corporel avec son voisin de cellule, un jeune et beau condamné à mort.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Genet parle d'Angela Davis
+<pstyle:TECHNIQUE>de Carole Roussopoulos
+<pstyle:TECHNIQUE>France/1970/7'
+<pstyle:SYNOPSIS>«<0x00A0>L'une des rares déclarations publiques en France de Jean Genet, dont la véhémence et la détermination semblèrent inadmissibles à la censure télévisuelle de l'époque.<0x00A0>» (Marguerite Vappereau)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Manifestation contre la répression de l'homosexualité : juin 1977
+<pstyle:TECHNIQUE>de Le lézard du péril mauve, Ortie 14
+<pstyle:TECHNIQUE>France/1977/22'/Vidéo
+<pstyle:SYNOPSIS>«<0x00A0>Un collectif lesbien documente cette marche fière et festive, et interroge les passants témoins de la manifestation, collectant un échantillon de l'homophobie ordinaire.<0x00A0>» (Stéphane Gérard)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Le Troisième <0x0153>il
+<pstyle:TECHNIQUE>d'André Almuró
+<pstyle:TECHNIQUE>France/1989/8'/8 mm
+<pstyle:SYNOPSIS>«<0x00A0>Manifeste du cinéma haptique, qui pourrait aussi être résumé<0x00A0>: "Tout l'univers bouleversé par une branlette."<0x00A0>»
+<pstyle:CATEGORIE>Séance 31 : Jean Genet, un captif amoureux, parcours d'un poète combattant
+<pstyle:TITRE>Jean Genet, un captif amoureux, parcours d'un poète combattant
+<pstyle:TECHNIQUE>de Michèle Collery
+<pstyle:TECHNIQUE>France/2016/74'
+<pstyle:SYNOPSIS>Les combats de Jean Genet pour les communautés afro-américaines lors de ses voyages aux États-Unis et pour les Palestiniens lors de ses voyages à Chatila. Textes lus par Denis Lavant.
+<pstyle:CATEGORIE>Séance 20 : B.U.C.K.L.E/The Shakedown
+<pstyle:TITRE>B.U.C.K.L.E.
+<pstyle:TECHNIQUE>de Catherine Gund, Julie Tolentino
+<pstyle:TECHNIQUE>États-Unis/1993/11'
+<pstyle:SYNOPSIS>Négocier, dévêtir, caresser, embrasser, lécher et séduire les femmes du légendaire Clit Club de New York, qui a rayonné sur la scène lesbienne de 1990 à 2002.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>The Shakedown
+<pstyle:TECHNIQUE>de Leilah Weinraub
+<pstyle:TECHNIQUE>États-Unis/2018/72'
+<pstyle:SYNOPSIS>Rare espace dédié à la culture lesbienne, le Shakedown a réuni et galvanisé une communauté afro-américaine marginale et queer, ce qui en a fait la cible de nombreuses représailles policières.
+<pstyle:CATEGORIE>Séance 25 : Courts-métrages
+<pstyle:TITRE>Paixão nacional
+<pstyle:TECHNIQUE>de Karim Aïnouz
+<pstyle:TECHNIQUE>Brésil-Canada/1996/9'
+<pstyle:SYNOPSIS>«<0x00A0>L'hypocrisie sexuelle à échelle nationale.<0x00A0>»
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Gay ?
+<pstyle:TECHNIQUE>de Jean-Gabriel Périot
+<pstyle:TECHNIQUE>France/2001/2'
+<pstyle:SYNOPSIS>«<0x00A0>Un coming out<0x00A0>: "Bonsoir, je suis gay, fier, bien dans ma peau, heureux, et j'aime me faire enculer..."<0x00A0>» (Jean-Gabriel Périot)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Avant j'étais triste
+<pstyle:TECHNIQUE>de Jean-Gabriel Périot
+<pstyle:TECHNIQUE>France/2002/2'
+<pstyle:SYNOPSIS>«<0x00A0>Avant j'étais triste, j'habitais seul avec maman, dans un grand appartement...<0x00A0>» (Jean-Gabriel Périot)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Red Chewing Gum
+<pstyle:TITRE_ANG>('D9DC) 'D-E1'! [Al-ilka al-hamra])
+<pstyle:TECHNIQUE>d'Akram Zaatari
+<pstyle:TECHNIQUE>Liban/2000/10'
+<pstyle:SYNOPSIS>Une lettre-vidéo qui devient une tentative de saisir, et donc de s'approprier, le temps qui s'enfuit.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Natpwe, le festin des esprits
+<pstyle:TECHNIQUE>de Tiane Doan na Champassak, Jean Dubrel
+<pstyle:TECHNIQUE>France-Myanmar/2004/30'/Vidéo
+<pstyle:SYNOPSIS>Cinq jours de liberté dont les travestis sont rois et reines, dans une société birmane sous dictature.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>There Is a Spider Living Between Us
+<pstyle:TECHNIQUE>de Tejal Shah
+<pstyle:TECHNIQUE>Inde/2009/7'
+<pstyle:SYNOPSIS>Une réflexion autour du désir de deux personnes voulant devenir une, ayant recours à de multiples techniques pour explorer le langage, la sexualité lesbienne et le tribadisme.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Dans le village
+<pstyle:TECHNIQUE>de Laurence Rebouillon, Patricia Godal
+<pstyle:TECHNIQUE>France/2009/6'/Super 8
+<pstyle:SYNOPSIS>Voyage amoureux dans les hauteurs d'une île, et quelques vaches.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Reluctantly Queer
+<pstyle:TECHNIQUE>d'Akosua Adoma Owusu
+<pstyle:TECHNIQUE>Ghana/2016/8'
+<pstyle:TECHNIQUE>Avec Kwame Edwin Otu.
+<pstyle:SYNOPSIS>Intimité queer au Ghana.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Mahogany Too
+<pstyle:TECHNIQUE>d'Akosua Adoma Owusu
+<pstyle:TECHNIQUE>États-Unis/2018/3'
+<pstyle:TECHNIQUE>Avec Esosa E..
+<pstyle:SYNOPSIS>Image d'une afro-américaine déterminée à vivre ses rêves.
+<pstyle:CATEGORIE>Séance 5 : Dream Sphinx / Flaming creatures / Jerovi / Lupe
+<pstyle:TITRE>Flaming Creatures
+<pstyle:TECHNIQUE>de Jack Smith
+<pstyle:TECHNIQUE>États-Unis/1963/45'/VOSTF/16 mm
+<pstyle:TECHNIQUE>Avec Francis Francine, Sheila Bick, Joel Markman.
+<pstyle:SYNOPSIS>«<0x00A0>Flamboyantes<0x00A0>: rayonnantes, fabuleuses, extravagantes, virevoltantes, enflammées, resplendissantes, incandescentes, captivantes, en feu.<0x00A0>» (Stéphane Gérard)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Jerovi
+<pstyle:TECHNIQUE>de Jose Rodriguez-Soltero
+<pstyle:TECHNIQUE>États-Unis/1965/11'/16 mm
+<pstyle:SYNOPSIS>«<0x00A0>Narcisse méconnu et présumé splendide, dans la lignée queer virevoltante de Jack Smith.<0x00A0>» (Yann Gonzalez)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Lupe
+<pstyle:TECHNIQUE>de Jose Rodriguez-Soltero
+<pstyle:TECHNIQUE>États-Unis/1966/50'
+<pstyle:TECHNIQUE>Avec Mario Montez.
+<pstyle:SYNOPSIS>«<0x00A0>L'originalité de Jose Soltero est d'attaquer une expérimentation underground et politique d'avant-garde pour la doubler d'un engagement queer et latino.<0x00A0>» (David Bernadas)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Dream Sphinx
+<pstyle:TECHNIQUE>de Roger Jacoby
+<pstyle:TECHNIQUE>États-Unis/1974/7'
+<pstyle:SYNOPSIS>Parodie et critique de l'hétérosexualité où l'on retrouve Ondine<0x00A0><0x00A0>amant, collaborateur et superstar de Warhol<0x00A0><0x00A0>batifolant avec Sally Dixon dans un jardin victorien édénique.
+<pstyle:CATEGORIE>Séance 6 : Holding / Reine (La)
+<pstyle:TITRE>La Reine
+<pstyle:TITRE_ANG>(The Queen)
+<pstyle:TECHNIQUE>de Frank Simon
+<pstyle:TECHNIQUE>États-Unis/1967/68'
+<pstyle:TECHNIQUE>Avec Jack Doroshow, Richard Finocchio, Crystal.
+<pstyle:SYNOPSIS>«<0x00A0>Le concours de beauté Miss All-America Camp Beauty de 1967, qu'Andy Warhol est invité à juger, révèle Crystal LaBeija au monde et simultanément les tensions raciales à l'<0x0153>uvre dans la scène étatsunienne des drag queens.<0x00A0>» (Stéphane Gérard)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Holding
+<pstyle:TECHNIQUE>de Constance Beeson
+<pstyle:TECHNIQUE>États-Unis/1971/13'
+<pstyle:SYNOPSIS>«<0x00A0>Ce travail lyrique<0x00A0><0x00A0>de manière significative, l'un des rares films érotiques réalisé par une femme<0x00A0><0x00A0>progresse de préliminaires jusqu'au sexe explicite, prouvant que même les séquences <cSkew:9>hardcore<cSkew:> peuvent être subverties.<0x00A0>» (Amos Vogel)

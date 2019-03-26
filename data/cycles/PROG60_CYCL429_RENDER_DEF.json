@@ -66,7 +66,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Un clip en forme de récapitulatif visuel des luttes queer. (NB)"
+                  "texte": "Un clip en forme de récapitulatif visuel des luttes queer."
                 }
               ],
               "duree": 8,
@@ -76,7 +76,7 @@
             },
             {
               "idFilm": 141291,
-              "titre": "Chic Point : Fashion For Israeli Checkpoints",
+              "titre": "Chic Point: Fashion For Israeli Checkpoints",
               "titreVo": "",
               "realisateurs": "Sharif Waked",
               "annee": 2003,
@@ -84,7 +84,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Boomerang d'ironie. (NB)"
+                  "texte": "« Boomerang d'ironie. » (Nicole Brenez)"
                 }
               ],
               "generique": [
@@ -105,7 +105,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Makita en sorcière qui vole sur son balai. (Angela Marzullo)"
+                  "texte": "« Makita en sorcière qui vole sur son balai. » (Angela Marzullo)"
                 }
               ],
               "duree": 3,
@@ -123,7 +123,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« La scène Kiki est un espace de performance et d'expression de soi, un refuge pour les jeunes LGBTQ de couleur à Harlem. Le film décrit l'énergie déployée par les membres de la scène Kiki pour inventer leur propre vie, élargir le spectre du genre et transormer le tissur social.\" (Taylor Hess)"
+                  "texte": "« Sur la scène Kiki, espace de performance et d'expression de soi, les jeunes LGBTQ de couleur à Harlem dansent pour inventer leur propre vie, élargir le spectre du genre et transformer le tissu social. » (Taylor Hess)"
                 }
               ],
               "duree": 94,
@@ -158,7 +158,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Aux commencements du cinéma, une valse gaie. (NB)"
+                  "texte": "« Aux commencements du cinéma, une valse gaie. » (Nicole Brenez)"
                 }
               ],
               "duree": 1,
@@ -168,7 +168,7 @@
             },
             {
               "idFilm": 30994,
-              "titre": "Salome",
+              "titre": "Salomé",
               "titreVo": "",
               "realisateurs": "Charles Bryant, Alla Nazimova",
               "annee": 1922,
@@ -176,7 +176,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« Salomé, voulu, produit, joué par Alla Nazimova, se débarrasse de toutes les assignations identitaires, s'attache à brouiller toutes les frontières, divisions, répartitions instituées, pour inventer son propre monde. » (NB)"
+                  "texte": "« _Salomé_, voulu, produit, joué par Alla Nazimova, se débarrasse de toutes les assignations identitaires, s'attache à brouiller toutes les frontières, divisions, répartitions instituées, pour inventer son propre monde. » (Nicole Brenez)"
                 }
               ],
               "adaptation": "D'après la pièce _Salomé_ d'Oscar Wilde.",
@@ -217,7 +217,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Apogée d'une imagerie homosexuelle portée à l'incandescence. (NB)"
+                  "texte": "« Apogée d'une imagerie homosexuelle portée à l'incandescence. » (Nicole Brenez)"
                 }
               ],
               "generique": [
@@ -243,50 +243,32 @@
         },
         {
           "idCycle": 429,
-          "idCategorie": 1971,
-          "idEvenement": 19268,
-          "titreEvenement": "Séance 23 : Virginie Despentes",
+          "idCategorie": 1961,
+          "idEvenement": 19139,
+          "titreEvenement": "Séance 14 : Equation à un inconnu",
           "films": [
             {
-              "idFilm": 141389,
-              "titre": "Lesborama",
+              "idFilm": 132661,
+              "titre": "Équation à un inconnu",
               "titreVo": "",
-              "realisateurs": "Nathalie Magnan",
-              "annee": 1995,
+              "realisateurs": "Dietrich De Velsa",
+              "annee": 1994,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Rien ne les possède, elles ne sont pas folles, elles ne sont pas hystériques et elles regardent la réalité en face. (NB)"
-                }
-              ],
-              "duree": 30,
-              "format": "",
-              "version": "",
-              "ordre": 1
-            },
-            {
-              "idFilm": 69377,
-              "titre": "Baise-moi",
-              "titreVo": "",
-              "realisateurs": "Virginie Despentes, Coralie Trinh Thi",
-              "annee": 1999,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Une jubilatoire histoire visuelle des lesbiennes dans le cinéma international. (NB)"
+                  "texte": "« L'acmé du porno mélancolique, mis en scène avec une grâce absolue par le mystérieux Dietrich de Velsa, peintre puis directeur artistique de la Grande Eugène qui réalise ici son unique film et néanmoins chef-d'œuvre. » (Yann Gonzalez)"
                 }
               ],
               "generique": [
-                "Raffaëla Anderson",
-                "Karen Bach",
-                "Céline Beugnot"
+                "Jean-Jacques Loupmon",
+                "Gianfranco Longhi",
+                "Reinhard Montz"
               ],
-              "duree": 77,
-              "format": "",
+              "duree": 93,
+              "format": "16 mm",
               "version": "",
-              "ordre": 2
+              "ordre": 1
             }
           ],
           "seance": [
@@ -316,7 +298,11 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« Il y a au moins deux intentions louables dans Le Droit du plus fort : la première est de chercher à représenter dans la vie quotidienne, en Allemagne aujourd'hui, les différenciations de classe, les oppositions de classe, à y inscrire la lutte des classes ; la deuxième est de sortir le monde homosexuel du ghetto mystificateur où il se trouve refoulé. Dans les deux cas, mettre en défaut la société allemande, révéler ce qu'elle cache, ce qu'elle se cache, pour la changer. » (Serge Le Péron)"
+                  "texte": "Franz Biberkopf, un jeune homosexuel, perd son travail et son petit ami, arrêté par la police. Il gagne à la loterie et rencontre un homme très intéressé par son argent."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "« Le film cherche à représenter, dans la vie quotidienne en Allemagne, les différenciations de classe, à y inscrire la lutte des classes ; et à sortir le monde homosexuel du ghetto mystificateur où il se trouve refoulé. » (Serge Le Péron)"
                 }
               ],
               "generique": [
@@ -356,7 +342,11 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« J'ai écrit Je tu il elle, mais comme une nouvelle, pas comme un film. C'est seulement des années plus tard que j'en ai fait un film. Je retournais à Bruxelles en stop voir cette fille, Claire, celle qui est dans le film, et j'ai vécu toutes sortes d'aventures avec les camionneurs qui me prenaient en stop, c'était dangereux. Mais à l'époque, on vivait comme ça. » (Chantal Akerman)"
+                  "texte": "Une jeune femme passe du temps seule dans sa chambre, sur la route en stop, et avec une amie."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "« Je retournais à Bruxelles en stop voir cette fille, Claire, et j'ai vécu toutes sortes d'aventures avec les camionneurs qui me prenaient en stop, c'était dangereux. Mais à l'époque, on vivait comme ça. » (Chantal Akerman)"
                 }
               ],
               "generique": [
@@ -388,7 +378,7 @@
           "films": [
             {
               "idFilm": 107314,
-              "titre": "Born in flames",
+              "titre": "Born in Flames",
               "titreVo": "",
               "realisateurs": "Lizzie Borden",
               "annee": 1983,
@@ -436,7 +426,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Face caméra, l'auteur explique ses pratiques sexuelles à ses parents. (NB)"
+                  "texte": "Face caméra, l'auteur explique ses pratiques sexuelles à ses parents."
                 }
               ],
               "generique": [
@@ -459,7 +449,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Galerie de portraits affectifs irradiant de désir. (NB)"
+                  "texte": "« Galerie de portraits affectifs irradiant de désir. » (Nicole Brenez)"
                 }
               ],
               "generique": [
@@ -482,7 +472,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Du mâle hétérosexuel comme fétiche. (NB)"
+                  "texte": "« Du mâle hétérosexuel comme fétiche. » (Nicole Brenez)"
                 }
               ],
               "duree": 19,
@@ -517,14 +507,14 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Texte à saisir"
+                  "texte": "« À jamais le stade du miroir. » (Nicole Brenez)"
                 }
               ],
               "ordre": 1
             },
             {
               "idFilm": 141237,
-              "titre": "Selva. Un portrait de Parvaneh Navaï",
+              "titre": "Selva , un portrait de Parvaneh Navaï",
               "titreVo": "",
               "realisateurs": "Maria Klonaris",
               "annee": 1983,
@@ -532,7 +522,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Selva approfondit deux archétypes : la sorcière et la nymphe. Chez Michelet, la sorcière est d'abord une femme comme les autres qui, pendant les guerres que se livrent les hommes, commence à parler aux arbres pour échapper à la solitude. Chez Maria Klonaris, la sorcière est d'abord une dryade, une créature de la forêt, qui révèle et fait rayonner les forces naturelles. (NB)"
+                  "texte": "« _Selva_ approfondit deux archétypes : la sorcière et la nymphe. Chez Maria Klonaris, la sorcière est d'abord une dryade, une créature de la forêt, qui révèle et fait rayonner les forces naturelles. » (Nicole Brenez)"
                 }
               ],
               "generique": [
@@ -571,7 +561,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« Nous ne nous contenterons pas de nous défendre, nous allons attaquer. » FHAR, Rapport contre la normalité (1971)."
+                  "texte": "« Nous ne nous contenterons pas de nous défendre, nous allons attaquer. » (F.H.A.R., _Rapport contre la normalité_, 1971)"
                 }
               ],
               "duree": 26,
@@ -589,7 +579,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« Pour ce qui en est de la hiérarchie des luttes révolutionnaires selon l'urgence, les homosexuels ne prétendent pas que le combat contre la sexualité et la culture bourgeoises doit être placé au premier plan. Ils pensent seulement que ce combat est inséparable de la lutte contre l'exploitation socio-économique. L'un sans l'autre reste lettre morte. » (Guy Hocquenghem, 1971)"
+                  "texte": "« Pour ce qui en est de la hiérarchie des luttes révolutionnaires selon l'urgence, les homosexuels pensent que ce combat est inséparable de la lutte contre l'exploitation socio-économique. L'un sans l'autre reste lettre morte. » (Guy Hocquenghem)"
                 }
               ],
               "generique": [
@@ -610,6 +600,13 @@
                 "JE",
                 "Jean Epstein"
               ]
+            },
+            {
+              "dateHeure": "2019-07-01T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
             }
           ]
         },
@@ -621,7 +618,7 @@
           "films": [
             {
               "idFilm": 141225,
-              "titre": "Sisters !",
+              "titre": "Sisters!",
               "titreVo": "",
               "realisateurs": "Barbara Hammer",
               "annee": 1974,
@@ -647,7 +644,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« L'imagerie sensuelle qui provoque des sensation physiques chez le spectateur à travers des stimulations visuelles était le principe esthétique de base de mon premier film lesbien fait pour des femmes. » (BH)"
+                  "texte": "« L'imagerie sensuelle qui provoque des sensation physiques chez le spectateur à travers des stimulations visuelles était le principe esthétique de base de mon premier film lesbien fait pour des femmes. » (Barbara Hammer)"
                 }
               ],
               "duree": 4,
@@ -665,7 +662,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« Un joyau des la haute époque des luttes de libération. » (Juan Antonio Suarez)"
+                  "texte": "« Un joyau des la haute époque des luttes de libération. » (Juan Antonio Suárez)"
                 }
               ],
               "generique": [
@@ -687,7 +684,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Nature, zone érogène. (NB)"
+                  "texte": "« Nature, zone érogène. » (Nicole Brenez)"
                 }
               ],
               "duree": 6,
@@ -705,7 +702,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Une brassée d'amies. (NB)"
+                  "texte": "« Une brassée d'amies. » (Nicole Brenez)"
                 }
               ],
               "duree": 25,
@@ -723,7 +720,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Expérience de cinéma haptique. (NB)"
+                  "texte": "« Expérience de cinéma haptique. » (Nicole Brenez)"
                 }
               ],
               "duree": 10,
@@ -739,6 +736,13 @@
                 "JE",
                 "Jean Epstein"
               ]
+            },
+            {
+              "dateHeure": "2019-07-03T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
             }
           ]
         },
@@ -746,7 +750,7 @@
           "idCycle": 429,
           "idCategorie": 1960,
           "idEvenement": 19138,
-          "titreEvenement": "Séance 13 : Bambi / Paradis perdu",
+          "titreEvenement": "Séance 13 : Paradis perdu/Farrah",
           "films": [
             {
               "idFilm": 128050,
@@ -758,7 +762,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "De jeunes femmes trans font des rues de Paris leur cabaret. Leurs rêves sont rapidement rattrapés par la réalité. (SG)"
+                  "texte": "De jeunes femmes trans font des rues de Paris leur cabaret. Leurs rêves sont rapidement rattrapés par la réalité."
                 }
               ],
               "generique": [
@@ -766,28 +770,46 @@
                 "Marie France",
                 "René Scherer"
               ],
-              "duree": 25,
+              "duree": 40,
               "format": "16 mm",
               "version": "",
               "ordre": 1
             },
             {
-              "idFilm": 120245,
-              "titre": "Bambi",
+              "idFilm": 141507,
+              "titre": "Salon de T - Farrah Diod (Parties 1 et 2)",
               "titreVo": "",
-              "realisateurs": "Sébastien Lifshitz",
+              "realisateurs": "Hélène Hazéra, Christophe Martet",
+              "annee": 2009,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Farrah Diod, depuis près de 30 ans, est la spécialiste de la 3D à qui l'on doit notamment le générique mémorable de l'émission avant-gardiste de Canal + _L'Œil du cyclone_."
+                }
+              ],
+              "duree": 17,
+              "format": "",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 141505,
+              "titre": "Farrah, l'Être Ange",
+              "titreVo": "",
+              "realisateurs": "Alain Burosse, Jean-Baptiste Erreca, Sébastien Petit",
               "annee": 2012,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Bambi est née en 1935 de sexe masculin sous le prénom de Jean-Pierre. Elle est une des premières transexuelles françaises."
+                  "texte": "« De ses collages transgenres retrouvés à ses sensuelles photos \"poilues\", de ses avatars sur Second Life aux souvenirs capturés de moments de bonheur, ce montage est un hommage collectif à notre amie, la belle et éternelle Farrah. »"
                 }
               ],
-              "duree": 58,
+              "duree": 0,
               "format": "",
               "version": "",
-              "ordre": 2
+              "ordre": 3
             }
           ],
           "seance": [
@@ -834,7 +856,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« Reconquête du terrain au temps du SIDA. » (Isaac Julien)"
+                  "texte": "« Reconquête du terrain au temps du sida. » (Isaac Julien)"
                 }
               ],
               "duree": 11,
@@ -875,7 +897,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Marlon Riggs réunit ses frères, parmi lesquels le poète Essex Hemphill, dans ce pamphlet sensible autour de l'expérience des hommes noirs homosexuels au moment de l'épidémie de sida. (SG)"
+                  "texte": "« Marlon Riggs réunit ses frères, parmi lesquels le poète Essex Hemphill, dans ce pamphlet sensible autour de l'expérience des hommes noirs homosexuels au moment de l'épidémie de sida. » (Stéphane Gérard)"
                 }
               ],
               "generique": [
@@ -915,7 +937,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Plusieurs lesbiennes racontent les femmes, les icônes, les idoles qui les fascinent, constituant une histoire joyeuse de la politique lesbienne des images. (SG)"
+                  "texte": "Plusieurs lesbiennes racontent les femmes, les icônes, les idoles qui les fascinent, constituant une histoire joyeuse de la politique lesbienne des images."
                 }
               ],
               "duree": 24,
@@ -933,7 +955,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Gregg Bordowitz utilise l'annonce de sa séropositivité comme levier pour analyser le rapport à la mort dans un pamphlet qui croise critique des médias, activisme et mise en scène d'archives. (SG)"
+                  "texte": "Gregg Bordowitz utilise l'annonce de sa séropositivité comme levier pour analyser le rapport à la mort dans un pamphlet qui croise critique des médias, activisme et mise en scène d'archives."
                 }
               ],
               "duree": 54,
@@ -951,7 +973,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "L'histoire se réécrit dans cette fusion imaginaire entre le mouvement de libération homosexuelle et le Black Panther Party, utilisant images d'archives et citation de Huey Newton. (SG)"
+                  "texte": "L'histoire se réécrit dans cette fusion imaginaire entre le mouvement de libération homosexuelle et le Black Panther Party, utilisant images d'archives et citations de Huey Newton."
                 }
               ],
               "duree": 6,
@@ -978,7 +1000,7 @@
           "films": [
             {
               "idFilm": 141242,
-              "titre": "Fall of Communism as Seen in Gay Pornography",
+              "titre": "Fall of Communism As Seen in Gay Pornography",
               "art": "The",
               "titreVo": "",
               "realisateurs": "William E. Jones",
@@ -987,7 +1009,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "L'industrie du X gay à l'Est transforme l'iconographie soviétique en fétiche sexuel. (NB)"
+                  "texte": "« L'industrie du X gay à l'Est transforme l'iconographie soviétique en fétiche sexuel. » (Nicole Brenez)"
                 }
               ],
               "duree": 19,
@@ -1005,7 +1027,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Images de surveillance policière, symptômes d'une époque étouffante de répression sexuelle. (NB)"
+                  "texte": "« Images de surveillance policière, symptômes d'une époque étouffante de répression sexuelle. » (Nicole Brenez)"
                 }
               ],
               "duree": 56,
@@ -1032,7 +1054,7 @@
           "films": [
             {
               "idFilm": 39579,
-              "titre": "Cavalier Noir",
+              "titre": "Cavalier noir",
               "art": "Le",
               "titreVo": "Singer Not the Song",
               "artVo": "The",
@@ -1040,6 +1062,10 @@
               "annee": 1960,
               "pays": "Grande-Bretagne",
               "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un prêtre prend ses fonctions dans une ville mexicaine reculée qui se trouve sous la coupe d'un bandit impitoyable. La rivalité mortelle entre les deux hommes tourne vite à la fascination réciproque."
+                },
                 {
                   "typeTexte": 9,
                   "texte": "« Le pantalon moulant vient provoquer la soutane. Indéniablement, ambiguïté et identité sexuelles fascinaient le cinéaste. » (Olivier Rossignot)"
@@ -1058,7 +1084,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2019-06-29T20:00:00",
+              "dateHeure": "2019-06-29T19:30:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
@@ -1068,37 +1094,55 @@
         },
         {
           "idCycle": 429,
-          "idCategorie": 1961,
-          "idEvenement": 19139,
-          "titreEvenement": "Séance 14 : Equation à un inconnu",
+          "idCategorie": 1971,
+          "idEvenement": 19268,
+          "titreEvenement": "Séance 23 : Virginie Despentes",
           "films": [
             {
-              "idFilm": 132661,
-              "titre": "Equation à un inconnu",
+              "idFilm": 141389,
+              "titre": "Lesborama",
               "titreVo": "",
-              "realisateurs": "Dietrich De Velsa",
-              "annee": 1994,
+              "realisateurs": "Nathalie Magnan",
+              "annee": 1995,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "L'acmé du porno mélancolique. Une succession de fantasmes au masculin dont les beautés fracassantes finissent par se dissoudre en abandonnant le rêveur érotomane à sa solitude. Le tout mis en scène avec une grâce absolue par le mystérieux Dietrich de Velsa (alias Francis Savel / Frantz Salieri), peintre puis directeur artistique de la Grande Eugène (l'un des premiers cabarets transformistes de Paris) qui réalise ici son unique film et néanmoins chef-d'œuvre. (Yann Gonzalez)"
+                  "texte": "« Une jubilatoire histoire visuelle des lesbiennes dans le cinéma international. » (Nicole Brenez)"
+                }
+              ],
+              "duree": 30,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 69377,
+              "titre": "Baise-moi",
+              "titreVo": "",
+              "realisateurs": "Virginie Despentes, Coralie Trinh Thi",
+              "annee": 1999,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Rien ne les possède, elles ne sont pas folles, elles ne sont pas hystériques et elles regardent la réalité en face. » (Nicole Brenez)"
                 }
               ],
               "generique": [
-                "Jean-Jacques Loupmon",
-                "Gianfranco Longhi",
-                "Reinhard Montz"
+                "Raffaëla Anderson",
+                "Karen Bach",
+                "Céline Beugnot"
               ],
-              "duree": 93,
-              "format": "16 mm",
+              "duree": 77,
+              "format": "",
               "version": "",
-              "ordre": 1
+              "ordre": 2
             }
           ],
           "seance": [
             {
-              "dateHeure": "2019-06-29T20:30:00",
+              "dateHeure": "2019-06-29T22:15:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
@@ -1123,6 +1167,10 @@
               "textes": [
                 {
                   "typeTexte": 9,
+                  "texte": "Un artiste passe de l'autre côté du miroir à l'invitation d'une statue."
+                },
+                {
+                  "typeTexte": 99,
                   "texte": "« Dites à Cocteau que je l'aime, parce que, comme s'il revenait des rivages d'une mer, il est le seul à être revenu bronzé du monde des mythes. » (Rainer Maria Rilke)"
                 }
               ],
@@ -1146,7 +1194,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« Fireworks vient du plus profond de la nuit d'où émergent toutes les œuvres vraies. Il touche le vif de l'âme et c'est là chose rare. » (Jean Cocteau)"
+                  "texte": "« _Fireworks_ vient du plus profond de la nuit d'où émergent toutes les œuvres vraies. Il touche le vif de l'âme et c'est là chose rare. » (Jean Cocteau)"
                 }
               ],
               "generique": [
@@ -1172,267 +1220,95 @@
         },
         {
           "idCycle": 429,
-          "idCategorie": 1968,
-          "idEvenement": 19142,
-          "titreEvenement": "Séance 21 : Tabou",
+          "idCategorie": 1962,
+          "idEvenement": 19173,
+          "titreEvenement": "Séance 15 : Lionel Soukaz",
           "films": [
             {
-              "idFilm": 68683,
-              "titre": "Tabou",
-              "titreVo": "Gohatto",
-              "realisateurs": "Nagisa Oshima",
-              "annee": 1999,
-              "pays": "Japon",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "À Kyoto en 1865, Sozaburo Kano est un jeune homme aux traits délicats et androgynes qui veut intégrer une école de samouraïs organisée en milice, le Shinsengumi."
-                }
-              ],
-              "generique": [
-                "Takeshi Kitano",
-                "Ryuhei Matsuda",
-                "Shinji Takeda",
-                "Tadanobu Asano"
-              ],
-              "duree": 100,
-              "format": "35 mm",
-              "version": "VOSTF",
-              "ordre": 1
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2019-07-01T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
-        },
-        {
-          "idCycle": 429,
-          "idCategorie": 1972,
-          "idEvenement": 19144,
-          "titreEvenement": "Séance 24 : Fantasma (O)",
-          "films": [
-            {
-              "idFilm": 73443,
-              "titre": "Fantasma",
-              "art": "O",
+              "idFilm": 76873,
+              "titre": "Ixe",
               "titreVo": "",
-              "realisateurs": "João Pedro Rodrigues",
-              "annee": 2000,
-              "pays": "Portugal",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Récit d'une obsession sexuelle sur fond de décharge lisboète. (Olivier Nicklaus)"
-                }
-              ],
-              "generique": [
-                "Ricardo Meneses",
-                "Beatriz Torcato",
-                "André Barbosa"
-              ],
-              "duree": 97,
-              "format": "",
-              "version": "",
-              "ordre": 1
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2019-07-01T21:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
-        },
-        {
-          "idCycle": 429,
-          "idCategorie": 1973,
-          "idEvenement": 19145,
-          "titreEvenement": "Séance 25 : Courts-métrages",
-          "films": [
-            {
-              "idFilm": 141244,
-              "titre": "Paixao Nacional",
-              "titreVo": "",
-              "realisateurs": "Karim Aïnouz",
-              "annee": 1996,
-              "pays": "Brésil-Canada",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "L'hypocrisie sexuelle à échelle nationale."
-                }
-              ],
-              "duree": 9,
-              "format": "",
-              "version": "",
-              "ordre": 1
-            },
-            {
-              "idFilm": 141034,
-              "titre": "Gay ?",
-              "titreVo": "",
-              "realisateurs": "Jean-Gabriel Périot",
-              "annee": 2001,
+              "realisateurs": "Lionel Soukaz",
+              "annee": 1980,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Un coming out : « Bonsoir, je suis gay, fier, bien dans ma peau, heureux, et j'aime me faire enculer... » (Jean-Gabriel Périot)"
+                  "texte": "« _X_ est un écartèlement : aux quatre points cardinaux, aux quatre extrémités de la croix, la Guerre, le Sexe, la Religion et la Drogue. » (Guy Hocquenghem)"
                 }
               ],
-              "duree": 2,
+              "generique": [
+                "Jean-François B.",
+                "François Dantchev",
+                "Karine"
+              ],
+              "duree": 48,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141231,
+              "titre": "RV, mon ami",
+              "titreVo": "",
+              "realisateurs": "Lionel Soukaz",
+              "annee": 1994,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "« Élégie de polaroïds tournée en caméra vide et haut, où l'on cherche le point sur des photos floues pour refuser l'absence de l'être aimé. » (Stéphane Gérard)"
+                }
+              ],
+              "duree": 28,
               "format": "",
               "version": "",
               "ordre": 2
             },
             {
-              "idFilm": 141035,
-              "titre": "Avant j'étais triste",
+              "idFilm": 141232,
+              "titre": "Loi X – la nuit en permanence",
+              "art": "La",
               "titreVo": "",
-              "realisateurs": "Jean-Gabriel Périot",
-              "annee": 2002,
+              "realisateurs": "Lionel Soukaz",
+              "annee": 2001,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Avant j'étais triste, j'habitais seul avec Maman, dans un grand appartement... (Jean-Gabriel Périot)"
+                  "texte": "Sur la fin d'un âge d'or inattendu, celui du cinéma X."
                 }
               ],
-              "duree": 2,
+              "duree": 14,
               "format": "",
               "version": "",
               "ordre": 3
             },
             {
-              "idFilm": 141245,
-              "titre": "Red Chewing Gum",
-              "titreVo": "Al-ilka al-hamra",
-              "realisateurs": "Akram Zaatari",
-              "annee": 2000,
-              "pays": "Liban",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Une lettre-vidéo qui devient une tentative de saisir, et donc de s'approprier, le temps qui s'enfuit. (Heure exquise)"
-                }
-              ],
-              "duree": 10,
-              "format": "",
-              "version": "",
-              "ordre": 4
-            },
-            {
-              "idFilm": 117477,
-              "titre": "Natpwe, le festin des esprits",
+              "idFilm": 141233,
+              "titre": "Nu lacté",
               "titreVo": "",
-              "realisateurs": "Tiane Doan na Champassak, Jean Dubrel",
-              "annee": 2004,
-              "pays": "France-Myanmar",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Cinq jours de liberté dont les travestis sont rois et reines, dans une société birmane sous dictature. (NB)"
-                }
-              ],
-              "duree": 30,
-              "format": "Vidéo",
-              "version": "",
-              "ordre": 5
-            },
-            {
-              "idFilm": 141247,
-              "titre": "There Is a Spider Living Between Us",
-              "titreVo": "",
-              "realisateurs": "Tejal Shah",
-              "annee": 2009,
-              "pays": "Inde",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Une réflexion autour du désir de deux personnes voulant devenir une, ayant recours à de multiples techniques pour explorer le langage, la sexualité lesbienne et le tribadisme."
-                }
-              ],
-              "duree": 7,
-              "format": "",
-              "version": "",
-              "ordre": 6
-            },
-            {
-              "idFilm": 117484,
-              "titre": "Dans le village",
-              "titreVo": "",
-              "realisateurs": "Laurence Rebouillon, Patricia Godal",
-              "annee": 2009,
+              "realisateurs": "Lionel Soukaz, Othello Vilgard, Xavier Baert",
+              "annee": 2002,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Voyage amoureux dans les hauteurs d'une île et quelques vaches. (Collectif Jeune Cinéma)"
+                  "texte": "Performance par Tom de Pékin."
                 }
               ],
-              "duree": 6,
-              "format": "Super 8",
-              "version": "",
-              "ordre": 7
-            },
-            {
-              "idFilm": 141248,
-              "titre": "Reluctantly Queer",
-              "titreVo": "",
-              "realisateurs": "Akosua Adoma Owusu",
-              "annee": 2016,
-              "pays": "Ghana",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Intimité queer au Ghana."
-                }
-              ],
-              "generique": [
-                "Otu Kwame Edwin"
-              ],
-              "duree": 8,
+              "duree": 5,
               "format": "",
               "version": "",
-              "ordre": 8
-            },
-            {
-              "idFilm": 141249,
-              "titre": "Mahogany Too",
-              "titreVo": "",
-              "realisateurs": "Akosua Adoma Owusu",
-              "annee": 2018,
-              "pays": "États-Unis",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Image d'une afro-américaine déterminée à vivre ses rêves."
-                }
-              ],
-              "generique": [
-                "Esosa E."
-              ],
-              "duree": 3,
-              "format": "",
-              "version": "",
-              "ordre": 9
+              "ordre": 4
             }
           ],
           "seance": [
             {
-              "dateHeure": "2019-07-03T19:30:00",
+              "dateHeure": "2019-07-01T21:30:00",
               "idSalle": [
-                "JE",
-                "Jean Epstein"
+                "GF",
+                "Georges Franju"
               ]
             }
           ]
@@ -1454,7 +1330,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Une série de portrait qui constitue un panorama du militantisme trans et intersexe en France, en donnant la parole aux personnes militantes pionnières et actrices de ces luttes. (SG)"
+                  "texte": "Une série de portraits qui constitue un panorama du militantisme trans et intersexe en France, en donnant la parole aux personnes militantes pionnières et actrices de ces luttes."
                 }
               ],
               "duree": 75,
@@ -1472,7 +1348,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Dans un photomaton, plusieurs personnes trans réfléchissent à leur rapport aux papiers d'identité. (SG)"
+                  "texte": "Dans un photomaton, plusieurs personnes trans réfléchissent à leur rapport aux papiers d'identité."
                 }
               ],
               "duree": 36,
@@ -1507,7 +1383,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Quand l'anonymat des lobbys d'hôtels rencontre un récit sincère sur la sexualité, l'intimité et le consentement derrière les portes closes. (SG)"
+                  "texte": "Quand l'anonymat des lobbys d'hôtels rencontre un récit sincère sur la sexualité, l'intimité et le consentement derrière les portes closes."
                 }
               ],
               "duree": 7,
@@ -1525,7 +1401,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Expérience d'auto-filature dans laquelle Esmeray, artiste, transsexuelle, kurde et militante féministe, se remet brièvement dans le costume, de l'homme qu'elle a cessé d'être depuis vingt ans. (Güldem Durmaz)"
+                  "texte": "Expérience d'auto-filature dans laquelle Esmeray, artiste, transsexuelle, kurde et militante féministe, se remet brièvement dans le costume de l'homme qu'elle a cessé d'être depuis vingt ans."
                 }
               ],
               "duree": 22,
@@ -1535,7 +1411,7 @@
             },
             {
               "idFilm": 141255,
-              "titre": "Beware !",
+              "titre": "Beware!",
               "titreVo": "",
               "realisateurs": "Bruce, Samuel B. Atman",
               "annee": 2012,
@@ -1543,7 +1419,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Une immersion parodique dans la transphobie des années cinquante. (SG)"
+                  "texte": "Une immersion parodique dans la transphobie des années cinquante."
                 }
               ],
               "generique": [
@@ -1565,7 +1441,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "L'interprétation en images des chats de Chelsea Manning, alors jeune soldat qui exfiltrait des informations secrètes incriminant l'armée étatsunienne. (SG)"
+                  "texte": "L'interprétation en images des chats de Chelsea Manning, alors jeune soldat qui exfiltrait des informations secrètes incriminant l'armée étatsunienne."
                 }
               ],
               "generique": [
@@ -1587,7 +1463,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "En montant des caméras cachées tournées lors de l'hystérectomie d'un patient avec les interviews des instruments gynécologiques utilisés, Stealth figure le contrôle des corps par les technologies médicales et militaires. (SG)"
+                  "texte": "« En montant des caméras cachées tournées lors de l'hystérectomie d'un patient avec les interviews des instruments gynécologiques utilisés, Stealth figure le contrôle des corps par les technologies médicales et militaires. » (Stéphane Gérard)"
                 }
               ],
               "duree": 17,
@@ -1605,7 +1481,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Un journal intime qui nous invite, au fil d'appels vidéo, dans le quotidien de la sexualité d'une relation à distance. (SG)"
+                  "texte": "Un journal intime qui nous invite, au fil d'appels vidéo, dans le quotidien de la sexualité d'une relation à distance."
                 }
               ],
               "generique": [
@@ -1638,7 +1514,7 @@
               "idFilm": 141258,
               "titre": "Gouines & pédés : Refuser l'égalité des droits, c'est être homphobe !",
               "titreVo": "",
-              "realisateurs": "Les Panthères Roses, Les DurEs à Queer",
+              "realisateurs": "Les Panthères Roses, Les Dures à queer",
               "annee": 2012,
               "pays": "France",
               "textes": [
@@ -1663,7 +1539,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Sur la liste de noël des Panthères roses, il y a une plateforme pour l'égalité des droits : il faudra descendre dans la rue pour l'obtenir (sauf si on croit au Père Noël)."
+                  "texte": "« Sur la liste de Noël des Panthères roses, il y a une plateforme pour l'égalité des droits : il faudra descendre dans la rue pour l'obtenir (sauf si on croit au Père Noël). »"
                 }
               ],
               "duree": 1,
@@ -1681,7 +1557,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Un cActus à l'occasion de la marche des partisans du OUI au « Mariage pour tous », le 16 décembre 2012 à Paris. \\[SG\\]"
+                  "texte": "« Un cactus à l'occasion de la marche des partisans du oui \"Mariage pour tous\", le 16 décembre 2012 à Paris. » (Stéphane Gérard)"
                 }
               ],
               "duree": 8,
@@ -1720,32 +1596,46 @@
         },
         {
           "idCycle": 429,
-          "idCategorie": 1978,
-          "idEvenement": 19206,
-          "titreEvenement": "Séance 30 : Théo et Hugo dans le même bateau",
+          "idCategorie": 1980,
+          "idEvenement": 19273,
+          "titreEvenement": "Séance 29 : Le Projet Sextoy",
           "films": [
             {
-              "idFilm": 131275,
-              "titre": "Théo et Hugo dans le même bateau",
-              "titreVo": "",
-              "realisateurs": "Olivier Ducastel, Jacques Martineau",
-              "annee": 2015,
+              "idFilm": 141501,
+              "titre": "Je ne sais pas qui je suis, mais je sais ce que je pense",
+              "titreVo": "Tra kegro lafi sasam mle ra kgro lafe beln",
+              "realisateurs": "Mathieu Morel",
+              "annee": 2019,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Texte à saisir"
+                  "texte": "« Je ne sais pas qui je suis mais je sais ce que je pense : images et sons perçues, quand se fige mon esprit. » (Mathieu Morel)"
                 }
               ],
-              "generique": [
-                "Geoffrey Couët",
-                "François Nambot",
-                "Mario Fanfani"
-              ],
-              "duree": 97,
+              "duree": 4,
               "format": "",
               "version": "",
               "ordre": 1
+            },
+            {
+              "idFilm": 141450,
+              "titre": "Projet Sextoy",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Anastasia Mordin, Lidia Terki",
+              "annee": 2014,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Avec comme toile de fond l'univers du clubbing underground des années 90, le film retrace le projet artistique de Delphine Palatsi alias DJ Sextoy."
+                }
+              ],
+              "duree": 75,
+              "format": "",
+              "version": "",
+              "ordre": 2
             }
           ],
           "seance": [
@@ -1760,85 +1650,85 @@
         },
         {
           "idCycle": 429,
-          "idCategorie": 1962,
-          "idEvenement": 19173,
-          "titreEvenement": "Séance 15 : Lionel Soukaz",
+          "idCategorie": 1950,
+          "idEvenement": 19157,
+          "titreEvenement": "Séance 3 : Jean Genet et cie",
           "films": [
             {
-              "idFilm": 76873,
-              "titre": "Ixe",
+              "idFilm": 54392,
+              "titre": "Un chant d'amour",
               "titreVo": "",
-              "realisateurs": "Lionel Soukaz",
-              "annee": 1980,
+              "realisateurs": "Jean Genet",
+              "annee": 1950,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« X est un écartèlement : aux quatre points cardinaux, aux quatre extrémités de la croix, la Guerre, le Sexe, la Religion et la Drogue. » (Guy Hocquenghem)"
+                  "texte": "Un prisonnier d'âge mûr cherche à créer un contact corporel avec son voisin de cellule, un jeune et beau condamné à mort."
                 }
               ],
               "generique": [
-                "Jean-François B.",
-                "François Dantchev",
-                "Karine"
+                "Lucien Sénemaud",
+                "Coco le Martiniquais",
+                "Java"
               ],
-              "duree": 48,
+              "duree": 25,
               "format": "35 mm",
               "version": "",
               "ordre": 1
             },
             {
-              "idFilm": 141231,
-              "titre": "RV, mon ami",
+              "idFilm": 141215,
+              "titre": "Genet parle d'Angela Davis",
               "titreVo": "",
-              "realisateurs": "Lionel Soukaz",
-              "annee": 1994,
+              "realisateurs": "Carole Roussopoulos",
+              "annee": 1970,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Élégie de polaroïds tournée en caméra vide et haut, où l'on cherche le point sur des photos floues pour refuser l'absence de l'être aimé. (SG)"
+                  "texte": "« L'une des rares déclarations publiques en France de Jean Genet, dont la véhémence et la détermination semblèrent inadmissibles à la censure télévisuelle de l'époque. » (Marguerite Vappereau)"
                 }
               ],
-              "duree": 28,
+              "duree": 7,
               "format": "",
               "version": "",
               "ordre": 2
             },
             {
-              "idFilm": 141232,
-              "titre": "Loi X – La nuit en permanence",
-              "art": "La",
+              "idFilm": 141216,
+              "titre": "Manifestation contre la répression de l'homosexualité : juin 1977",
               "titreVo": "",
-              "realisateurs": "Lionel Soukaz",
-              "annee": 2001,
+              "realisateurs": "Le lézard du péril mauve, Ortie 14",
+              "annee": 1977,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Sur la fin d'un âge d'or inattendu, celui du cinéma X."
+                  "texte": "« Un collectif lesbien documente cette marche fière et festive, et interroge les passants témoins de la manifestation, collectant un échantillon de l'homophobie ordinaire. » (Stéphane Gérard)"
                 }
               ],
-              "duree": 14,
-              "format": "",
+              "duree": 22,
+              "format": "Vidéo",
               "version": "",
               "ordre": 3
             },
             {
-              "idFilm": 141233,
-              "titre": "Nu lacté",
+              "idFilm": 141217,
+              "titre": "Troisième œil",
+              "art": "Le",
               "titreVo": "",
-              "realisateurs": "Lionel Soukaz, Othello Vilgard, Xavier Baert",
-              "annee": 2002,
+              "realisateurs": "André Almuró",
+              "annee": 1989,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Performance par Tom de Pékin."
+                  "texte": "« Manifeste du cinéma haptique, qui pourrait aussi être résumé : \"Tout l'univers bouleversé par une branlette.\" »"
                 }
               ],
-              "duree": 5,
-              "format": "",
+              "duree": 8,
+              "format": "8 mm",
               "version": "",
               "ordre": 4
             }
@@ -1904,7 +1794,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Négocier, dévêtir, caresser, embrasser, lécher et séduire les femmes du légendaire Clit Club de New York qui a rayonné sur la scène lesbienne de 1990 à 2002. (Aubin Pictures)"
+                  "texte": "Négocier, dévêtir, caresser, embrasser, lécher et séduire les femmes du légendaire Clit Club de New York, qui a rayonné sur la scène lesbienne de 1990 à 2002."
                 }
               ],
               "duree": 11,
@@ -1944,87 +1834,177 @@
         },
         {
           "idCycle": 429,
-          "idCategorie": 1950,
-          "idEvenement": 19157,
-          "titreEvenement": "Séance 3 : Jean Genet et cie",
+          "idCategorie": 1973,
+          "idEvenement": 19145,
+          "titreEvenement": "Séance 25 : Courts-métrages",
           "films": [
             {
-              "idFilm": 54392,
-              "titre": "Un chant d'amour",
+              "idFilm": 141244,
+              "titre": "Paixão nacional",
               "titreVo": "",
-              "realisateurs": "Jean Genet",
-              "annee": 1950,
-              "pays": "France",
+              "realisateurs": "Karim Aïnouz",
+              "annee": 1996,
+              "pays": "Brésil-Canada",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« Un prisonnier d'âge mûr cherche à créer un contact corporel avec son voisin de cellule, un jeune et beau condamné à mort. » (Marguerite Vappereau)"
+                  "texte": "« L'hypocrisie sexuelle à échelle nationale. »"
                 }
               ],
-              "generique": [
-                "Lucien Sénemaud",
-                "Coco le Martiniquais",
-                "Java"
-              ],
-              "duree": 25,
-              "format": "35 mm",
+              "duree": 9,
+              "format": "",
               "version": "",
               "ordre": 1
             },
             {
-              "idFilm": 141215,
-              "titre": "Genet parle d'Angela Davis",
+              "idFilm": 141034,
+              "titre": "Gay ?",
               "titreVo": "",
-              "realisateurs": "Carole Roussopoulos",
-              "annee": 1970,
+              "realisateurs": "Jean-Gabriel Périot",
+              "annee": 2001,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« L'une des rares déclarations publiques en France de Jean Genet, dont la véhémence et la détermination semblèrent inadmissibles à la censure télévisuelle de l'époque. » (Marguerite Vappereau)"
+                  "texte": "« Un coming out : \"Bonsoir, je suis gay, fier, bien dans ma peau, heureux, et j'aime me faire enculer...\" » (Jean-Gabriel Périot)"
                 }
               ],
-              "duree": 7,
+              "duree": 2,
               "format": "",
               "version": "",
               "ordre": 2
             },
             {
-              "idFilm": 141216,
-              "titre": "Manifestation contre la répression de l'homosexualité : Juin 1977",
+              "idFilm": 141035,
+              "titre": "Avant j'étais triste",
               "titreVo": "",
-              "realisateurs": "Le lézard du péril mauve, Ortie 14",
-              "annee": 1977,
+              "realisateurs": "Jean-Gabriel Périot",
+              "annee": 2002,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Un collectif lesbien documente cette marche fière et festive, et interroge les passants témoins de la manifestation, collectant un échantillon de l'homophobie ordinaire. (SG)"
+                  "texte": "« Avant j'étais triste, j'habitais seul avec maman, dans un grand appartement... » (Jean-Gabriel Périot)"
                 }
               ],
-              "duree": 22,
-              "format": "Vidéo",
+              "duree": 2,
+              "format": "",
               "version": "",
               "ordre": 3
             },
             {
-              "idFilm": 141217,
-              "titre": "Troisième œil",
-              "art": "Le",
+              "idFilm": 141245,
+              "titre": "Red Chewing Gum",
+              "titreVo": "العلكة الحمراء [Al-ilka al-hamra]",
+              "realisateurs": "Akram Zaatari",
+              "annee": 2000,
+              "pays": "Liban",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une lettre-vidéo qui devient une tentative de saisir, et donc de s'approprier, le temps qui s'enfuit."
+                }
+              ],
+              "duree": 10,
+              "format": "",
+              "version": "",
+              "ordre": 4
+            },
+            {
+              "idFilm": 117477,
+              "titre": "Natpwe, le festin des esprits",
               "titreVo": "",
-              "realisateurs": "André Almuro",
-              "annee": 1989,
+              "realisateurs": "Tiane Doan na Champassak, Jean Dubrel",
+              "annee": 2004,
+              "pays": "France-Myanmar",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Cinq jours de liberté dont les travestis sont rois et reines, dans une société birmane sous dictature."
+                }
+              ],
+              "duree": 30,
+              "format": "Vidéo",
+              "version": "",
+              "ordre": 5
+            },
+            {
+              "idFilm": 141247,
+              "titre": "There Is a Spider Living Between Us",
+              "titreVo": "",
+              "realisateurs": "Tejal Shah",
+              "annee": 2009,
+              "pays": "Inde",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une réflexion autour du désir de deux personnes voulant devenir une, ayant recours à de multiples techniques pour explorer le langage, la sexualité lesbienne et le tribadisme."
+                }
+              ],
+              "duree": 7,
+              "format": "",
+              "version": "",
+              "ordre": 6
+            },
+            {
+              "idFilm": 117484,
+              "titre": "Dans le village",
+              "titreVo": "",
+              "realisateurs": "Laurence Rebouillon, Patricia Godal",
+              "annee": 2009,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Manifeste du cinéma haptique, aussi résumé par Laurence Rebouillon : « Tout l'univers ébranlé par une branlette. »"
+                  "texte": "Voyage amoureux dans les hauteurs d'une île, et quelques vaches."
                 }
               ],
-              "duree": 8,
-              "format": "8 mm",
+              "duree": 6,
+              "format": "Super 8",
               "version": "",
-              "ordre": 4
+              "ordre": 7
+            },
+            {
+              "idFilm": 141248,
+              "titre": "Reluctantly Queer",
+              "titreVo": "",
+              "realisateurs": "Akosua Adoma Owusu",
+              "annee": 2016,
+              "pays": "Ghana",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Intimité queer au Ghana."
+                }
+              ],
+              "generique": [
+                "Kwame Edwin Otu"
+              ],
+              "duree": 8,
+              "format": "",
+              "version": "",
+              "ordre": 8
+            },
+            {
+              "idFilm": 141249,
+              "titre": "Mahogany Too",
+              "titreVo": "",
+              "realisateurs": "Akosua Adoma Owusu",
+              "annee": 2018,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Image d'une afro-américaine déterminée à vivre ses rêves."
+                }
+              ],
+              "generique": [
+                "Esosa E."
+              ],
+              "duree": 3,
+              "format": "",
+              "version": "",
+              "ordre": 9
             }
           ],
           "seance": [
@@ -2045,7 +2025,7 @@
           "films": [
             {
               "idFilm": 58030,
-              "titre": "Flaming creatures",
+              "titre": "Flaming Creatures",
               "titreVo": "",
               "realisateurs": "Jack Smith",
               "annee": 1963,
@@ -2053,7 +2033,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Flamboyantes : rayonnantes, fabuleuses, extravagantes, virevoltantes, enflammées, resplendissantes, incandescentes, captivantes, en feu. (SG)"
+                  "texte": "« Flamboyantes : rayonnantes, fabuleuses, extravagantes, virevoltantes, enflammées, resplendissantes, incandescentes, captivantes, en feu. » (Stéphane Gérard)"
                 }
               ],
               "generique": [
@@ -2076,7 +2056,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Narcisse méconnu et présumé splendide, dans la lignée queer virevoltante de Jack Smith. (Yann Gonzalez)"
+                  "texte": "« Narcisse méconnu et présumé splendide, dans la lignée queer virevoltante de Jack Smith. » (Yann Gonzalez)"
                 }
               ],
               "duree": 11,
@@ -2094,7 +2074,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« L'originalité de José Soltero est d'attaquer une expérimentation underground et politique d'avant-garde pour la doubler d'un engagement queer et latino. » (David Bernadas)"
+                  "texte": "« L'originalité de Jose Soltero est d'attaquer une expérimentation underground et politique d'avant-garde pour la doubler d'un engagement queer et latino. » (David Bernadas)"
                 }
               ],
               "generique": [
@@ -2115,7 +2095,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Parodie et critique de l'hétérosexualité où l'on retrouve son amant, collaborateur et la superstar de Warhol, Ondine batifolant avec Sally Dixon dans un jardin victorien édénique. \\[Dirty Looks\\]"
+                  "texte": "Parodie et critique de l'hétérosexualité où l'on retrouve Ondine – amant, collaborateur et superstar de Warhol – batifolant avec Sally Dixon dans un jardin victorien édénique."
                 }
               ],
               "duree": 7,
@@ -2152,7 +2132,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Le concours de beauté Miss All-America Camp Beauty de 1967, qu'Andy Warhol est invité à juger, révèle Crystal LaBeija au monde et simultanément les tensions raciales à l'œuvre dans la scène étatsunienne de drag queens. \\[SG\\]"
+                  "texte": "« Le concours de beauté Miss All-America Camp Beauty de 1967, qu'Andy Warhol est invité à juger, révèle Crystal LaBeija au monde et simultanément les tensions raciales à l'œuvre dans la scène étatsunienne des drag queens. » (Stéphane Gérard)"
                 }
               ],
               "generique": [
@@ -2175,7 +2155,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "« Ce travail lyrique – de manière significative, l'un des rares films érotiques réalisés par des femmes – progresse de préliminaires jusqu'au sexe explicite, prouvant que même les séquences « hardcore » peuvent être subverties. » (Amos Vogel)"
+                  "texte": "« Ce travail lyrique – de manière significative, l'un des rares films érotiques réalisé par une femme – progresse de préliminaires jusqu'au sexe explicite, prouvant que même les séquences _hardcore_ peuvent être subverties. » (Amos Vogel)"
                 }
               ],
               "duree": 13,

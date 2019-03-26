@@ -4,164 +4,204 @@
 
 **Adieu, plancher des vaches !**  
 d'Otar Iosseliani  
-France-Suisse-Italie / 1998  
-Avec Nico Tarielashvili, Lily Lavina, Otar Iosseliani, Philippe Bas.
+France-Suisse-Italie / 1998 / 117 min / DCP  
+Avec Nico Tarielashvili, Lily Lavina, Otar Iosseliani, Philippe Bas.  
+Nicolas vit dans un château régi par sa mère, une femme d'affaires autoritaire. Son père boit et joue au train électrique. Nicolas fuit chaque jour le domaine familial pour rejoindre ses amis à Paris, clochards ou voyoux. Il participe au _hold-up_ d'un supermarché.
 
-- Dim 2 juin 21h30 GF  
-- Lun 17 juin 19h00 GF
+- sa 1 juin 14h30 GF  
+- lu 17 juin 19h00 GF
 
 **Aquarelle**  
 **(Akvareli)**  
 d'Otar Iosseliani  
-URSS / 1958  
+URSS / 1958 / 10 min / VOSTF / DCP  
 Avec Guennadi Kracheninnikov, Sofiko Tchiaoureli.  
+Une femme blanchisseuse et son mari ivrogne se disputent. Le mari se réfugie dans un musée.  
 Film suivi de _Le Chant de la fleur introuvable_ d'Otar Iosseliani, _La Fonte_ d'Otar Iosseliani, _Vieilles chansons Georgiennes_ d'Otar Iosseliani.
 
-- Ven 31 mai 21h30 GF  
-- Lun 17 juin 16h30 GF
+- ve 31 mai 21h30 GF  
+Film suivi de _Le Chant de la fleur introuvable_ d'Otar Iosseliani, _La Fonte_ d'Otar Iosseliani, _Vieilles chansons Georgiennes_ d'Otar Iosseliani.  
+- di 2 juin 21h30 GF  
+Film suivi de _Le Chant de la fleur introuvable_ d'Otar Iosseliani, _La Fonte_ d'Otar Iosseliani, _Vieilles chansons Georgiennes_ d'Otar Iosseliani.
 
 **Avril**  
 **(Aprili)**  
 d'Otar Iosseliani  
-URSS / 1961  
-Avec Tania Tchantouria, Guia Tchirakadze, Alexandre Tchikvaidze, V. Maisouradze.  
-Film suivi de _Sept pièces pour le cinéma noir et blanc_ d'Otar Iosseliani.
+URSS / 1961 / 50 min / VOSTF / DCP  
+Avec Tania Tchantouria, Guia Tchirakadze, Alexandre Tchikvaidze.  
+Un couple s'installe dans un appartement neuf, équipé du strict nécessaire. Ils sont heureux. Autour d'eux, les habitants de l'immeuble achètent frénétiquement du mobilier. Le jeune couple se met également à consommer. Bientôt, il se querellent.  
+Film suivi de _Sept pièces pour cinéma noir et blanc_ d'Otar Iosseliani.
 
-- Jeu 30 mai 19h30 GF  
-- Lun 10 juin 19h00 GF
+- je 30 mai 19h30 GF  
+Film suivi de _Sept pièces pour cinéma noir et blanc_ d'Otar Iosseliani.  
+- lu 10 juin 19h00 GF  
+Film suivi de _Sept pièces pour cinéma noir et blanc_ d'Otar Iosseliani.
 
 **Brigands, chapitre VII**  
 d'Otar Iosseliani  
-France-Suisse-URSS-Italie / 1995  
-Avec Amiran Amiranachvili, Dato Gogibedachvili, Guio Tzintsadze, Nino Ordjonikidze.
+France-Suisse-URSS-Italie / 1995 / 129 min / VOSTF / DCP  
+Avec Amiran Amiranachvili, Dato Gogibedachvili, Guio Tzintsadze, Nino Ordjonikidze.  
+Portraits de brigands du Moyen-Age à aujourd'hui. Bourreaux médiévaux, tortionnaires bolcheviks ou vulgaires mafieux contemporains, ils trahissent et torturent.
 
-- Sam 1 juin 21h30 GF  
-- Dim 16 juin 21h30 GF
+- sa 1 juin 21h00 GF  
+- di 16 juin 21h30 GF
 
 **Le Chant de la fleur introuvable**  
 **(Sapovnela)**  
 d'Otar Iosseliani  
-URSS / 1959  
-Film précédé d'_Aquarelle_ d'Otar Iosseliani, _La Fonte_ d'Otar Iosseliani, _Vieilles chansons Georgiennes_ d'Otar Iosseliani.
+URSS / 1959 / 20 min / VOSTF / DCP  
+Un homme âgé réalise de belles compositions florales. Les tracteurs envahissent les champs de fleurs.  
+Film précédé d'_Aquarelle_ d'Otar Iosseliani et suivi de de _La Fonte_ d'Otar Iosseliani, _Vieilles chansons Georgiennes_ d'Otar Iosseliani.
 
-- Ven 31 mai 21h30 GF  
-- Lun 17 juin 16h30 GF
+- ve 31 mai 21h30 GF  
+Film précédé d'_Aquarelle_ d'Otar Iosseliani et suivi de de _La Fonte_ d'Otar Iosseliani, _Vieilles chansons Georgiennes_ d'Otar Iosseliani.  
+- di 2 juin 21h30 GF  
+Film précédé d'_Aquarelle_ d'Otar Iosseliani et suivi de de _La Fonte_ d'Otar Iosseliani, _Vieilles chansons Georgiennes_ d'Otar Iosseliani.
 
 **Chant d'hiver**  
 d'Otar Iosseliani  
-France / 2014
+France / 2014 / 117 min / DCP  
+Avec Rufus, Amiran Amiranashvili, Mathias Jung, Enrico Ghezzi.  
+Trois histoires se succèdent : une fiction historique pendant a Révolution française, un film de guerre montrant terreur, pillage et viol, et une chronique parisienne contemporaine.
 
-- Sam 8 juin 15h00 GF  
-- Ven 21 juin 20h30 JE
+- sa 8 juin 15h00 JE  
+- ve 21 juin 20h30 JE
 
 **Chantrapas**  
 d'Otar Iosseliani  
-France-Géorgie-Ukraine / 2009  
-Avec Dato Tarielashvili, Tamuna Karumidze, Fanny Gonin, Givi Sarchimelidze.
+France-Géorgie-Ukraine / 2009 / 122 min / DCP  
+Avec Dato Tarielashvili, Tamuna Karumidze, Fanny Gonin, Bulle Ogier.  
+Nicolas est un cinéaste géorgien. Lassé d'être en but aux pressions des « idéologues » qui l'empêchent de s'exprimer, Nicolas quitte son pays d'origine pour la France, terre de liberté et de démocratie.
 
-- Dim 2 juin 19h30 GF  
-- Sam 8 juin 17h00 GF
+- di 2 juin 19h30 GF  
+- sa 8 juin 17h00 JE
 
 **La Chasse aux papillons**  
 d'Otar Iosseliani  
-France-Allemagne-Italie / 1991  
-Avec Narda Blanchet, Pierrette Pompon-Bailhache, Alexandre Tcherkassoff, Thamar Tarassachvili.
+France-Allemagne-Italie / 1991 / 115 min / DCP  
+Avec Narda Blanchet, Pierrette Pompon-Bailhache, Alexandre Tcherkassoff, Thamar Tarassachvili.  
+Deux vieilles dames vivent en autarcie dans le vieux château de famille. L'une joue du trombone dans la fanfare locale, tandis que l'autre s'enferme dans ses souvenirs. Un jour, la propriétaire du domaine meurt et les héritiers se présentent.
 
-- Mer 29 mai 20h00 HL  
-- Dim 16 juin 19h30 GF
+- me 29 mai 20h00 HL  
+- di 16 juin 19h30 GF
 
 **La Chute des feuilles**  
 **(Giorgobistve)**  
 d'Otar Iosseliani  
-URSS / 1966  
-Avec Ramaz Guiorgobiani, Marina Kartsivadze, Gogui Kharabadze, Badour Tsouladze.
+URSS / 1966 / 100 min / VOSTF / DCP  
+Avec Ramaz Guiorgobiani, Marina Kartsivadze, Gogui Kharabadze.  
+Fraîchement diplômés de l'Institut du vin de Tbilissi, Niko et Otar entrent dans une coopérative vinicole comme œnologues. Otar, plus âgé et plus assuré, se conforme aux exigences des chefs, alors que Niko, naïf et sincère, éprouve des difficultés.
 
-- Jeu 30 mai 21h30 GF  
-- Lun 10 juin 21h00 GF
+- je 30 mai 21h30 GF  
+- lu 10 juin 21h00 GF
 
 **Et la lumière fut**  
 d'Otar Iosseliani  
 France-Allemagne-Italie / 1989 / 103 min / VOSTF / 35 mm  
-Avec Sigalon Sagna, Saly Badji, Binta Cissé, Marie-Christine Dième.
+Avec Sigalon Sagna, Saly Badji, Binta Cissé, Marie-Christine Dième.  
+En Afrique, dans un village au cœur de la forêt mystérieuse, un peuple vit heureux, au rythme des coutumes ancestrales. Jusqu'au jour où l'arrivée de bûcherons bouleverse l'existence des habitants.
 
-- Sam 1 juin 19h30 GF  
-- Sam 15 juin 21h30 GF
+- sa 1 juin 18h45 GF  
+- sa 15 juin 21h30 GF
 
 **Les Favoris de la lune**  
 d'Otar Iosseliani  
-France / 1984  
-Avec Pascal Aubier, Alix de Montaigu, Gaspard Flori, Emilie Aubry.
+France / 1984 / 101 min / DCP  
+Avec Pascal Aubier, Alix de Montaigu, Gaspard Flori, Mathieu Amalric.  
+Des personnages divers se croisent dans Paris : un armurier trompé par sa femme avec un policier, des clochards qui font sauter une statue, un cambrioleur qui forme son fils...
 
-- Dim 2 juin 14h30 GF  
-- Sam 15 juin 19h30 GF
+- di 2 juin 14h30 GF  
+- sa 15 juin 19h30 GF
 
 **La Fonte**  
 **(Toudji)**  
 d'Otar Iosseliani  
-URSS / 1964  
-Film précédé d'_Aquarelle_ d'Otar Iosseliani et suivi de de _Le Chant de la fleur introuvable_ d'Otar Iosseliani, _Vieilles chansons Georgiennes_ d'Otar Iosseliani.
+URSS / 1964 / 20 min / VOSTF / DCP  
+La dure vie de quatre ouvriers de Rustavi dans une usine métallurgique.  
+Film précédé d'_Aquarelle_ d'Otar Iosseliani, _Le Chant de la fleur introuvable_ d'Otar Iosseliani et suivi de de _Vieilles chansons Georgiennes_ d'Otar Iosseliani.
 
-- Ven 31 mai 21h30 GF  
-- Lun 17 juin 16h30 GF
+- ve 31 mai 21h30 GF  
+Film précédé d'_Aquarelle_ d'Otar Iosseliani, _Le Chant de la fleur introuvable_ d'Otar Iosseliani et suivi de de _Vieilles chansons Georgiennes_ d'Otar Iosseliani.  
+- di 2 juin 21h30 GF  
+Film précédé d'_Aquarelle_ d'Otar Iosseliani, _Le Chant de la fleur introuvable_ d'Otar Iosseliani et suivi de de _Vieilles chansons Georgiennes_ d'Otar Iosseliani.
 
 **Il était une fois un merle chanteur**  
-**(Zil pevcij drozd)**  
+**(Iqo chachvi mgalobeli)**  
 d'Otar Iosseliani  
-URSS / 1971  
-Avec Gogi Chkheidze.
+URSS / 1971 / 85 min / VOSTF / DCP  
+Avec Gogi Chkheidze, Guela Kandelaki, Irina Djandieri.  
+Plongée dans la vie d'un jeune percussionniste de l'orchestre d'opéra de Tbilissi. Rêveur et insouciant, il erre dans les rues, au gré de rencontres amicales et sentimentales.
 
-- Ven 31 mai 19h30 GF  
-- Mer 12 juin 19h30 GF
+- ve 31 mai 19h30 GF  
+- me 12 juin 19h30 GF
 
 **Jardins en automne**  
 d'Otar Iosseliani  
-France / 2005  
-Avec Séverin Blanchet, Michel Piccoli, Muriel Motte, Pascal Vincent.
+France / 2005 / 117 min / DCP  
+Avec Séverin Blanchet, Michel Piccoli, Muriel Motte.  
+Vincent, un bon vivant, aime le pouvoir et sait profiter de ses fonctions de ministre pour mener la grande vie. Mais lorsqu'une succession de manifestations le pousse à démissionner, ce petit univers factice s'effondre.
 
-- Mer 5 juin 19h30 GF  
-- Lun 17 juin 21h00 GF
-
-**Otar Iosseliani, le merle siffleur**  
-de Julieeeeeee Bertuccelli  
-France / 2006
-
-- Ven 7 juin 19h30 JE
+- me 5 juin 19h30 GF  
+- lu 17 juin 21h00 GF
 
 **Pastorale**  
-**(Pastoral)**  
+**(Pastorali)**  
 d'Otar Iosseliani  
-URSS / 1976
+URSS / 1976 / 95 min / VOSTF / DCP  
+Avec Rezo Tcharkhalachvili, Lia Tokhadze-Djougueli, Marina Kartsivadze, Nana Iosseliani.  
+Quatre musiciens arrivent de la ville dans un village perdu pour se reposer. Ils logent dans une famille où cohabitent trois générations. La jeune fille de la maison tombe amoureuse de l'un d'eux.
 
-- Mer 12 juin 21h30 GF  
-- Mer 19 juin 14h30 GF
+- me 12 juin 21h30 GF  
+- me 19 juin 14h30 GF
 
-**Sept pièces pour le cinéma noir et blanc**  
+**Sept pièces pour cinéma noir et blanc**  
 d'Otar Iosseliani  
-France / 1982  
+France / 1982 / 25 min / DCP  
+Avec Philippe Cousin, Otar Iosseliani, Antonine Katzeflis.  
+Série de saynètes entrecoupées de plans tournés dans les rues de Paris. Le film est un hommage affectueux aux habitants de Paris.  
 Film précédé d'_Avril_ d'Otar Iosseliani.
 
-- Jeu 30 mai 19h30 GF  
-- Lun 10 juin 19h00 GF
-
-**Seule, Georgie**  
-d'Otar Iosseliani  
-France / 1994
-
-- Dim 9 juin 17h30 JE
-
-**Un petit monastère en Toscane**  
-d'Otar Iosseliani  
-France / 1988
-
-- Mer 5 juin 21h30 GF  
-- Sam 15 juin 15h00 GF
+- je 30 mai 19h30 GF  
+Film précédé d'_Avril_ d'Otar Iosseliani.  
+- lu 10 juin 19h00 GF  
+Film précédé d'_Avril_ d'Otar Iosseliani.
 
 **Vieilles chansons Georgiennes**  
 **(Starinnaja gruzinskaja pesnja)**  
 d'Otar Iosseliani  
-URSS / 1968  
-Film précédé d'_Aquarelle_ d'Otar Iosseliani, _La Fonte_ d'Otar Iosseliani et suivi de de _Le Chant de la fleur introuvable_ d'Otar Iosseliani.
+URSS / 1968 / 20 min / VOSTF / DCP  
+Un hommage en musique à la culture géorgienne.  
+Film précédé d'_Aquarelle_ d'Otar Iosseliani, _Le Chant de la fleur introuvable_ d'Otar Iosseliani, _La Fonte_ d'Otar Iosseliani.
 
-- Ven 31 mai 21h30 GF  
-- Lun 17 juin 16h30 GF
+- ve 31 mai 21h30 GF  
+Film précédé d'_Aquarelle_ d'Otar Iosseliani, _Le Chant de la fleur introuvable_ d'Otar Iosseliani, _La Fonte_ d'Otar Iosseliani.  
+- di 2 juin 21h30 GF  
+Film précédé d'_Aquarelle_ d'Otar Iosseliani, _Le Chant de la fleur introuvable_ d'Otar Iosseliani, _La Fonte_ d'Otar Iosseliani.
+
+## Documentaires
+
+**Seule, Géorgie**  
+d'Otar Iosseliani  
+France / 1993 / 236 min  
+Ce documentaire retrace 2000 ans de l'histoire mouvementée de la Géorgie notamment à travers des documents filmés et des extraits de films. Il est composé de 3 parties : _Prélude_ (86 minutes), _Tentation_ (65 minutes) et _L'Epreuve_ (83 minutes).
+
+- di 9 juin 17h30 JE
+
+**Un petit monastère en Toscane**  
+d'Otar Iosseliani  
+France / 1988 / 54 min / DCP  
+En Toscane, cinq moines augustins français font revivre un petit monastère. Leur quotidien s'organise autour des prières, chants, réfections de manuscrits et offices. A côté de cette existence austère, les paysans des alentours travaillent et les nobles sortent.
+
+- me 5 juin 21h30 GF  
+- sa 15 juin 15h00 GF
+
+## Autour d'Otar Iosseliani
+
+**Otar Iosseliani, le merle siffleur**  
+de Julieeeeeee Bertuccelli  
+France / 2006 / 92 min / 35 mm  
+Julie Bertucelli filme son mentor et ami pendant la préparation de son film _Jardins d'automne_. Elle montre son travail de mise en scène, ainsi que ses doutes.
+
+- ve 7 juin 19h30 JE  
+Séance présentée par Julie Bertuccelli
 

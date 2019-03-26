@@ -1,0 +1,161 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>><dcs:ITAL=<cTypeface:Italic>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>Adieu, plancher des vaches !
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France-Suisse-Italie/1998/117'/DCP
+<pstyle:TECHNIQUE>Avec Nico Tarielachvili, Lily Lavina, Otar Iosseliani, Philippe Bas.
+<pstyle:SYNOPSIS>Nicolas vit dans un château régi par sa mère, une femme d'affaires autoritaire. Son père boit et joue au train électrique. Nicolas fuit chaque jour le domaine familial pour rejoindre à Paris ses amis, clochards ou voyous.
+<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX14h30XXX<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>lu 17 juinXXX19h00XXX<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Aquarelle
+<pstyle:TITRE_ANG>(Akvareli)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1958/10'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Guennadi Kracheninnikov, Sofiko Tchiaoureli.
+<pstyle:SYNOPSIS>Une femme blanchisseuse et son mari ivrogne se disputent. Le mari se réfugie dans un musée.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Le Chant de la fleur introuvable
+<pstyle:TITRE_ANG>(Sapovnela)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1959/20'/VOSTF/DCP
+<pstyle:SYNOPSIS>Un vieil homme, amoureux de la nature, réalise de magnifiques compositions florales. Mais des tracteurs envahissent peu à peu les champs de fleurs.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>La Fonte
+<pstyle:TITRE_ANG>(Toudji)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1964/20'/VOSTF/DCP
+<pstyle:SYNOPSIS>La dure vie de quatre ouvriers de Rustavi dans une usine métallurgique.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Vieilles chansons géorgiennes
+<pstyle:TITRE_ANG>(Starinnaja gruzinskaja pesnja)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1968/20'/VOSTF/DCP
+<pstyle:SYNOPSIS>Un hommage en musique à la culture géorgienne.
+<pstyle:><cstyle:INFOSBLEUES>ve 31 maiXXX21h30XXX<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>di 02 juinXXX21h30XXX<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Avril
+<pstyle:TITRE_ANG>(Aprili)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1961/50'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Tania Tchantouria, Guia Tchirakadze, Alexandre Tchikvaidze.
+<pstyle:SYNOPSIS>De jeunes mariés s'installent dans un appartement neuf, équipé du strict nécessaire, et y vivent heureux. Les habitants de l'immeuble achètent frénétiquement du mobilier, et lorsque le couple se met également à consommer, les querelles éclatent.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Sept pièces pour cinéma noir et blanc
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France/1982/25'/DCP
+<pstyle:TECHNIQUE>Avec Philippe Cousin, Otar Iosseliani, Antonine Katzeflis.
+<pstyle:SYNOPSIS>Série de saynètes entrecoupées de plans tournés dans les rues de Paris, en hommage affectueux à la ville et à ses habitants.
+<pstyle:><cstyle:INFOSBLEUES>je 30 maiXXX19h30XXX<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>lu 10 juinXXX19h00XXX<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Brigands, chapitre VII
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France-Suisse-URSS-Italie/1995/129'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Amiran Amiranachvili, Dato Gogibedachvili, Guio Tzintsadze, Nino Ordjonikidze.
+<pstyle:SYNOPSIS>Quelques portraits de brigands, du Moyen-Âge à aujourd'hui. Bourreaux médiévaux, tortionnaires bolcheviks ou vulgaires mafieux contemporains, ils trahissent et torturent.
+<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX21h00XXX<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>di 16 juinXXX21h30XXX<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Chant d'hiver
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France/2014/117'/DCP
+<pstyle:TECHNIQUE>Avec Rufus, Amiran Amiranachvili, Mathias Jung, Mathieu Amalric.
+<pstyle:SYNOPSIS>Trois histoires se succèdent, avec un même personnage<0x00A0>: une fiction historique sous la Terreur, un conflit violent dans un pays en guerre, et une chronique policière burlesque dans le Paris d'aujourd'hui.
+<pstyle:><cstyle:INFOSBLEUES>sa 08 juinXXX15h00XXX<cstyle:SALLESBLEUES>C
+<cstyle:INFOSBLEUES>ve 21 juinXXX20h30XXX<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Chantrapas
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France-Géorgie-Ukraine/2009/122'/DCP
+<pstyle:TECHNIQUE>Avec Dato Tarielachvili, Tamuna Karumidze, Fanny Gonin, Bulle Ogier, Pierre Étaix.
+<pstyle:SYNOPSIS>Nicolas, cinéaste géorgien, ne supporte plus les pressions des idéologues qui entravent sa liberté créatrice. Il s'exile en France, où il affrontera une autre forme de censure, économique.
+<pstyle:><cstyle:INFOSBLEUES>di 02 juinXXX19h30XXX<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>sa 08 juinXXX17h00XXX<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>La Chasse aux papillons
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France-Allemagne-Italie/1991/115'/DCP
+<pstyle:TECHNIQUE>Avec Narda Blanchet, Pierrette Pompon-Bailhache, Alexandre Tcherkassoff, Thamar Tarassachvili.
+<pstyle:SYNOPSIS>Deux vieilles dames vivent en autarcie dans le vieux château familial. L'une joue du trombone dans la fanfare locale, tandis que l'autre s'enferme dans ses souvenirs. Un jour, l'une meurt et les héritiers se présentent.
+<pstyle:><cstyle:INFOSBLEUES>me 29 maiXXX20h00XXX<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>di 16 juinXXX19h30XXX<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>La Chute des feuilles
+<pstyle:TITRE_ANG>(Giorgobistve)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1966/100'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Ramaz Guiorgobiani, Marina Kartsivadze, Gogui Kharabadze.
+<pstyle:SYNOPSIS>Fraîchement diplômés de l'Institut d'<0x0153>nologie de Tbilissi, Niko et Otar entrent dans une coopérative vinicole. Otar, plus âgé et plus assuré, se conforme aux exigences des chefs, alors que Niko, naïf et sincère, éprouve quelques difficultés.
+<pstyle:><cstyle:INFOSBLEUES>je 30 maiXXX21h30XXX<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>lu 10 juinXXX21h00XXX<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Et la lumière fut
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France-Allemagne-Italie/1989/103'/VOSTF/35 mm
+<pstyle:TECHNIQUE>Avec Sigalon Sagna, Saly Badji, Binta Cissé, Marie-Christine Dième.
+<pstyle:SYNOPSIS>En Afrique, dans un village au c<0x0153>ur de la forêt mystérieuse, un peuple vit heureux, au rythme des coutumes ancestrales. Jusqu'au jour où l'arrivée de bûcherons bouleverse l'existence des habitants.
+<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX18h45XXX<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>sa 15 juinXXX21h30XXX<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Les Favoris de la lune
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France/1984/101'/DCP
+<pstyle:TECHNIQUE>Avec Pascal Aubier, Alix de Montaigu, Mathieu Amalric, Jean-Pierre Beauviala.
+<pstyle:SYNOPSIS>Des personnages divers se croisent dans Paris<0x00A0>: un armurier trompé par sa femme avec un policier, des clochards qui font sauter une statue, un cambrioleur qui forme son fils...
+<pstyle:><cstyle:INFOSBLEUES>di 02 juinXXX14h30XXX<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>sa 15 juinXXX19h30XXX<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Il était une fois un merle chanteur
+<pstyle:TITRE_ANG>(Iqo chachvi mgalobeli)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1971/85'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Guela Kandelaki, Gogi Chkheidze, Irina Djandieri.
+<pstyle:SYNOPSIS>Plongée dans la vie d'un jeune percussionniste de l'opéra de Tbilissi. Rêveur et insouciant, il erre dans les rues, au gré de rencontres amicales et sentimentales.
+<pstyle:><cstyle:INFOSBLEUES>ve 31 maiXXX19h30XXX<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>me 12 juinXXX19h30XXX<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Jardins en automne
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France/2005/117'/DCP
+<pstyle:TECHNIQUE>Avec Séverin Blanchet, Michel Piccoli, Muriel Motte.
+<pstyle:SYNOPSIS>Vincent, bon vivant, profite pleinement des avantages que lui confère sa fonction de ministre. Lorsqu'une succession de manifestations le pousse à démissionner, il redécouvre la vie et la liberté loin du pouvoir.
+<pstyle:><cstyle:INFOSBLEUES>me 05 juinXXX19h30XXX<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>lu 17 juinXXX21h00XXX<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Pastorale
+<pstyle:TITRE_ANG>(Pastorali)
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>URSS/1976/95'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Nana Iosseliani, Rezo Tcharkhalachvili, Lia Tokhadze-Djougueli, Marina Kartsivadze.
+<pstyle:SYNOPSIS>Quatre musiciens arrivent de la ville dans un village perdu pour se reposer. Ils logent dans une famille où cohabitent trois générations. La jeune fille de la maison tombe amoureuse de l'un d'eux.
+<pstyle:><cstyle:INFOSBLEUES>me 12 juinXXX21h30XXX<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>me 19 juinXXX14h30XXX<cstyle:SALLESBLEUES>B
+
+<pstyle:CATEGORIE>Documentaires
+
+<pstyle:TITRE>Seule, Géorgie
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France/1993/236'
+<pstyle:SYNOPSIS>Documentaire en trois parties (<cSkew:9>Prélude<cSkew:>, <cSkew:9>Tentation<cSkew:> et <cSkew:9>L'Épreuve<cSkew:>), qui retrace 2000 ans de l'histoire mouvementée de la Géorgie à travers des documents filmés et des extraits de films.
+<pstyle:><cstyle:INFOSBLEUES>di 09 juinXXX17h30XXX<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Un petit monastère en Toscane
+<pstyle:TECHNIQUE>d'Otar Iosseliani
+<pstyle:TECHNIQUE>France/1988/54'/DCP
+<pstyle:SYNOPSIS>Autour des prières, chants, réfections de manuscrits et offices, la vie de cinq moines augustins français dans un petit monastère de Toscane.
+<pstyle:><cstyle:INFOSBLEUES>me 05 juinXXX21h30XXX<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>sa 15 juinXXX15h00XXX<cstyle:SALLESBLEUES>B
+
+<pstyle:CATEGORIE>Autour d'Otar Iosseliani
+
+<pstyle:TITRE>Otar Iosseliani, le merle siffleur
+<pstyle:TECHNIQUE>de Julie Bertuccelli
+<pstyle:TECHNIQUE>France/2006/92'/35 mm
+<pstyle:SYNOPSIS>Julie Bertucelli accompagne son mentor et ami pendant la préparation de son film <cSkew:9>Jardins d'automne<cSkew:>. Elle filme son travail de mise en scène, ses doutes artistiques et sa folie douce.
+<pstyle:><cstyle:INFOSBLEUES>ve 07 juinXXX19h30XXX<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance présentée par Julie Bertuccelli
+

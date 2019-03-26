@@ -1,0 +1,428 @@
+[
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19255,
+    "idSeance": 30248,
+    "dateHeure": "2019-07-18T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Speed",
+    "items": [
+      {
+        "idFilm": 29888,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19249,
+    "idSeance": 30249,
+    "dateHeure": "2019-07-18T19:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Femme sur la lune (La)",
+    "items": [
+      {
+        "idFilm": 40667,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19257,
+    "idSeance": 30254,
+    "dateHeure": "2019-07-19T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Orca",
+    "items": [
+      {
+        "idFilm": 30333,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19242,
+    "idSeance": 30255,
+    "dateHeure": "2019-07-19T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Dune",
+    "items": [
+      {
+        "idFilm": 34861,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19262,
+    "idSeance": 30256,
+    "dateHeure": "2019-07-19T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Il était une fois en Amérique",
+    "items": [
+      {
+        "idFilm": 43295,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19244,
+    "idSeance": 30261,
+    "dateHeure": "2019-07-20T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Oblivion",
+    "items": [
+      {
+        "idFilm": 118833,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19254,
+    "idSeance": 30561,
+    "dateHeure": "2019-07-20T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "747 en péril",
+    "items": [
+      {
+        "idFilm": 37070,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19259,
+    "idSeance": 30499,
+    "dateHeure": "2019-07-20T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Ghost in the shell - L'esprit dans la machine",
+    "items": [
+      {
+        "idFilm": 60168,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1982,
+    "idEvenement": 19290,
+    "idSeance": 30555,
+    "dateHeure": "2019-07-20T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Innocence",
+    "items": [
+      {
+        "idFilm": 91457,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19243,
+    "idSeance": 30521,
+    "dateHeure": "2019-07-21T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Ben Hur",
+    "items": [
+      {
+        "idFilm": 41569,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19251,
+    "idSeance": 30270,
+    "dateHeure": "2019-07-21T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Blade (The)",
+    "items": [
+      {
+        "idFilm": 57989,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19252,
+    "idSeance": 30271,
+    "dateHeure": "2019-07-21T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Il était une fois en Chine",
+    "items": [
+      {
+        "idFilm": 67965,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19260,
+    "idSeance": 30272,
+    "dateHeure": "2019-07-21T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Windtalkers - Les Messagers du vent",
+    "items": [
+      {
+        "idFilm": 80582,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19246,
+    "idSeance": 30560,
+    "dateHeure": "2019-07-22T16:15:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "2010",
+    "items": [
+      {
+        "idFilm": 62095,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19253,
+    "idSeance": 30562,
+    "dateHeure": "2019-07-22T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Tour infernale (La)",
+    "items": [
+      {
+        "idFilm": 33227,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19241,
+    "idSeance": 30563,
+    "dateHeure": "2019-07-22T22:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Stalingrad",
+    "items": [
+      {
+        "idFilm": 73480,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
+    "idEvenement": 19247,
+    "idSeance": 30282,
+    "dateHeure": "2019-07-24T16:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Jumper",
+    "items": [
+      {
+        "idFilm": 103722,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1982,
+    "idEvenement": 19285,
+    "idSeance": 30557,
+    "dateHeure": "2019-07-25T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "2001 : L'odyssée de l'espace",
+    "items": [
+      {
+        "idFilm": 54223,
+        "ordre": 1,
+        "idSeance": 30557,
+        "idCopie": 4506,
+        "duree": 149,
+        "version": "VO",
+        "format": "70 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1982,
+    "idEvenement": 19293,
+    "idSeance": 30564,
+    "dateHeure": "2019-07-26T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Huit salopards (Les)",
+    "items": [
+      {
+        "idFilm": 129726,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1982,
+    "idEvenement": 19286,
+    "idSeance": 30304,
+    "dateHeure": "2019-07-27T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Interstellar",
+    "items": [
+      {
+        "idFilm": 124931,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1982,
+    "idEvenement": 19288,
+    "idSeance": 30306,
+    "dateHeure": "2019-07-27T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Alamo",
+    "items": [
+      {
+        "idFilm": 37818,
+        "ordre": 1,
+        "idSeance": 30306,
+        "idCopie": 5677,
+        "duree": 192,
+        "version": "",
+        "format": "70 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1982,
+    "idEvenement": 19284,
+    "idSeance": 30312,
+    "dateHeure": "2019-07-28T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Patton",
+    "items": [
+      {
+        "idFilm": 36743,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1982,
+    "idEvenement": 19287,
+    "idSeance": 30315,
+    "dateHeure": "2019-07-28T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Cheyennes (Les)",
+    "items": [
+      {
+        "idFilm": 32324,
+        "ordre": 1
+      }
+    ]
+  }
+]

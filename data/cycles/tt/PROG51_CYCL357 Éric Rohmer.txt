@@ -9,42 +9,43 @@
 <pstyle:TECHNIQUE>France/1986/100'/DCP
 <pstyle:TECHNIQUE>Avec Emmanuelle Chaulet, Sophie Renoir, Anne-Laure Meury.
 <pstyle:SYNOPSIS>Blanche vient de s'installer à Cergy-Pontoise où elle travaille comme attachée d'administration de la mairie. Lors d'une pause-déjeuner, elle rencontre Léa, une jeune femme sympathique qui va devenir son amie.
-<pstyle:><cstyle:INFOSBLEUES>Lun 14 jan 19h15 GF
+<pstyle:><cstyle:INFOSBLEUES>lu 14 janXXX19h15XXX<cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Le Beau mariage
 <pstyle:TECHNIQUE>d'Eric Rohmer
 <pstyle:TECHNIQUE>France/1981/95'/DCP
 <pstyle:TECHNIQUE>Avec Béatrice Romand, André Dussollier, Feodor Atkine.
 <pstyle:SYNOPSIS>Sabine, étudiante, ne veut plus être la maîtresse de Simon. D'ailleurs, elle en a assez d'être cantonnée au rôle de maîtresse et décide de se marier. Avec qui, elle l'ignore: il s'agit avant tout de faire un beau mariage.
-<pstyle:><cstyle:INFOSBLEUES>Dim 13 jan 19h00 HL
+<pstyle:><cstyle:INFOSBLEUES>di 13 janXXX19h00XXX<cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>La Femme de l'aviateur
 <pstyle:TECHNIQUE>d'Eric Rohmer
 <pstyle:TECHNIQUE>France/1980/104'/DCP
 <pstyle:TECHNIQUE>Avec Philippe Marlaud, Marie Rivière, Anne-Laure Meury.
 <pstyle:SYNOPSIS>Un matin, François voit Anne en compagnie d'un aviateur. L'après-midi, il reconnaît l'aviateur avec une autre femme et les suit. Il rencontre Lucie, une lycéenne curieuse et espiègle.
-<pstyle:><cstyle:INFOSBLEUES>Mer 16 jan 21h45 GF
+<pstyle:><cstyle:INFOSBLEUES>me 16 janXXX21h45XXX<cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Les Nuits de la pleine lune
 <pstyle:TECHNIQUE>d'Eric Rohmer
 <pstyle:TECHNIQUE>France/1984/100'/DCP
 <pstyle:TECHNIQUE>Avec Pascale Ogier, Tchéky Karyo, Fabrice Luchini.
 <pstyle:SYNOPSIS>Louise parvient à convaincre Rémi, son petit ami qui vit en banlieue, de conserver son appartement pour passer de temps en temps la nuit à Paris.
-<pstyle:><cstyle:INFOSBLEUES>Mer 9 jan 20h00 HL
+<pstyle:><cstyle:INFOSBLEUES>me 09 janXXX20h00XXX<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Ouverture de la rétrospective
 
 <pstyle:TITRE>Pauline à la plage
 <pstyle:TECHNIQUE>d'Eric Rohmer
 <pstyle:TECHNIQUE>France/1982/100'/DCP
 <pstyle:TECHNIQUE>Avec Amanda Langlet, Arielle Dombasle, Pascal Greggory.
 <pstyle:SYNOPSIS>Pauline passe l'été chez sa cousine Marion. Sur la plage, Marion rencontre Pierre, un ancien soupirant qui lui fait une déclaration brûlante. Elle le repousse et se jette dans les bras d'Henri, que Pierre a été contraint de lui présenter.
-<pstyle:><cstyle:INFOSBLEUES>Sam 12 jan 19h30 HL
+<pstyle:><cstyle:INFOSBLEUES>sa 12 janXXX19h30XXX<cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Le Rayon vert
 <pstyle:TECHNIQUE>d'Eric Rohmer
 <pstyle:TECHNIQUE>France/1985/90'/DCP
 <pstyle:TECHNIQUE>Avec Marie Rivière, Vincent Gauthier, Rosette.
 <pstyle:SYNOPSIS>Délaissée par son amie, Delphine se rend seule en Normandie, à la montagne, et échoue à Biarritz. Les conseils d'une Suédoise affranchie ne font qu'aviver sa solitude, jusqu'à ce qu'une conversation à propos du rayon vert lui redonne espoir.
-<pstyle:><cstyle:INFOSBLEUES>Sam 2 fév 20h00 HL
+<pstyle:><cstyle:INFOSBLEUES>sa 02 févXXX20h00XXX<cstyle:SALLESBLEUES>A
 
 <pstyle:CATEGORIE>Contes des quatre saisons
 
@@ -56,76 +57,152 @@
 <pstyle:TECHNIQUE>D'après le texte <cSkew:9>L'Astrée<cSkew:> de Honoré d'Urfé.
 <pstyle:TECHNIQUE>Avec Andy Gillet, Stéphanie Crayencour, Cécile Cassel.
 <pstyle:SYNOPSIS>Au temps des druides, le berger Céladon et la bergère Astrée s'aiment d'amour pur. Trompée par un prétendant jaloux, Astrée congédie Céladon qui, désespéré, se jette dans une rivière. Elle le croit mort mais il est secrètement sauvé par des nymphes.
-<pstyle:><cstyle:INFOSBLEUES>Jeu 17 jan 19h30 HL
+<pstyle:><cstyle:INFOSBLEUES>je 17 janXXX19h30XXX<cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>L'Anglaise et le duc
 <pstyle:TECHNIQUE>d'Eric Rohmer
 <pstyle:TECHNIQUE>France/2000/129'/VO/35 mm
 <pstyle:TECHNIQUE>D'après le récit <cSkew:9>Journal de ma vie durant la Révolution Française<cSkew:> de Grace Elliott.
 <pstyle:TECHNIQUE>Avec Lucy Russell, Jean-Claude Dreyfus, François Marthouret.
-<pstyle:SYNOPSIS>1789\. Aristocrate britannique vivant en France, bénéficiant de la protection du Duc d'Orléans, cousin du roi, ancien amant et révolutionnaire influent, Grace Elliott affirme haut et fort son attachement à la monarchie. Survient le 10 août 1792.
-<pstyle:><cstyle:INFOSBLEUES>Dim 27 jan 14h30 HL
+<pstyle:SYNOPSIS>1789. Aristocrate britannique vivant en France, bénéficiant de la protection du Duc d'Orléans, cousin du roi, ancien amant et révolutionnaire influent, Grace Elliott affirme haut et fort son attachement à la monarchie. Survient le 10 août 1792.
+<pstyle:><cstyle:INFOSBLEUES>di 27 janXXX14h30XXX<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Séance présentée par Françoise Etchegaray
 
 <pstyle:TITRE>L'Arbre, le maire et la médiathèque
 <pstyle:TECHNIQUE>d'Eric Rohmer
 <pstyle:TECHNIQUE>France/1992/105'/DCP
 <pstyle:TECHNIQUE>Avec Pascal Greggory, Arielle Dombasle, Fabrice Luchini.
 <pstyle:SYNOPSIS>Dans un petit village de Vendée, le jeune maire socialiste ambitionne de faire construire un complexe culturel et sportif. Apprécié des locaux, il trouve les crédits nécessaires. Tout irait pour le mieux dans le meilleur des villages possibles, si...
-<pstyle:><cstyle:INFOSBLEUES>Sam 19 jan 20h00 HL
-<cstyle:INFOSBLEUES>Jeu 7 fév 19h30 HL
+<pstyle:><cstyle:INFOSBLEUES>sa 19 janXXX20h00XXX<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Séance présentée par Françoise Etchegaray et Pascal Greggory (sous réserve)
+<cstyle:INFOSBLEUES>je 07 févXXX19h30XXX<cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>La Marquise d'O
 <pstyle:TECHNIQUE>d'Eric Rohmer
 <pstyle:TECHNIQUE>France-RFA/1975/105'/DCP
 <pstyle:TECHNIQUE>Avec Edith Clever, Bruno Ganz, Edda Seipel.
 <pstyle:SYNOPSIS>Lors de la prise d'une place forte en Lombardie en 1799 par les troupes russes, une jeune veuve est sauvée du déshonneur par un officier ennemi. Peu après, elle apprend qu'elle est enceinte et décide de retrouver le père par petite annonce.
-<pstyle:><cstyle:INFOSBLEUES>Lun 14 jan 17h00 GF
+<pstyle:><cstyle:INFOSBLEUES>lu 14 janXXX17h00XXX<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Margaret Ménégoz
 
 <pstyle:TITRE>Paris vu par
 <pstyle:TECHNIQUE>de Jean-Daniel Pollet, Jean Rouch, Jean Douchet, [etc.]
 <pstyle:TECHNIQUE>France/1964/98'/DCP
 <pstyle:TECHNIQUE>Avec Jean-Pierre Andréani, Nadine Ballot, Marcel Gallon.
 <pstyle:SYNOPSIS><cSkew:9>Place de l'Etoile<cSkew:> est le segment réalisé par Éric Rohmer dans ce film collectif. Un vendeur, qui fait chaque jour le tour de la Place de l'Étoile, a une altercation avec un passant qui l'a bousculé. Touché par un coup de parapluie, son adversaire s'effondre. Il s'enfuit et n'ose plus retourner sur les lieux, jusqu'au jour où...
-<pstyle:><cstyle:INFOSBLEUES>Ven 18 jan 19h30 GF
+<pstyle:><cstyle:INFOSBLEUES>ve 18 janXXX19h30XXX<cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Perceval le Gallois
 <pstyle:TECHNIQUE>d'Eric Rohmer
 <pstyle:TECHNIQUE>France-Suisse-Italie/1978/140'/DCP
 <pstyle:TECHNIQUE>Avec Fabrice Luchini, André Dussollier, Solange Boulanger.
 <pstyle:SYNOPSIS>Émerveillé par les armures étincelantes d'un groupe de chevaliers qu'il avait pris pour des anges, le naïf Perceval décide de devenir à son tour chevalier au service du roi Arthur.
-<pstyle:><cstyle:INFOSBLEUES>Dim 13 jan 21h00 HL
+<pstyle:><cstyle:INFOSBLEUES>di 13 janXXX21h00XXX<cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Quatre aventures de Reinette et Mirabelle
 <pstyle:TECHNIQUE>d'Eric Rohmer
 <pstyle:TECHNIQUE>France/1986/100'/DCP
 <pstyle:TECHNIQUE>Avec Joëlle Miquel, Jessica Forde, Philippe Laudenbach.
 <pstyle:SYNOPSIS>Quatre court métrages, quatre aventures de Reinette, une jeune femme de la campagne et Mirabelle, une jeune Parisienne.
-<pstyle:><cstyle:INFOSBLEUES>Ven 18 jan 21h00 HL
+<pstyle:><cstyle:INFOSBLEUES>ve 18 janXXX21h00XXX<cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Les Rendez-vous de Paris
 <pstyle:TECHNIQUE>d'Eric Rohmer
 <pstyle:TECHNIQUE>France/1994/100'/DCP
 <pstyle:TECHNIQUE>Avec Clara Bellar, Antoine Basler, Mathias Megard.
 <pstyle:SYNOPSIS><cSkew:9>Les Rendez-vous de Paris<cSkew:> raconte trois histoires de séduction amoureuse dans différents quartiers de Paris.
-<pstyle:><cstyle:INFOSBLEUES>Sam 26 jan 21h45 GF
+<pstyle:><cstyle:INFOSBLEUES>sa 26 janXXX21h45XXX<cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Le Signe du lion
 <pstyle:TECHNIQUE>d'Eric Rohmer
 <pstyle:TECHNIQUE>France/1959/102'/DCP
 <pstyle:TECHNIQUE>Avec Jess Hahn, Michèle Girardon, Jean Le Poulain.
 <pstyle:SYNOPSIS>Un artiste étranger à Paris apprend qu'il a hérité d'une immense fortune. Il organise une soirée où on lui dévoile son horoscope : né sous le signe du Lion, il connaîtra début août une période difficile avant que la chance ne lui sourit.
-<pstyle:><cstyle:INFOSBLEUES>Jeu 10 jan 17h00 HL
+<pstyle:><cstyle:INFOSBLEUES>je 10 janXXX17h00XXX<cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Triple agent
 <pstyle:TECHNIQUE>d'Eric Rohmer
 <pstyle:TECHNIQUE>France-Italie-Espagne-Grèce-Russie/2003/115'/35 mm
 <pstyle:TECHNIQUE>Avec Katerina Didaskalou, Serge Renko, Cyrielle Clair.
 <pstyle:SYNOPSIS>En 1936, alors que le Front Populaire et la Guerre d'Espagne agitent les esprits, un jeune général de l'armée tsariste mène une vie paisible à Paris où il s'est réfugié avec son épouse grecque, Arsinoé.
-<pstyle:><cstyle:INFOSBLEUES>Lun 14 jan 21h30 GF
+<pstyle:><cstyle:INFOSBLEUES>lu 14 janXXX21h30XXX<cstyle:SALLESBLEUES>B
 
 <pstyle:CATEGORIE>Courts métrages
 
 <pstyle:CATEGORIE>Documentaires, films pédagogiques
 
 <pstyle:CATEGORIE>Autour d'Éric Rohmer
+
+<pstyle:TITRE>Les Contes secrets ou Les Rohmériens
+<pstyle:TECHNIQUE>de Marie Binet
+<pstyle:TECHNIQUE>France/2005/90'/Numérique
+<pstyle:SYNOPSIS>Des personnages surgissent des films d'Éric Rohmer pour dévoiler leur raison d'être, leur destin, leur histoire, expliquer les motifs de leurs actes face aux jeux et aux enjeux de la séduction et de l'amour, de la morale et des épreuves de l'existence. Leurs voix et leurs traits sont ceux de seize célèbres acteurs rohmériens.
+<pstyle:><cstyle:INFOSBLEUES>me 30 janXXX19h00XXX<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Film précédé d'<cSkew:9>En répétant Perceval<cSkew:> de Jean Douchet.
+
+<pstyle:TITRE>En compagnie d'Eric Rohmer
+<pstyle:TECHNIQUE>de Marie Rivière
+<pstyle:TECHNIQUE>France/2010/86'/Numérique
+<pstyle:SYNOPSIS>Marie Rivière filme Éric Rohmer dans sons bureau durant ses trois dernières années et convoque le témoignage de quelques-uns de ses comédiens fidèles et auteurs proches.
+<pstyle:><cstyle:INFOSBLEUES>me 30 janXXX16h45XXX<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>En répétant Perceval
+<pstyle:TECHNIQUE>de Jean Douchet
+<pstyle:TECHNIQUE>France/1978/28'/Numérique
+<pstyle:SYNOPSIS>Jean Douchet s'entretient avec Éric Rohmer sur le choix de ce texte, <cSkew:9>Perceval le Gallois<cSkew:> de Chrétien de Troyes.
+<pstyle:><cstyle:INFOSBLEUES>me 30 janXXX19h00XXX<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Film suivi de <cSkew:9>Les Contes secrets ou Les Rohmériens<cSkew:> de Marie Binet.
+
+<pstyle:TITRE>Eric Rohmer : Preuves à l'appui
+<pstyle:TECHNIQUE>d'André S. Labarthe
+<pstyle:TECHNIQUE>France/1993/116'/Numérique
+<pstyle:SYNOPSIS>Entretien avec Jean Douchet dans lequel Éric Rohmer se livre et dévoile des essais tournés en Super 8, des cahiers sur lesquels des projets de films ont été consignés...
+<pstyle:><cstyle:INFOSBLEUES>me 30 janXXX21h30XXX<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>La Fabrique du Conte d'été
+<pstyle:TECHNIQUE>de Jean-André Fieschi, Françoise Etchegaray
+<pstyle:TECHNIQUE>France/1996/93'/Numérique
+<pstyle:SYNOPSIS>Le film de Jean-André Fieschi et Françoise Etchegaray, composé de rushes et d'images du tournage, invite à découvrir la fabrique du réel que constitue le tournage.
+<pstyle:><cstyle:INFOSBLEUES>lu 28 janXXX19h00XXX<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance présentée par Françoise Etchegaray
+
+<pstyle:TITRE>Rosette cherche une chambre
+<pstyle:TECHNIQUE>de Rosette
+<pstyle:TECHNIQUE>France/1986/14'/Numérique
+<pstyle:TECHNIQUE>Avec Rosette.
+<pstyle:SYNOPSIS>Courts-métrages réalisés par Rosette et mettant en scène son propre personnage.
+<pstyle:><cstyle:INFOSBLEUES>sa 09 févXXX18h00XXX<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Film suivi de <cSkew:9>Rosette prend sa douche<cSkew:> de Rosette, <cSkew:9>Rosette sort le soir<cSkew:> de Rosette, <cSkew:9>Rosette vend des roses<cSkew:> de Rosette, <cSkew:9>Rosette vole les voleurs<cSkew:> de Rosette.
+
+<pstyle:TITRE>Rosette prend sa douche
+<pstyle:TECHNIQUE>de Rosette
+<pstyle:TECHNIQUE>France/1984/14'/Numérique
+<pstyle:TECHNIQUE>Avec Arielle Dombasle, Pascal Greggory, Jacques Penot, Rosette.
+<pstyle:SYNOPSIS>Courts-métrages réalisés par Rosette et mettant en scène son propre personnage.
+<pstyle:><cstyle:INFOSBLEUES>sa 09 févXXX18h00XXX<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Film précédé de <cSkew:9>Rosette cherche une chambre<cSkew:> de Rosette et suivi de de <cSkew:9>Rosette sort le soir<cSkew:> de Rosette, <cSkew:9>Rosette vend des roses<cSkew:> de Rosette, <cSkew:9>Rosette vole les voleurs<cSkew:> de Rosette.
+
+<pstyle:TITRE>Rosette sort le soir
+<pstyle:TECHNIQUE>de Rosette
+<pstyle:TECHNIQUE>France/1983/11'/Numérique
+<pstyle:TECHNIQUE>Avec Arielle Dombasle, Pascal Greggory, Rosette.
+<pstyle:SYNOPSIS>Courts-métrages réalisés par Rosette et mettant en scène son propre personnage.
+<pstyle:><cstyle:INFOSBLEUES>sa 09 févXXX18h00XXX<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Film précédé de <cSkew:9>Rosette cherche une chambre<cSkew:> de Rosette, <cSkew:9>Rosette prend sa douche<cSkew:> de Rosette et suivi de de <cSkew:9>Rosette vend des roses<cSkew:> de Rosette, <cSkew:9>Rosette vole les voleurs<cSkew:> de Rosette.
+
+<pstyle:TITRE>Rosette vend des roses
+<pstyle:TECHNIQUE>de Rosette
+<pstyle:TECHNIQUE>France/1985/12'/Numérique
+<pstyle:TECHNIQUE>Avec Rosette, Virginie Thévenet, François-Marie Banier.
+<pstyle:SYNOPSIS>Courts-métrages réalisés par Rosette et mettant en scène son propre personnage.
+<pstyle:><cstyle:INFOSBLEUES>sa 09 févXXX18h00XXX<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Film précédé de <cSkew:9>Rosette cherche une chambre<cSkew:> de Rosette, <cSkew:9>Rosette prend sa douche<cSkew:> de Rosette, <cSkew:9>Rosette sort le soir<cSkew:> de Rosette et suivi de de <cSkew:9>Rosette vole les voleurs<cSkew:> de Rosette.
+
+<pstyle:TITRE>Rosette vole les voleurs
+<pstyle:TECHNIQUE>de Rosette
+<pstyle:TECHNIQUE>France/1987/20'/Numérique
+<pstyle:TECHNIQUE>Avec Rosette, François-Marie Banier, Marie Rivière.
+<pstyle:SYNOPSIS>Courts-métrages réalisés par Rosette et mettant en scène son propre personnage.
+<pstyle:><cstyle:INFOSBLEUES>sa 09 févXXX18h00XXX<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Film précédé de <cSkew:9>Rosette cherche une chambre<cSkew:> de Rosette, <cSkew:9>Rosette prend sa douche<cSkew:> de Rosette, <cSkew:9>Rosette sort le soir<cSkew:> de Rosette, <cSkew:9>Rosette vend des roses<cSkew:> de Rosette.
 
