@@ -24,6 +24,24 @@
     ]
   },
   {
+    "titre": "Cinéma des Cahiers",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 141557,
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "ageMinimal": null,
+    "realisateurs": "Edgardo Cozarinsky",
+    "annee": 2001,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "_A travers les générations successives qui apportent à la revue des approches et des passions du cinéma qui leur sont propres, c'est une histoire d'amour (heureux, déçu, renouvelé) que nous voulons raconter._ E.G."
+      }
+    ]
+  },
+  {
     "titre": "Citizen Langlois",
     "titreVo": "",
     "idFilm": 43605,
@@ -36,13 +54,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "« Autrefois les films finissaient à la poubelle. Un homme a eu l'idée de les sauver, de les conserver, de les montrer aux jeune générations. C'est ainsi qu'il a gardé la mémoire de l'imaginaire du XX° siècle. Il s'appelait Henri Langlois. Qu'est-ce qui fait qu'à vingt ans, au lieu de se lancer vers l'avenir, une jeune homme décide de consacrer sa vie à sauver les traces du passé » (Edgardo Cozarinsky)"
+        "texte": "« Autrefois les films finissaient à la poubelle. Un homme a eu l'idée de les sauver, de les conserver, de les montrer aux jeune générations. C'est ainsi qu'il a gardé la mémoire de l'imaginaire du XX° siècle. Il s'appelait Henri Langlois. Qu'est-ce qui fait qu'à vingt ans, au lieu de se lancer vers l'avenir, un jeune homme décide de consacrer sa vie à sauver les traces du passé? » (Edgardo Cozarinsky)"
       }
     ],
     "generique": [
+      "Niels Arestrup",
       "Henri Langlois",
       "Eric Rohmer",
-      "Freddy Buache",
       "Marie Epstein"
     ]
   },
@@ -65,8 +83,7 @@
     "generique": [
       "Marisa Paredes",
       "Feodor Atkine",
-      "Bruno Putzulu",
-      "Didier Flamand"
+      "Bruno Putzulu"
     ]
   },
   {
@@ -88,8 +105,7 @@
     "generique": [
       "Laurent Grevill",
       "Larbi Yacoubi",
-      "Brenda Gerolemou",
-      "Dick Chapman"
+      "Brenda Gerolemou"
     ]
   },
   {
@@ -128,26 +144,7 @@
     ],
     "generique": [
       "Leslie Caron",
-      "Dominique Sanda",
-      "Federico Luppi",
-      "China Zorrilla"
-    ]
-  },
-  {
-    "titre": "Jean Cocteau – Autoportrait d'un inconnu",
-    "titreVo": "",
-    "idFilm": 106640,
-    "idCycle": 428,
-    "idCategorie": 1929,
-    "ageMinimal": null,
-    "realisateurs": "Edgardo Cozarinsky",
-    "annee": 1983,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Montage d'extraits de films et d'archives sonores, à la quête de Jean Cocteau avec des témoignages de ses fidèles amis et compagnons de route: Diaghilev, Nijinski, Stravinsky, Picasso, Jean Renoir et d'autres."
-      }
+      "Dominique Sanda"
     ]
   },
   {
@@ -185,9 +182,7 @@
     ],
     "generique": [
       "Esteban Lamothe",
-      "Marta Lubos",
-      "Esmeralda Mitre",
-      "Jimena Anganuzzi"
+      "Marta Lubos"
     ]
   },
   {
@@ -243,12 +238,6 @@
         "typeTexte": 9,
         "texte": "Buenos Aires, la nuit. Victor, à peine sorti de l'adolescence, déambule dans les rues de son quartier. Protégé par un inspecteur de police, il partage son temps entre le racolage, la drague dans les saunas de luxe et les soirées privées. Sa soif de découvertes et d'expériences le conduit à côtoyer la lisière des deux mondes."
       }
-    ],
-    "generique": [
-      "Gonzalo Heredia",
-      "Moro Anghileri",
-      "Rafael Ferro",
-      "Dario Tripicchio"
     ]
   },
   {
@@ -267,12 +256,6 @@
         "typeTexte": 9,
         "texte": "Un jeune étudiant du conservatoire, Benjamin Fleischmann, choisit un récit de Tchekhov pour en tirer un opéra en un acte qu'il compose sous la houlette de son professeur, Dimitri Chostakovitch. Mais le jeune homme est tué pendant la guerre et Chostakovitch decide alors d'orchestrer l'opéra inachevé de son élève pour honorer sa mémoire."
       }
-    ],
-    "generique": [
-      "Serguei Makovetsky",
-      "Dainius Kazlauskas",
-      "Tarmo Männard",
-      "Tamara Solodnikova"
     ]
   }
 ]

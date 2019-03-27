@@ -4,7 +4,7 @@
   "dateFrom": "",
   "dateTo": "",
   "cycles": [{
-      "idCycleProg": 140,
+      "idCycleProg": 192,
       "titreCycle": "Ciné-club Jean Douchet",
       "sousCycles": [{
         "titre": "Les films",
@@ -81,7 +81,7 @@
       "titreCycle": "Edgardo Cozarinsky",
       "sousCycles": [{
         "titre": "Les films",
-        "cats": [1929],
+        "cats": [1929, 1938],
         "tri": 1
       }]
     },
@@ -116,10 +116,16 @@
       "idCycleProg": 432,
       "titreCycle": "Plein les yeux ! Saison 3",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1933, 1982],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [1933],
+          "tri": 1
+        },
+        {
+          "titre": "Week-end 70 mm",
+          "cats": [1982],
+          "tri": 1
+        }
+      ]
     }
   ]
 }

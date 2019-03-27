@@ -3,22 +3,48 @@
     "idCycle": 428,
     "idCategorie": 1929,
     "idEvenement": 19071,
-    "idSeance": 30395,
+    "idSeance": 30727,
     "dateHeure": "2019-06-26T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
+    "typeSeance": 44,
     "titreEvenement": "Guerre d'un seul homme (La)",
     "items": [
       {
         "idFilm": 47856,
         "ordre": 1,
-        "idSeance": 30395,
+        "idSeance": 30727,
         "idCopie": 18146,
         "duree": 107,
         "version": "",
         "format": "35 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "idEvenement": 19077,
+    "idSeance": 30541,
+    "dateHeure": "2019-06-27T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Violon de Rothschild (Le)",
+    "items": [
+      {
+        "idFilm": 58337,
+        "ordre": 1,
+        "idSeance": 30541,
+        "idCopie": 18157,
+        "duree": 100,
+        "version": "",
+        "format": "Vidéo",
         "valide": 1
       }
     ]
@@ -26,19 +52,43 @@
   {
     "idCycle": 428,
     "idCategorie": 1929,
-    "idEvenement": 19075,
-    "idSeance": 30419,
-    "dateHeure": "2019-06-27T19:00:00",
+    "idEvenement": 19070,
+    "idSeance": 30542,
+    "dateHeure": "2019-06-27T21:45:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Fantômes de Tanger",
+    "items": [
+      {
+        "idFilm": 29159,
+        "ordre": 1,
+        "idSeance": 30542,
+        "idCopie": 18149,
+        "duree": 90,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "idEvenement": 19075,
+    "idSeance": 30136,
+    "dateHeure": "2019-06-29T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
     ],
     "titreEvenement": "Apprentis sorciers (Les)",
     "items": [
       {
         "idFilm": 57671,
         "ordre": 1,
-        "idSeance": 30419,
+        "idSeance": 30136,
         "idCopie": 18147,
         "duree": 89,
         "version": "VOSTA",
@@ -50,24 +100,24 @@
   {
     "idCycle": 428,
     "idCategorie": 1929,
-    "idEvenement": 19080,
-    "idSeance": 30118,
-    "dateHeure": "2019-06-27T21:45:00",
+    "idEvenement": 19067,
+    "idSeance": 30138,
+    "dateHeure": "2019-06-29T18:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Puntos suspensivos o Esperando a los bárbaros",
+    "titreEvenement": "Citizen Langlois",
     "items": [
       {
-        "idFilm": 127308,
+        "idFilm": 43605,
         "ordre": 1,
-        "idSeance": 30118,
-        "idCopie": 18145,
-        "duree": 79,
-        "version": "VOSTF",
+        "idSeance": 30138,
+        "idCopie": 3521,
+        "duree": 67,
+        "version": "VF",
         "format": "35 mm",
-        "valide": 1
+        "valide": 0
       }
     ]
   },
@@ -76,7 +126,7 @@
     "idCategorie": 1929,
     "idEvenement": 19072,
     "idSeance": 30137,
-    "dateHeure": "2019-06-29T19:30:00",
+    "dateHeure": "2019-06-29T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -98,24 +148,24 @@
   {
     "idCycle": 428,
     "idCategorie": 1929,
-    "idEvenement": 19067,
-    "idSeance": 30138,
-    "dateHeure": "2019-06-29T21:30:00",
+    "idEvenement": 19080,
+    "idSeance": 30543,
+    "dateHeure": "2019-06-30T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Citizen Langlois",
+    "titreEvenement": "Puntos suspensivos o Esperando a los bárbaros",
     "items": [
       {
-        "idFilm": 43605,
+        "idFilm": 127308,
         "ordre": 1,
-        "idSeance": 30138,
-        "idCopie": 16182,
-        "duree": 67,
-        "version": "VF",
+        "idSeance": 30543,
+        "idCopie": 18145,
+        "duree": 79,
+        "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -124,7 +174,7 @@
     "idCategorie": 1929,
     "idEvenement": 19068,
     "idSeance": 30432,
-    "dateHeure": "2019-06-30T17:30:00",
+    "dateHeure": "2019-06-30T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -146,81 +196,9 @@
   {
     "idCycle": 428,
     "idCategorie": 1929,
-    "idEvenement": 19077,
-    "idSeance": 30146,
-    "dateHeure": "2019-06-30T19:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Violon de Rothschild (Le)",
-    "items": [
-      {
-        "idFilm": 58337,
-        "ordre": 1,
-        "idSeance": 30146,
-        "idCopie": 18157,
-        "duree": 100,
-        "version": "",
-        "format": "Vidéo",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCycle": 428,
-    "idCategorie": 1929,
-    "idEvenement": 19070,
-    "idSeance": 30147,
-    "dateHeure": "2019-06-30T21:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Fantômes de Tanger",
-    "items": [
-      {
-        "idFilm": 29159,
-        "ordre": 1,
-        "idSeance": 30147,
-        "idCopie": 18149,
-        "duree": 90,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 428,
-    "idCategorie": 1929,
-    "idEvenement": 19079,
-    "idSeance": 30158,
-    "dateHeure": "2019-07-03T19:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Ronde de nuit",
-    "items": [
-      {
-        "idFilm": 98629,
-        "ordre": 1,
-        "idSeance": 30158,
-        "idCopie": 18156,
-        "duree": 80,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 428,
-    "idCategorie": 1929,
     "idEvenement": 19074,
     "idSeance": 30159,
-    "dateHeure": "2019-07-03T21:30:00",
+    "dateHeure": "2019-07-03T17:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -243,8 +221,8 @@
     "idCycle": 428,
     "idCategorie": 1929,
     "idEvenement": 19078,
-    "idSeance": 30433,
-    "dateHeure": "2019-07-06T17:00:00",
+    "idSeance": 30544,
+    "dateHeure": "2019-07-03T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -254,7 +232,7 @@
       {
         "idFilm": 124232,
         "ordre": 1,
-        "idSeance": 30433,
+        "idSeance": 30544,
         "idCopie": 5171,
         "duree": 63,
         "version": "VOSTF",
@@ -268,7 +246,7 @@
     "idCategorie": 1929,
     "idEvenement": 19066,
     "idSeance": 30434,
-    "dateHeure": "2019-07-07T17:00:00",
+    "dateHeure": "2019-07-03T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -283,6 +261,30 @@
         "duree": 63,
         "version": "VOSTF",
         "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "idEvenement": 19079,
+    "idSeance": 30545,
+    "dateHeure": "2019-07-06T18:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Ronde de nuit",
+    "items": [
+      {
+        "idFilm": 98629,
+        "ordre": 1,
+        "idSeance": 30545,
+        "idCopie": 18156,
+        "duree": 80,
+        "version": "",
+        "format": "35 mm",
         "valide": 0
       }
     ]

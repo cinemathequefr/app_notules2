@@ -2,8 +2,33 @@
   {
     "idCycle": 432,
     "idCategorie": 1933,
+    "idEvenement": 19261,
+    "idSeance": 30665,
+    "dateHeure": "2019-07-17T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Terre des pharaons",
+    "items": [
+      {
+        "idFilm": 33181,
+        "ordre": 1,
+        "idSeance": 30665,
+        "idCopie": 18348,
+        "duree": 116,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1933,
     "idEvenement": 19255,
-    "idSeance": 30248,
+    "idSeance": 30666,
     "dateHeure": "2019-07-18T14:30:00",
     "idSalle": [
       "HL",
@@ -13,7 +38,13 @@
     "items": [
       {
         "idFilm": 29888,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30666,
+        "idCopie": 12341,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
       }
     ]
   },
@@ -21,7 +52,7 @@
     "idCycle": 432,
     "idCategorie": 1933,
     "idEvenement": 19249,
-    "idSeance": 30249,
+    "idSeance": 30667,
     "dateHeure": "2019-07-18T19:30:00",
     "idSalle": [
       "HL",
@@ -31,7 +62,13 @@
     "items": [
       {
         "idFilm": 40667,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30667,
+        "idCopie": 13306,
+        "duree": 111,
+        "version": "INT. ALL.",
+        "format": "",
+        "valide": 0
       }
     ]
   },
@@ -39,7 +76,7 @@
     "idCycle": 432,
     "idCategorie": 1933,
     "idEvenement": 19257,
-    "idSeance": 30254,
+    "idSeance": 30668,
     "dateHeure": "2019-07-19T14:30:00",
     "idSalle": [
       "HL",
@@ -49,7 +86,13 @@
     "items": [
       {
         "idFilm": 30333,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30668,
+        "idCopie": 18345,
+        "duree": 92,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
       }
     ]
   },
@@ -57,8 +100,8 @@
     "idCycle": 432,
     "idCategorie": 1933,
     "idEvenement": 19242,
-    "idSeance": 30255,
-    "dateHeure": "2019-07-19T17:00:00",
+    "idSeance": 30669,
+    "dateHeure": "2019-07-19T16:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -67,7 +110,13 @@
     "items": [
       {
         "idFilm": 34861,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30669,
+        "idCopie": 18338,
+        "duree": 140,
+        "version": "",
+        "format": "",
+        "valide": 0
       }
     ]
   },
@@ -75,8 +124,8 @@
     "idCycle": 432,
     "idCategorie": 1933,
     "idEvenement": 19262,
-    "idSeance": 30256,
-    "dateHeure": "2019-07-19T19:00:00",
+    "idSeance": 30670,
+    "dateHeure": "2019-07-19T19:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -85,25 +134,37 @@
     "items": [
       {
         "idFilm": 43295,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30670,
+        "idCopie": 4870,
+        "duree": 229,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
       }
     ]
   },
   {
     "idCycle": 432,
     "idCategorie": 1933,
-    "idEvenement": 19244,
-    "idSeance": 30261,
-    "dateHeure": "2019-07-20T14:30:00",
+    "idEvenement": 19243,
+    "idSeance": 30678,
+    "dateHeure": "2019-07-20T14:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Oblivion",
+    "titreEvenement": "Ben Hur",
     "items": [
       {
-        "idFilm": 118833,
-        "ordre": 1
+        "idFilm": 41569,
+        "ordre": 1,
+        "idSeance": 30678,
+        "idCopie": 18336,
+        "duree": 143,
+        "version": "",
+        "format": "",
+        "valide": 0
       }
     ]
   },
@@ -111,7 +172,7 @@
     "idCycle": 432,
     "idCategorie": 1933,
     "idEvenement": 19254,
-    "idSeance": 30561,
+    "idSeance": 30672,
     "dateHeure": "2019-07-20T17:00:00",
     "idSalle": [
       "HL",
@@ -121,7 +182,13 @@
     "items": [
       {
         "idFilm": 37070,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30672,
+        "idCopie": 18335,
+        "duree": 107,
+        "version": "",
+        "format": "",
+        "valide": 0
       }
     ]
   },
@@ -129,8 +196,8 @@
     "idCycle": 432,
     "idCategorie": 1933,
     "idEvenement": 19259,
-    "idSeance": 30499,
-    "dateHeure": "2019-07-20T19:00:00",
+    "idSeance": 30673,
+    "dateHeure": "2019-07-20T19:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -139,16 +206,22 @@
     "items": [
       {
         "idFilm": 60168,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30673,
+        "idCopie": 11062,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
       }
     ]
   },
   {
     "idCycle": 432,
-    "idCategorie": 1982,
+    "idCategorie": 1933,
     "idEvenement": 19290,
-    "idSeance": 30555,
-    "dateHeure": "2019-07-20T21:00:00",
+    "idSeance": 30674,
+    "dateHeure": "2019-07-20T21:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -157,25 +230,13 @@
     "items": [
       {
         "idFilm": 91457,
-        "ordre": 1
-      }
-    ]
-  },
-  {
-    "idCycle": 432,
-    "idCategorie": 1933,
-    "idEvenement": 19243,
-    "idSeance": 30521,
-    "dateHeure": "2019-07-21T14:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "titreEvenement": "Ben Hur",
-    "items": [
-      {
-        "idFilm": 41569,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30674,
+        "idCopie": 18341,
+        "duree": 99,
+        "version": "",
+        "format": "",
+        "valide": 0
       }
     ]
   },
@@ -183,8 +244,8 @@
     "idCycle": 432,
     "idCategorie": 1933,
     "idEvenement": 19251,
-    "idSeance": 30270,
-    "dateHeure": "2019-07-21T17:00:00",
+    "idSeance": 30676,
+    "dateHeure": "2019-07-21T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -193,7 +254,13 @@
     "items": [
       {
         "idFilm": 57989,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30676,
+        "idCopie": 18337,
+        "duree": 105,
+        "version": "",
+        "format": "",
+        "valide": 0
       }
     ]
   },
@@ -201,8 +268,8 @@
     "idCycle": 432,
     "idCategorie": 1933,
     "idEvenement": 19252,
-    "idSeance": 30271,
-    "dateHeure": "2019-07-21T19:00:00",
+    "idSeance": 30717,
+    "dateHeure": "2019-07-21T17:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -211,7 +278,13 @@
     "items": [
       {
         "idFilm": 67965,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30717,
+        "idCopie": 18340,
+        "duree": 134,
+        "version": "",
+        "format": "",
+        "valide": 0
       }
     ]
   },
@@ -219,8 +292,8 @@
     "idCycle": 432,
     "idCategorie": 1933,
     "idEvenement": 19260,
-    "idSeance": 30272,
-    "dateHeure": "2019-07-21T21:00:00",
+    "idSeance": 30718,
+    "dateHeure": "2019-07-21T20:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -229,7 +302,13 @@
     "items": [
       {
         "idFilm": 80582,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30718,
+        "idCopie": 18350,
+        "duree": 134,
+        "version": "",
+        "format": "",
+        "valide": 0
       }
     ]
   },
@@ -237,8 +316,8 @@
     "idCycle": 432,
     "idCategorie": 1933,
     "idEvenement": 19246,
-    "idSeance": 30560,
-    "dateHeure": "2019-07-22T16:15:00",
+    "idSeance": 30680,
+    "dateHeure": "2019-07-22T15:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -247,7 +326,13 @@
     "items": [
       {
         "idFilm": 62095,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30680,
+        "idCopie": 18334,
+        "duree": 116,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -255,8 +340,8 @@
     "idCycle": 432,
     "idCategorie": 1933,
     "idEvenement": 19253,
-    "idSeance": 30562,
-    "dateHeure": "2019-07-22T19:00:00",
+    "idSeance": 30681,
+    "dateHeure": "2019-07-22T18:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -265,7 +350,13 @@
     "items": [
       {
         "idFilm": 33227,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30681,
+        "idCopie": 18349,
+        "duree": 165,
+        "version": "",
+        "format": "",
+        "valide": 0
       }
     ]
   },
@@ -273,8 +364,8 @@
     "idCycle": 432,
     "idCategorie": 1933,
     "idEvenement": 19241,
-    "idSeance": 30563,
-    "dateHeure": "2019-07-22T22:00:00",
+    "idSeance": 30682,
+    "dateHeure": "2019-07-22T21:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -283,7 +374,13 @@
     "items": [
       {
         "idFilm": 73480,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30682,
+        "idCopie": 18347,
+        "duree": 130,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
       }
     ]
   },
@@ -291,7 +388,7 @@
     "idCycle": 432,
     "idCategorie": 1933,
     "idEvenement": 19247,
-    "idSeance": 30282,
+    "idSeance": 30683,
     "dateHeure": "2019-07-24T16:30:00",
     "idSalle": [
       "HL",
@@ -301,7 +398,13 @@
     "items": [
       {
         "idFilm": 103722,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30683,
+        "idCopie": 18343,
+        "duree": 88,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
       }
     ]
   },
@@ -309,7 +412,7 @@
     "idCycle": 432,
     "idCategorie": 1982,
     "idEvenement": 19285,
-    "idSeance": 30557,
+    "idSeance": 30684,
     "dateHeure": "2019-07-25T20:00:00",
     "idSalle": [
       "HL",
@@ -320,7 +423,7 @@
       {
         "idFilm": 54223,
         "ordre": 1,
-        "idSeance": 30557,
+        "idSeance": 30684,
         "idCopie": 4506,
         "duree": 149,
         "version": "VO",
@@ -332,8 +435,32 @@
   {
     "idCycle": 432,
     "idCategorie": 1982,
+    "idEvenement": 19332,
+    "idSeance": 30297,
+    "dateHeure": "2019-07-26T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Batman",
+    "items": [
+      {
+        "idFilm": 31042,
+        "ordre": 1,
+        "idSeance": 30297,
+        "idCopie": 18393,
+        "duree": 125,
+        "version": "VOSTF",
+        "format": "70 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 432,
+    "idCategorie": 1982,
     "idEvenement": 19293,
-    "idSeance": 30564,
+    "idSeance": 30685,
     "dateHeure": "2019-07-26T20:00:00",
     "idSalle": [
       "HL",
@@ -343,7 +470,13 @@
     "items": [
       {
         "idFilm": 129726,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30685,
+        "idCopie": 18339,
+        "duree": 167,
+        "version": "",
+        "format": "",
+        "valide": 0
       }
     ]
   },
@@ -351,7 +484,7 @@
     "idCycle": 432,
     "idCategorie": 1982,
     "idEvenement": 19286,
-    "idSeance": 30304,
+    "idSeance": 30686,
     "dateHeure": "2019-07-27T14:30:00",
     "idSalle": [
       "HL",
@@ -361,7 +494,13 @@
     "items": [
       {
         "idFilm": 124931,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30686,
+        "idCopie": 18342,
+        "duree": 169,
+        "version": "",
+        "format": "70 mm",
+        "valide": 0
       }
     ]
   },
@@ -369,7 +508,7 @@
     "idCycle": 432,
     "idCategorie": 1982,
     "idEvenement": 19288,
-    "idSeance": 30306,
+    "idSeance": 30687,
     "dateHeure": "2019-07-27T19:00:00",
     "idSalle": [
       "HL",
@@ -380,7 +519,7 @@
       {
         "idFilm": 37818,
         "ordre": 1,
-        "idSeance": 30306,
+        "idSeance": 30687,
         "idCopie": 5677,
         "duree": 192,
         "version": "",
@@ -393,7 +532,7 @@
     "idCycle": 432,
     "idCategorie": 1982,
     "idEvenement": 19284,
-    "idSeance": 30312,
+    "idSeance": 30688,
     "dateHeure": "2019-07-28T14:30:00",
     "idSalle": [
       "HL",
@@ -403,7 +542,13 @@
     "items": [
       {
         "idFilm": 36743,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30688,
+        "idCopie": 4562,
+        "duree": 170,
+        "version": "VO",
+        "format": "70 mm",
+        "valide": 0
       }
     ]
   },
@@ -411,7 +556,7 @@
     "idCycle": 432,
     "idCategorie": 1982,
     "idEvenement": 19287,
-    "idSeance": 30315,
+    "idSeance": 30689,
     "dateHeure": "2019-07-28T19:00:00",
     "idSalle": [
       "HL",
@@ -421,7 +566,13 @@
     "items": [
       {
         "idFilm": 32324,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30689,
+        "idCopie": 5455,
+        "duree": 160,
+        "version": "VO",
+        "format": "70 mm",
+        "valide": 0
       }
     ]
   }

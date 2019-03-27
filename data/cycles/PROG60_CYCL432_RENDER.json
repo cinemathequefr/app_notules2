@@ -1,0 +1,855 @@
+{
+  "header": {
+    "idCycleProg": 432,
+    "titreCycle": "Plein les yeux ! Saison 3",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          1933
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Week-end 70 mm",
+        "cats": [
+          1982
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 60
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 432,
+          "idFilm": 62095,
+          "titre": "2010 – L'Année du premier contact",
+          "titreVo": "2010",
+          "realisateurs": "Peter Hyams",
+          "annee": 1984,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Depuis 2001, le vaisseau Discovery tourne autour d'une lune de Jupiter après que l'ordinateur de bord H.A.L. 9000 se soit détraqué. Une équipe amérciaine et soviétique rentrent en compéttiton pour aller sur place et comprendre ce qu'il s'est passé."
+            }
+          ],
+          "adaptation": "D'après le roman _2010 : Odyssey Two_ d'Arthur C. Clarke.",
+          "generique": [
+            "Roy Scheider",
+            "John Lithgow",
+            "Helen Mirren"
+          ],
+          "duree": 116,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30560,
+              "ordre": 1,
+              "idEvenement": 19246,
+              "titreEvenement": "2010",
+              "dateHeure": "2019-07-22T16:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 37070,
+          "titre": "747 en péril",
+          "titreVo": "Airport 75",
+          "realisateurs": "Jack Smight",
+          "annee": 1974,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lors d'un vol Washinghton Los Angeles, un Boeing 747 est violemment percuté par un petit avion. Le commandant de bord étant gravement blessé par le choc, la chef de cabine, son mari et un aiguilleur vont tenter de reprendre le controle de l'appareil."
+            }
+          ],
+          "adaptation": "D'après le roman _Airport_ d'Arthur Hailey.",
+          "generique": [
+            "Charlton Heston",
+            "Karen Black",
+            "George Kennedy"
+          ],
+          "duree": 107,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30561,
+              "ordre": 1,
+              "idEvenement": 19254,
+              "dateHeure": "2019-07-20T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 41569,
+          "titre": "Ben-Hur",
+          "titreVo": "Ben-Hur : A Tale of the Christ",
+          "realisateurs": "Fred Niblo",
+          "annee": 1924,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Ben-Hur, prince juif trahi par son ami Messala, est condamné aux galères par les Romains tandis que sa famille est emprisonnée. Deuxième adaptation du roman de Lew Wallace après la version de 1907 réalisée par Sidney Olcott et Frank Oakes Rose."
+            }
+          ],
+          "adaptation": "D'après le roman _Ben-Hur_ de Lew Wallace.",
+          "generique": [
+            "Ramon Novarro",
+            "Francis X. Bushman",
+            "May McAvoy"
+          ],
+          "duree": 143,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30521,
+              "ordre": 1,
+              "idEvenement": 19243,
+              "dateHeure": "2019-07-21T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 57989,
+          "titre": "Blade",
+          "art": "The",
+          "titreVo": "Dao",
+          "realisateurs": "Hark Tsui",
+          "annee": 1995,
+          "pays": "Hong-Kong",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans la Chine du Moyen-Âge, un jeune forgeron veut se venger de l'assassin de son père. Amputé d'un bras lors d'une rixe, il est receuilli par une femme dans une ferme isolée où il va mettre au point une technique d'art martial."
+            }
+          ],
+          "generique": [
+            "Wenzhou Zhao",
+            "Xin-Xin Xiong",
+            "Sonny Su"
+          ],
+          "duree": 105,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30270,
+              "ordre": 1,
+              "idEvenement": 19251,
+              "dateHeure": "2019-07-21T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 34861,
+          "titre": "Dune",
+          "titreVo": "",
+          "realisateurs": "David Lynch",
+          "annee": 1983,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En 10191, l'empereur de la galaxie, aidé par le peuple Harkonnen, élabore un piège pour faire disparaître les Astréides. Ils sont envoyés sur Dune où ils se font massacrer. Seul l'hériter des Astréides et sa mère réussissent à échapper à la tuerie..."
+            }
+          ],
+          "adaptation": "D'après la saga _Dune_ de Frank Herbert.",
+          "generique": [
+            "Kyle MacLachlan",
+            "Francesca Annis",
+            "Leonardo Cimino"
+          ],
+          "duree": 140,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30255,
+              "ordre": 1,
+              "idEvenement": 19242,
+              "dateHeure": "2019-07-19T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 40667,
+          "titre": "Femme sur la lune",
+          "art": "La",
+          "titreVo": "Frau im Mond",
+          "realisateurs": "Fritz Lang",
+          "annee": 1928,
+          "pays": "Allemagne",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Convaincu qu'il y a de l'or sur la Lune, le savant Manfeldt organise une expédition."
+            }
+          ],
+          "adaptation": "D'après le roman _Frau im Mond_ de Thea von Harbou.",
+          "generique": [
+            "Klaus Pohl",
+            "Willy Fritsch",
+            "Gustav von Wangenheim"
+          ],
+          "duree": 111,
+          "format": "",
+          "version": "INT. ALL.",
+          "seance": [
+            {
+              "idSeance": 30249,
+              "ordre": 1,
+              "idEvenement": 19249,
+              "dateHeure": "2019-07-18T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 60168,
+          "titre": "Ghost in the Shell",
+          "titreVo": "Kokaku kidotai",
+          "realisateurs": "Mamoru Oshii",
+          "annee": 1995,
+          "pays": "Japon-Grande-Bretagne",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En 2029, une femme cyborg et son acolyte traquent pour la cyberpolice un mystérieux pirate de l'informatique."
+            }
+          ],
+          "duree": 83,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30499,
+              "ordre": 1,
+              "idEvenement": 19259,
+              "dateHeure": "2019-07-20T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 43295,
+          "titre": "Il était une fois en Amérique",
+          "titreVo": "Once Upon a Time in America",
+          "realisateurs": "Sergio Leone",
+          "annee": 1982,
+          "pays": "États-Unis-Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Noodles, un vieux gangster, revient à New York sur les lieux de son enfance. Les souvenirs de ses amis et de son premier amour lui reviennent en mémoire."
+            }
+          ],
+          "adaptation": "D'après le roman _The Hoods_ de Harry Grey.",
+          "generique": [
+            "Robert De Niro",
+            "James Woods",
+            "Elizabeth McGovern"
+          ],
+          "duree": 229,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30256,
+              "ordre": 1,
+              "idEvenement": 19262,
+              "dateHeure": "2019-07-19T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 67965,
+          "titre": "Il était une fois en Chine",
+          "titreVo": "Wong Fei-hung",
+          "realisateurs": "Hark Tsui",
+          "annee": 1990,
+          "pays": "Hong-Kong",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "A la fin du 19ème siècle dans le sud de la Chine, Wong Fei-Hung, médecin et maître en arts martiaux est chargé de maintenir la paix dans un pays envahit par les colons européens et américains dont la culture des armes à feu rencontre celle du sabre."
+            }
+          ],
+          "generique": [
+            "Jet Li",
+            "Rosamund Kwan",
+            "Biao Yuen"
+          ],
+          "duree": 134,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30271,
+              "ordre": 1,
+              "idEvenement": 19252,
+              "dateHeure": "2019-07-21T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 103722,
+          "titre": "Jumper",
+          "titreVo": "",
+          "realisateurs": "Doug Liman",
+          "annee": 2006,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un adolescent vivant seul avec son père, risée de son école et fou amoureux d'une camarade, tombe dans l'eau glacée d'un lac gelé par accident et se retrouve dans une bibliothèque. Il peut se téléporter dans des endroits déja visités..."
+            }
+          ],
+          "adaptation": "D'après les romans _Jumper_ et _Reflex_ de Steven Gould.",
+          "generique": [
+            "Hayden Christensen",
+            "Jamie Bell",
+            "Rachel Bilson"
+          ],
+          "duree": 88,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30282,
+              "ordre": 1,
+              "idEvenement": 19247,
+              "dateHeure": "2019-07-24T16:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 118833,
+          "titre": "Oblivion",
+          "titreVo": "",
+          "realisateurs": "Joseph Kosinski",
+          "annee": 2012,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "2077\\. Un homme est chargé d'exploiter les dernières ressources sur Terre, désertée après une guerre contre des extraterrestres. Témoin d'un crash d'un vaisseau, il sauve la femme qui le pilotait. Cette rencontre va remettre en question sa mission."
+            }
+          ],
+          "adaptation": "D'après la nouvelle _Oblivion_ de Joseph Kosinski.",
+          "generique": [
+            "Tom Cruise",
+            "Morgan Freeman",
+            "Olga Kurylenko"
+          ],
+          "duree": 124,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30261,
+              "ordre": 1,
+              "idEvenement": 19244,
+              "dateHeure": "2019-07-20T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 30333,
+          "titre": "Orca",
+          "titreVo": "Orca... Killer Whale",
+          "realisateurs": "Michael Anderson",
+          "annee": 1976,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un capitaine se donne pour mission de tuer une orque malgré les avertissements d'une biologiste. Il blesse une femelle orque qui perd l'enfant qu'elle portait. Le mâle prend en chasse le capitaine..."
+            }
+          ],
+          "generique": [
+            "Richard Harris",
+            "Charlotte Rampling",
+            "Will Sampson"
+          ],
+          "duree": 92,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30254,
+              "ordre": 1,
+              "idEvenement": 19257,
+              "dateHeure": "2019-07-19T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 29888,
+          "titre": "Speed",
+          "titreVo": "",
+          "realisateurs": "Jan De Bont",
+          "annee": 1993,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un policier à la retraite à posé une bombe dans un bus dans lequel se trouve également un jeune officier. Le bus ne peut pas descendre en dessous de 50miles/heure sous peine d'exploser..."
+            }
+          ],
+          "generique": [
+            "Keanu Reeves",
+            "Sandra Bullock",
+            "Dennis Hopper"
+          ],
+          "duree": 115,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30248,
+              "ordre": 1,
+              "idEvenement": 19255,
+              "dateHeure": "2019-07-18T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 73480,
+          "titre": "Stalingrad",
+          "titreVo": "Enemy at the Gates",
+          "realisateurs": "Jean-Jacques Annaud",
+          "annee": 1999,
+          "pays": "États-Unis-Allemagne-Grande-Bretagne-Irlande",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Automne 1942. L'armée allemande assiège Stalingrad. Les soviétiques, moins équipés, font face à l'ennemi et ceux qui reculent sont tués. Un jeune tireur d'élite abat cinq allemands. La propagande soviétique voit une occasion pour en faire un héros."
+            }
+          ],
+          "adaptation": "D'après le livre _Enemy at the gates_ de William Craig.  \nD'après le livre _Vendetta_ de Derek Lambert.",
+          "generique": [
+            "Jude Law",
+            "Rachel Weisz",
+            "Joseph Fiennes"
+          ],
+          "duree": 130,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30563,
+              "ordre": 1,
+              "idEvenement": 19241,
+              "dateHeure": "2019-07-22T22:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 33227,
+          "titre": "Tour infernale",
+          "art": "La",
+          "titreVo": "Towering Inferno",
+          "artVo": "The",
+          "realisateurs": "John Guillermin",
+          "annee": 1974,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le jour de l'inauguration d'une tour de 138 étages, l'architecte se rend compte que le constructeur a favorisé l'économie à la sécurité. Alors que la fête se déroule en haut de l'immeuble, un câble électrique déclanche un incendit ravageur."
+            }
+          ],
+          "adaptation": "D'après le roman _The Glass Inferno_ de Thomas M. Scortia et Frank M. Robinson.  \nD'après le roman _The Tower_ de Richard Martin Stern.",
+          "generique": [
+            "Steve McQueen",
+            "Paul Newman",
+            "William Holden"
+          ],
+          "duree": 165,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30562,
+              "ordre": 1,
+              "idEvenement": 19253,
+              "dateHeure": "2019-07-22T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 80582,
+          "titre": "Windtalkers – Les Messagers du vent",
+          "titreVo": "Windtalkers",
+          "realisateurs": "John Woo",
+          "annee": 2000,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pendant la seconde Guerre Mondiale, un marine doit protéger un soldat indien maîtrisant le « Navajo », un code secret qui permet aux bases américianes des îles pacifiques de communiquer entre elles."
+            }
+          ],
+          "generique": [
+            "Nicolas Cage",
+            "Adam Beach",
+            "Peter Stormare"
+          ],
+          "duree": 134,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30272,
+              "ordre": 1,
+              "idEvenement": 19260,
+              "dateHeure": "2019-07-21T21:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Week-end 70 mm",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 432,
+          "idFilm": 54223,
+          "titre": "2001 : L'odyssée de l'espace",
+          "titreVo": "2001 : A Space Odyssey",
+          "realisateurs": "Stanley Kubrick",
+          "annee": 1966,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La découverte d'un monolithe noir qui traverse les âges déclenche une expédition dans l'espace menée par l'ordinateur HAL."
+            }
+          ],
+          "generique": [
+            "Keir Dullea",
+            "Gary Lockwood",
+            "William Sylvester",
+            "Daniel Richter"
+          ],
+          "duree": 149,
+          "format": "70 mm",
+          "version": "VO",
+          "seance": [
+            {
+              "idSeance": 30557,
+              "ordre": 1,
+              "idEvenement": 19285,
+              "dateHeure": "2019-07-25T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 37818,
+          "titre": "Alamo",
+          "realisateurs": "John Wayne",
+          "annee": 1959,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En 1836, de nombreux colons et aventuriers américains (parmi lesquels le légendaire Davy Crockett) se sacrifient pour tenir le Fort Alamo face aux assauts des troupes mexicaines."
+            }
+          ],
+          "generique": [
+            "John Wayne",
+            "Richard Widmark",
+            "Laurence Harvey",
+            "Richard Boone"
+          ],
+          "duree": 192,
+          "format": "70 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30306,
+              "ordre": 1,
+              "idEvenement": 19288,
+              "dateHeure": "2019-07-27T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 32324,
+          "titre": "Cheyennes",
+          "art": "Les",
+          "titreVo": "Cheyenne Autumn",
+          "realisateurs": "John Ford",
+          "annee": 1963,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Refusant de vivre dans une réserve, une communauté de Cheyennes entame un long voyage vers ses terres ancestrales du Dakota, poursuivie par les troupes de l'armée américaine."
+            }
+          ],
+          "adaptation": "D'après le roman _Cheyenne autumn_ de Mari Sandoz.",
+          "generique": [
+            "Richard Widmark",
+            "Carroll Baker",
+            "Karl Malden"
+          ],
+          "duree": 160,
+          "format": "70 mm",
+          "version": "VO",
+          "seance": [
+            {
+              "idSeance": 30315,
+              "ordre": 1,
+              "idEvenement": 19287,
+              "dateHeure": "2019-07-28T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 129726,
+          "titre": "Huit salopards",
+          "art": "Les",
+          "titreVo": "Hateful Eight",
+          "artVo": "The",
+          "realisateurs": "Quentin Tarantino",
+          "annee": 2014,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Quelques années après la guerre de Sécession, un chasseur de primes conduit une prisonnière jusqu'à Red Rock. Ils croisent la route d'un ancien soldat de l'Union chasseur de primes et le nouveau shérif de Red Rock. Surpris par le mauvais temps, ils trouvent refuge dans un chalet où sont déjà installés quatre autres personnes."
+            }
+          ],
+          "generique": [
+            "Samuel L. Jackson",
+            "Kurt Russell",
+            "Jennifer Jason Leigh"
+          ],
+          "duree": 167,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30564,
+              "ordre": 1,
+              "idEvenement": 19293,
+              "dateHeure": "2019-07-26T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 91457,
+          "titre": "Inosensu",
+          "titreVo": "",
+          "realisateurs": "Mamoru Oshii",
+          "annee": 2003,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Japon 2032. L'inspecteur cyborg Batou, hanté par le souvenir du Major Motoko, et son partenaire humain Togusa enquêtent sur une série de meurtres perpétrée par des gynoïdes ; des androïdes à l'apparence féminine destinés aux plaisirs sexuels."
+            }
+          ],
+          "adaptation": "D'après le manga _Ghost in the shell_ de Masamune Shirow.",
+          "duree": 99,
+          "format": "",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30555,
+              "ordre": 1,
+              "idEvenement": 19290,
+              "titreEvenement": "Innocence",
+              "dateHeure": "2019-07-20T21:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 124931,
+          "titre": "Interstellar",
+          "titreVo": "",
+          "realisateurs": "Christopher Nolan",
+          "annee": 2013,
+          "pays": "États-Unis-Grande-Bretagne",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans un futur proche, où la Terre n'offre bientôt plus de ressources, un ancien pilote de la NASA découvre un trou de ver près de Saturne qui pourrait être une porte vers une nouvelle planète habitable. Il quitte sa famille pour effectuer le voyage."
+            }
+          ],
+          "generique": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+          ],
+          "duree": 169,
+          "format": "70 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30304,
+              "ordre": 1,
+              "idEvenement": 19286,
+              "dateHeure": "2019-07-27T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 36743,
+          "titre": "Patton",
+          "titreVo": "",
+          "realisateurs": "Franklin J. Schaffner",
+          "annee": 1969,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "George Patton est le seul général réellement craint par les nazis. Charismatique, il dessinait ses uniformes et disait avoir été un guerrier dans d'autres vies. Il repoussa Rommel et, après le jour J, il conduisit ses troupes à travers l'Europe."
+            }
+          ],
+          "adaptation": "D'après l'ouvrage _A General's Life: An Autobiography_ d'Omar N. Bradley.  \nD'après l'ouvrage _Patton: Ordeal And Triumph_ de Ladislas Farago.",
+          "generique": [
+            "George C. Scott",
+            "Karl Malden",
+            "Stephen Young"
+          ],
+          "duree": 170,
+          "format": "70 mm",
+          "version": "VO",
+          "seance": [
+            {
+              "idSeance": 30312,
+              "ordre": 1,
+              "idEvenement": 19284,
+              "dateHeure": "2019-07-28T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

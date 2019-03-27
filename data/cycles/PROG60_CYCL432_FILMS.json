@@ -91,6 +91,22 @@
     ]
   },
   {
+    "titre": "Batman",
+    "titreVo": "",
+    "idFilm": 31042,
+    "idCycle": 432,
+    "idCategorie": 1982,
+    "ageMinimal": null,
+    "realisateurs": "Tim Burton",
+    "annee": 1988,
+    "pays": "États-Unis-Grande-Bretagne",
+    "generique": [
+      "Michael Keaton",
+      "Jack Nicholson",
+      "Kim Basinger"
+    ]
+  },
+  {
     "titre": "Ben-Hur",
     "titreVo": "Ben-Hur : A Tale of the Christ",
     "idFilm": 41569,
@@ -321,7 +337,7 @@
     "titreVo": "",
     "idFilm": 91457,
     "idCycle": 432,
-    "idCategorie": 1982,
+    "idCategorie": 1933,
     "ageMinimal": 0,
     "realisateurs": "Mamoru Oshii",
     "annee": 2003,
@@ -627,28 +643,6 @@
       "Jeff Bridges",
       "Bruce Boxleitner",
       "David Warner"
-    ]
-  },
-  {
-    "titre": "Ulysse",
-    "titreVo": "Ulisse",
-    "idFilm": 43513,
-    "idCycle": 432,
-    "idCategorie": 1933,
-    "ageMinimal": 0,
-    "realisateurs": "Mario Camerini",
-    "annee": 1953,
-    "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Après 10 ans de guerre, Ulysse peut enfin prendre le chemin du retour vers Ithaque où son fils et sa femme l'attendent, malgré de nombreux prétendants. Son voyage va être freiné par plusieurs péripéties orchestrées par Poséïdon."
-      }
-    ],
-    "generique": [
-      "Kirk Douglas",
-      "Silvana Mangano",
-      "Anthony Quinn"
     ]
   },
   {

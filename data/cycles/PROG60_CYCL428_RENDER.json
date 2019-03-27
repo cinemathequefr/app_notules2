@@ -44,13 +44,13 @@
           "version": "VOSTA",
           "seance": [
             {
-              "idSeance": 30419,
+              "idSeance": 30136,
               "ordre": 1,
               "idEvenement": 19075,
-              "dateHeure": "2019-06-27T19:00:00",
+              "dateHeure": "2019-06-29T15:00:00",
               "idSalle": [
-                "HL",
-                "Henri Langlois"
+                "GF",
+                "Georges Franju"
               ]
             }
           ]
@@ -66,13 +66,13 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "« Autrefois les films finissaient à la poubelle. Un homme a eu l'idée de les sauver, de les conserver, de les montrer aux jeune générations. C'est ainsi qu'il a gardé la mémoire de l'imaginaire du XX° siècle. Il s'appelait Henri Langlois. Qu'est-ce qui fait qu'à vingt ans, au lieu de se lancer vers l'avenir, une jeune homme décide de consacrer sa vie à sauver les traces du passé » (Edgardo Cozarinsky)"
+              "texte": "« Autrefois les films finissaient à la poubelle. Un homme a eu l'idée de les sauver, de les conserver, de les montrer aux jeune générations. C'est ainsi qu'il a gardé la mémoire de l'imaginaire du XX° siècle. Il s'appelait Henri Langlois. Qu'est-ce qui fait qu'à vingt ans, au lieu de se lancer vers l'avenir, un jeune homme décide de consacrer sa vie à sauver les traces du passé? » (Edgardo Cozarinsky)"
             }
           ],
           "generique": [
+            "Niels Arestrup",
             "Henri Langlois",
             "Eric Rohmer",
-            "Freddy Buache",
             "Marie Epstein"
           ],
           "duree": 67,
@@ -83,7 +83,7 @@
               "idSeance": 30138,
               "ordre": 1,
               "idEvenement": 19067,
-              "dateHeure": "2019-06-29T21:30:00",
+              "dateHeure": "2019-06-29T18:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -108,8 +108,7 @@
           "generique": [
             "Marisa Paredes",
             "Feodor Atkine",
-            "Bruno Putzulu",
-            "Didier Flamand"
+            "Bruno Putzulu"
           ],
           "duree": 90,
           "format": "35 mm",
@@ -119,7 +118,7 @@
               "idSeance": 30432,
               "ordre": 1,
               "idEvenement": 19068,
-              "dateHeure": "2019-06-30T17:30:00",
+              "dateHeure": "2019-06-30T21:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -144,18 +143,17 @@
           "generique": [
             "Laurent Grevill",
             "Larbi Yacoubi",
-            "Brenda Gerolemou",
-            "Dick Chapman"
+            "Brenda Gerolemou"
           ],
           "duree": 90,
           "format": "35 mm",
           "version": "",
           "seance": [
             {
-              "idSeance": 30147,
+              "idSeance": 30542,
               "ordre": 1,
               "idEvenement": 19070,
-              "dateHeure": "2019-06-30T21:30:00",
+              "dateHeure": "2019-06-27T21:45:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -183,14 +181,15 @@
           "version": "",
           "seance": [
             {
-              "idSeance": 30395,
+              "idSeance": 30727,
               "ordre": 1,
               "idEvenement": 19071,
               "dateHeure": "2019-06-26T20:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
-              ]
+              ],
+              "mention": "Ouverture de la rétrospective"
             }
           ]
         },
@@ -210,9 +209,7 @@
           ],
           "generique": [
             "Leslie Caron",
-            "Dominique Sanda",
-            "Federico Luppi",
-            "China Zorrilla"
+            "Dominique Sanda"
           ],
           "duree": 97,
           "format": "35 mm",
@@ -222,7 +219,7 @@
               "idSeance": 30137,
               "ordre": 1,
               "idEvenement": 19072,
-              "dateHeure": "2019-06-29T19:30:00",
+              "dateHeure": "2019-06-29T21:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -252,7 +249,7 @@
               "idSeance": 30434,
               "ordre": 1,
               "idEvenement": 19066,
-              "dateHeure": "2019-07-07T17:00:00",
+              "dateHeure": "2019-07-03T20:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -276,19 +273,17 @@
           ],
           "generique": [
             "Esteban Lamothe",
-            "Marta Lubos",
-            "Esmeralda Mitre",
-            "Jimena Anganuzzi"
+            "Marta Lubos"
           ],
           "duree": 63,
           "format": "DCP",
           "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30433,
+              "idSeance": 30544,
               "ordre": 1,
               "idEvenement": 19078,
-              "dateHeure": "2019-07-06T17:00:00",
+              "dateHeure": "2019-07-03T19:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -318,7 +313,7 @@
               "idSeance": 30159,
               "ordre": 1,
               "idEvenement": 19074,
-              "dateHeure": "2019-07-03T21:30:00",
+              "dateHeure": "2019-07-03T17:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -349,10 +344,10 @@
           "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30118,
+              "idSeance": 30543,
               "ordre": 1,
               "idEvenement": 19080,
-              "dateHeure": "2019-06-27T21:45:00",
+              "dateHeure": "2019-06-30T19:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -374,21 +369,15 @@
               "texte": "Buenos Aires, la nuit. Victor, à peine sorti de l'adolescence, déambule dans les rues de son quartier. Protégé par un inspecteur de police, il partage son temps entre le racolage, la drague dans les saunas de luxe et les soirées privées. Sa soif de découvertes et d'expériences le conduit à côtoyer la lisière des deux mondes."
             }
           ],
-          "generique": [
-            "Gonzalo Heredia",
-            "Moro Anghileri",
-            "Rafael Ferro",
-            "Dario Tripicchio"
-          ],
           "duree": 80,
           "format": "35 mm",
           "version": "",
           "seance": [
             {
-              "idSeance": 30158,
+              "idSeance": 30545,
               "ordre": 1,
               "idEvenement": 19079,
-              "dateHeure": "2019-07-03T19:30:00",
+              "dateHeure": "2019-07-06T18:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -411,24 +400,18 @@
               "texte": "Un jeune étudiant du conservatoire, Benjamin Fleischmann, choisit un récit de Tchekhov pour en tirer un opéra en un acte qu'il compose sous la houlette de son professeur, Dimitri Chostakovitch. Mais le jeune homme est tué pendant la guerre et Chostakovitch decide alors d'orchestrer l'opéra inachevé de son élève pour honorer sa mémoire."
             }
           ],
-          "generique": [
-            "Serguei Makovetsky",
-            "Dainius Kazlauskas",
-            "Tarmo Männard",
-            "Tamara Solodnikova"
-          ],
           "duree": 100,
           "format": "Vidéo",
           "version": "",
           "seance": [
             {
-              "idSeance": 30146,
+              "idSeance": 30541,
               "ordre": 1,
               "idEvenement": 19077,
-              "dateHeure": "2019-06-30T19:30:00",
+              "dateHeure": "2019-06-27T19:00:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "HL",
+                "Henri Langlois"
               ]
             }
           ]

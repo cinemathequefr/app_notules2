@@ -1,0 +1,196 @@
+<ANSI-WIN>
+<vsn:6><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>><dcs:ITAL=<cTypeface:Italic>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>2010  L'Année du premier contact
+<pstyle:TITRE_ANG>(2010)
+<pstyle:TECHNIQUE>de Peter Hyams
+<pstyle:TECHNIQUE>États-Unis/1984/116'/VOSTF/DCP
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>2010 : Odyssey Two<cSkew:> d'Arthur C. Clarke.
+<pstyle:TECHNIQUE>Avec Roy Scheider, John Lithgow, Helen Mirren.
+<pstyle:SYNOPSIS>Depuis 2001, le vaisseau Discovery tourne autour d'une lune de Jupiter après que l'ordinateur de bord H.A.L. 9000 se soit détraqué. Une équipe amérciaine et soviétique rentrent en compéttiton pour aller sur place et comprendre ce qu'il s'est passé.
+<pstyle:><cstyle:INFOSBLEUES>lu 22 juilXXX16h15XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>747 en péril
+<pstyle:TITRE_ANG>(Airport 75)
+<pstyle:TECHNIQUE>de Jack Smight
+<pstyle:TECHNIQUE>États-Unis/1974/107'
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Airport<cSkew:> d'Arthur Hailey.
+<pstyle:TECHNIQUE>Avec Charlton Heston, Karen Black, George Kennedy.
+<pstyle:SYNOPSIS>Lors d'un vol Washinghton Los Angeles, un Boeing 747 est violemment percuté par un petit avion. Le commandant de bord étant gravement blessé par le choc, la chef de cabine, son mari et un aiguilleur vont tenter de reprendre le controle de l'appareil.
+<pstyle:><cstyle:INFOSBLEUES>sa 20 juilXXX17h00XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Ben-Hur
+<pstyle:TITRE_ANG>(Ben-Hur : A Tale of the Christ)
+<pstyle:TECHNIQUE>de Fred Niblo
+<pstyle:TECHNIQUE>États-Unis/1924/143'
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Ben-Hur<cSkew:> de Lew Wallace.
+<pstyle:TECHNIQUE>Avec Ramon Novarro, Francis X. Bushman, May McAvoy.
+<pstyle:SYNOPSIS>Ben-Hur, prince juif trahi par son ami Messala, est condamné aux galères par les Romains tandis que sa famille est emprisonnée. Deuxième adaptation du roman de Lew Wallace après la version de 1907 réalisée par Sidney Olcott et Frank Oakes Rose.
+<pstyle:><cstyle:INFOSBLEUES>di 21 juilXXX14h30XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>The Blade
+<pstyle:TITRE_ANG>(Dao)
+<pstyle:TECHNIQUE>de Hark Tsui
+<pstyle:TECHNIQUE>Hong-Kong/1995/105'
+<pstyle:TECHNIQUE>Avec Wenzhou Zhao, Xin-Xin Xiong, Sonny Su.
+<pstyle:SYNOPSIS>Dans la Chine du Moyen-Âge, un jeune forgeron veut se venger de l'assassin de son père. Amputé d'un bras lors d'une rixe, il est receuilli par une femme dans une ferme isolée où il va mettre au point une technique d'art martial.
+<pstyle:><cstyle:INFOSBLEUES>di 21 juilXXX17h00XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Dune
+<pstyle:TECHNIQUE>de David Lynch
+<pstyle:TECHNIQUE>États-Unis/1983/140'
+<pstyle:TECHNIQUE>D'après la saga <cSkew:9>Dune<cSkew:> de Frank Herbert.
+<pstyle:TECHNIQUE>Avec Kyle MacLachlan, Francesca Annis, Leonardo Cimino.
+<pstyle:SYNOPSIS>En 10191, l'empereur de la galaxie, aidé par le peuple Harkonnen, élabore un piège pour faire disparaître les Astréides. Ils sont envoyés sur Dune où ils se font massacrer. Seul l'hériter des Astréides et sa mère réussissent à échapper à la tuerie...
+<pstyle:><cstyle:INFOSBLEUES>ve 19 juilXXX17h00XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>La Femme sur la lune
+<pstyle:TITRE_ANG>(Frau im Mond)
+<pstyle:TECHNIQUE>de Fritz Lang
+<pstyle:TECHNIQUE>Allemagne/1928/111'/INT. ALL.
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Frau im Mond<cSkew:> de Thea von Harbou.
+<pstyle:TECHNIQUE>Avec Klaus Pohl, Willy Fritsch, Gustav von Wangenheim.
+<pstyle:SYNOPSIS>Convaincu qu'il y a de l'or sur la Lune, le savant Manfeldt organise une expédition.
+<pstyle:><cstyle:INFOSBLEUES>je 18 juilXXX19h30XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Ghost in the Shell
+<pstyle:TITRE_ANG>(Kokaku kidotai)
+<pstyle:TECHNIQUE>de Mamoru Oshii
+<pstyle:TECHNIQUE>Japon-Grande-Bretagne/1995/83'/VOSTF/35 mm
+<pstyle:SYNOPSIS>En 2029, une femme cyborg et son acolyte traquent pour la cyberpolice un mystérieux pirate de l'informatique.
+<pstyle:><cstyle:INFOSBLEUES>sa 20 juilXXX19h00XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Il était une fois en Amérique
+<pstyle:TITRE_ANG>(Once Upon a Time in America)
+<pstyle:TECHNIQUE>de Sergio Leone
+<pstyle:TECHNIQUE>États-Unis-Italie/1982/229'/VOSTF/35 mm
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>The Hoods<cSkew:> de Harry Grey.
+<pstyle:TECHNIQUE>Avec Robert De Niro, James Woods, Elizabeth McGovern.
+<pstyle:SYNOPSIS>Noodles, un vieux gangster, revient à New York sur les lieux de son enfance. Les souvenirs de ses amis et de son premier amour lui reviennent en mémoire.
+<pstyle:><cstyle:INFOSBLEUES>ve 19 juilXXX19h00XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Il était une fois en Chine
+<pstyle:TITRE_ANG>(Wong Fei-hung)
+<pstyle:TECHNIQUE>de Hark Tsui
+<pstyle:TECHNIQUE>Hong-Kong/1990/134'
+<pstyle:TECHNIQUE>Avec Jet Li, Rosamund Kwan, Biao Yuen.
+<pstyle:SYNOPSIS>A la fin du 19ème siècle dans le sud de la Chine, Wong Fei-Hung, médecin et maître en arts martiaux est chargé de maintenir la paix dans un pays envahit par les colons européens et américains dont la culture des armes à feu rencontre celle du sabre.
+<pstyle:><cstyle:INFOSBLEUES>di 21 juilXXX19h00XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Jumper
+<pstyle:TECHNIQUE>de Doug Liman
+<pstyle:TECHNIQUE>États-Unis/2006/88'/35 mm
+<pstyle:TECHNIQUE>D'après les romans <cSkew:9>Jumper<cSkew:> et <cSkew:9>Reflex<cSkew:> de Steven Gould.
+<pstyle:TECHNIQUE>Avec Hayden Christensen, Jamie Bell, Rachel Bilson.
+<pstyle:SYNOPSIS>Un adolescent vivant seul avec son père, risée de son école et fou amoureux d'une camarade, tombe dans l'eau glacée d'un lac gelé par accident et se retrouve dans une bibliothèque. Il peut se téléporter dans des endroits déja visités...
+<pstyle:><cstyle:INFOSBLEUES>me 24 juilXXX16h30XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Oblivion
+<pstyle:TECHNIQUE>de Joseph Kosinski
+<pstyle:TECHNIQUE>États-Unis/2012/124'/DCP
+<pstyle:TECHNIQUE>D'après la nouvelle <cSkew:9>Oblivion<cSkew:> de Joseph Kosinski.
+<pstyle:TECHNIQUE>Avec Tom Cruise, Morgan Freeman, Olga Kurylenko.
+<pstyle:SYNOPSIS>2077. Un homme est chargé d'exploiter les dernières ressources sur Terre, désertée après une guerre contre des extraterrestres. Témoin d'un crash d'un vaisseau, il sauve la femme qui le pilotait. Cette rencontre va remettre en question sa mission.
+<pstyle:><cstyle:INFOSBLEUES>sa 20 juilXXX14h30XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Orca
+<pstyle:TITRE_ANG>(Orca... Killer Whale)
+<pstyle:TECHNIQUE>de Michael Anderson
+<pstyle:TECHNIQUE>États-Unis/1976/92'/35 mm
+<pstyle:TECHNIQUE>Avec Richard Harris, Charlotte Rampling, Will Sampson.
+<pstyle:SYNOPSIS>Un capitaine se donne pour mission de tuer une orque malgré les avertissements d'une biologiste. Il blesse une femelle orque qui perd l'enfant qu'elle portait. Le mâle prend en chasse le capitaine...
+<pstyle:><cstyle:INFOSBLEUES>ve 19 juilXXX14h30XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Speed
+<pstyle:TECHNIQUE>de Jan De Bont
+<pstyle:TECHNIQUE>États-Unis/1993/115'/VOSTF/35 mm
+<pstyle:TECHNIQUE>Avec Keanu Reeves, Sandra Bullock, Dennis Hopper.
+<pstyle:SYNOPSIS>Un policier à la retraite à posé une bombe dans un bus dans lequel se trouve également un jeune officier. Le bus ne peut pas descendre en dessous de 50miles/heure sous peine d'exploser...
+<pstyle:><cstyle:INFOSBLEUES>je 18 juilXXX14h30XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Stalingrad
+<pstyle:TITRE_ANG>(Enemy at the Gates)
+<pstyle:TECHNIQUE>de Jean-Jacques Annaud
+<pstyle:TECHNIQUE>États-Unis-Allemagne-Grande-Bretagne-Irlande/1999/130'/35 mm
+<pstyle:TECHNIQUE>D'après le livre <cSkew:9>Enemy at the gates<cSkew:> de William Craig.  
+D'après le livre <cSkew:9>Vendetta<cSkew:> de Derek Lambert.
+<pstyle:TECHNIQUE>Avec Jude Law, Rachel Weisz, Joseph Fiennes.
+<pstyle:SYNOPSIS>Automne 1942. L'armée allemande assiège Stalingrad. Les soviétiques, moins équipés, font face à l'ennemi et ceux qui reculent sont tués. Un jeune tireur d'élite abat cinq allemands. La propagande soviétique voit une occasion pour en faire un héros.
+<pstyle:><cstyle:INFOSBLEUES>lu 22 juilXXX22h00XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>La Tour infernale
+<pstyle:TITRE_ANG>(The Towering Inferno)
+<pstyle:TECHNIQUE>de John Guillermin
+<pstyle:TECHNIQUE>États-Unis/1974/165'
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>The Glass Inferno<cSkew:> de Thomas M. Scortia et Frank M. Robinson.  
+D'après le roman <cSkew:9>The Tower<cSkew:> de Richard Martin Stern.
+<pstyle:TECHNIQUE>Avec Steve McQueen, Paul Newman, William Holden.
+<pstyle:SYNOPSIS>Le jour de l'inauguration d'une tour de 138 étages, l'architecte se rend compte que le constructeur a favorisé l'économie à la sécurité. Alors que la fête se déroule en haut de l'immeuble, un câble électrique déclanche un incendit ravageur.
+<pstyle:><cstyle:INFOSBLEUES>lu 22 juilXXX19h00XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Windtalkers  Les Messagers du vent
+<pstyle:TITRE_ANG>(Windtalkers)
+<pstyle:TECHNIQUE>de John Woo
+<pstyle:TECHNIQUE>États-Unis/2000/134'
+<pstyle:TECHNIQUE>Avec Nicolas Cage, Adam Beach, Peter Stormare.
+<pstyle:SYNOPSIS>Pendant la seconde Guerre Mondiale, un marine doit protéger un soldat indien maîtrisant le «<0x00A0>Navajo<0x00A0>», un code secret qui permet aux bases américianes des îles pacifiques de communiquer entre elles.
+<pstyle:><cstyle:INFOSBLEUES>di 21 juilXXX21h00XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:CATEGORIE>Week-end 70 mm
+
+<pstyle:TITRE>2001 : L'odyssée de l'espace
+<pstyle:TITRE_ANG>(2001 : A Space Odyssey)
+<pstyle:TECHNIQUE>de Stanley Kubrick
+<pstyle:TECHNIQUE>États-Unis/1966/149'/VO/70 mm
+<pstyle:TECHNIQUE>Avec Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter.
+<pstyle:SYNOPSIS>La découverte d'un monolithe noir qui traverse les âges déclenche une expédition dans l'espace menée par l'ordinateur HAL.
+<pstyle:><cstyle:INFOSBLEUES>je 25 juilXXX20h00XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Alamo
+<pstyle:TECHNIQUE>de John Wayne
+<pstyle:TECHNIQUE>États-Unis/1959/192'/70 mm
+<pstyle:TECHNIQUE>Avec John Wayne, Richard Widmark, Laurence Harvey, Richard Boone.
+<pstyle:SYNOPSIS>En 1836, de nombreux colons et aventuriers américains (parmi lesquels le légendaire Davy Crockett) se sacrifient pour tenir le Fort Alamo face aux assauts des troupes mexicaines.
+<pstyle:><cstyle:INFOSBLEUES>sa 27 juilXXX19h00XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Les Cheyennes
+<pstyle:TITRE_ANG>(Cheyenne Autumn)
+<pstyle:TECHNIQUE>de John Ford
+<pstyle:TECHNIQUE>États-Unis/1963/160'/VO/70 mm
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Cheyenne autumn<cSkew:> de Mari Sandoz.
+<pstyle:TECHNIQUE>Avec Richard Widmark, Carroll Baker, Karl Malden.
+<pstyle:SYNOPSIS>Refusant de vivre dans une réserve, une communauté de Cheyennes entame un long voyage vers ses terres ancestrales du Dakota, poursuivie par les troupes de l'armée américaine.
+<pstyle:><cstyle:INFOSBLEUES>di 28 juilXXX19h00XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Les Huit salopards
+<pstyle:TITRE_ANG>(The Hateful Eight)
+<pstyle:TECHNIQUE>de Quentin Tarantino
+<pstyle:TECHNIQUE>États-Unis/2014/167'
+<pstyle:TECHNIQUE>Avec Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh.
+<pstyle:SYNOPSIS>Quelques années après la guerre de Sécession, un chasseur de primes conduit une prisonnière jusqu'à Red Rock. Ils croisent la route d'un ancien soldat de l'Union chasseur de primes et le nouveau shérif de Red Rock. Surpris par le mauvais temps, ils trouvent refuge dans un chalet où sont déjà installés quatre autres personnes.
+<pstyle:><cstyle:INFOSBLEUES>ve 26 juilXXX20h00XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Inosensu
+<pstyle:TECHNIQUE>de Mamoru Oshii
+<pstyle:TECHNIQUE>Japon/2003/99'
+<pstyle:TECHNIQUE>D'après le manga <cSkew:9>Ghost in the shell<cSkew:> de Masamune Shirow.
+<pstyle:SYNOPSIS>Japon 2032. L'inspecteur cyborg Batou, hanté par le souvenir du Major Motoko, et son partenaire humain Togusa enquêtent sur une série de meurtres perpétrée par des gynoïdes<0x00A0>; des androïdes à l'apparence féminine destinés aux plaisirs sexuels.
+<pstyle:><cstyle:INFOSBLEUES>sa 20 juilXXX21h00XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Interstellar
+<pstyle:TECHNIQUE>de Christopher Nolan
+<pstyle:TECHNIQUE>États-Unis-Grande-Bretagne/2013/169'/70 mm
+<pstyle:TECHNIQUE>Avec Matthew McConaughey, Anne Hathaway, Jessica Chastain.
+<pstyle:SYNOPSIS>Dans un futur proche, où la Terre n'offre bientôt plus de ressources, un ancien pilote de la NASA découvre un trou de ver près de Saturne qui pourrait être une porte vers une nouvelle planète habitable. Il quitte sa famille pour effectuer le voyage.
+<pstyle:><cstyle:INFOSBLEUES>sa 27 juilXXX14h30XXX<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Patton
+<pstyle:TECHNIQUE>de Franklin J. Schaffner
+<pstyle:TECHNIQUE>États-Unis/1969/170'/VO/70 mm
+<pstyle:TECHNIQUE>D'après l'ouvrage <cSkew:9>A General's Life: An Autobiography<cSkew:> d'Omar N. Bradley.  
+D'après l'ouvrage <cSkew:9>Patton: Ordeal And Triumph<cSkew:> de Ladislas Farago.
+<pstyle:TECHNIQUE>Avec George C. Scott, Karl Malden, Stephen Young.
+<pstyle:SYNOPSIS>George Patton est le seul général réellement craint par les nazis. Charismatique, il dessinait ses uniformes et disait avoir été un guerrier dans d'autres vies. Il repoussa Rommel et, après le jour J, il conduisit ses troupes à travers l'Europe.
+<pstyle:><cstyle:INFOSBLEUES>di 28 juilXXX14h30XXX<cstyle:SALLESBLEUES>A
+
