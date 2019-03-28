@@ -8,7 +8,7 @@
         "cats": [
           1925
         ],
-        "tri": 1
+        "tri": 2
       },
       {
         "titre": "Documentaires",
@@ -23,6 +23,13 @@
           1983
         ],
         "tri": 1
+      },
+      {
+        "titre": "Rencontres et conférences",
+        "cats": [
+          1942
+        ],
+        "tri": 1
       }
     ],
     "idProg": 60
@@ -30,46 +37,47 @@
   "data": [
     {
       "titreSousCycle": "Les films",
-      "tri": 1,
+      "tri": 2,
       "items": [
         {
           "idCycle": 424,
-          "idFilm": 64294,
-          "titre": "Adieu, plancher des vaches !",
-          "titreVo": "",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 1998,
-          "pays": "France-Suisse-Italie",
-          "textes": [
+          "idCategorie": 1925,
+          "idEvenement": 19085,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Nicolas vit dans un château régi par sa mère, une femme d'affaires autoritaire. Son père boit et joue au train électrique. Nicolas fuit chaque jour le domaine familial pour rejoindre ses amis à Paris, clochards ou voyoux. Il participe au _hold-up_ d'un supermarché."
+              "idFilm": 64294,
+              "titre": "Adieu, plancher des vaches !",
+              "titreVo": "",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1998,
+              "pays": "France-Suisse-Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Nicolas vit dans un château régi par sa mère, une femme d'affaires autoritaire. Son père boit et joue au train électrique. Nicolas fuit chaque jour le domaine familial pour rejoindre ses amis à Paris, clochards ou voyoux. Il participe au _hold-up_ d'un supermarché."
+                }
+              ],
+              "generique": [
+                "Nico Tarielashvili",
+                "Lily Lavina",
+                "Otar Iosseliani",
+                "Philippe Bas"
+              ],
+              "duree": 117,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Nico Tarielashvili",
-            "Lily Lavina",
-            "Otar Iosseliani",
-            "Philippe Bas"
-          ],
-          "duree": 117,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
-              "idSeance": 29975,
-              "ordre": 1,
-              "idEvenement": 19085,
-              "dateHeure": "2019-06-01T14:30:00",
+              "dateHeure": "2019-06-01T15:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
               ]
             },
             {
-              "idSeance": 30064,
-              "ordre": 1,
-              "idEvenement": 19085,
               "dateHeure": "2019-06-17T19:00:00",
               "idSalle": [
                 "GF",
@@ -80,30 +88,90 @@
         },
         {
           "idCycle": 424,
-          "idFilm": 70506,
-          "titre": "Aquarelle",
-          "titreVo": "Akvareli",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 1958,
-          "pays": "URSS",
-          "textes": [
+          "idCategorie": 1925,
+          "idEvenement": 19086,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Une femme blanchisseuse et son mari ivrogne se disputent. Le mari se réfugie dans un musée."
+              "idFilm": 70506,
+              "titre": "Aquarelle",
+              "titreVo": "Akvareli",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1958,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une femme blanchisseuse et son mari ivrogne se disputent. Le mari se réfugie dans un musée."
+                }
+              ],
+              "generique": [
+                "Guennadi Kracheninnikov",
+                "Sofiko Tchiaoureli"
+              ],
+              "duree": 10,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            },
+            {
+              "idFilm": 70507,
+              "titre": "Chant de la fleur introuvable",
+              "art": "Le",
+              "titreVo": "Sapovnela",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1959,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un homme âgé réalise de belles compositions florales. Les tracteurs envahissent les champs de fleurs."
+                }
+              ],
+              "duree": 20,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 2
+            },
+            {
+              "idFilm": 70508,
+              "titre": "Fonte",
+              "art": "La",
+              "titreVo": "Toudji",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1964,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "La dure vie de quatre ouvriers de Rustavi dans une usine métallurgique."
+                }
+              ],
+              "duree": 20,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 3
+            },
+            {
+              "idFilm": 70509,
+              "titre": "Vieilles chansons Georgiennes",
+              "titreVo": "Starinnaja gruzinskaja pesnja",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1968,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un hommage en musique à la culture géorgienne."
+                }
+              ],
+              "duree": 20,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 4
             }
           ],
-          "generique": [
-            "Guennadi Kracheninnikov",
-            "Sofiko Tchiaoureli"
-          ],
-          "duree": 10,
-          "format": "DCP",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30444,
-              "ordre": 1,
-              "idEvenement": 19086,
               "dateHeure": "2019-05-31T21:30:00",
               "idSalle": [
                 "GF",
@@ -111,45 +179,68 @@
               ]
             },
             {
-              "idSeance": 30540,
-              "ordre": 1,
-              "idEvenement": 19086,
-              "dateHeure": "2019-06-02T21:30:00",
+              "dateHeure": "2019-06-09T15:30:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "JE",
+                "Jean Epstein"
               ]
             }
-          ],
-          "precedeSuivi": "Film suivi de _Le Chant de la fleur introuvable_ d'Otar Iosseliani, _La Fonte_ d'Otar Iosseliani, _Vieilles chansons Georgiennes_ d'Otar Iosseliani."
+          ]
         },
         {
           "idCycle": 424,
-          "idFilm": 69050,
-          "titre": "Avril",
-          "titreVo": "Aprili",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 1961,
-          "pays": "URSS",
-          "textes": [
+          "idCategorie": 1925,
+          "idEvenement": 19087,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Un couple s'installe dans un appartement neuf, équipé du strict nécessaire. Ils sont heureux. Autour d'eux, les habitants de l'immeuble achètent frénétiquement du mobilier. Le jeune couple se met également à consommer. Bientôt, il se querellent."
+              "idFilm": 69050,
+              "titre": "Avril",
+              "titreVo": "Aprili",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1961,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un couple s'installe dans un appartement neuf, équipé du strict nécessaire. Ils sont heureux. Autour d'eux, les habitants de l'immeuble achètent frénétiquement du mobilier. Le jeune couple se met également à consommer. Bientôt, il se querellent."
+                }
+              ],
+              "generique": [
+                "Tania Tchantouria",
+                "Guia Tchirakadze",
+                "Alexandre Tchikvaidze"
+              ],
+              "duree": 50,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            },
+            {
+              "idFilm": 53105,
+              "titre": "Sept pièces pour cinéma noir et blanc",
+              "titreVo": "",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1982,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Série de saynètes entrecoupées de plans tournés dans les rues de Paris. Le film est un hommage affectueux aux habitants de Paris."
+                }
+              ],
+              "generique": [
+                "Philippe Cousin",
+                "Otar Iosseliani",
+                "Antonine Catzéflis"
+              ],
+              "duree": 25,
+              "format": "DCP",
+              "version": "",
+              "ordre": 2
             }
           ],
-          "generique": [
-            "Tania Tchantouria",
-            "Guia Tchirakadze",
-            "Alexandre Tchikvaidze"
-          ],
-          "duree": 50,
-          "format": "DCP",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30405,
-              "ordre": 1,
-              "idEvenement": 19087,
               "dateHeure": "2019-05-30T19:30:00",
               "idSalle": [
                 "GF",
@@ -157,46 +248,46 @@
               ]
             },
             {
-              "idSeance": 30021,
-              "ordre": 1,
-              "idEvenement": 19087,
-              "dateHeure": "2019-06-10T19:00:00",
+              "dateHeure": "2019-06-08T17:30:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "JE",
+                "Jean Epstein"
               ]
             }
-          ],
-          "precedeSuivi": "Film suivi de _Sept pièces pour cinéma noir et blanc_ d'Otar Iosseliani."
+          ]
         },
         {
           "idCycle": 424,
-          "idFilm": 60179,
-          "titre": "Brigands, chapitre VII",
-          "titreVo": "",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 1995,
-          "pays": "France-Suisse-URSS-Italie",
-          "textes": [
+          "idCategorie": 1925,
+          "idEvenement": 19088,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Portraits de brigands du Moyen-Age à aujourd'hui. Bourreaux médiévaux, tortionnaires bolcheviks ou vulgaires mafieux contemporains, ils trahissent et torturent."
+              "idFilm": 60179,
+              "titre": "Brigands, chapitre VII",
+              "titreVo": "",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1995,
+              "pays": "France-Suisse-URSS-Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Portraits de brigands du Moyen-Age à aujourd'hui. Bourreaux médiévaux, tortionnaires bolcheviks ou vulgaires mafieux contemporains, ils trahissent et torturent."
+                }
+              ],
+              "generique": [
+                "Amiran Amiranachvili",
+                "Dato Gogibedachvili",
+                "Guio Tzintsadze",
+                "Nino Ordjonikidze"
+              ],
+              "duree": 129,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Amiran Amiranachvili",
-            "Dato Gogibedachvili",
-            "Guio Tzintsadze",
-            "Nino Ordjonikidze"
-          ],
-          "duree": 129,
-          "format": "DCP",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 29966,
-              "ordre": 1,
-              "idEvenement": 19088,
               "dateHeure": "2019-06-01T21:00:00",
               "idSalle": [
                 "GF",
@@ -204,10 +295,7 @@
               ]
             },
             {
-              "idSeance": 30061,
-              "ordre": 1,
-              "idEvenement": 19088,
-              "dateHeure": "2019-06-16T21:30:00",
+              "dateHeure": "2019-06-16T20:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -217,74 +305,36 @@
         },
         {
           "idCycle": 424,
-          "idFilm": 70507,
-          "titre": "Chant de la fleur introuvable",
-          "art": "Le",
-          "titreVo": "Sapovnela",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 1959,
-          "pays": "URSS",
-          "textes": [
+          "idCategorie": 1925,
+          "idEvenement": 19089,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Un homme âgé réalise de belles compositions florales. Les tracteurs envahissent les champs de fleurs."
+              "idFilm": 128987,
+              "titre": "Chant d'hiver",
+              "titreVo": "",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 2014,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Trois histoires se succèdent : une fiction historique pendant a Révolution française, un film de guerre montrant terreur, pillage et viol, et une chronique parisienne contemporaine."
+                }
+              ],
+              "generique": [
+                "Rufus",
+                "Amiran Amiranashvili",
+                "Mathias Jung",
+                "Enrico Ghezzi"
+              ],
+              "duree": 117,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
             }
           ],
-          "duree": 20,
-          "format": "DCP",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30444,
-              "ordre": 2,
-              "idEvenement": 19086,
-              "dateHeure": "2019-05-31T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            },
-            {
-              "idSeance": 30540,
-              "ordre": 2,
-              "idEvenement": 19086,
-              "dateHeure": "2019-06-02T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ],
-          "precedeSuivi": "Film précédé d'_Aquarelle_ d'Otar Iosseliani et suivi de de _La Fonte_ d'Otar Iosseliani, _Vieilles chansons Georgiennes_ d'Otar Iosseliani."
-        },
-        {
-          "idCycle": 424,
-          "idFilm": 128987,
-          "titre": "Chant d'hiver",
-          "titreVo": "",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 2014,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Trois histoires se succèdent : une fiction historique pendant a Révolution française, un film de guerre montrant terreur, pillage et viol, et une chronique parisienne contemporaine."
-            }
-          ],
-          "generique": [
-            "Rufus",
-            "Amiran Amiranashvili",
-            "Mathias Jung",
-            "Enrico Ghezzi"
-          ],
-          "duree": 117,
-          "format": "DCP",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 30007,
-              "ordre": 1,
-              "idEvenement": 19089,
               "dateHeure": "2019-06-08T15:00:00",
               "idSalle": [
                 "JE",
@@ -292,10 +342,7 @@
               ]
             },
             {
-              "idSeance": 30088,
-              "ordre": 1,
-              "idEvenement": 19089,
-              "dateHeure": "2019-06-21T20:30:00",
+              "dateHeure": "2019-06-22T20:00:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
@@ -305,32 +352,36 @@
         },
         {
           "idCycle": 424,
-          "idFilm": 111730,
-          "titre": "Chantrapas",
-          "titreVo": "",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 2009,
-          "pays": "France-Géorgie-Ukraine",
-          "textes": [
+          "idCategorie": 1925,
+          "idEvenement": 19091,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Nicolas est un cinéaste géorgien. Lassé d'être en but aux pressions des « idéologues » qui l'empêchent de s'exprimer, Nicolas quitte son pays d'origine pour la France, terre de liberté et de démocratie."
+              "idFilm": 111730,
+              "titre": "Chantrapas",
+              "titreVo": "",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 2009,
+              "pays": "France-Géorgie-Ukraine",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Nicolas est un cinéaste géorgien. Lassé d'être en but aux pressions des « idéologues » qui l'empêchent de s'exprimer, Nicolas quitte son pays d'origine pour la France, terre de liberté et de démocratie."
+                }
+              ],
+              "generique": [
+                "Dato Tarielashvili",
+                "Tamuna Karumidze",
+                "Fanny Gonin",
+                "Bulle Ogier"
+              ],
+              "duree": 122,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Dato Tarielashvili",
-            "Tamuna Karumidze",
-            "Fanny Gonin",
-            "Bulle Ogier"
-          ],
-          "duree": 122,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
-              "idSeance": 30486,
-              "ordre": 1,
-              "idEvenement": 19091,
               "dateHeure": "2019-06-02T19:30:00",
               "idSalle": [
                 "GF",
@@ -338,57 +389,7 @@
               ]
             },
             {
-              "idSeance": 30485,
-              "ordre": 1,
-              "idEvenement": 19091,
-              "dateHeure": "2019-06-08T17:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
-            }
-          ]
-        },
-        {
-          "idCycle": 424,
-          "idFilm": 58158,
-          "titre": "Chasse aux papillons",
-          "art": "La",
-          "titreVo": "",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 1991,
-          "pays": "France-Allemagne-Italie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Deux vieilles dames vivent en autarcie dans le vieux château de famille. L'une joue du trombone dans la fanfare locale, tandis que l'autre s'enferme dans ses souvenirs. Un jour, la propriétaire du domaine meurt et les héritiers se présentent."
-            }
-          ],
-          "generique": [
-            "Narda Blanchet",
-            "Pierrette Pompon-Bailhache",
-            "Alexandre Tcherkassoff",
-            "Thamar Tarassachvili"
-          ],
-          "duree": 115,
-          "format": "DCP",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 30452,
-              "ordre": 1,
-              "idEvenement": 19092,
-              "dateHeure": "2019-05-29T20:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "idSeance": 30060,
-              "ordre": 1,
-              "idEvenement": 19092,
-              "dateHeure": "2019-06-16T19:30:00",
+              "dateHeure": "2019-06-06T19:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -398,32 +399,85 @@
         },
         {
           "idCycle": 424,
-          "idFilm": 58785,
-          "titre": "Chute des feuilles",
-          "art": "La",
-          "titreVo": "Giorgobistve",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 1966,
-          "pays": "URSS",
-          "textes": [
+          "idCategorie": 1925,
+          "idEvenement": 19092,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Fraîchement diplômés de l'Institut du vin de Tbilissi, Niko et Otar entrent dans une coopérative vinicole comme œnologues. Otar, plus âgé et plus assuré, se conforme aux exigences des chefs, alors que Niko, naïf et sincère, éprouve des difficultés."
+              "idFilm": 58158,
+              "titre": "Chasse aux papillons",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1991,
+              "pays": "France-Allemagne-Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Deux vieilles dames vivent en autarcie dans le vieux château de famille. L'une joue du trombone dans la fanfare locale, tandis que l'autre s'enferme dans ses souvenirs. Un jour, la propriétaire du domaine meurt et les héritiers se présentent."
+                }
+              ],
+              "generique": [
+                "Narda Blanchet",
+                "Pierrette Pompon-Bailhache",
+                "Alexandre Tcherkassoff",
+                "Thamar Tarassachvili"
+              ],
+              "duree": 115,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Ramaz Guiorgobiani",
-            "Marina Kartsivadze",
-            "Gogui Kharabadze"
-          ],
-          "duree": 100,
-          "format": "DCP",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30406,
-              "ordre": 1,
-              "idEvenement": 19093,
+              "dateHeure": "2019-05-29T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Ouverture de la rétrospective"
+            },
+            {
+              "dateHeure": "2019-06-16T18:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idCategorie": 1925,
+          "idEvenement": 19093,
+          "films": [
+            {
+              "idFilm": 58785,
+              "titre": "Chute des feuilles",
+              "art": "La",
+              "titreVo": "Giorgobistve",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1966,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Fraîchement diplômés de l'Institut du vin de Tbilissi, Niko et Otar entrent dans une coopérative vinicole comme œnologues. Otar, plus âgé et plus assuré, se conforme aux exigences des chefs, alors que Niko, naïf et sincère, éprouve des difficultés."
+                }
+              ],
+              "generique": [
+                "Ramaz Guiorgobiani",
+                "Marina Kartsivadze",
+                "Gogui Kharabadze"
+              ],
+              "duree": 100,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
               "dateHeure": "2019-05-30T21:30:00",
               "idSalle": [
                 "GF",
@@ -431,10 +485,7 @@
               ]
             },
             {
-              "idSeance": 30022,
-              "ordre": 1,
-              "idEvenement": 19093,
-              "dateHeure": "2019-06-10T21:00:00",
+              "dateHeure": "2019-06-06T22:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -444,32 +495,36 @@
         },
         {
           "idCycle": 424,
-          "idFilm": 49272,
-          "titre": "Et la lumière fut",
-          "titreVo": "",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 1989,
-          "pays": "France-Allemagne-Italie",
-          "textes": [
+          "idCategorie": 1925,
+          "idEvenement": 19094,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "En Afrique, dans un village au cœur de la forêt mystérieuse, un peuple vit heureux, au rythme des coutumes ancestrales. Jusqu'au jour où l'arrivée de bûcherons bouleverse l'existence des habitants."
+              "idFilm": 49272,
+              "titre": "Et la lumière fut",
+              "titreVo": "",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1989,
+              "pays": "France-Allemagne-Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "En Afrique, dans un village au cœur de la forêt mystérieuse, un peuple vit heureux, au rythme des coutumes ancestrales. Jusqu'au jour où l'arrivée de bûcherons bouleverse l'existence des habitants."
+                }
+              ],
+              "generique": [
+                "Sigalon Sagna",
+                "Saly Badji",
+                "Binta Cissé",
+                "Marie-Christine Dième"
+              ],
+              "duree": 103,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Sigalon Sagna",
-            "Saly Badji",
-            "Binta Cissé",
-            "Marie-Christine Dième"
-          ],
-          "duree": 103,
-          "format": "35 mm",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 29964,
-              "ordre": 1,
-              "idEvenement": 19094,
               "dateHeure": "2019-06-01T18:45:00",
               "idSalle": [
                 "GF",
@@ -477,10 +532,7 @@
               ]
             },
             {
-              "idSeance": 30052,
-              "ordre": 1,
-              "idEvenement": 19094,
-              "dateHeure": "2019-06-15T21:30:00",
+              "dateHeure": "2019-06-15T21:45:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -490,33 +542,37 @@
         },
         {
           "idCycle": 424,
-          "idFilm": 52619,
-          "titre": "Favoris de la lune",
-          "art": "Les",
-          "titreVo": "",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 1984,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 1925,
+          "idEvenement": 19095,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Des personnages divers se croisent dans Paris : un armurier trompé par sa femme avec un policier, des clochards qui font sauter une statue, un cambrioleur qui forme son fils..."
+              "idFilm": 52619,
+              "titre": "Favoris de la lune",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1984,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Des personnages divers se croisent dans Paris : un armurier trompé par sa femme avec un policier, des clochards qui font sauter une statue, un cambrioleur qui forme son fils..."
+                }
+              ],
+              "generique": [
+                "Pascal Aubier",
+                "Alix de Montaigu",
+                "Gaspard Flori",
+                "Mathieu Amalric"
+              ],
+              "duree": 101,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Pascal Aubier",
-            "Alix de Montaigu",
-            "Gaspard Flori",
-            "Mathieu Amalric"
-          ],
-          "duree": 101,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
-              "idSeance": 30430,
-              "ordre": 1,
-              "idEvenement": 19095,
               "dateHeure": "2019-06-02T14:30:00",
               "idSalle": [
                 "GF",
@@ -524,9 +580,6 @@
               ]
             },
             {
-              "idSeance": 30051,
-              "ordre": 1,
-              "idEvenement": 19095,
               "dateHeure": "2019-06-15T19:30:00",
               "idSalle": [
                 "GF",
@@ -537,73 +590,35 @@
         },
         {
           "idCycle": 424,
-          "idFilm": 70508,
-          "titre": "Fonte",
-          "art": "La",
-          "titreVo": "Toudji",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 1964,
-          "pays": "URSS",
-          "textes": [
+          "idCategorie": 1925,
+          "idEvenement": 19097,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "La dure vie de quatre ouvriers de Rustavi dans une usine métallurgique."
+              "idFilm": 41206,
+              "titre": "Il était une fois un merle chanteur",
+              "titreVo": "Iqo chachvi mgalobeli – Revoir générique",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1971,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Plongée dans la vie d'un jeune percussionniste de l'orchestre d'opéra de Tbilissi. Rêveur et insouciant, il erre dans les rues, au gré de rencontres amicales et sentimentales."
+                }
+              ],
+              "generique": [
+                "Gogi Chkheidze",
+                "Guela Kandelaki",
+                "Irina Djandieri"
+              ],
+              "duree": 85,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
             }
           ],
-          "duree": 20,
-          "format": "DCP",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30444,
-              "ordre": 3,
-              "idEvenement": 19086,
-              "dateHeure": "2019-05-31T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            },
-            {
-              "idSeance": 30540,
-              "ordre": 3,
-              "idEvenement": 19086,
-              "dateHeure": "2019-06-02T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ],
-          "precedeSuivi": "Film précédé d'_Aquarelle_ d'Otar Iosseliani, _Le Chant de la fleur introuvable_ d'Otar Iosseliani et suivi de de _Vieilles chansons Georgiennes_ d'Otar Iosseliani."
-        },
-        {
-          "idCycle": 424,
-          "idFilm": 41206,
-          "titre": "Il était une fois un merle chanteur",
-          "titreVo": "Iqo chachvi mgalobeli",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 1971,
-          "pays": "URSS",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Plongée dans la vie d'un jeune percussionniste de l'orchestre d'opéra de Tbilissi. Rêveur et insouciant, il erre dans les rues, au gré de rencontres amicales et sentimentales."
-            }
-          ],
-          "generique": [
-            "Gogi Chkheidze",
-            "Guela Kandelaki",
-            "Irina Djandieri"
-          ],
-          "duree": 85,
-          "format": "DCP",
-          "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 29957,
-              "ordre": 1,
-              "idEvenement": 19097,
               "dateHeure": "2019-05-31T19:30:00",
               "idSalle": [
                 "GF",
@@ -611,9 +626,6 @@
               ]
             },
             {
-              "idSeance": 30029,
-              "ordre": 1,
-              "idEvenement": 19097,
               "dateHeure": "2019-06-12T19:30:00",
               "idSalle": [
                 "GF",
@@ -624,42 +636,43 @@
         },
         {
           "idCycle": 424,
-          "idFilm": 99999,
-          "titre": "Jardins en automne",
-          "titreVo": "",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 2005,
-          "pays": "France",
-          "textes": [
+          "idCategorie": 1925,
+          "idEvenement": 19098,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Vincent, un bon vivant, aime le pouvoir et sait profiter de ses fonctions de ministre pour mener la grande vie. Mais lorsqu'une succession de manifestations le pousse à démissionner, ce petit univers factice s'effondre."
+              "idFilm": 99999,
+              "titre": "Jardins en automne",
+              "titreVo": "",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 2005,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Vincent, un bon vivant, aime le pouvoir et sait profiter de ses fonctions de ministre pour mener la grande vie. Mais lorsqu'une succession de manifestations le pousse à démissionner, ce petit univers factice s'effondre."
+                }
+              ],
+              "generique": [
+                "Séverin Blanchet",
+                "Michel Piccoli",
+                "Muriel Motte"
+              ],
+              "duree": 117,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Séverin Blanchet",
-            "Michel Piccoli",
-            "Muriel Motte"
-          ],
-          "duree": 117,
-          "format": "DCP",
-          "version": "",
           "seance": [
             {
-              "idSeance": 29986,
-              "ordre": 1,
-              "idEvenement": 19098,
-              "dateHeure": "2019-06-05T19:30:00",
+              "dateHeure": "2019-06-05T19:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
               ]
             },
             {
-              "idSeance": 30065,
-              "ordre": 1,
-              "idEvenement": 19098,
-              "dateHeure": "2019-06-17T21:00:00",
+              "dateHeure": "2019-06-17T21:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -669,32 +682,68 @@
         },
         {
           "idCycle": 424,
-          "idFilm": 41458,
-          "titre": "Pastorale",
-          "titreVo": "Pastorali",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 1976,
-          "pays": "URSS",
-          "textes": [
+          "idCategorie": 1925,
+          "idEvenement": 19336,
+          "films": [
             {
-              "typeTexte": 9,
-              "texte": "Quatre musiciens arrivent de la ville dans un village perdu pour se reposer. Ils logent dans une famille où cohabitent trois générations. La jeune fille de la maison tombe amoureuse de l'un d'eux."
+              "idFilm": 77201,
+              "titre": "Lundi matin",
+              "titreVo": "",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 2001,
+              "pays": "France-Italie",
+              "ordre": 1
             }
           ],
-          "generique": [
-            "Rezo Tcharkhalachvili",
-            "Lia Tokhadze-Djougueli",
-            "Marina Kartsivadze",
-            "Nana Iosseliani"
-          ],
-          "duree": 95,
-          "format": "DCP",
-          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30030,
-              "ordre": 1,
-              "idEvenement": 19099,
+              "dateHeure": "2019-06-05T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2019-06-15T16:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
+          "idCategorie": 1925,
+          "idEvenement": 19099,
+          "films": [
+            {
+              "idFilm": 41458,
+              "titre": "Pastorale",
+              "titreVo": "Pastorali",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1976,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Quatre musiciens arrivent de la ville dans un village perdu pour se reposer. Ils logent dans une famille où cohabitent trois générations. La jeune fille de la maison tombe amoureuse de l'un d'eux."
+                }
+              ],
+              "generique": [
+                "Rezo Tcharkhalachvili",
+                "Lia Tokhadze-Djougueli",
+                "Marina Kartsivadze",
+                "Nana Iosseliani"
+              ],
+              "duree": 95,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
               "dateHeure": "2019-06-12T21:30:00",
               "idSalle": [
                 "GF",
@@ -702,9 +751,6 @@
               ]
             },
             {
-              "idSeance": 30071,
-              "ordre": 1,
-              "idEvenement": 19099,
               "dateHeure": "2019-06-19T14:30:00",
               "idSalle": [
                 "GF",
@@ -712,93 +758,6 @@
               ]
             }
           ]
-        },
-        {
-          "idCycle": 424,
-          "idFilm": 53105,
-          "titre": "Sept pièces pour cinéma noir et blanc",
-          "titreVo": "",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 1982,
-          "pays": "France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Série de saynètes entrecoupées de plans tournés dans les rues de Paris. Le film est un hommage affectueux aux habitants de Paris."
-            }
-          ],
-          "generique": [
-            "Philippe Cousin",
-            "Otar Iosseliani",
-            "Antonine Katzeflis"
-          ],
-          "duree": 25,
-          "format": "DCP",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 30405,
-              "ordre": 2,
-              "idEvenement": 19087,
-              "dateHeure": "2019-05-30T19:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            },
-            {
-              "idSeance": 30021,
-              "ordre": 2,
-              "idEvenement": 19087,
-              "dateHeure": "2019-06-10T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ],
-          "precedeSuivi": "Film précédé d'_Avril_ d'Otar Iosseliani."
-        },
-        {
-          "idCycle": 424,
-          "idFilm": 70509,
-          "titre": "Vieilles chansons Georgiennes",
-          "titreVo": "Starinnaja gruzinskaja pesnja",
-          "realisateurs": "Otar Iosseliani",
-          "annee": 1968,
-          "pays": "URSS",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Un hommage en musique à la culture géorgienne."
-            }
-          ],
-          "duree": 20,
-          "format": "DCP",
-          "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 30444,
-              "ordre": 4,
-              "idEvenement": 19086,
-              "dateHeure": "2019-05-31T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            },
-            {
-              "idSeance": 30540,
-              "ordre": 4,
-              "idEvenement": 19086,
-              "dateHeure": "2019-06-02T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ],
-          "precedeSuivi": "Film précédé d'_Aquarelle_ d'Otar Iosseliani, _Le Chant de la fleur introuvable_ d'Otar Iosseliani, _La Fonte_ d'Otar Iosseliani."
         }
       ]
     },
@@ -806,6 +765,48 @@
       "titreSousCycle": "Documentaires",
       "tri": 1,
       "items": [
+        {
+          "idCycle": 424,
+          "idFilm": 141510,
+          "titre": "Euskadi = Euzkadi été 1982",
+          "titreVo": "",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1982,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Film tourné au Pays-Basque à l'été 1982 pendant la préparation de la Pastorale jouée et chantée par les habitants de Pagolle."
+            }
+          ],
+          "duree": 55,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30722,
+              "ordre": 1,
+              "idEvenement": 19291,
+              "titreEvenement": "Euskadi",
+              "dateHeure": "2019-06-08T19:45:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 30723,
+              "ordre": 1,
+              "idEvenement": 19291,
+              "titreEvenement": "Euskadi",
+              "dateHeure": "2019-06-22T18:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
         {
           "idCycle": 424,
           "idFilm": 117982,
@@ -833,6 +834,16 @@
                 "JE",
                 "Jean Epstein"
               ]
+            },
+            {
+              "idSeance": 30719,
+              "ordre": 1,
+              "idEvenement": 19101,
+              "dateHeure": "2019-06-10T19:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
             }
           ]
         },
@@ -855,23 +866,23 @@
           "version": "",
           "seance": [
             {
-              "idSeance": 30487,
+              "idSeance": 30743,
               "ordre": 1,
               "idEvenement": 19102,
-              "dateHeure": "2019-06-05T21:30:00",
+              "dateHeure": "2019-06-03T17:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
               ]
             },
             {
-              "idSeance": 30050,
+              "idSeance": 30740,
               "ordre": 1,
               "idEvenement": 19102,
-              "dateHeure": "2019-06-15T15:00:00",
+              "dateHeure": "2019-06-21T20:30:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "JE",
+                "Jean Epstein"
               ]
             }
           ]
@@ -901,7 +912,7 @@
           "version": "",
           "seance": [
             {
-              "idSeance": 30002,
+              "idSeance": 30598,
               "ordre": 1,
               "idEvenement": 19238,
               "dateHeure": "2019-06-07T19:30:00",
@@ -914,6 +925,11 @@
           ]
         }
       ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 1,
+      "items": []
     }
   ]
 }

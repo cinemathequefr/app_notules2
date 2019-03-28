@@ -223,14 +223,14 @@
     ]
   },
   {
-    "titre": "Euskadi",
+    "titre": "Euskadi = Euzkadi été 1982",
     "titreVo": "",
     "idFilm": 141510,
     "idCycle": 424,
     "idCategorie": 1984,
     "ageMinimal": null,
     "realisateurs": "Otar Iosseliani",
-    "annee": 1983,
+    "annee": 1982,
     "pays": "France",
     "textes": [
       {
@@ -283,7 +283,7 @@
   },
   {
     "titre": "Il était une fois un merle chanteur",
-    "titreVo": "Iqo chachvi mgalobeli",
+    "titreVo": "Iqo chachvi mgalobeli – Revoir générique",
     "idFilm": 41206,
     "idCycle": 424,
     "idCategorie": 1925,
@@ -324,6 +324,17 @@
       "Michel Piccoli",
       "Muriel Motte"
     ]
+  },
+  {
+    "titre": "Lundi matin",
+    "titreVo": "",
+    "idFilm": 77201,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 2001,
+    "pays": "France-Italie"
   },
   {
     "titre": "Otar Iosseliani, le merle siffleur",
@@ -384,7 +395,7 @@
     "generique": [
       "Philippe Cousin",
       "Otar Iosseliani",
-      "Antonine Katzeflis"
+      "Antonine Catzéflis"
     ]
   },
   {

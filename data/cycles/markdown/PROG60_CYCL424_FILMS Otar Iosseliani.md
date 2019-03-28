@@ -63,9 +63,9 @@ France-Allemagne-Italie / 1989
 Avec Sigalon Sagna, Saly Badji, Binta Cissé, Marie-Christine Dième.  
 En Afrique, dans un village au cœur de la forêt mystérieuse, un peuple vit heureux, au rythme des coutumes ancestrales. Jusqu'au jour où l'arrivée de bûcherons bouleverse l'existence des habitants.
 
-**Euskadi**  
+**Euskadi = Euzkadi été 1982**  
 d'Otar Iosseliani  
-France / 1983  
+France / 1982  
 Film tourné au Pays-Basque à l'été 1982 pendant la préparation de la Pastorale jouée et chantée par les habitants de Pagolle.
 
 **Les Favoris de la lune**  
@@ -81,7 +81,7 @@ URSS / 1964
 La dure vie de quatre ouvriers de Rustavi dans une usine métallurgique.
 
 **Il était une fois un merle chanteur**  
-**(Iqo chachvi mgalobeli)**  
+**(Iqo chachvi mgalobeli – Revoir générique)**  
 d'Otar Iosseliani  
 URSS / 1971  
 Avec Gogi Chkheidze, Guela Kandelaki, Irina Djandieri.  
@@ -92,6 +92,10 @@ d'Otar Iosseliani
 France / 2005  
 Avec Séverin Blanchet, Michel Piccoli, Muriel Motte.  
 Vincent, un bon vivant, aime le pouvoir et sait profiter de ses fonctions de ministre pour mener la grande vie. Mais lorsqu'une succession de manifestations le pousse à démissionner, ce petit univers factice s'effondre.
+
+**Lundi matin**  
+d'Otar Iosseliani  
+France-Italie / 2001
 
 **Otar Iosseliani, le merle siffleur**  
 de Julieeeeeee Bertuccelli  
@@ -108,7 +112,7 @@ Quatre musiciens arrivent de la ville dans un village perdu pour se reposer. Ils
 **Sept pièces pour cinéma noir et blanc**  
 d'Otar Iosseliani  
 France / 1982  
-Avec Philippe Cousin, Otar Iosseliani, Antonine Katzeflis.  
+Avec Philippe Cousin, Otar Iosseliani, Antonine Catzéflis.  
 Série de saynètes entrecoupées de plans tournés dans les rues de Paris. Le film est un hommage affectueux aux habitants de Paris.
 
 **Seule, Géorgie**  

@@ -9,6 +9,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "typeSeance": 44,
     "titreEvenement": "Chasse aux papillons (La)",
     "items": [
       {
@@ -21,7 +22,8 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Ouverture de la rétrospective"
   },
   {
     "idCycle": 424,
@@ -61,7 +63,7 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19093,
-    "idSeance": 30406,
+    "idSeance": 30588,
     "dateHeure": "2019-05-30T21:30:00",
     "idSalle": [
       "GF",
@@ -72,7 +74,7 @@
       {
         "idFilm": 58785,
         "ordre": 1,
-        "idSeance": 30406,
+        "idSeance": 30588,
         "idCopie": 18307,
         "duree": 100,
         "version": "VOSTF",
@@ -85,7 +87,7 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19097,
-    "idSeance": 29957,
+    "idSeance": 30589,
     "dateHeure": "2019-05-31T19:30:00",
     "idSalle": [
       "GF",
@@ -96,7 +98,7 @@
       {
         "idFilm": 41206,
         "ordre": 1,
-        "idSeance": 29957,
+        "idSeance": 30589,
         "idCopie": 18309,
         "duree": 85,
         "version": "VOSTF",
@@ -109,7 +111,7 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19086,
-    "idSeance": 30444,
+    "idSeance": 30590,
     "dateHeure": "2019-05-31T21:30:00",
     "idSalle": [
       "GF",
@@ -120,7 +122,7 @@
       {
         "idFilm": 70506,
         "ordre": 1,
-        "idSeance": 30444,
+        "idSeance": 30590,
         "idCopie": 18322,
         "duree": 10,
         "version": "VOSTF",
@@ -130,7 +132,7 @@
       {
         "idFilm": 70507,
         "ordre": 2,
-        "idSeance": 30444,
+        "idSeance": 30590,
         "idCopie": 18325,
         "duree": 20,
         "version": "VOSTF",
@@ -140,7 +142,7 @@
       {
         "idFilm": 70508,
         "ordre": 3,
-        "idSeance": 30444,
+        "idSeance": 30590,
         "idCopie": 18323,
         "duree": 20,
         "version": "VOSTF",
@@ -150,7 +152,7 @@
       {
         "idFilm": 70509,
         "ordre": 4,
-        "idSeance": 30444,
+        "idSeance": 30590,
         "idCopie": 18324,
         "duree": 20,
         "version": "VOSTF",
@@ -163,8 +165,8 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19085,
-    "idSeance": 29975,
-    "dateHeure": "2019-06-01T14:30:00",
+    "idSeance": 30591,
+    "dateHeure": "2019-06-01T15:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -174,7 +176,7 @@
       {
         "idFilm": 64294,
         "ordre": 1,
-        "idSeance": 29975,
+        "idSeance": 30591,
         "idCopie": 18328,
         "duree": 117,
         "version": "",
@@ -211,7 +213,7 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19088,
-    "idSeance": 29966,
+    "idSeance": 30592,
     "dateHeure": "2019-06-01T21:00:00",
     "idSalle": [
       "GF",
@@ -222,7 +224,7 @@
       {
         "idFilm": 60179,
         "ordre": 1,
-        "idSeance": 29966,
+        "idSeance": 30592,
         "idCopie": 18312,
         "duree": 129,
         "version": "VOSTF",
@@ -259,7 +261,7 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19091,
-    "idSeance": 30486,
+    "idSeance": 30595,
     "dateHeure": "2019-06-02T19:30:00",
     "idSalle": [
       "GF",
@@ -270,7 +272,97 @@
       {
         "idFilm": 111730,
         "ordre": 1,
-        "idSeance": 30486,
+        "idSeance": 30595,
+        "idCopie": 18319,
+        "duree": 122,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1984,
+    "idEvenement": 19102,
+    "idSeance": 30743,
+    "dateHeure": "2019-06-03T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Un petit monastère en Toscane",
+    "items": [
+      {
+        "idFilm": 73985,
+        "ordre": 1,
+        "idSeance": 30743,
+        "idCopie": 18310,
+        "duree": 54,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19098,
+    "idSeance": 30596,
+    "dateHeure": "2019-06-05T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Jardins en automne",
+    "items": [
+      {
+        "idFilm": 99999,
+        "ordre": 1,
+        "idSeance": 30596,
+        "idCopie": 18320,
+        "duree": 117,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19336,
+    "idSeance": 30739,
+    "dateHeure": "2019-06-05T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Lundi matin",
+    "items": [
+      {
+        "idFilm": 77201,
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19091,
+    "idSeance": 30691,
+    "dateHeure": "2019-06-06T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Chantrapas",
+    "items": [
+      {
+        "idFilm": 111730,
+        "ordre": 1,
+        "idSeance": 30691,
         "idCopie": 18319,
         "duree": 122,
         "version": "",
@@ -282,100 +374,22 @@
   {
     "idCycle": 424,
     "idCategorie": 1925,
-    "idEvenement": 19086,
-    "idSeance": 30540,
-    "dateHeure": "2019-06-02T21:30:00",
+    "idEvenement": 19093,
+    "idSeance": 30725,
+    "dateHeure": "2019-06-06T22:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Aquarelle / Fonte (La) / Vieilles chansons Georgiennes / Chant de la fleur introuvable (Le)",
+    "titreEvenement": "Chute des feuilles (La)",
     "items": [
       {
-        "idFilm": 70506,
+        "idFilm": 58785,
         "ordre": 1,
-        "idSeance": 30540,
-        "idCopie": 18322,
-        "duree": 10,
+        "idSeance": 30725,
+        "idCopie": 18307,
+        "duree": 100,
         "version": "VOSTF",
-        "format": "DCP",
-        "valide": 1
-      },
-      {
-        "idFilm": 70507,
-        "ordre": 2,
-        "idSeance": 30540,
-        "idCopie": 18325,
-        "duree": 20,
-        "version": "VOSTF",
-        "format": "DCP",
-        "valide": 1
-      },
-      {
-        "idFilm": 70508,
-        "ordre": 3,
-        "idSeance": 30540,
-        "idCopie": 18323,
-        "duree": 20,
-        "version": "VOSTF",
-        "format": "DCP",
-        "valide": 1
-      },
-      {
-        "idFilm": 70509,
-        "ordre": 4,
-        "idSeance": 30540,
-        "idCopie": 18324,
-        "duree": 20,
-        "version": "VOSTF",
-        "format": "DCP",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 424,
-    "idCategorie": 1925,
-    "idEvenement": 19098,
-    "idSeance": 29986,
-    "dateHeure": "2019-06-05T19:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Jardins en automne",
-    "items": [
-      {
-        "idFilm": 99999,
-        "ordre": 1,
-        "idSeance": 29986,
-        "idCopie": 18320,
-        "duree": 117,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCycle": 424,
-    "idCategorie": 1984,
-    "idEvenement": 19102,
-    "idSeance": 30487,
-    "dateHeure": "2019-06-05T21:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Un petit monastère en Toscane",
-    "items": [
-      {
-        "idFilm": 73985,
-        "ordre": 1,
-        "idSeance": 30487,
-        "idCopie": 18310,
-        "duree": 54,
-        "version": "",
         "format": "DCP",
         "valide": 0
       }
@@ -385,7 +399,7 @@
     "idCycle": 424,
     "idCategorie": 1983,
     "idEvenement": 19238,
-    "idSeance": 30002,
+    "idSeance": 30598,
     "dateHeure": "2019-06-07T19:30:00",
     "idSalle": [
       "JE",
@@ -396,7 +410,7 @@
       {
         "idFilm": 102442,
         "ordre": 1,
-        "idSeance": 30002,
+        "idSeance": 30598,
         "idCopie": 18329,
         "duree": 92,
         "version": "",
@@ -410,7 +424,7 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19089,
-    "idSeance": 30007,
+    "idSeance": 30726,
     "dateHeure": "2019-06-08T15:00:00",
     "idSalle": [
       "JE",
@@ -421,7 +435,7 @@
       {
         "idFilm": 128987,
         "ordre": 1,
-        "idSeance": 30007,
+        "idSeance": 30726,
         "idCopie": 18311,
         "duree": 117,
         "version": "",
@@ -433,24 +447,112 @@
   {
     "idCycle": 424,
     "idCategorie": 1925,
-    "idEvenement": 19091,
-    "idSeance": 30485,
-    "dateHeure": "2019-06-08T17:00:00",
+    "idEvenement": 19087,
+    "idSeance": 30721,
+    "dateHeure": "2019-06-08T17:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Chantrapas",
+    "titreEvenement": "Avril / Sept pièces pour le cinéma noir et blanc",
     "items": [
       {
-        "idFilm": 111730,
+        "idFilm": 69050,
         "ordre": 1,
-        "idSeance": 30485,
-        "idCopie": 18319,
-        "duree": 122,
+        "idSeance": 30721,
+        "idCopie": 18326,
+        "duree": 50,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 53105,
+        "ordre": 2,
+        "idSeance": 30721,
+        "idCopie": 18327,
+        "duree": 25,
         "version": "",
         "format": "DCP",
         "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1984,
+    "idEvenement": 19291,
+    "idSeance": 30722,
+    "dateHeure": "2019-06-08T19:45:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Euskadi",
+    "items": [
+      {
+        "idFilm": 141510,
+        "ordre": 1,
+        "idSeance": 30722,
+        "idCopie": 18330,
+        "duree": 55,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19086,
+    "idSeance": 30614,
+    "dateHeure": "2019-06-09T15:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Aquarelle / Fonte (La) / Vieilles chansons Georgiennes / Chant de la fleur introuvable (Le)",
+    "items": [
+      {
+        "idFilm": 70506,
+        "ordre": 1,
+        "idSeance": 30614,
+        "idCopie": 18322,
+        "duree": 10,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 70507,
+        "ordre": 2,
+        "idSeance": 30614,
+        "idCopie": 18325,
+        "duree": 20,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 70508,
+        "ordre": 3,
+        "idSeance": 30614,
+        "idCopie": 18323,
+        "duree": 20,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 70509,
+        "ordre": 4,
+        "idSeance": 30614,
+        "idCopie": 18324,
+        "duree": 20,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -480,58 +582,24 @@
   },
   {
     "idCycle": 424,
-    "idCategorie": 1925,
-    "idEvenement": 19087,
-    "idSeance": 30021,
-    "dateHeure": "2019-06-10T19:00:00",
+    "idCategorie": 1984,
+    "idEvenement": 19101,
+    "idSeance": 30719,
+    "dateHeure": "2019-06-10T19:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Avril / Sept pièces pour le cinéma noir et blanc",
+    "titreEvenement": "Seule, Georgie",
     "items": [
       {
-        "idFilm": 69050,
+        "idFilm": 117982,
         "ordre": 1,
-        "idSeance": 30021,
-        "idCopie": 18326,
-        "duree": 50,
-        "version": "VOSTF",
-        "format": "DCP",
-        "valide": 1
-      },
-      {
-        "idFilm": 53105,
-        "ordre": 2,
-        "idSeance": 30021,
-        "idCopie": 18327,
-        "duree": 25,
+        "idSeance": 30719,
+        "idCopie": 18321,
+        "duree": 236,
         "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCycle": 424,
-    "idCategorie": 1925,
-    "idEvenement": 19093,
-    "idSeance": 30022,
-    "dateHeure": "2019-06-10T21:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Chute des feuilles (La)",
-    "items": [
-      {
-        "idFilm": 58785,
-        "ordre": 1,
-        "idSeance": 30022,
-        "idCopie": 18307,
-        "duree": 100,
-        "version": "VOSTF",
-        "format": "DCP",
+        "format": "",
         "valide": 0
       }
     ]
@@ -540,7 +608,7 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19097,
-    "idSeance": 30029,
+    "idSeance": 30603,
     "dateHeure": "2019-06-12T19:30:00",
     "idSalle": [
       "GF",
@@ -551,7 +619,7 @@
       {
         "idFilm": 41206,
         "ordre": 1,
-        "idSeance": 30029,
+        "idSeance": 30603,
         "idCopie": 18309,
         "duree": 85,
         "version": "VOSTF",
@@ -564,7 +632,7 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19099,
-    "idSeance": 30030,
+    "idSeance": 30604,
     "dateHeure": "2019-06-12T21:30:00",
     "idSalle": [
       "GF",
@@ -575,7 +643,7 @@
       {
         "idFilm": 41458,
         "ordre": 1,
-        "idSeance": 30030,
+        "idSeance": 30604,
         "idCopie": 18306,
         "duree": 95,
         "version": "VOSTF",
@@ -586,25 +654,19 @@
   },
   {
     "idCycle": 424,
-    "idCategorie": 1984,
-    "idEvenement": 19102,
-    "idSeance": 30050,
-    "dateHeure": "2019-06-15T15:00:00",
+    "idCategorie": 1925,
+    "idEvenement": 19336,
+    "idSeance": 30741,
+    "dateHeure": "2019-06-15T16:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Un petit monastère en Toscane",
+    "titreEvenement": "Lundi matin",
     "items": [
       {
-        "idFilm": 73985,
-        "ordre": 1,
-        "idSeance": 30050,
-        "idCopie": 18310,
-        "duree": 54,
-        "version": "",
-        "format": "DCP",
-        "valide": 0
+        "idFilm": 77201,
+        "ordre": 1
       }
     ]
   },
@@ -612,7 +674,7 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19095,
-    "idSeance": 30051,
+    "idSeance": 30606,
     "dateHeure": "2019-06-15T19:30:00",
     "idSalle": [
       "GF",
@@ -623,7 +685,7 @@
       {
         "idFilm": 52619,
         "ordre": 1,
-        "idSeance": 30051,
+        "idSeance": 30606,
         "idCopie": 18308,
         "duree": 101,
         "version": "",
@@ -636,8 +698,8 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19094,
-    "idSeance": 30052,
-    "dateHeure": "2019-06-15T21:30:00",
+    "idSeance": 30607,
+    "dateHeure": "2019-06-15T21:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -647,7 +709,7 @@
       {
         "idFilm": 49272,
         "ordre": 1,
-        "idSeance": 30052,
+        "idSeance": 30607,
         "idCopie": 18138,
         "duree": 103,
         "version": "VOSTF",
@@ -660,8 +722,8 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19092,
-    "idSeance": 30060,
-    "dateHeure": "2019-06-16T19:30:00",
+    "idSeance": 30608,
+    "dateHeure": "2019-06-16T18:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -671,7 +733,7 @@
       {
         "idFilm": 58158,
         "ordre": 1,
-        "idSeance": 30060,
+        "idSeance": 30608,
         "idCopie": 18314,
         "duree": 115,
         "version": "",
@@ -684,8 +746,8 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19088,
-    "idSeance": 30061,
-    "dateHeure": "2019-06-16T21:30:00",
+    "idSeance": 30609,
+    "dateHeure": "2019-06-16T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -695,7 +757,7 @@
       {
         "idFilm": 60179,
         "ordre": 1,
-        "idSeance": 30061,
+        "idSeance": 30609,
         "idCopie": 18312,
         "duree": 129,
         "version": "VOSTF",
@@ -708,7 +770,7 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19085,
-    "idSeance": 30064,
+    "idSeance": 30610,
     "dateHeure": "2019-06-17T19:00:00",
     "idSalle": [
       "GF",
@@ -719,7 +781,7 @@
       {
         "idFilm": 64294,
         "ordre": 1,
-        "idSeance": 30064,
+        "idSeance": 30610,
         "idCopie": 18328,
         "duree": 117,
         "version": "",
@@ -732,8 +794,8 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19098,
-    "idSeance": 30065,
-    "dateHeure": "2019-06-17T21:00:00",
+    "idSeance": 30611,
+    "dateHeure": "2019-06-17T21:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -743,7 +805,7 @@
       {
         "idFilm": 99999,
         "ordre": 1,
-        "idSeance": 30065,
+        "idSeance": 30611,
         "idCopie": 18320,
         "duree": 117,
         "version": "",
@@ -756,7 +818,7 @@
     "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19099,
-    "idSeance": 30071,
+    "idSeance": 30612,
     "dateHeure": "2019-06-19T14:30:00",
     "idSalle": [
       "GF",
@@ -767,7 +829,7 @@
       {
         "idFilm": 41458,
         "ordre": 1,
-        "idSeance": 30071,
+        "idSeance": 30612,
         "idCopie": 18306,
         "duree": 95,
         "version": "VOSTF",
@@ -778,10 +840,58 @@
   },
   {
     "idCycle": 424,
+    "idCategorie": 1984,
+    "idEvenement": 19102,
+    "idSeance": 30740,
+    "dateHeure": "2019-06-21T20:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Un petit monastère en Toscane",
+    "items": [
+      {
+        "idFilm": 73985,
+        "ordre": 1,
+        "idSeance": 30740,
+        "idCopie": 18310,
+        "duree": 54,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1984,
+    "idEvenement": 19291,
+    "idSeance": 30723,
+    "dateHeure": "2019-06-22T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Euskadi",
+    "items": [
+      {
+        "idFilm": 141510,
+        "ordre": 1,
+        "idSeance": 30723,
+        "idCopie": 18330,
+        "duree": 55,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
     "idCategorie": 1925,
     "idEvenement": 19089,
-    "idSeance": 30088,
-    "dateHeure": "2019-06-21T20:30:00",
+    "idSeance": 30742,
+    "dateHeure": "2019-06-22T20:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -791,7 +901,7 @@
       {
         "idFilm": 128987,
         "ordre": 1,
-        "idSeance": 30088,
+        "idSeance": 30742,
         "idCopie": 18311,
         "duree": 117,
         "version": "",
