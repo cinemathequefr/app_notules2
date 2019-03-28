@@ -1,0 +1,23 @@
+{
+  "header": {
+    "idCycleProg": 18,
+    "titreCycle": "Conservatoire des techniques cinématographiques",
+    "sousCycles": [
+      {
+        "titre": "",
+        "cats": [
+          1943
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 60
+  },
+  "data": [
+    {
+      "titreSousCycle": "",
+      "tri": 1,
+      "items": []
+    }
+  ]
+}

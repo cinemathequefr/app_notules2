@@ -4,6 +4,15 @@
   "dateFrom": "",
   "dateTo": "",
   "cycles": [{
+      "idCycleProg": 18,
+      "titreCycle": "Conservatoire des techniques cinématographiques",
+      "sousCycles": [{
+        "titre": "",
+        "cats": [1943],
+        "tri": 1
+      }]
+    },
+    {
       "idCycleProg": 192,
       "titreCycle": "Ciné-club Jean Douchet",
       "sousCycles": [{
@@ -25,25 +34,31 @@
       "idCycleProg": 424,
       "titreCycle": "Otar Iosseliani",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1925],
-        "tri": 2
-      }, {
-        "titre": "Documentaires",
-        "cats": [1984],
-        "tri": 1
-      }, {
-        "titre": "Autour d'Otar Iosseliani",
-        "cats": [1983],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [1925],
+          "tri": 2
+        }, {
+          "titre": "Documentaires",
+          "cats": [1984],
+          "tri": 1
+        }, {
+          "titre": "Autour d'Otar Iosseliani",
+          "cats": [1983],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [1942],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 425,
       "titreCycle": "58ème Semaine de la critique",
       "sousCycles": [{
         "titre": "Les films",
-        "cats": [],
+        "cats": [1926],
         "tri": 1
       }]
     },
@@ -64,6 +79,11 @@
           "titre": "Autour de John Cassavetes",
           "cats": [1936],
           "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [1939],
+          "tri": 1
         }
       ]
     },
@@ -71,19 +91,31 @@
       "idCycleProg": 427,
       "titreCycle": "Joseph L. Mankiewicz",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1928],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [1928],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [1940],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 428,
       "titreCycle": "Edgardo Cozarinsky",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1929, 1938],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [1929, 1938],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [1938],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 429,
@@ -98,10 +130,16 @@
       "idCycleProg": 430,
       "titreCycle": "Mario Bava",
       "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1931],
-        "tri": 1
-      }]
+          "titre": "Les films",
+          "cats": [1931],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [1941],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 431,
