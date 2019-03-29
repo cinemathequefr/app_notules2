@@ -651,7 +651,7 @@
   },
   {
     "titre": "Je ne sais pas qui je suis, mais je sais ce que je pense",
-    "titreVo": "Tra kegro lafi sasam mle ra kgro lafe beln",
+    "titreVo": "Je ne sais pas qui je suis, mais je sais ce que j'aime",
     "idFilm": 141501,
     "idCycle": 429,
     "idCategorie": 1980,
@@ -1302,6 +1302,10 @@
       {
         "typeTexte": 9,
         "texte": "Selva approfondit deux archétypes : la sorcière et la nymphe. Chez Maria Klonaris, la sorcière est d'abord une dryade, une créature de la forêt, qui révèle et fait rayonner les forces naturelles. (NB)"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré du Super 8 en 35mm par la Direction du patrimoine du CNC sous la direction de Maria Klonaris et Katerina Thomadaki."
       }
     ],
     "generique": [

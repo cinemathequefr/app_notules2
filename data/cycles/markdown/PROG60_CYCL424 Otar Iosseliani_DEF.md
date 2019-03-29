@@ -8,7 +8,7 @@ France-Suisse-Italie / 1998 / 117 min / DCP
 Avec Nico Tarielachvili, Lily Lavina, Otar Iosseliani, Philippe Bas.  
 Nicolas vit dans un château régi par sa mère, une femme d'affaires autoritaire. Son père boit et joue au train électrique. Nicolas fuit chaque jour le domaine familial pour rejoindre à Paris ses amis, clochards ou voyous.
 
-- sa 1 juin 14h30 GF  
+- sa 1 juin 15h00 GF  
 - lu 17 juin 19h00 GF
 
 **Aquarelle**  
@@ -37,7 +37,7 @@ URSS / 1968 / 20 min / VOSTF / DCP
 Un hommage en musique à la culture géorgienne.
 
 - ve 31 mai 21h30 GF  
-- di 2 juin 21h30 GF
+- di 9 juin 15h30 JE
 
 **Avril**  
 **(Aprili)**  
@@ -53,7 +53,7 @@ Avec Philippe Cousin, Otar Iosseliani, Antonine Katzeflis.
 Série de saynètes entrecoupées de plans tournés dans les rues de Paris, en hommage affectueux à la ville et à ses habitants.
 
 - je 30 mai 19h30 GF  
-- lu 10 juin 19h00 GF
+- sa 8 juin 17h30 JE
 
 **Brigands, chapitre VII**  
 d'Otar Iosseliani  
@@ -62,7 +62,7 @@ Avec Amiran Amiranachvili, Dato Gogibedachvili, Guio Tzintsadze, Nino Ordjonikid
 Quelques portraits de brigands, du Moyen-Âge à aujourd'hui. Bourreaux médiévaux, tortionnaires bolcheviks ou vulgaires mafieux contemporains, ils trahissent et torturent.
 
 - sa 1 juin 21h00 GF  
-- di 16 juin 21h30 GF
+- di 16 juin 20h30 GF
 
 **Chant d'hiver**  
 d'Otar Iosseliani  
@@ -71,7 +71,7 @@ Avec Rufus, Amiran Amiranachvili, Mathias Jung, Mathieu Amalric.
 Trois histoires se succèdent, avec un même personnage : une fiction historique sous la Terreur, un conflit violent dans un pays en guerre, et une chronique policière burlesque dans le Paris d'aujourd'hui.
 
 - sa 8 juin 15h00 JE  
-- ve 21 juin 20h30 JE
+- sa 22 juin 20h00 JE
 
 **Chantrapas**  
 d'Otar Iosseliani  
@@ -80,7 +80,7 @@ Avec Dato Tarielachvili, Tamuna Karumidze, Fanny Gonin, Bulle Ogier, Pierre Éta
 Nicolas, cinéaste géorgien, ne supporte plus les pressions des idéologues qui entravent sa liberté créatrice. Il s'exile en France, où il affrontera une autre forme de censure, économique.
 
 - di 2 juin 19h30 GF  
-- sa 8 juin 17h00 JE
+- je 6 juin 19h00 GF
 
 **La Chasse aux papillons**  
 d'Otar Iosseliani  
@@ -89,7 +89,8 @@ Avec Narda Blanchet, Pierrette Pompon-Bailhache, Alexandre Tcherkassoff, Thamar 
 Deux vieilles dames vivent en autarcie dans le vieux château familial. L'une joue du trombone dans la fanfare locale, tandis que l'autre s'enferme dans ses souvenirs. Un jour, l'une meurt et les héritiers se présentent.
 
 - me 29 mai 20h00 HL  
-- di 16 juin 19h30 GF
+Ouverture de la rétrospective  
+- di 16 juin 18h00 GF
 
 **La Chute des feuilles**  
 **(Giorgobistve)**  
@@ -99,7 +100,7 @@ Avec Ramaz Guiorgobiani, Marina Kartsivadze, Gogui Kharabadze.
 Fraîchement diplômés de l'Institut d'œnologie de Tbilissi, Niko et Otar entrent dans une coopérative vinicole. Otar, plus âgé et plus assuré, se conforme aux exigences des chefs, alors que Niko, naïf et sincère, éprouve quelques difficultés.
 
 - je 30 mai 21h30 GF  
-- lu 10 juin 21h00 GF
+- je 6 juin 22h00 GF
 
 **Et la lumière fut**  
 d'Otar Iosseliani  
@@ -108,7 +109,7 @@ Avec Sigalon Sagna, Saly Badji, Binta Cissé, Marie-Christine Dième.
 En Afrique, dans un village au cœur de la forêt mystérieuse, un peuple vit heureux, au rythme des coutumes ancestrales. Jusqu'au jour où l'arrivée de bûcherons bouleverse l'existence des habitants.
 
 - sa 1 juin 18h45 GF  
-- sa 15 juin 21h30 GF
+- sa 15 juin 21h45 GF
 
 **Les Favoris de la lune**  
 d'Otar Iosseliani  
@@ -135,8 +136,8 @@ France / 2005 / 117 min / DCP
 Avec Séverin Blanchet, Michel Piccoli, Muriel Motte.  
 Vincent, bon vivant, profite pleinement des avantages que lui confère sa fonction de ministre. Lorsqu'une succession de manifestations le pousse à démissionner, il redécouvre la vie et la liberté loin du pouvoir.
 
-- me 5 juin 19h30 GF  
-- lu 17 juin 21h00 GF
+- me 5 juin 19h00 GF  
+- lu 17 juin 21h30 GF
 
 **Pastorale**  
 **(Pastorali)**  
@@ -150,20 +151,29 @@ Quatre musiciens arrivent de la ville dans un village perdu pour se reposer. Ils
 
 ## Documentaires
 
+**Euskadi**  
+d'Otar Iosseliani  
+France / 1983 / 55 min / DCP  
+Film tourné au Pays-Basque à l'été 1982 pendant la préparation de la pastorale jouée et chantée par les habitants de Pagolle.
+
+- sa 8 juin 19h45 JE  
+- sa 22 juin 18h30 JE
+
 **Seule, Géorgie**  
 d'Otar Iosseliani  
 France / 1993 / 236 min  
 Documentaire en trois parties (_Prélude_, _Tentation_ et _L'Épreuve_), qui retrace 2000 ans de l'histoire mouvementée de la Géorgie à travers des documents filmés et des extraits de films.
 
-- di 9 juin 17h30 JE
+- di 9 juin 17h30 JE  
+- lu 10 juin 19h45 GF
 
 **Un petit monastère en Toscane**  
 d'Otar Iosseliani  
 France / 1988 / 54 min / DCP  
 Autour des prières, chants, réfections de manuscrits et offices, la vie de cinq moines augustins français dans un petit monastère de Toscane.
 
-- me 5 juin 21h30 GF  
-- sa 15 juin 15h00 GF
+- lu 3 juin 17h00 GF  
+- ve 21 juin 20h30 JE
 
 ## Autour d'Otar Iosseliani
 
@@ -174,4 +184,6 @@ Julie Bertucelli accompagne son mentor et ami pendant la préparation de son fil
 
 - ve 7 juin 19h30 JE  
 Séance présentée par Julie Bertuccelli
+
+## Rencontres et conférences
 

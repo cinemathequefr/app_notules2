@@ -95,5 +95,7 @@ d'Edgardo Cozarinsky
 France-Suisse-Finlande-Hongrie / 1996 / 100 min / Vidéo  
 Un jeune étudiant du conservatoire, Benjamin Fleischmann, choisit un récit de Tchekhov pour en tirer un opéra en un acte qu'il compose sous la houlette de son professeur, Dimitri Chostakovitch. Mais le jeune homme est tué pendant la guerre et Chostakovitch decide alors d'orchestrer l'opéra inachevé de son élève pour honorer sa mémoire.
 
-- je 27 juin 19h00 HL
+- je 27 juin 19h30 GF
+
+## Rencontres et conférences
 

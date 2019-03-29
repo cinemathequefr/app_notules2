@@ -107,7 +107,7 @@
       "titreCycle": "Edgardo Cozarinsky",
       "sousCycles": [{
           "titre": "Les films",
-          "cats": [1929, 1938],
+          "cats": [1929],
           "tri": 1
         },
         {
@@ -162,6 +162,31 @@
           "titre": "Week-end 70 mm",
           "cats": [1982],
           "tri": 1
+        }
+      ]
+    },
+    {
+      "idCycleProg": 436,
+      "titreCycle": "Séances jeune public",
+      "sousCycles": [{
+          "titre": "Les studios Aardman",
+          "cats": [1979],
+          "tri": 4
+        },
+        {
+          "titre": "Programmes de courts métrages",
+          "cats": [1986],
+          "tri": 4
+        },
+        {
+          "titre": "Séance à remonter le temps : Charley Bowers, génial inventeur",
+          "cats": [1988],
+          "tri": 4
+        },
+        {
+          "titre": "Marie Bobine présente",
+          "cats": [1981],
+          "tri": 4
         }
       ]
     }

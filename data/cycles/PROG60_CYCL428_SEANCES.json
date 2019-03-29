@@ -30,10 +30,10 @@
     "idCategorie": 1929,
     "idEvenement": 19077,
     "idSeance": 30541,
-    "dateHeure": "2019-06-27T19:00:00",
+    "dateHeure": "2019-06-27T19:30:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "titreEvenement": "Violon de Rothschild (Le)",
     "items": [

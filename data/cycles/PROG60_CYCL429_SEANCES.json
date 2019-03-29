@@ -9,6 +9,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "typeSeance": 44,
     "titreEvenement": "Séance d'ouverture",
     "items": [
       {
@@ -51,65 +52,138 @@
         "format": "",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Ouverture de la rétrospective"
   },
   {
     "idCycle": 429,
-    "idCategorie": 1948,
-    "idEvenement": 19156,
-    "idSeance": 30455,
+    "idCategorie": 1972,
+    "idEvenement": 19144,
+    "idSeance": 30565,
     "dateHeure": "2019-06-20T20:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 1 : Dickson Experimental Sound Film / Salomé",
+    "titreEvenement": "Séance 24 : Fantasma (O)",
     "items": [
       {
-        "idFilm": 141214,
+        "idFilm": 73443,
         "ordre": 1,
-        "idSeance": 30455,
-        "idCopie": 18184,
-        "duree": 1,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 30994,
-        "ordre": 2,
-        "idSeance": 30455,
-        "idCopie": 18185,
-        "duree": 72,
-        "version": "INT. ALL.",
+        "idSeance": 30565,
+        "idCopie": 18414,
+        "duree": 90,
+        "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Antoine Barraud"
   },
   {
     "idCycle": 429,
-    "idCategorie": 1954,
-    "idEvenement": 19133,
-    "idSeance": 30512,
+    "idCategorie": 1973,
+    "idEvenement": 19145,
+    "idSeance": 30566,
     "dateHeure": "2019-06-22T15:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Séance 7 : Pink Narcissus",
+    "titreEvenement": "Séance 25 : Courts-métrages",
     "items": [
       {
-        "idFilm": 69494,
+        "idFilm": 141244,
         "ordre": 1,
-        "idSeance": 30512,
-        "idCopie": 9850,
-        "duree": 67,
-        "version": "VO",
-        "format": "35 mm",
+        "idSeance": 30566,
+        "idCopie": 18221,
+        "duree": 9,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141034,
+        "ordre": 2,
+        "idSeance": 30566,
+        "idCopie": 18222,
+        "duree": 2,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 141035,
+        "ordre": 3,
+        "idSeance": 30566,
+        "idCopie": 18223,
+        "duree": 2,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 141245,
+        "ordre": 4,
+        "idSeance": 30566,
+        "idCopie": 18224,
+        "duree": 10,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
+      },
+      {
+        "idFilm": 117477,
+        "ordre": 5,
+        "idSeance": 30566,
+        "idCopie": 698,
+        "duree": 30,
+        "version": "",
+        "format": "Vidéo",
+        "valide": 0
+      },
+      {
+        "idFilm": 141247,
+        "ordre": 6,
+        "idSeance": 30566,
+        "idCopie": 18226,
+        "duree": 7,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 117484,
+        "ordre": 7,
+        "idSeance": 30566,
+        "idCopie": 666,
+        "duree": 6,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 141248,
+        "ordre": 8,
+        "idSeance": 30566,
+        "idCopie": 18227,
+        "duree": 8,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 141249,
+        "ordre": 9,
+        "idSeance": 30566,
+        "idCopie": 18228,
+        "duree": 3,
+        "version": "",
+        "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Jean Dubrel, Laurence Rebouillon et Patricia Godal"
   },
   {
     "idCycle": 429,
@@ -128,82 +202,10 @@
         "ordre": 1,
         "idSeance": 30547,
         "idCopie": 10387,
-        "duree": 93,
+        "duree": 99,
         "version": "",
         "format": "16 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 429,
-    "idCategorie": 1958,
-    "idEvenement": 19135,
-    "idSeance": 30482,
-    "dateHeure": "2019-06-22T21:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Séance 11 : Droit du plus fort (Le)",
-    "items": [
-      {
-        "idFilm": 38648,
-        "ordre": 1,
-        "idSeance": 30482,
-        "idCopie": 14082,
-        "duree": 123,
-        "version": "VOSTF",
-        "format": "DCP",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 429,
-    "idCategorie": 1959,
-    "idEvenement": 19136,
-    "idSeance": 30478,
-    "dateHeure": "2019-06-23T19:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Séance 12 : Je, tu, il, elle",
-    "items": [
-      {
-        "idFilm": 56787,
-        "ordre": 1,
-        "idSeance": 30478,
-        "idCopie": 13135,
-        "duree": 90,
-        "version": "",
-        "format": "DCP",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 429,
-    "idCategorie": 1963,
-    "idEvenement": 19141,
-    "idSeance": 30481,
-    "dateHeure": "2019-06-23T21:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Séance 16 : Born in flames",
-    "items": [
-      {
-        "idFilm": 107314,
-        "ordre": 1,
-        "idSeance": 30481,
-        "idCopie": 18208,
-        "duree": 80,
-        "version": "",
-        "format": "",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -211,8 +213,8 @@
     "idCycle": 429,
     "idCategorie": 1955,
     "idEvenement": 19163,
-    "idSeance": 30466,
-    "dateHeure": "2019-06-24T19:00:00",
+    "idSeance": 30567,
+    "dateHeure": "2019-06-22T21:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -222,17 +224,17 @@
       {
         "idFilm": 141221,
         "ordre": 1,
-        "idSeance": 30466,
+        "idSeance": 30567,
         "idCopie": 18194,
         "duree": 11,
-        "version": "",
-        "format": "",
-        "valide": 0
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
       },
       {
         "idFilm": 141222,
         "ordre": 2,
-        "idSeance": 30466,
+        "idSeance": 30567,
         "idCopie": 18195,
         "duree": 30,
         "version": "",
@@ -242,49 +244,277 @@
       {
         "idFilm": 141223,
         "ordre": 3,
-        "idSeance": 30466,
+        "idSeance": 30567,
         "idCopie": 18196,
         "duree": 19,
         "version": "",
         "format": "",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Yann Gonzalez"
   },
   {
     "idCycle": 429,
-    "idCategorie": 1965,
-    "idEvenement": 19179,
-    "idSeance": 30484,
-    "dateHeure": "2019-06-24T21:00:00",
+    "idCategorie": 1948,
+    "idEvenement": 19156,
+    "idSeance": 30568,
+    "dateHeure": "2019-06-23T19:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Séance 18 : Maria Klonaris et Katerina Thomadaki",
+    "titreEvenement": "Séance 1 : Dickson Experimental Sound Film / Salomé",
     "items": [
       {
-        "idFilm": 141455,
-        "ordre": 1
+        "idFilm": 141214,
+        "ordre": 1,
+        "idSeance": 30568,
+        "idCopie": 18184,
+        "duree": 1,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
       },
       {
-        "idFilm": 141237,
+        "idFilm": 30994,
         "ordre": 2,
-        "idSeance": 30484,
-        "idCopie": 18212,
+        "idSeance": 30568,
+        "idCopie": 18185,
+        "duree": 72,
+        "version": "INT. ANG.",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance présentée par Stephen Kent Jusik"
+  },
+  {
+    "idCycle": 429,
+    "idCategorie": 1952,
+    "idEvenement": 19161,
+    "idSeance": 30569,
+    "dateHeure": "2019-06-23T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Séance 5 : Dream Sphinx / Flaming creatures / Jerovi / Lupe",
+    "items": [
+      {
+        "idFilm": 58030,
+        "ordre": 1,
+        "idSeance": 30569,
+        "idCopie": 1059,
+        "duree": 45,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 132660,
+        "ordre": 2,
+        "idSeance": 30569,
+        "idCopie": 10385,
+        "duree": 11,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 141218,
+        "ordre": 3,
+        "idSeance": 30569,
+        "idCopie": 18190,
+        "duree": 50,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 141219,
+        "ordre": 4,
+        "idSeance": 30569,
+        "idCopie": 18191,
+        "duree": 7,
+        "version": "",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Stephen Kent Jusik"
+  },
+  {
+    "idCycle": 429,
+    "idCategorie": 1974,
+    "idEvenement": 19192,
+    "idSeance": 30570,
+    "dateHeure": "2019-06-24T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Séance 26 : L'Ordre des mots / Vos papiers",
+    "items": [
+      {
+        "idFilm": 141250,
+        "ordre": 1,
+        "idSeance": 30570,
+        "idCopie": 18229,
         "duree": 75,
+        "version": "",
+        "format": "Vidéo",
+        "valide": 0
+      },
+      {
+        "idFilm": 141251,
+        "ordre": 2,
+        "idSeance": 30570,
+        "idCopie": 18230,
+        "duree": 36,
         "version": "",
         "format": "",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Bruce, Karine Espineira et Maud-Yeuse Thomas"
+  },
+  {
+    "idCycle": 429,
+    "idCategorie": 1975,
+    "idEvenement": 19194,
+    "idSeance": 30571,
+    "dateHeure": "2019-06-24T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Séance 27 : Vie et survie trans",
+    "items": [
+      {
+        "idFilm": 141252,
+        "ordre": 1,
+        "idSeance": 30571,
+        "idCopie": 18231,
+        "duree": 7,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 141253,
+        "ordre": 2,
+        "idSeance": 30571,
+        "idCopie": 18232,
+        "duree": 22,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141255,
+        "ordre": 3,
+        "idSeance": 30571,
+        "idCopie": 18234,
+        "duree": 7,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141256,
+        "ordre": 4,
+        "idSeance": 30571,
+        "idCopie": 18235,
+        "duree": 6,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 141254,
+        "ordre": 5,
+        "idSeance": 30571,
+        "idCopie": 18233,
+        "duree": 17,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 141257,
+        "ordre": 6,
+        "idSeance": 30571,
+        "idCopie": 18236,
+        "duree": 24,
+        "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance présentée par Bruce"
+  },
+  {
+    "idCycle": 429,
+    "idCategorie": 1962,
+    "idEvenement": 19173,
+    "idSeance": 30584,
+    "dateHeure": "2019-06-26T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Séance 15 : Lionel Soukaz",
+    "items": [
+      {
+        "idFilm": 76873,
+        "ordre": 1,
+        "idSeance": 30584,
+        "idCopie": 2880,
+        "duree": 47,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 141231,
+        "ordre": 2,
+        "idSeance": 30584,
+        "idCopie": 18205,
+        "duree": 28,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 141232,
+        "ordre": 3,
+        "idSeance": 30584,
+        "idCopie": 18206,
+        "duree": 14,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 141233,
+        "ordre": 4,
+        "idSeance": 30584,
+        "idCopie": 18207,
+        "duree": 5,
+        "version": "",
+        "format": "16 mm",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance présentée par Lionel Soukaz"
   },
   {
     "idCycle": 429,
     "idCategorie": 1956,
     "idEvenement": 19166,
-    "idSeance": 30453,
-    "dateHeure": "2019-06-26T19:30:00",
+    "idSeance": 30585,
+    "dateHeure": "2019-06-26T21:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -294,98 +524,25 @@
       {
         "idFilm": 141224,
         "ordre": 1,
-        "idSeance": 30453,
+        "idSeance": 30585,
         "idCopie": 18197,
         "duree": 26,
         "version": "",
-        "format": "",
-        "valide": 0
+        "format": "Numérique",
+        "valide": 1
       },
       {
         "idFilm": 51286,
         "ordre": 2,
-        "idSeance": 30453,
+        "idSeance": 30585,
         "idCopie": 3114,
         "duree": 95,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
-    ]
-  },
-  {
-    "idCycle": 429,
-    "idCategorie": 1957,
-    "idEvenement": 19168,
-    "idSeance": 30454,
-    "dateHeure": "2019-06-26T21:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
     ],
-    "titreEvenement": "Séance 10 : Barbara Hammer",
-    "items": [
-      {
-        "idFilm": 141225,
-        "ordre": 1,
-        "idSeance": 30454,
-        "idCopie": 18198,
-        "duree": 8,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141226,
-        "ordre": 2,
-        "idSeance": 30454,
-        "idCopie": 18199,
-        "duree": 4,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141227,
-        "ordre": 3,
-        "idSeance": 30454,
-        "idCopie": 18200,
-        "duree": 19,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141228,
-        "ordre": 4,
-        "idSeance": 30454,
-        "idCopie": 18201,
-        "duree": 6,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141229,
-        "ordre": 5,
-        "idSeance": 30454,
-        "idCopie": 18202,
-        "duree": 25,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141230,
-        "ordre": 6,
-        "idSeance": 30454,
-        "idCopie": 18203,
-        "duree": 10,
-        "version": "",
-        "format": "",
-        "valide": 0
-      }
-    ]
+    "mention": "Séance présentée par Lionel Soukaz"
   },
   {
     "idCycle": 429,
@@ -416,7 +573,7 @@
         "idCopie": 18318,
         "duree": 17,
         "version": "",
-        "format": "",
+        "format": "Numérique",
         "valide": 0
       },
       {
@@ -426,71 +583,73 @@
         "idCopie": 18317,
         "duree": 0,
         "version": "",
-        "format": "",
+        "format": "Numérique",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Franssou Prenant, Marie-Pierre Pruvot et Hélène Haezra"
   },
   {
     "idCycle": 429,
-    "idCategorie": 1964,
-    "idEvenement": 19269,
-    "idSeance": 30470,
-    "dateHeure": "2019-06-27T21:30:00",
+    "idCategorie": 1976,
+    "idEvenement": 19200,
+    "idSeance": 30572,
+    "dateHeure": "2019-06-27T21:45:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 17 : \"Black Men loving Black Men is a revolutionary act\"",
+    "titreEvenement": "Séance 28 : Stéphane Gérard",
     "items": [
       {
-        "idFilm": 141408,
+        "idFilm": 141258,
         "ordre": 1,
-        "idSeance": 30470,
-        "idCopie": 18286,
-        "duree": 5,
+        "idSeance": 30572,
+        "idCopie": 18237,
+        "duree": 3,
         "version": "",
-        "format": "",
+        "format": "DCP",
         "valide": 0
       },
       {
-        "idFilm": 141234,
+        "idFilm": 141259,
         "ordre": 2,
-        "idSeance": 30470,
-        "idCopie": 18209,
-        "duree": 11,
+        "idSeance": 30572,
+        "idCopie": 18238,
+        "duree": 1,
         "version": "",
         "format": "",
         "valide": 0
       },
       {
-        "idFilm": 141235,
+        "idFilm": 141260,
         "ordre": 3,
-        "idSeance": 30470,
-        "idCopie": 18210,
-        "duree": 45,
+        "idSeance": 30572,
+        "idCopie": 18239,
+        "duree": 8,
         "version": "",
-        "format": "",
+        "format": "Numérique",
         "valide": 0
       },
       {
-        "idFilm": 141236,
+        "idFilm": 141261,
         "ordre": 4,
-        "idSeance": 30470,
-        "idCopie": 18211,
-        "duree": 55,
+        "idSeance": 30572,
+        "idCopie": 18241,
+        "duree": 85,
         "version": "",
         "format": "",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Hélène Bernardat, Raphaël Gribe Marquis, Eric et Stéphane Gérard"
   },
   {
     "idCycle": 429,
     "idCategorie": 1966,
     "idEvenement": 19181,
     "idSeance": 30471,
-    "dateHeure": "2019-06-28T19:30:00",
+    "dateHeure": "2019-06-28T20:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -514,7 +673,7 @@
         "idCopie": 18213,
         "duree": 54,
         "version": "",
-        "format": "",
+        "format": "16 mm",
         "valide": 0
       },
       {
@@ -524,17 +683,18 @@
         "idCopie": 18215,
         "duree": 6,
         "version": "",
-        "format": "",
+        "format": "Numérique",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Elisabeth Lebovici"
   },
   {
     "idCycle": 429,
     "idCategorie": 1969,
     "idEvenement": 19185,
     "idSeance": 30472,
-    "dateHeure": "2019-06-28T21:30:00",
+    "dateHeure": "2019-06-28T22:15:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -579,42 +739,43 @@
         "idFilm": 39579,
         "ordre": 1,
         "idSeance": 30129,
-        "idCopie": 18189,
-        "duree": 132,
-        "version": "VOSTF",
-        "format": "",
+        "idCopie": 18418,
+        "duree": 0,
+        "version": "VO",
+        "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Jean-François Rauger"
   },
   {
     "idCycle": 429,
-    "idCategorie": 1971,
-    "idEvenement": 19268,
-    "idSeance": 30548,
+    "idCategorie": 1967,
+    "idEvenement": 19183,
+    "idSeance": 30582,
     "dateHeure": "2019-06-29T22:15:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 23 : Virginie Despentes",
+    "titreEvenement": "Séance 20 : B.U.C.K.L.E/The Shakedown",
     "items": [
       {
-        "idFilm": 141389,
+        "idFilm": 141263,
         "ordre": 1,
-        "idSeance": 30548,
-        "idCopie": 18285,
-        "duree": 30,
+        "idSeance": 30582,
+        "idCopie": 18243,
+        "duree": 11,
         "version": "",
         "format": "",
         "valide": 0
       },
       {
-        "idFilm": 69377,
+        "idFilm": 141264,
         "ordre": 2,
-        "idSeance": 30548,
-        "idCopie": 18219,
-        "duree": 77,
+        "idSeance": 30582,
+        "idCopie": 18244,
+        "duree": 72,
         "version": "",
         "format": "",
         "valide": 0
@@ -626,7 +787,7 @@
     "idCategorie": 1949,
     "idEvenement": 19127,
     "idSeance": 30513,
-    "dateHeure": "2019-06-30T17:30:00",
+    "dateHeure": "2019-06-30T18:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -641,7 +802,7 @@
         "duree": 55,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 30131,
@@ -650,96 +811,78 @@
         "idCopie": 1976,
         "duree": 20,
         "version": "",
+        "format": "",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance présentée par Dominique Païni"
+  },
+  {
+    "idCycle": 429,
+    "idCategorie": 1971,
+    "idEvenement": 19268,
+    "idSeance": 30583,
+    "dateHeure": "2019-07-01T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Séance 23 : Virginie Despentes",
+    "items": [
+      {
+        "idFilm": 141389,
+        "ordre": 1,
+        "idSeance": 30583,
+        "idCopie": 18285,
+        "duree": 30,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 69377,
+        "ordre": 2,
+        "idSeance": 30583,
+        "idCopie": 18219,
+        "duree": 77,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance présentée par Virginie Despentes"
+  },
+  {
+    "idCycle": 429,
+    "idCategorie": 1953,
+    "idEvenement": 19162,
+    "idSeance": 30586,
+    "dateHeure": "2019-07-01T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Séance 6 : Holding / Reine (La)",
+    "items": [
+      {
+        "idFilm": 37028,
+        "ordre": 1,
+        "idSeance": 30586,
+        "idCopie": 18192,
+        "duree": 68,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 141220,
+        "ordre": 2,
+        "idSeance": 30586,
+        "idCopie": 18193,
+        "duree": 13,
+        "version": "",
         "format": "16 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 429,
-    "idCategorie": 1956,
-    "idEvenement": 19166,
-    "idSeance": 30549,
-    "dateHeure": "2019-07-01T19:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Séance 9 : Guy Hocquenghem",
-    "items": [
-      {
-        "idFilm": 141224,
-        "ordre": 1,
-        "idSeance": 30549,
-        "idCopie": 18197,
-        "duree": 26,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 51286,
-        "ordre": 2,
-        "idSeance": 30549,
-        "idCopie": 3114,
-        "duree": 95,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 429,
-    "idCategorie": 1962,
-    "idEvenement": 19173,
-    "idSeance": 30550,
-    "dateHeure": "2019-07-01T21:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Séance 15 : Lionel Soukaz",
-    "items": [
-      {
-        "idFilm": 76873,
-        "ordre": 1,
-        "idSeance": 30550,
-        "idCopie": 2880,
-        "duree": 48,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      },
-      {
-        "idFilm": 141231,
-        "ordre": 2,
-        "idSeance": 30550,
-        "idCopie": 18205,
-        "duree": 28,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141232,
-        "ordre": 3,
-        "idSeance": 30550,
-        "idCopie": 18206,
-        "duree": 14,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141233,
-        "ordre": 4,
-        "idSeance": 30550,
-        "idCopie": 18207,
-        "duree": 5,
-        "version": "",
-        "format": "",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -762,7 +905,7 @@
         "idCopie": 18198,
         "duree": 8,
         "version": "",
-        "format": "",
+        "format": "16 mm",
         "valide": 0
       },
       {
@@ -772,7 +915,7 @@
         "idCopie": 18199,
         "duree": 4,
         "version": "",
-        "format": "",
+        "format": "Numérique",
         "valide": 0
       },
       {
@@ -781,8 +924,8 @@
         "idSeance": 30551,
         "idCopie": 18200,
         "duree": 19,
-        "version": "",
-        "format": "",
+        "version": "VO",
+        "format": "16 mm",
         "valide": 0
       },
       {
@@ -792,7 +935,7 @@
         "idCopie": 18201,
         "duree": 6,
         "version": "",
-        "format": "",
+        "format": "16 mm",
         "valide": 0
       },
       {
@@ -802,7 +945,7 @@
         "idCopie": 18202,
         "duree": 25,
         "version": "",
-        "format": "",
+        "format": "16 mm",
         "valide": 0
       },
       {
@@ -812,167 +955,88 @@
         "idCopie": 18203,
         "duree": 10,
         "version": "",
-        "format": "",
+        "format": "16 mm",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Nicole Fernandez Ferrer"
   },
   {
     "idCycle": 429,
-    "idCategorie": 1974,
-    "idEvenement": 19192,
-    "idSeance": 30473,
+    "idCategorie": 1965,
+    "idEvenement": 19179,
+    "idSeance": 30577,
     "dateHeure": "2019-07-03T21:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 26 : L'Ordre des mots / Vos papiers",
+    "titreEvenement": "Séance 18 : Maria Klonaris et Katerina Thomadaki",
     "items": [
       {
-        "idFilm": 141250,
+        "idFilm": 141455,
         "ordre": 1,
-        "idSeance": 30473,
-        "idCopie": 18229,
-        "duree": 75,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141251,
-        "ordre": 2,
-        "idSeance": 30473,
-        "idCopie": 18230,
-        "duree": 36,
-        "version": "",
-        "format": "",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 429,
-    "idCategorie": 1975,
-    "idEvenement": 19194,
-    "idSeance": 30166,
-    "dateHeure": "2019-07-04T19:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "titreEvenement": "Séance 27 : Vie et survie trans",
-    "items": [
-      {
-        "idFilm": 141252,
-        "ordre": 1,
-        "idSeance": 30166,
-        "idCopie": 18231,
-        "duree": 7,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141253,
-        "ordre": 2,
-        "idSeance": 30166,
-        "idCopie": 18232,
-        "duree": 22,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141255,
-        "ordre": 3,
-        "idSeance": 30166,
-        "idCopie": 18234,
-        "duree": 7,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141256,
-        "ordre": 4,
-        "idSeance": 30166,
-        "idCopie": 18235,
+        "idSeance": 30577,
+        "idCopie": 18332,
         "duree": 6,
         "version": "",
         "format": "",
         "valide": 0
       },
       {
-        "idFilm": 141254,
-        "ordre": 5,
-        "idSeance": 30166,
-        "idCopie": 18233,
-        "duree": 17,
+        "idFilm": 141237,
+        "ordre": 2,
+        "idSeance": 30577,
+        "idCopie": 18212,
+        "duree": 70,
         "version": "",
-        "format": "",
-        "valide": 0
-      },
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 429,
+    "idCategorie": 1959,
+    "idEvenement": 19136,
+    "idSeance": 30578,
+    "dateHeure": "2019-07-04T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Séance 12 : Je, tu, il, elle",
+    "items": [
       {
-        "idFilm": 141257,
-        "ordre": 6,
-        "idSeance": 30166,
-        "idCopie": 18236,
-        "duree": 24,
+        "idFilm": 56787,
+        "ordre": 1,
+        "idSeance": 30578,
+        "idCopie": 13135,
+        "duree": 90,
         "version": "",
-        "format": "",
+        "format": "DCP",
         "valide": 0
       }
     ]
   },
   {
     "idCycle": 429,
-    "idCategorie": 1976,
-    "idEvenement": 19200,
-    "idSeance": 30474,
-    "dateHeure": "2019-07-04T21:30:00",
+    "idCategorie": 1963,
+    "idEvenement": 19141,
+    "idSeance": 30579,
+    "dateHeure": "2019-07-04T22:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 28 : Stéphane Gérard",
+    "titreEvenement": "Séance 16 : Born in flames",
     "items": [
       {
-        "idFilm": 141258,
+        "idFilm": 107314,
         "ordre": 1,
-        "idSeance": 30474,
-        "idCopie": 18237,
-        "duree": 3,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141259,
-        "ordre": 2,
-        "idSeance": 30474,
-        "idCopie": 18238,
-        "duree": 1,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141260,
-        "ordre": 3,
-        "idSeance": 30474,
-        "idCopie": 18239,
-        "duree": 8,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141261,
-        "ordre": 4,
-        "idSeance": 30474,
-        "idCopie": 18241,
-        "duree": 85,
+        "idSeance": 30579,
+        "idCopie": 18208,
+        "duree": 80,
         "version": "",
         "format": "",
         "valide": 0
@@ -1011,7 +1075,8 @@
         "format": "",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Mathieu Morel et Lidia Terki"
   },
   {
     "idCycle": 429,
@@ -1029,8 +1094,8 @@
         "idFilm": 54392,
         "ordre": 1,
         "idSeance": 30553,
-        "idCopie": 18281,
-        "duree": 25,
+        "idCopie": 18280,
+        "duree": 27,
         "version": "",
         "format": "35 mm",
         "valide": 0
@@ -1042,8 +1107,8 @@
         "idCopie": 18186,
         "duree": 7,
         "version": "",
-        "format": "",
-        "valide": 0
+        "format": "DCP",
+        "valide": 1
       },
       {
         "idFilm": 141216,
@@ -1052,8 +1117,8 @@
         "idCopie": 18187,
         "duree": 22,
         "version": "",
-        "format": "Vidéo",
-        "valide": 0
+        "format": "Numérique",
+        "valide": 1
       },
       {
         "idFilm": 141217,
@@ -1062,17 +1127,18 @@
         "idCopie": 18188,
         "duree": 8,
         "version": "",
-        "format": "8 mm",
-        "valide": 0
+        "format": "Numérique",
+        "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Olivier Neveux"
   },
   {
     "idCycle": 429,
     "idCategorie": 1977,
     "idEvenement": 19204,
     "idSeance": 30493,
-    "dateHeure": "2019-07-06T19:30:00",
+    "dateHeure": "2019-07-06T18:45:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -1089,232 +1155,160 @@
         "format": "",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Michèle Collery"
   },
   {
     "idCycle": 429,
-    "idCategorie": 1967,
-    "idEvenement": 19183,
-    "idSeance": 30182,
-    "dateHeure": "2019-07-06T21:15:00",
+    "idCategorie": 1978,
+    "idEvenement": 19206,
+    "idSeance": 30574,
+    "dateHeure": "2019-07-06T20:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 20 : B.U.C.K.L.E/The Shakedown",
+    "titreEvenement": "Séance 30 : Théo et Hugo dans le même bateau",
     "items": [
       {
-        "idFilm": 141263,
+        "idFilm": 131275,
         "ordre": 1,
-        "idSeance": 30182,
-        "idCopie": 18243,
-        "duree": 11,
+        "idSeance": 30574,
+        "idCopie": 18302,
+        "duree": 97,
         "version": "",
-        "format": "",
-        "valide": 0
-      },
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Olivier Ducastel et Jacques Martineau"
+  },
+  {
+    "idCycle": 429,
+    "idCategorie": 1968,
+    "idEvenement": 19142,
+    "idSeance": 30587,
+    "dateHeure": "2019-07-07T17:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Séance 21 : Tabou",
+    "items": [
       {
-        "idFilm": 141264,
-        "ordre": 2,
-        "idSeance": 30182,
-        "idCopie": 18244,
-        "duree": 72,
-        "version": "",
-        "format": "",
+        "idFilm": 68683,
+        "ordre": 1,
+        "idSeance": 30587,
+        "idCopie": 3982,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance présentée par Clément Rauger"
+  },
+  {
+    "idCycle": 429,
+    "idCategorie": 1958,
+    "idEvenement": 19135,
+    "idSeance": 30580,
+    "dateHeure": "2019-07-10T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Séance 11 : Droit du plus fort (Le)",
+    "items": [
+      {
+        "idFilm": 38648,
+        "ordre": 1,
+        "idSeance": 30580,
+        "idCopie": 14082,
+        "duree": 123,
+        "version": "VOSTF",
+        "format": "DCP",
         "valide": 0
       }
     ]
   },
   {
     "idCycle": 429,
-    "idCategorie": 1973,
-    "idEvenement": 19145,
-    "idSeance": 30554,
-    "dateHeure": "2019-07-10T19:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "titreEvenement": "Séance 25 : Courts-métrages",
-    "items": [
-      {
-        "idFilm": 141244,
-        "ordre": 1,
-        "idSeance": 30554,
-        "idCopie": 18221,
-        "duree": 9,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141034,
-        "ordre": 2,
-        "idSeance": 30554,
-        "idCopie": 18222,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141035,
-        "ordre": 3,
-        "idSeance": 30554,
-        "idCopie": 18223,
-        "duree": 2,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141245,
-        "ordre": 4,
-        "idSeance": 30554,
-        "idCopie": 18224,
-        "duree": 10,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 117477,
-        "ordre": 5,
-        "idSeance": 30554,
-        "idCopie": 698,
-        "duree": 30,
-        "version": "",
-        "format": "Vidéo",
-        "valide": 0
-      },
-      {
-        "idFilm": 141247,
-        "ordre": 6,
-        "idSeance": 30554,
-        "idCopie": 18226,
-        "duree": 7,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 117484,
-        "ordre": 7,
-        "idSeance": 30554,
-        "idCopie": 666,
-        "duree": 6,
-        "version": "",
-        "format": "Super 8",
-        "valide": 0
-      },
-      {
-        "idFilm": 141248,
-        "ordre": 8,
-        "idSeance": 30554,
-        "idCopie": 18227,
-        "duree": 8,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141249,
-        "ordre": 9,
-        "idSeance": 30554,
-        "idCopie": 18228,
-        "duree": 3,
-        "version": "",
-        "format": "",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 429,
-    "idCategorie": 1952,
-    "idEvenement": 19161,
-    "idSeance": 30494,
+    "idCategorie": 1964,
+    "idEvenement": 19269,
+    "idSeance": 30581,
     "dateHeure": "2019-07-10T21:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 5 : Dream Sphinx / Flaming creatures / Jerovi / Lupe",
+    "titreEvenement": "Séance 17 : \"Black Men loving Black Men is a revolutionary act\"",
     "items": [
       {
-        "idFilm": 58030,
+        "idFilm": 141408,
         "ordre": 1,
-        "idSeance": 30494,
-        "idCopie": 1059,
-        "duree": 45,
-        "version": "VOSTF",
-        "format": "16 mm",
+        "idSeance": 30581,
+        "idCopie": 18286,
+        "duree": 5,
+        "version": "",
+        "format": "Numérique",
         "valide": 0
       },
       {
-        "idFilm": 132660,
+        "idFilm": 141234,
         "ordre": 2,
-        "idSeance": 30494,
-        "idCopie": 10385,
+        "idSeance": 30581,
+        "idCopie": 18209,
         "duree": 11,
         "version": "",
-        "format": "16 mm",
+        "format": "",
         "valide": 0
       },
       {
-        "idFilm": 141218,
+        "idFilm": 141235,
         "ordre": 3,
-        "idSeance": 30494,
-        "idCopie": 18190,
-        "duree": 50,
+        "idSeance": 30581,
+        "idCopie": 18210,
+        "duree": 45,
         "version": "",
         "format": "",
         "valide": 0
       },
       {
-        "idFilm": 141219,
+        "idFilm": 141236,
         "ordre": 4,
-        "idSeance": 30494,
-        "idCopie": 18191,
-        "duree": 7,
-        "version": "",
-        "format": "",
-        "valide": 0
+        "idSeance": 30581,
+        "idCopie": 18211,
+        "duree": 55,
+        "version": "VO",
+        "format": "Numérique",
+        "valide": 1
       }
     ]
   },
   {
     "idCycle": 429,
-    "idCategorie": 1953,
-    "idEvenement": 19162,
-    "idSeance": 30209,
+    "idCategorie": 1954,
+    "idEvenement": 19133,
+    "idSeance": 30575,
     "dateHeure": "2019-07-11T20:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Séance 6 : Holding / Reine (La)",
+    "titreEvenement": "Séance 7 : Pink Narcissus",
     "items": [
       {
-        "idFilm": 37028,
+        "idFilm": 69494,
         "ordre": 1,
-        "idSeance": 30209,
-        "idCopie": 18192,
-        "duree": 68,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 141220,
-        "ordre": 2,
-        "idSeance": 30209,
-        "idCopie": 18193,
-        "duree": 13,
-        "version": "",
-        "format": "",
+        "idSeance": 30575,
+        "idCopie": 9850,
+        "duree": 67,
+        "version": "VO",
+        "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Pascal-Alex Vincent (sous réserve)"
   }
 ]

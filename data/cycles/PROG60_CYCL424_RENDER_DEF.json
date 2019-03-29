@@ -23,6 +23,13 @@
           1983
         ],
         "tri": 1
+      },
+      {
+        "titre": "Rencontres et conférences",
+        "cats": [
+          1942
+        ],
+        "tri": 1
       }
     ],
     "idProg": 60
@@ -64,7 +71,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2019-06-01T14:30:00",
+              "dateHeure": "2019-06-01T15:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -172,10 +179,10 @@
               ]
             },
             {
-              "dateHeure": "2019-06-02T21:30:00",
+              "dateHeure": "2019-06-09T15:30:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "JE",
+                "Jean Epstein"
               ]
             }
           ]
@@ -241,10 +248,10 @@
               ]
             },
             {
-              "dateHeure": "2019-06-10T19:00:00",
+              "dateHeure": "2019-06-08T17:30:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "JE",
+                "Jean Epstein"
               ]
             }
           ]
@@ -288,7 +295,7 @@
               ]
             },
             {
-              "dateHeure": "2019-06-16T21:30:00",
+              "dateHeure": "2019-06-16T20:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -335,7 +342,7 @@
               ]
             },
             {
-              "dateHeure": "2019-06-21T20:30:00",
+              "dateHeure": "2019-06-22T20:00:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
@@ -383,10 +390,10 @@
               ]
             },
             {
-              "dateHeure": "2019-06-08T17:00:00",
+              "dateHeure": "2019-06-06T19:00:00",
               "idSalle": [
-                "JE",
-                "Jean Epstein"
+                "GF",
+                "Georges Franju"
               ]
             }
           ]
@@ -428,10 +435,11 @@
               "idSalle": [
                 "HL",
                 "Henri Langlois"
-              ]
+              ],
+              "mention": "Ouverture de la rétrospective"
             },
             {
-              "dateHeure": "2019-06-16T19:30:00",
+              "dateHeure": "2019-06-16T18:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -478,7 +486,7 @@
               ]
             },
             {
-              "dateHeure": "2019-06-10T21:00:00",
+              "dateHeure": "2019-06-06T22:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -525,7 +533,7 @@
               ]
             },
             {
-              "dateHeure": "2019-06-15T21:30:00",
+              "dateHeure": "2019-06-15T21:45:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -658,14 +666,14 @@
           ],
           "seance": [
             {
-              "dateHeure": "2019-06-05T19:30:00",
+              "dateHeure": "2019-06-05T19:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
               ]
             },
             {
-              "dateHeure": "2019-06-17T21:00:00",
+              "dateHeure": "2019-06-17T21:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -728,6 +736,46 @@
       "items": [
         {
           "idCycle": 424,
+          "idFilm": 141510,
+          "titre": "Euskadi",
+          "titreVo": "",
+          "realisateurs": "Otar Iosseliani",
+          "annee": 1983,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Film tourné au Pays-Basque à l'été 1982 pendant la préparation de la pastorale jouée et chantée par les habitants de Pagolle."
+            }
+          ],
+          "duree": 55,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30722,
+              "ordre": 1,
+              "idEvenement": 19291,
+              "dateHeure": "2019-06-08T19:45:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 30723,
+              "ordre": 1,
+              "idEvenement": 19291,
+              "dateHeure": "2019-06-22T18:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 424,
           "idFilm": 117982,
           "titre": "Seule, Géorgie",
           "titreVo": "",
@@ -753,6 +801,16 @@
                 "JE",
                 "Jean Epstein"
               ]
+            },
+            {
+              "idSeance": 30719,
+              "ordre": 1,
+              "idEvenement": 19101,
+              "dateHeure": "2019-06-10T19:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
             }
           ]
         },
@@ -775,23 +833,23 @@
           "version": "",
           "seance": [
             {
-              "idSeance": 30487,
+              "idSeance": 30743,
               "ordre": 1,
               "idEvenement": 19102,
-              "dateHeure": "2019-06-05T21:30:00",
+              "dateHeure": "2019-06-03T17:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
               ]
             },
             {
-              "idSeance": 30050,
+              "idSeance": 30740,
               "ordre": 1,
               "idEvenement": 19102,
-              "dateHeure": "2019-06-15T15:00:00",
+              "dateHeure": "2019-06-21T20:30:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "JE",
+                "Jean Epstein"
               ]
             }
           ]
@@ -821,7 +879,7 @@
           "version": "",
           "seance": [
             {
-              "idSeance": 30002,
+              "idSeance": 30598,
               "ordre": 1,
               "idEvenement": 19238,
               "dateHeure": "2019-06-07T19:30:00",
@@ -834,6 +892,11 @@
           ]
         }
       ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 1,
+      "items": []
     }
   ]
 }

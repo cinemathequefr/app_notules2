@@ -23,6 +23,8 @@
 <pstyle:TECHNIQUE>de Sara Jordenö
 <pstyle:TECHNIQUE>Suède/2016/94'
 <pstyle:SYNOPSIS>«<0x00A0>Sur la scène Kiki, espace de performance et d'expression de soi, les jeunes LGBTQ de couleur à Harlem dansent pour inventer leur propre vie, élargir le spectre du genre et transformer le tissu social.<0x00A0>» (Taylor Hess)
+<pstyle:><cstyle:INFOSBLEUES>me 19 juinXXX20h00XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:CATEGORIE>Séance 1 : Dickson Experimental Sound Film / Salomé
 <pstyle:TITRE>Dickson Experimental Sound Film
 <pstyle:TECHNIQUE>de William K.L. Dickson
@@ -35,18 +37,24 @@
 <pstyle:TECHNIQUE>D'après la pièce <cSkew:9>Salomé<cSkew:> d'Oscar Wilde.
 <pstyle:TECHNIQUE>Avec Alla Nazimova, Mitchell Lewis, Nigel De Brulier.
 <pstyle:SYNOPSIS>«<0x00A0><cSkew:9>Salomé<cSkew:>, voulu, produit, joué par Alla Nazimova, se débarrasse de toutes les assignations identitaires, s'attache à brouiller toutes les frontières, divisions, répartitions instituées, pour inventer son propre monde.<0x00A0>» (Nicole Brenez)
+<pstyle:><cstyle:INFOSBLEUES>je 20 juinXXX20h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 7 : Pink Narcissus
 <pstyle:TITRE>Pink Narcissus
 <pstyle:TECHNIQUE>de James Bidgood
 <pstyle:TECHNIQUE>États-Unis/1971/67'/VO/35 mm
 <pstyle:TECHNIQUE>Avec Bobby Kendall, Don Brooks, Charles Ludman.
 <pstyle:SYNOPSIS>«<0x00A0>Apogée d'une imagerie homosexuelle portée à l'incandescence.<0x00A0>» (Nicole Brenez)
+<pstyle:><cstyle:INFOSBLEUES>sa 22 juinXXX15h00XXX<cstyle:SALLESBLEUES>B
+
 <pstyle:CATEGORIE>Séance 14 : Equation à un inconnu
 <pstyle:TITRE>Équation à un inconnu
 <pstyle:TECHNIQUE>de Dietrich De Velsa
 <pstyle:TECHNIQUE>France/1994/93'/16 mm
 <pstyle:TECHNIQUE>Avec Jean-Jacques Loupmon, Gianfranco Longhi, Reinhard Montz.
 <pstyle:SYNOPSIS>«<0x00A0>L'acmé du porno mélancolique, mis en scène avec une grâce absolue par le mystérieux Dietrich de Velsa, peintre puis directeur artistique de la Grande Eugène qui réalise ici son unique film et néanmoins chef-d'<0x0153>uvre.<0x00A0>» (Yann Gonzalez)
+<pstyle:><cstyle:INFOSBLEUES>sa 22 juinXXX19h30XXX<cstyle:SALLESBLEUES>B
+
 <pstyle:CATEGORIE>Séance 11 : Droit du plus fort (Le)
 <pstyle:TITRE>Le Droit du plus fort
 <pstyle:TITRE_ANG>(Faustrecht der Freiheit)
@@ -55,6 +63,8 @@
 <pstyle:TECHNIQUE>Avec Rainer Werner Fassbinder, Peter Chatel, Karlheinz Böhm.
 <pstyle:SYNOPSIS>Franz Biberkopf, un jeune homosexuel, perd son travail et son petit ami, arrêté par la police. Il gagne à la loterie et rencontre un homme très intéressé par son argent.
 <pstyle:SYNOPSIS>«<0x00A0>Le film cherche à représenter, dans la vie quotidienne en Allemagne, les différenciations de classe, à y inscrire la lutte des classes<0x00A0>; et à sortir le monde homosexuel du ghetto mystificateur où il se trouve refoulé.<0x00A0>» (Serge Le Péron)
+<pstyle:><cstyle:INFOSBLEUES>sa 22 juinXXX21h30XXX<cstyle:SALLESBLEUES>B
+
 <pstyle:CATEGORIE>Séance 12 : Je, tu, il, elle
 <pstyle:TITRE>Je, tu, il, elle
 <pstyle:TECHNIQUE>de Chantal Akerman
@@ -62,12 +72,16 @@
 <pstyle:TECHNIQUE>Avec Chantal Akerman, Niels Arestrup, Claire Wauthion.
 <pstyle:SYNOPSIS>Une jeune femme passe du temps seule dans sa chambre, sur la route en stop, et avec une amie.
 <pstyle:SYNOPSIS>«<0x00A0>Je retournais à Bruxelles en stop voir cette fille, Claire, et j'ai vécu toutes sortes d'aventures avec les camionneurs qui me prenaient en stop, c'était dangereux. Mais à l'époque, on vivait comme ça.<0x00A0>» (Chantal Akerman)
+<pstyle:><cstyle:INFOSBLEUES>di 23 juinXXX19h30XXX<cstyle:SALLESBLEUES>B
+
 <pstyle:CATEGORIE>Séance 16 : Born in flames
 <pstyle:TITRE>Born in Flames
 <pstyle:TECHNIQUE>de Lizzie Borden
 <pstyle:TECHNIQUE>États-Unis/1983/80'
 <pstyle:TECHNIQUE>Avec Honey, Adele Bertei, Jean Satterfield.
 <pstyle:SYNOPSIS>Fable de science-fiction tournée caméra au poing dans le downtown new-yorkais rendant hommage comme jamais à une vision radicale dont la lucidité éclate à la manière d'un cocktail Molotov.
+<pstyle:><cstyle:INFOSBLEUES>di 23 juinXXX21h30XXX<cstyle:SALLESBLEUES>B
+
 <pstyle:CATEGORIE>Séance 8 : Curt McDowell
 <pstyle:TITRE>Confessions
 <pstyle:TECHNIQUE>de Curt McDowell
@@ -85,6 +99,8 @@
 <pstyle:TECHNIQUE>de Curt McDowell
 <pstyle:TECHNIQUE>États-Unis/1985/19'
 <pstyle:SYNOPSIS>«<0x00A0>Du mâle hétérosexuel comme fétiche.<0x00A0>» (Nicole Brenez)
+<pstyle:><cstyle:INFOSBLEUES>lu 24 juinXXX19h00XXX<cstyle:SALLESBLEUES>B
+
 <pstyle:CATEGORIE>Séance 18 : Maria Klonaris et Katerina Thomadaki
 <pstyle:TITRE>Danse du miroir
 <pstyle:TECHNIQUE>de Sothean Nhieim
@@ -96,6 +112,8 @@
 <pstyle:TECHNIQUE>France/1983/75'
 <pstyle:TECHNIQUE>Avec Parvaneh Navaï.
 <pstyle:SYNOPSIS>«<0x00A0><cSkew:9>Selva<cSkew:> approfondit deux archétypes<0x00A0>: la sorcière et la nymphe. Chez Maria Klonaris, la sorcière est d'abord une dryade, une créature de la forêt, qui révèle et fait rayonner les forces naturelles.<0x00A0>» (Nicole Brenez)
+<pstyle:><cstyle:INFOSBLEUES>lu 24 juinXXX21h00XXX<cstyle:SALLESBLEUES>B
+
 <pstyle:CATEGORIE>Séance 9 : Guy Hocquenghem
 <pstyle:TITRE>Le F.H.A.R. (Front Homosexuel d'Action Révolutionnaire)
 <pstyle:TECHNIQUE>de Carole Roussopoulos
@@ -107,6 +125,9 @@
 <pstyle:TECHNIQUE>France/1978/95'/35 mm
 <pstyle:TECHNIQUE>Avec Elizar Van Effenterre, Pierre Stone, Gilles Sandier.
 <pstyle:SYNOPSIS>«<0x00A0>Pour ce qui en est de la hiérarchie des luttes révolutionnaires selon l'urgence, les homosexuels pensent que ce combat est inséparable de la lutte contre l'exploitation socio-économique. L'un sans l'autre reste lettre morte.<0x00A0>» (Guy Hocquenghem)
+<pstyle:><cstyle:INFOSBLEUES>me 26 juinXXX19h30XXX<cstyle:SALLESBLEUES>C
+<cstyle:INFOSBLEUES>lu 01 juilXXX19h30XXX<cstyle:SALLESBLEUES>B
+
 <pstyle:CATEGORIE>Séance 10 : Barbara Hammer
 <pstyle:TITRE>Sisters!
 <pstyle:TECHNIQUE>de Barbara Hammer
@@ -138,6 +159,9 @@
 <pstyle:TECHNIQUE>de Barbara Hammer
 <pstyle:TECHNIQUE>États-Unis/1981/10'
 <pstyle:SYNOPSIS>«<0x00A0>Expérience de cinéma haptique.<0x00A0>» (Nicole Brenez)
+<pstyle:><cstyle:INFOSBLEUES>me 26 juinXXX21h30XXX<cstyle:SALLESBLEUES>C
+<cstyle:INFOSBLEUES>me 03 juilXXX19h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 13 : Paradis perdu/Farrah
 <pstyle:TITRE>Paradis perdu
 <pstyle:TECHNIQUE>de Franssou Prenant
@@ -154,6 +178,8 @@
 <pstyle:TECHNIQUE>d'Alain Burosse, Jean-Baptiste Erreca, Sébastien Petit
 <pstyle:TECHNIQUE>France/2012
 <pstyle:SYNOPSIS>«<0x00A0>De ses collages transgenres retrouvés à ses sensuelles photos "poilues", de ses avatars sur Second Life aux souvenirs capturés de moments de bonheur, ce montage est un hommage collectif à notre amie, la belle et éternelle Farrah.<0x00A0>»
+<pstyle:><cstyle:INFOSBLEUES>je 27 juinXXX19h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 17 : "Black Men loving Black Men is a revolutionary act"
 <pstyle:TITRE>I Object
 <pstyle:TECHNIQUE>de House of Colour
@@ -176,6 +202,8 @@
 <pstyle:TECHNIQUE>États-Unis/1989/55'
 <pstyle:TECHNIQUE>Avec Marlon Riggs, Michael Bell, Kerrigan Black.
 <pstyle:SYNOPSIS>«<0x00A0>Marlon Riggs réunit ses frères, parmi lesquels le poète Essex Hemphill, dans ce pamphlet sensible autour de l'expérience des hommes noirs homosexuels au moment de l'épidémie de sida.<0x00A0>» (Stéphane Gérard)
+<pstyle:><cstyle:INFOSBLEUES>je 27 juinXXX21h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 19 : Fast Trip, Long Drop / L Is for the Way You Look / O Happy Day
 <pstyle:TITRE>L Is for the Way You Look
 <pstyle:TECHNIQUE>de Jean Carlomusto
@@ -191,6 +219,8 @@
 <pstyle:TECHNIQUE>de Charles Lofton
 <pstyle:TECHNIQUE>États-Unis/1996/6'
 <pstyle:SYNOPSIS>L'histoire se réécrit dans cette fusion imaginaire entre le mouvement de libération homosexuelle et le Black Panther Party, utilisant images d'archives et citations de Huey Newton.
+<pstyle:><cstyle:INFOSBLEUES>ve 28 juinXXX19h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 22 : William E. Jones
 <pstyle:TITRE>The Fall of Communism As Seen in Gay Pornography
 <pstyle:TECHNIQUE>de William E. Jones
@@ -201,6 +231,8 @@
 <pstyle:TECHNIQUE>de William E. Jones
 <pstyle:TECHNIQUE>États-Unis/2008/56'
 <pstyle:SYNOPSIS>«<0x00A0>Images de surveillance policière, symptômes d'une époque étouffante de répression sexuelle.<0x00A0>» (Nicole Brenez)
+<pstyle:><cstyle:INFOSBLEUES>ve 28 juinXXX21h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 4 : Cavalier noir (Le)
 <pstyle:TITRE>Le Cavalier noir
 <pstyle:TITRE_ANG>(The Singer Not the Song)
@@ -209,6 +241,8 @@
 <pstyle:TECHNIQUE>Avec Dirk Bogarde, John Mills, Mylène Demongeot.
 <pstyle:SYNOPSIS>Un prêtre prend ses fonctions dans une ville mexicaine reculée qui se trouve sous la coupe d'un bandit impitoyable. La rivalité mortelle entre les deux hommes tourne vite à la fascination réciproque.
 <pstyle:SYNOPSIS>«<0x00A0>Le pantalon moulant vient provoquer la soutane. Indéniablement, ambiguïté et identité sexuelles fascinaient le cinéaste.<0x00A0>» (Olivier Rossignot)
+<pstyle:><cstyle:INFOSBLEUES>sa 29 juinXXX19h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 23 : Virginie Despentes
 <pstyle:TITRE>Lesborama
 <pstyle:TECHNIQUE>de Nathalie Magnan
@@ -220,13 +254,14 @@
 <pstyle:TECHNIQUE>France/1999/77'
 <pstyle:TECHNIQUE>Avec Raffaëla Anderson, Karen Bach, Céline Beugnot.
 <pstyle:SYNOPSIS>«<0x00A0>Rien ne les possède, elles ne sont pas folles, elles ne sont pas hystériques et elles regardent la réalité en face.<0x00A0>» (Nicole Brenez)
+<pstyle:><cstyle:INFOSBLEUES>sa 29 juinXXX22h15XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 2 : Fireworks / Sang d'un poète (Le)
 <pstyle:TITRE>Le Sang d'un poète
 <pstyle:TECHNIQUE>de Jean Cocteau
 <pstyle:TECHNIQUE>France/1930/55'/35 mm
 <pstyle:TECHNIQUE>Avec Enrique de Rivero, Lee Miller, Pauline Carton.
 <pstyle:SYNOPSIS>Un artiste passe de l'autre côté du miroir à l'invitation d'une statue.
-<pstyle:SUIVI_DE>Suivi de
 <pstyle:SYNOPSIS>«<0x00A0>Dites à Cocteau que je l'aime, parce que, comme s'il revenait des rivages d'une mer, il est le seul à être revenu bronzé du monde des mythes.<0x00A0>» (Rainer Maria Rilke)
 <pstyle:SUIVI_DE>Suivi de
 <pstyle:TITRE>Fireworks
@@ -234,6 +269,8 @@
 <pstyle:TECHNIQUE>États-Unis/1947/20'/16 mm
 <pstyle:TECHNIQUE>Avec Kenneth Anger, Gordon Gray, Bill Seltzer.
 <pstyle:SYNOPSIS>«<0x00A0><cSkew:9>Fireworks<cSkew:> vient du plus profond de la nuit d'où émergent toutes les <0x0153>uvres vraies. Il touche le vif de l'âme et c'est là chose rare.<0x00A0>» (Jean Cocteau)
+<pstyle:><cstyle:INFOSBLEUES>di 30 juinXXX17h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 15 : Lionel Soukaz
 <pstyle:TITRE>Ixe
 <pstyle:TECHNIQUE>de Lionel Soukaz
@@ -255,6 +292,8 @@
 <pstyle:TECHNIQUE>de Lionel Soukaz, Othello Vilgard, Xavier Baert
 <pstyle:TECHNIQUE>France/2002/5'
 <pstyle:SYNOPSIS>Performance par Tom de Pékin.
+<pstyle:><cstyle:INFOSBLEUES>lu 01 juilXXX21h30XXX<cstyle:SALLESBLEUES>B
+
 <pstyle:CATEGORIE>Séance 26 : L'Ordre des mots / Vos papiers
 <pstyle:TITRE>L'Ordre des mots
 <pstyle:TECHNIQUE>de Cynthia Arra, Mélissa Arra
@@ -265,6 +304,8 @@
 <pstyle:TECHNIQUE>de Bruce
 <pstyle:TECHNIQUE>France/2013/36'
 <pstyle:SYNOPSIS>Dans un photomaton, plusieurs personnes trans réfléchissent à leur rapport aux papiers d'identité.
+<pstyle:><cstyle:INFOSBLEUES>me 03 juilXXX21h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 27 : Vie et survie trans
 <pstyle:TITRE>All That Sheltering Emptiness
 <pstyle:TECHNIQUE>de Gina Carducci, Mattilda Bernstein Sycamore
@@ -298,6 +339,8 @@
 <pstyle:TECHNIQUE>Allemagne-États-Unis/2012/24'
 <pstyle:TECHNIQUE>Avec Kay Garnellen, Sadie Lune.
 <pstyle:SYNOPSIS>Un journal intime qui nous invite, au fil d'appels vidéo, dans le quotidien de la sexualité d'une relation à distance.
+<pstyle:><cstyle:INFOSBLEUES>je 04 juilXXX19h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 28 : Stéphane Gérard
 <pstyle:TITRE>Gouines & pédés : Refuser l'égalité des droits, c'est être homphobe !
 <pstyle:TECHNIQUE>de Les Panthères Roses, Les Dures à queer
@@ -318,6 +361,8 @@
 <pstyle:TECHNIQUE>de Stéphane Gérard
 <pstyle:TECHNIQUE>France/2014/85'
 <pstyle:SYNOPSIS>Sept conversations croisées rencontrent des archives vidéo pour esquisser les moyens par lesquels la notion de communauté se transmet au fil des différentes générations de militantisme LGBT de New York.
+<pstyle:><cstyle:INFOSBLEUES>je 04 juilXXX21h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 29 : Le Projet Sextoy
 <pstyle:TITRE>Je ne sais pas qui je suis, mais je sais ce que je pense
 <pstyle:TITRE_ANG>(Tra kegro lafi sasam mle ra kgro lafe beln)
@@ -329,6 +374,8 @@
 <pstyle:TECHNIQUE>d'Anastasia Mordin, Lidia Terki
 <pstyle:TECHNIQUE>France/2014/75'
 <pstyle:SYNOPSIS>Avec comme toile de fond l'univers du clubbing underground des années 90, le film retrace le projet artistique de Delphine Palatsi alias DJ Sextoy.
+<pstyle:><cstyle:INFOSBLEUES>ve 05 juilXXX19h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 3 : Jean Genet et cie
 <pstyle:TITRE>Un chant d'amour
 <pstyle:TECHNIQUE>de Jean Genet
@@ -350,11 +397,15 @@
 <pstyle:TECHNIQUE>d'André Almuró
 <pstyle:TECHNIQUE>France/1989/8'/8 mm
 <pstyle:SYNOPSIS>«<0x00A0>Manifeste du cinéma haptique, qui pourrait aussi être résumé<0x00A0>: "Tout l'univers bouleversé par une branlette."<0x00A0>»
+<pstyle:><cstyle:INFOSBLEUES>ve 05 juilXXX21h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 31 : Jean Genet, un captif amoureux, parcours d'un poète combattant
 <pstyle:TITRE>Jean Genet, un captif amoureux, parcours d'un poète combattant
 <pstyle:TECHNIQUE>de Michèle Collery
 <pstyle:TECHNIQUE>France/2016/74'
 <pstyle:SYNOPSIS>Les combats de Jean Genet pour les communautés afro-américaines lors de ses voyages aux États-Unis et pour les Palestiniens lors de ses voyages à Chatila. Textes lus par Denis Lavant.
+<pstyle:><cstyle:INFOSBLEUES>sa 06 juilXXX19h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 20 : B.U.C.K.L.E/The Shakedown
 <pstyle:TITRE>B.U.C.K.L.E.
 <pstyle:TECHNIQUE>de Catherine Gund, Julie Tolentino
@@ -365,6 +416,8 @@
 <pstyle:TECHNIQUE>de Leilah Weinraub
 <pstyle:TECHNIQUE>États-Unis/2018/72'
 <pstyle:SYNOPSIS>Rare espace dédié à la culture lesbienne, le Shakedown a réuni et galvanisé une communauté afro-américaine marginale et queer, ce qui en a fait la cible de nombreuses représailles policières.
+<pstyle:><cstyle:INFOSBLEUES>sa 06 juilXXX21h15XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 25 : Courts-métrages
 <pstyle:TITRE>Paixão nacional
 <pstyle:TECHNIQUE>de Karim Aïnouz
@@ -413,6 +466,8 @@
 <pstyle:TECHNIQUE>États-Unis/2018/3'
 <pstyle:TECHNIQUE>Avec Esosa E..
 <pstyle:SYNOPSIS>Image d'une afro-américaine déterminée à vivre ses rêves.
+<pstyle:><cstyle:INFOSBLEUES>me 10 juilXXX19h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 5 : Dream Sphinx / Flaming creatures / Jerovi / Lupe
 <pstyle:TITRE>Flaming Creatures
 <pstyle:TECHNIQUE>de Jack Smith
@@ -435,6 +490,8 @@
 <pstyle:TECHNIQUE>de Roger Jacoby
 <pstyle:TECHNIQUE>États-Unis/1974/7'
 <pstyle:SYNOPSIS>Parodie et critique de l'hétérosexualité où l'on retrouve Ondine<0x00A0><0x00A0>amant, collaborateur et superstar de Warhol<0x00A0><0x00A0>batifolant avec Sally Dixon dans un jardin victorien édénique.
+<pstyle:><cstyle:INFOSBLEUES>me 10 juilXXX21h30XXX<cstyle:SALLESBLEUES>C
+
 <pstyle:CATEGORIE>Séance 6 : Holding / Reine (La)
 <pstyle:TITRE>La Reine
 <pstyle:TITRE_ANG>(The Queen)
@@ -447,3 +504,5 @@
 <pstyle:TECHNIQUE>de Constance Beeson
 <pstyle:TECHNIQUE>États-Unis/1971/13'
 <pstyle:SYNOPSIS>«<0x00A0>Ce travail lyrique<0x00A0><0x00A0>de manière significative, l'un des rares films érotiques réalisé par une femme<0x00A0><0x00A0>progresse de préliminaires jusqu'au sexe explicite, prouvant que même les séquences <cSkew:9>hardcore<cSkew:> peuvent être subverties.<0x00A0>» (Amos Vogel)
+<pstyle:><cstyle:INFOSBLEUES>je 11 juilXXX20h30XXX<cstyle:SALLESBLEUES>C
+
