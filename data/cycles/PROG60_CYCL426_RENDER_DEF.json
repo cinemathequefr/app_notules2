@@ -23,6 +23,13 @@
           1936
         ],
         "tri": 1
+      },
+      {
+        "titre": "Rencontres et conférences",
+        "cats": [
+          1939
+        ],
+        "tri": 1
       }
     ],
     "idProg": 60
@@ -1056,6 +1063,11 @@
           ]
         }
       ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 1,
+      "items": []
     }
   ]
 }

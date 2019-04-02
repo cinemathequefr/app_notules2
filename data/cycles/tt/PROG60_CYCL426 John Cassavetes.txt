@@ -7,184 +7,213 @@
 <pstyle:TECHNIQUE>États-Unis/1962/48'
 <pstyle:TECHNIQUE>Avec Seymour Cassel, Lloyd Bridges, Royal Dano.
 <pstyle:SYNOPSIS>Pendant la guerre de Sécession, un officier sudiste, au terme d'une bataille sanglante, propose un cessez-le-feu a son collègue nordiste. Mais cet arrêt est violé par un soldat confédéré dément qui tue un nordiste uniquement pour lui voler ses bottes!
-<pstyle:><cstyle:INFOSBLEUES>Sam 8 juin 21h30 GF
+<pstyle:><cstyle:INFOSBLEUES>sa 08 juinXXX21h30XXX<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Film suivi de <ct:Italic>My daddy can lick your daddy<ct:> de John Cassavetes.
+
 <pstyle:TITRE>Ainsi va l'amour
 <pstyle:TITRE_ANG>(Minnie and Moskowitz)
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1971/115'/VOSTF/35 mm
 <pstyle:TECHNIQUE>Avec Gena Rowlands, Seymour Cassel, Val Avery, John Cassavetes.
 <pstyle:SYNOPSIS>Un beatnik vieillissant et gardien de parking rencontre une blonde sophistiquée travaillant au Musée. Tout les sépare sauf leur solitude, leur maladresse et leur admiration pour Bogart.
-<pstyle:><cstyle:INFOSBLEUES>Sam 8 juin 18h30 HL
-<cstyle:INFOSBLEUES>Sam 15 juin 21h00 HL
+<pstyle:><cstyle:INFOSBLEUES>sa 08 juinXXX18h30XXX<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>sa 15 juinXXX21h00XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>Le Bal des vauriens = Meurtre d'un bookmaker chinois
 <pstyle:TITRE_ANG>(The Killing of a chinese bookie)
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1976/135'
 <pstyle:TECHNIQUE>Avec Ben Gazzara, Haji.
-<pstyle:SYNOPSIS>Cosmo Vitelli vient de rembourser la dernière hypothèque de sa boîte de nuit et fête l'événement à une table de jeux où il perd une très grosse somme d'argent. La pègre lui propose une alternative : pour éponger sa dette, il doit assassiner un vieux bookmaker chinois devenu gênant.
-<pstyle:><cstyle:INFOSBLEUES>Ven 31 mai 19h00 HL
-<cstyle:INFOSBLEUES>Dim 16 juin 19h00 HL
+<pstyle:SYNOPSIS>Cosmo Vitelli vient de rembourser la dernière hypothèque de sa boîte de nuit et fête l'événement à une table de jeux où il perd une très grosse somme d'argent. La pègre lui propose une alternative<0x00A0>: pour éponger sa dette, il doit assassiner un vieux bookmaker chinois devenu gênant.
+<pstyle:><cstyle:INFOSBLEUES>ve 31 maiXXX19h00XXX<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>di 16 juinXXX19h00XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>La Ballade des sans-espoirs
 <pstyle:TITRE_ANG>(Too late blues)
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1961/98'/VOSTF/35 mm
 <pstyle:TECHNIQUE>Avec Bobby Darin, Stella Stevens, John Cassavetes, J. Alan Hopkins.
 <pstyle:SYNOPSIS>Chronique de la vie d'un groupe de musiciens de jazz qui refusent, en vain, de se soumettre a un monde conformiste et hostile. OU George, qui dirige un groupe de jazz, le quitte et devient l'amant d'une comtesse. Il est engagé comme pianiste dans les bars à la mode. Il tente un jour de retrouver ses anciens compagnons.
-<pstyle:><cstyle:INFOSBLEUES>Sam 1 juin 19h00 HL
-<cstyle:INFOSBLEUES>Dim 16 juin 21h45 HL
+<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX19h00XXX<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>di 16 juinXXX21h45XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>Big Trouble
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1984
 <pstyle:TECHNIQUE>Avec Peter Falk, Robert Stack, Valerie Curtin.
 <pstyle:SYNOPSIS>Parce qu'il a besoin d'argent pour envoyer ses fils triplés faire leurs études à Yale, un courtier en assurances accepte d'assurer sur la vie le mari d'une blonde et d'aider celui-ci à mourir. L'époux, gravement malade, souhaite, soi-disant, qu'on mette fin à ses jours. Le pauvre courtier n'est pas au bout de ses peines avec ce couple insolite. Particulièrement avec le mari, un escroc qui regorge d'idées ....
-<pstyle:><cstyle:INFOSBLEUES>Lun 3 juin 19h00 GF
-<cstyle:INFOSBLEUES>Jeu 20 juin 20h00 GF
+<pstyle:><cstyle:INFOSBLEUES>lu 03 juinXXX19h00XXX<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>je 20 juinXXX20h00XXX<cstyle:SALLESBLEUES>B
+
 <pstyle:TITRE>Faces
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1968/130'/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec Gena Rowlands, John Marley, Lynn Carlin.
 <pstyle:SYNOPSIS>Richard et Freddie rencontrent dans un bar une call-girl, Jeannie, qui les emmène chez elle. À son retour chez lui, Richard se dispute avec sa femme, Maria, claque la porte et repart chez Jeannie. Maria, à son tour, décide de passer la nuit dehors.
-<pstyle:><cstyle:INFOSBLEUES>Sam 8 juin 14h30 HL
-<cstyle:INFOSBLEUES>Lun 17 juin 17h00 HL
+<pstyle:><cstyle:INFOSBLEUES>sa 08 juinXXX14h30XXX<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>lu 17 juinXXX17h00XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>Gloria
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1979/123'/VOSTF/35 mm
 <pstyle:TECHNIQUE>Avec Gena Rowlands, John Adames, Julie Carmen, Buck Henry.
 <pstyle:SYNOPSIS>Après le massacre de sa famille par la mafia, un enfant en possession de documents compromettants est recueilli par sa voisine, une ancienne actrice.
-<pstyle:><cstyle:INFOSBLEUES>Dim 2 juin 20h00 HL
-<cstyle:INFOSBLEUES>Sam 22 juin 16h30 HL
+<pstyle:><cstyle:INFOSBLEUES>di 02 juinXXX20h00XXX<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>sa 22 juinXXX16h30XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>Maris
 <pstyle:TITRE_ANG>(Husbands)
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1970/140'/VOSTF/35 mm
 <pstyle:TECHNIQUE>Avec John Cassavetes, Ben Gazzara, Peter Falk, Jenny Runacre.
 <pstyle:SYNOPSIS>Trois amis font une virée de plusieurs jours après avoir appris la mort d'un de leurs anciens camarades.
-<pstyle:><cstyle:INFOSBLEUES>Jeu 30 mai 20h00 HL
-<cstyle:INFOSBLEUES>Jeu 13 juin 19h00 HL
+<pstyle:><cstyle:INFOSBLEUES>je 30 maiXXX20h00XXX<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>je 13 juinXXX19h00XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>My daddy can lick your daddy
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1962/22'
 <pstyle:TECHNIQUE>Avec Lloyd Bridges, Gary Lockwood, Mary Murphy.
 <pstyle:SYNOPSIS>Pappy Davlin est un champion de boxe poids lourd, qui doit défendre son titre... face à son fils
-<pstyle:><cstyle:INFOSBLEUES>Sam 8 juin 21h30 GF
+<pstyle:><cstyle:INFOSBLEUES>sa 08 juinXXX21h30XXX<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Film précédé d'<ct:Italic>A pair of boots<ct:> de John Cassavetes.
+
 <pstyle:TITRE>Opening Night
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1977/144'/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec John Cassavetes, Gena Rowlands, Joan Blondell, Ben Gazzara.
 <pstyle:SYNOPSIS>Après une représentation, la comédienne Myrtle Gordon assiste à la mort accidentelle d'une admiratrice. Plongée dans l'angoisse, hantée par le fantôme de la jeune morte, elle se noie dans le whisky alors qu'elle incarne le rôle d'une femme désespérée
-<pstyle:><cstyle:INFOSBLEUES>Dim 9 juin 19h00 HL
-<cstyle:INFOSBLEUES>Dim 16 juin 14h30 HL
+<pstyle:><cstyle:INFOSBLEUES>di 09 juinXXX19h00XXX<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>di 16 juinXXX14h30XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>Shadows
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1959/87'/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec Ben Carruthers, Lelia Goldoni, Hugh Hurd, Anthony Ray.
 <pstyle:SYNOPSIS>Benny, Hugh et Lélia sont frères et s<0x0153>ur et partagent le même appartement à New York. Alors que Benny passe ses journées dans les rues, les bars et autres lieux, Hugh tente de faire carrière comme chanteur de jazz. Lélia, quant à elle, veut être écrivain.
-<pstyle:><cstyle:INFOSBLEUES>Sam 1 juin 17h00 HL
-<cstyle:INFOSBLEUES>Jeu 13 juin 21h45 HL
+<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX17h00XXX<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>je 13 juinXXX21h45XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>Torrents d'amour
 <pstyle:TITRE_ANG>(Love Streams)
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1983/141'/VOSTF/35 mm
 <pstyle:TECHNIQUE>Avec John Cassavetes, Gena Rowlands, Diahnne Abbott, Seymour Cassel.
 <pstyle:SYNOPSIS>Les tendres et solides relations entre un frère et une s<0x0153>ur. Lui, écrivain, passe son temps, entouré de filles vénales et ne réussit pas a établir le contact avec son jeune fils. Elle, brisée par son récent divorce, et de retour d'un voyage en Europe, n'arrive pas a oublier son mari et sa fille.
-<pstyle:><cstyle:INFOSBLEUES>Ven 14 juin 20h30 HL
+<pstyle:><cstyle:INFOSBLEUES>ve 14 juinXXX20h30XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>Un enfant attend
 <pstyle:TITRE_ANG>(A Child Is Waiting)
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1962/102'/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec Burt Lancaster, Judy Garland, Gena Rowlands, Bruce Ritchey.
 <pstyle:SYNOPSIS>Dans une institution spécialisée qui accueille des enfants autistes et trisomiques, une professeur de musique, en désaccord avec les méthodes du directeur psychanalyste, s'attache à un enfant rebelle à toute vie de groupe.
-<pstyle:><cstyle:INFOSBLEUES>Sam 1 juin 21h15 HL
-<cstyle:INFOSBLEUES>Mer 19 juin 17h00 GF
+<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX21h15XXX<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>me 19 juinXXX17h00XXX<cstyle:SALLESBLEUES>B
+
 <pstyle:TITRE>Une femme sous influence
 <pstyle:TITRE_ANG>(A woman under the influence)
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1974/146'/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec Peter Falk, Gena Rowlands, Fred Draper, Lady Rowlands.
 <pstyle:SYNOPSIS>Face à l'indifférence de son mari et sous la pression exercée par son milieu social, une femme glisse peu à peu vers la folie.
-<pstyle:><cstyle:INFOSBLEUES>Dim 2 juin 17h00 HL
-<cstyle:INFOSBLEUES>Sam 15 juin 18h00 HL
+<pstyle:><cstyle:INFOSBLEUES>di 02 juinXXX17h00XXX<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>sa 15 juinXXX18h00XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:CATEGORIE>John Cassavetes acteur
 
 <pstyle:TITRE>A bout portant
 <pstyle:TITRE_ANG>(The Killers)
 <pstyle:TECHNIQUE>de Don Siegel
 <pstyle:TECHNIQUE>États-Unis/1964/95'/VOSTF/35 mm
-<pstyle:TECHNIQUE>D'après le roman <cSkew:9>The Killers<cSkew:> d'Ernest Hemingway.
+<pstyle:TECHNIQUE>D'après le roman <ct:Italic>The Killers<ct:> d'Ernest Hemingway.
 <pstyle:TECHNIQUE>Avec Lee Marvin, John Cassavetes, Angie Dickinson, Ronald Reagan.
 <pstyle:SYNOPSIS>Après l'exécution d'un contrat, deux tueurs cherchent à connaître le passé de leur victime.
-<pstyle:><cstyle:INFOSBLEUES>Sam 1 juin 14h30 HL
+<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX14h30XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>Le Bébé de Rosemary
 <pstyle:TITRE_ANG>(Rosemary's Baby)
 <pstyle:TECHNIQUE>de Roman Polanski
 <pstyle:TECHNIQUE>États-Unis/1967/137'/VOSTF/DCP
-<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Rosemary's baby<cSkew:> d'Ira Levin.
+<pstyle:TECHNIQUE>D'après le roman <ct:Italic>Rosemary's baby<ct:> d'Ira Levin.
 <pstyle:TECHNIQUE>Avec John Cassavetes, Mia Farrow, Ruth Gordon, Sidney Blackmer.
 <pstyle:SYNOPSIS>Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un immeuble new-yorkais vétuste, considéré par leur ami Hutch comme une demeure maléfique. Aussitôt, leurs voisins, Minnie et Roman Castevet, imposent leur amitié et leurs services. Rosemary s'en inquiète
-<pstyle:><cstyle:INFOSBLEUES>Jeu 13 juin 16h15 HL
+<pstyle:><cstyle:INFOSBLEUES>je 13 juinXXX16h15XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>La Cible étoilée
 <pstyle:TITRE_ANG>(Brass Target)
 <pstyle:TECHNIQUE>de John Hough
 <pstyle:TECHNIQUE>États-Unis/1978/111'
-<pstyle:TECHNIQUE>D'après le roman <cSkew:9>The Algonquin project<cSkew:> de Frederick Nolan.
+<pstyle:TECHNIQUE>D'après le roman <ct:Italic>The Algonquin project<ct:> de Frederick Nolan.
 <pstyle:TECHNIQUE>Avec Sophia Loren, John Cassavetes, George Kennedy, Robert Vaughn.
 <pstyle:SYNOPSIS>Août 1945 en Allemagne. Un convoi d'or réquisitionné par les armées occupantes est dévalisé. Les Soviétiques accusent les Américains. Patton décide de mener son enquête mais disparaît dans un accident de voiture mystérieux.
-<pstyle:><cstyle:INFOSBLEUES>Ven 7 juin 22h00 HL
+<pstyle:><cstyle:INFOSBLEUES>ve 07 juinXXX22h00XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>Les Douze salopards
 <pstyle:TITRE_ANG>(The Dirty Dozen)
 <pstyle:TECHNIQUE>de Robert Aldrich
 <pstyle:TECHNIQUE>États-Unis/1966/149'
-<pstyle:TECHNIQUE>D'après le roman <cSkew:9>The Dirty Dozen<cSkew:> d'E.M. Nathanson.
+<pstyle:TECHNIQUE>D'après le roman <ct:Italic>The Dirty Dozen<ct:> d'E.M. Nathanson.
 <pstyle:TECHNIQUE>Avec Lee Marvin, Ernest Borgnine, Charles Bronson, Jim Brown.
 <pstyle:SYNOPSIS>En 1944, douze soldats américains, condamnés à mort ou à de fortes peines, ont pour mission d'attaquer un château abritant des officiers allemands.
-<pstyle:><cstyle:INFOSBLEUES>Sam 15 juin 14h30 HL
+<pstyle:><cstyle:INFOSBLEUES>sa 15 juinXXX14h30XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>Furie
 <pstyle:TITRE_ANG>(The Fury)
 <pstyle:TECHNIQUE>de Brian De Palma
 <pstyle:TECHNIQUE>États-Unis/1978/117'/Numérique
-<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Furie<cSkew:> de John Farris.
+<pstyle:TECHNIQUE>D'après le roman <ct:Italic>Furie<ct:> de John Farris.
 <pstyle:TECHNIQUE>Avec Kirk Douglas, John Cassavetes, Carrie Snodgress, Charles Durning.
 <pstyle:SYNOPSIS>Le père d'un jeune homme doué de pouvoirs de voyance se met à la recherche de son fils. Celui-ci a été enlevé par une agence de contre-espionnage qui veut utiliser ses aptitudes paranormales à des fins politiques. L'homme est aidé par une jeune étudiante dotée des mêmes pouvoirs que ceux de son fils.
-<pstyle:><cstyle:INFOSBLEUES>Ven 14 juin 14h30 HL
+<pstyle:><cstyle:INFOSBLEUES>ve 14 juinXXX14h30XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>L'Homme qui tua la peur
 <pstyle:TITRE_ANG>(Edge of the City)
 <pstyle:TECHNIQUE>de Martin Ritt
 <pstyle:TECHNIQUE>États-Unis/1956/85'
 <pstyle:TECHNIQUE>Avec John Cassavetes, Sidney Poitier, Jack Warden.
 <pstyle:SYNOPSIS>Un déserteur trouve un emploi de docker grâce à un Noir qui devient son ami.
-<pstyle:><cstyle:INFOSBLEUES>Ven 14 juin 17h00 HL
+<pstyle:><cstyle:INFOSBLEUES>ve 14 juinXXX17h00XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>Incubus
 <pstyle:TECHNIQUE>de John Hough
 <pstyle:TECHNIQUE>Canada/1981/93'
 <pstyle:TECHNIQUE>Avec John Cassavetes, John Ireland, Kerrie Keane, Helen Hughes.
 <pstyle:SYNOPSIS>Une petite ville américaine est frappée par une série de viols particulièrement étranges et brutaux. Un médecin et une journaliste mènent l'enquête, leur soupçon se porte sur le jeune Tim, sujet à d'étranges cauchemars.
-<pstyle:><cstyle:INFOSBLEUES>Ven 7 juin 20h00 HL
+<pstyle:><cstyle:INFOSBLEUES>ve 07 juinXXX20h00XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>Les Intouchables
 <pstyle:TITRE_ANG>(Gli Intoccabili)
 <pstyle:TECHNIQUE>de Giuliano Montaldo
 <pstyle:TECHNIQUE>Italie/1968/96'
 <pstyle:TECHNIQUE>Avec John Cassavetes, Florinda Bolkan, Peter Falk, Gena Rowlands.
 <pstyle:SYNOPSIS>Un parrain de la mafia parvient à faire sortir de prison le gangster Hank McCain, après douze années de détention. Jack, son fils, le convainc alors de participer à un vol dans un casino de Las Vegas.
-<pstyle:><cstyle:INFOSBLEUES>Lun 3 juin 21h00 GF
+<pstyle:><cstyle:INFOSBLEUES>lu 03 juinXXX21h00XXX<cstyle:SALLESBLEUES>B
+
 <pstyle:TITRE>Libre comme le vent
 <pstyle:TITRE_ANG>(Saddle the Wind)
 <pstyle:TECHNIQUE>de Robert Parrish
 <pstyle:TECHNIQUE>États-Unis/1958/84'
 <pstyle:TECHNIQUE>Avec Robert Taylor, John Cassavetes, Julie London, Donald Crisp.
 <pstyle:SYNOPSIS> Steve Sinclair est un pistolero repenti et coule maintenant des jours paisibles dans son ranch. Son jeune frère Tony ne s'est pas retiré de la vie tumultueuse des affrontements aux revolvers et se vante d'être un roi de la gâchette. Ayant fait la connaissance de la belle Joan Blake, chanteuse dans un saloon, il vient présenter à son frère sa future fiancée. Afin de prouver qu'il est le meilleur tireur des alentours il abat un hors-la-loi qui s'en prenait à son frère avant de s'attaquer à Clay Ellison, un ancien soldat confédéré revendiquant un bout de terrain soit disant commun...
-<pstyle:><cstyle:INFOSBLEUES>Ven 21 juin 17h00 HL
+<pstyle:><cstyle:INFOSBLEUES>ve 21 juinXXX17h00XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>Un tueur dans la foule
 <pstyle:TITRE_ANG>(Two-minute Warning)
 <pstyle:TECHNIQUE>de Larry Peerce
 <pstyle:TECHNIQUE>États-Unis/1976/115'/VOSTF/Numérique
-<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Two-Minute Warning<cSkew:> de George La Fountaine.
+<pstyle:TECHNIQUE>D'après le roman <ct:Italic>Two-Minute Warning<ct:> de George La Fountaine.
 <pstyle:TECHNIQUE>Avec Charlton Heston, John Cassavetes, Martin Balsam, Beau Bridges.
 <pstyle:SYNOPSIS>Un tireur embusqué menace de tirer sur la foule lors d'un match de championnat de football américain dans le Los Angeles Memorial Coliseum. Repéré par une caméra, il est traqué par le capitaine Peter Holly et le sergent Button, associés pour l'arrêter avant la fin du match.
-<pstyle:><cstyle:INFOSBLEUES>Ven 31 mai 16h30 HL
+<pstyle:><cstyle:INFOSBLEUES>ve 31 maiXXX16h30XXX<cstyle:SALLESBLEUES>A
+
 <pstyle:CATEGORIE>Autour de John Cassavetes
 
 <pstyle:TITRE>John Cassavetes (Hollywood 1965, Paris 1968)
 <pstyle:TECHNIQUE>de Hubert Knapp, André S. Labarthe
 <pstyle:TECHNIQUE>France/1998
-<pstyle:SYNOPSIS>En 1965, André Labarthe et Hubert Knapp partent à Hollywood et rencontrent John Cassavetes, le futur chef de file du jeune cinéma indépendant américain. En 1968, ils le retrouvent à Paris à l'occasion de la sortie de Faces. De ces rencontres improvisées va naître l'un des films mythiques de la série <cSkew:9>Cinéastes de notre temps<cSkew:>.
-<pstyle:><cstyle:INFOSBLEUES>Mer 12 juin 20h30 JE
+<pstyle:SYNOPSIS>En 1965, André Labarthe et Hubert Knapp partent à Hollywood et rencontrent John Cassavetes, le futur chef de file du jeune cinéma indépendant américain. En 1968, ils le retrouvent à Paris à l'occasion de la sortie de Faces. De ces rencontres improvisées va naître l'un des films mythiques de la série <ct:Italic>Cinéastes de notre temps<ct:>.
+<pstyle:><cstyle:INFOSBLEUES>me 12 juinXXX20h30XXX<cstyle:SALLESBLEUES>C
+
+<pstyle:CATEGORIE>Rencontres et conférences
+
