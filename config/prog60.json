@@ -4,6 +4,30 @@
   "dateFrom": "",
   "dateTo": "",
   "cycles": [{
+      "idCycleProg": 14,
+      "titreCycle": "Cinéma bis",
+      "sousCycles": [{
+          "titre": "John Cassavetes acteur",
+          "cats": [1995],
+          "tri": 4
+        }, {
+          "titre": "Australie",
+          "cats": [1996],
+          "tri": 4
+        },
+        {
+          "titre": "Jess Franco",
+          "cats": [1997],
+          "tri": 4
+        },
+        {
+          "titre": "Mario Bava",
+          "cats": [1997],
+          "tri": 4
+        }
+      ]
+    },
+    {
       "idCycleProg": 18,
       "titreCycle": "Conservatoire des techniques cinématographiques",
       "sousCycles": [{
@@ -189,6 +213,15 @@
           "tri": 4
         }
       ]
+    },
+    {
+      "idCycleProg": 437,
+      "titreCycle": "Voyage dans le cinéma français des années 1940",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1985],
+        "tri": 1
+      }]
     }
   ]
 }

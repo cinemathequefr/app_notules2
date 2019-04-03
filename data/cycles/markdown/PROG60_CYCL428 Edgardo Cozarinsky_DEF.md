@@ -10,12 +10,20 @@ Un espion arrive à Paris en possession d'une mallette contenant des documents s
 
 - sa 29 juin 15h00 GF
 
+**Le Cinéma des Cahiers**  
+d'Edgardo Cozarinsky  
+France / 2001 / 88 min / Vidéo  
+Cinquante ans après leur création, la récit de l'histoire tumultueuse des _Cahiers du cinéma_.  
+« À travers les générations successives qui apportent à la revue des approches et des passions du cinéma qui leur sont propres, c'est une histoire d'amour (heureux, déçu, renouvelé) que nous voulons raconter. » (Edgardo Cozarinsky)
+
+- di 7 juil 15h00 JE
+
 **Citizen Langlois**  
 d'Edgardo Cozarinsky  
 France / 1995 / 67 min / VF / 35 mm  
 Avec Henri Langlois, Éric Rohmer, Freddy Buache, Marie Epstein.  
 Documentaire en forme de promenade où témoignages et images d'archives s'assemblent pour former un portrait d'Henri Langlois, sur un commentaire dit par Niels Arestrup.  
-« Autrefois les films finissaient à la poubelle. Un homme a eu l'idée de les sauver, de les conserver, de les montrer aux jeune générations. C'est ainsi qu'il a gardé la mémoire de l'imaginaire du XXe siècle. Il s'appelait Henri Langlois. Qu'est-ce qui fait qu'à vingt ans, au lieu de se lancer vers l'avenir, une jeune homme décide de consacrer sa vie à sauver les traces du passé ? » (Edgardo Cozarinsky)
+« Autrefois les films finissaient à la poubelle. Un homme a eu l'idée de les sauver, de les conserver, de les montrer aux jeune générations. C'est ainsi qu'il a gardé la mémoire de l'imaginaire du XX<sup>e</sup> siècle. Il s'appelait Henri Langlois. Qu'est-ce qui fait qu'à vingt ans, au lieu de se lancer vers l'avenir, une jeune homme décide de consacrer sa vie à sauver les traces du passé ? » (Edgardo Cozarinsky)
 
 - sa 29 juin 18h30 GF
 
@@ -31,7 +39,7 @@ Les destins croisés de Clara, David et Michel, qui vivent à Paris et ont en co
 d'Edgardo Cozarinsky  
 France-Maroc-Allemagne / 1997 / 90 min / 35 mm  
 Avec Laurent Grévill, Larbi Yacoubi, Brenda Gerolemou, Dick Chapman.  
-À Tanger, les parcours croisés d'un écrivain européen en panne d'inspiration et d'un petit garçon venu du sud du pays dans l'espoir de gagner l'Europe clandestinement.
+À Tanger, les parcours croisés d'un écrivain européen en panne d'inspiration et d'un petit garçon venu du Sud du pays dans l'espoir de gagner l'Europe clandestinement.
 
 - je 27 juin 21h45 GF
 
@@ -80,7 +88,7 @@ En paraphrase de Borges, on pourrait proposer cette fable: un cinéaste a vécu 
 d'Edgardo Cozarinsky  
 Argentine / 1971 / 79 min / VOSTF / 35 mm  
 Avec Roberto Villanueva, Jorge Álvarez.  
-Au gré de rencontres diverses se dessine le portrait d’un jeune homme qui peine à comprendre son époque et à l'habiter.  
+Au gré de rencontres diverses se dessine le portrait d'un jeune homme qui peine à comprendre son époque et à l'habiter.  
 « À l'intérieur du film, il y a un personnage, qu'on a le droit de trouver pittoresque, monstrueux, héroïque : un survivant de l'extrême-droite ancienne manière, pour qui la défaite d'Hitler en 1945 a marqué le début de l'Apocalypse, pour qui l'éclipse de son idéologie signifie l'éclipse de toute la civilisation. Mais il ne m'intéresse pas comme personnage. Je l'ai plutôt pris comme figure, un chiffre auquel correspond certains attributs parce que d'autres gens les leur collent, un vide central autour duquel les autres éléments se distribuent des rôles, des rapports, des hiérarchies. » (Edgardo Cozarinsky)
 
 - di 30 juin 19h00 GF

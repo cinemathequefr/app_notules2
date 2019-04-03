@@ -1,0 +1,390 @@
+[
+  {
+    "titre": "Adieu Léonard",
+    "titreVo": "",
+    "idFilm": 50768,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "Pierre Prévert",
+    "annee": 1943,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Léonard vend des lampions et autres farces et attrapes. Les extravagances de sa femme et de l'amant de celle-ci, Tancrède, l'ont conduit à la ruine. Il est poussé par Tancrède à faire un coup."
+      }
+    ],
+    "generique": [
+      "Charles Trenet",
+      "Pierre Brasseur",
+      "Julien Carette"
+    ]
+  },
+  {
+    "titre": "Assassinat du père Noël",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 47591,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "Christian-Jaque",
+    "annee": 1941,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un village savoyard s'apprête à fêter Noël. Le père Cornusse, fabricant de mappemondes, se prépare à revêtir, comme chaque année, le costume rouge du bon vieillard à barbe blanche."
+      }
+    ],
+    "generique": [
+      "Harry Baur",
+      "Raymond Rouleau",
+      "Renée Faure"
+    ],
+    "adaptation": "D'après le roman _L'Assassinat du père Noël_ de Pierre Véry."
+  },
+  {
+    "titre": "Camion blanc",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 49349,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "Léo Joannon",
+    "annee": 1942,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un jeune garagiste reçoit l'ordre du chef des gitans du Nord de parcourir la route suivie tout au long de sa vie par le roi des gitans, dont la dépouille est à bord de son camion blanc."
+      }
+    ],
+    "generique": [
+      "François Périer",
+      "Jules Berry",
+      "Blanchette Brunoy"
+    ]
+  },
+  {
+    "titre": "Capitaine Fracasse",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 48587,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "Abel Gance",
+    "annee": 1942,
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un baron ruiné décide par amour pour une actrice de suivre une troupe ambulante. Il devient le capitaine Fracasse."
+      }
+    ],
+    "generique": [
+      "Fernand Gravey",
+      "Assia Noris",
+      "Jean Weber"
+    ]
+  },
+  {
+    "titre": "Carmen",
+    "titreVo": "",
+    "idFilm": 43777,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": 0,
+    "realisateurs": "Christian-Jaque",
+    "annee": 1942,
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Don José, brigadier de dragons, tombe amoureux fou de la belle gitane Carmen."
+      }
+    ],
+    "generique": [
+      "Viviane Romance",
+      "Jean Marais",
+      "Lucien Coëdel"
+    ],
+    "adaptation": "D'après l'opéra _Carmen_ de Henri Meilhac et Ludovic Halévy.  \nD'après la nouvelle _Carmen_ de Prosper Mérimée."
+  },
+  {
+    "titre": "Carrefour des enfants perdus",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 49351,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "Léo Joannon",
+    "annee": 1943,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "À l'Armistice, trois anciens délinquants décident de fonder une maison de correction à visage humain."
+      }
+    ],
+    "generique": [
+      "René Dary",
+      "A.-M. Julien",
+      "Jean Mercanton"
+    ]
+  },
+  {
+    "titre": "Comédie du bonheur",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 49361,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "Marcel L'Herbier",
+    "annee": 1940,
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le banquier Jourdain que sa famille a fait interner, s'évade de l'asile et se réfugie dans une pension de famille."
+      }
+    ],
+    "generique": [
+      "Michel Simon",
+      "Jacqueline Delubac",
+      "Ramon Novarro"
+    ],
+    "adaptation": "D'après la pièce _La Comédie du bonheur_ de Nicolas Evreinoff."
+  },
+  {
+    "titre": "Dernier atout",
+    "titreVo": "",
+    "idFilm": 46629,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "Jacques Becker",
+    "annee": 1942,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A Carical, capitale d'un pays imaginaire, Clarence et Montès, deux aspirants policiers, sortent ex-aequo de l'école de police. Clarence demande une épreuve pratique pour les départager."
+      }
+    ],
+    "generique": [
+      "Raymond Rouleau",
+      "Mireille Balin",
+      "Pierre Renoir"
+    ]
+  },
+  {
+    "titre": "Donne-moi tes yeux",
+    "titreVo": "",
+    "idFilm": 49093,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "Sacha Guitry",
+    "annee": 1943,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un sculpteur épouse son modèle mais devient alors dur et cassant. Perdant la vue, il veut en fait éloigner sa femme qu'il aime."
+      }
+    ],
+    "generique": [
+      "Geneviève Guitry",
+      "Aimé Clariond",
+      "Marguerite Moreno"
+    ]
+  },
+  {
+    "titre": "Eternel retour",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 47999,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "Jean Delannoy",
+    "annee": 1943,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Adaptation moderne du mythe de Tristan et Yseult. Scénario et dialogues de Jean Cocteau. _Film restauré en 2K par SNC._"
+      }
+    ],
+    "generique": [
+      "Jean Marais",
+      "Madeleine Sologne",
+      "Jean Murat"
+    ]
+  },
+  {
+    "titre": "Madame et le mort",
+    "titreVo": "",
+    "idFilm": 47422,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "Louis Daquin",
+    "annee": 1942,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un romancier et une jeune provinciale sont mêlés malgré eux à l'assassinat d'un truand."
+      }
+    ],
+    "generique": [
+      "Henri Guisol",
+      "Renée Saint-Cyr",
+      "Colette Wilda"
+    ]
+  },
+  {
+    "titre": "Opéra-musette",
+    "titreVo": "",
+    "idFilm": 49767,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "René Lefèvre, Claude Renoir",
+    "annee": 1941,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le musicien ambulant Lampluche ayant trouve au bord d'une rivière une partition musicale et un portefeuille garni est pris à la ville voisine pour le célèbre compositeur Maxence Leroy."
+      }
+    ],
+    "generique": [
+      "René Lefèvre",
+      "Saturnin Fabre",
+      "Paulette Dubost"
+    ]
+  },
+  {
+    "titre": "Pavillon brûle",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 46598,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "Jacques de Baroncelli",
+    "annee": 1941,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "l'ingénieur Risay, la quarantaine passée, songe à refaire sa vie. Trop tard, lui assène le directeur de la mine de cuivre sur laquelle il veille et où il a sauvé dix-neuf vies humaines. A cet affront s'ajoutent des indiscrétions qui peuvent être redoutables."
+      }
+    ],
+    "generique": [
+      "Pierre Renoir",
+      "Jean Marais",
+      "Jean Marchat"
+    ]
+  },
+  {
+    "titre": "Roquevillard",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 48227,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "Jean Dréville",
+    "annee": 1943,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Maurice Roquevillard, fils d'un avocat au barreau de Chambéry, abandonne sa famille et fuit en Italie avec la femme de Maître Frasne."
+      }
+    ],
+    "generique": [
+      "Charles Vanel",
+      "Aimé Clariond",
+      "Jean Pâqui"
+    ]
+  },
+  {
+    "titre": "Vie de bohème",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 49496,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": 0,
+    "realisateurs": "Marcel L'Herbier",
+    "annee": 1942,
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Quatre jeunes artistes vivent ensemble dans le Quartier latin. Avec leurs petites amies, ils partagent l'insouciance, la gaîté, les rires et les danses de la vie de bohème."
+      }
+    ],
+    "generique": [
+      "María Denis",
+      "Louis Jourdan",
+      "Gisèle Pascal"
+    ],
+    "adaptation": "D'après le roman _Scènes de la vie de bohème_ de Henry Murger."
+  },
+  {
+    "titre": "Visiteurs du soir",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 47328,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "Marcel Carné",
+    "annee": 1942,
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Au XVe siècle, le Diable envoie dans un château deux ménestrels, Dominique et Gilles, afin de désespérer le monde."
+      }
+    ],
+    "generique": [
+      "Arletty",
+      "Marie Déa",
+      "Jules Berry"
+    ]
+  },
+  {
+    "titre": "Volpone",
+    "titreVo": "",
+    "idFilm": 51460,
+    "idCycle": 437,
+    "idCategorie": 1985,
+    "ageMinimal": null,
+    "realisateurs": "Maurice Tourneur",
+    "annee": 1940,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Jeté en prison par ses créanciers, puis libéré, Volpone le marchand décide de se venger en faisant croire qu'il est à l'article de la mort et cherche un héritier. Dialogues de Jules Romains."
+      }
+    ],
+    "generique": [
+      "Harry Baur",
+      "Louis Jouvet",
+      "Charles Dullin"
+    ]
+  }
+]

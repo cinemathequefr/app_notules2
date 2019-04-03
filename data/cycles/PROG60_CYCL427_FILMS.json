@@ -19,8 +19,7 @@
     "generique": [
       "James Mason",
       "Danielle Darrieux",
-      "Michael Rennie",
-      "Walter Hampden"
+      "Michael Rennie"
     ],
     "adaptation": "D'après le récit _Der Fall Cicero_ de L.C. Moyzisch."
   },
@@ -45,8 +44,7 @@
     "generique": [
       "Audie Murphy",
       "Michael Redgrave",
-      "Claude Dauphin",
-      "Giorgia Moll"
+      "Claude Dauphin"
     ],
     "adaptation": "D'après le roman _Un Américain bien tranquille_ de Graham Greene."
   },
@@ -71,8 +69,7 @@
     "generique": [
       "Gene Tierney",
       "Rex Harrison",
-      "George Sanders",
-      "Edna Best"
+      "George Sanders"
     ],
     "adaptation": "D'après le roman _The Ghost and Mrs. Muir_ de R.A. Dick."
   },
@@ -89,7 +86,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Nathan Detroit, propriétaire d'un tripot new-yorkais, a un besoin urgent d'argent. Il va trouver un joueur invétéré et lui propose un pari extravagant : il doit emmener dîner le soir même à La Havane une jeune femme œuvrant pour l'Armée du Salut."
+        "texte": "Nathan Detroit, propriétaire d'un tripot new-yorkais, doit trouver de l'argent au plus vite. Il propose à un joueur invétéré un pari extravagant : emmener dîner le soir même à La Havane une jeune femme œuvrant pour l'Armée du salut."
       }
     ],
     "generique": [
@@ -117,8 +114,7 @@
     "generique": [
       "Percy Rodrigues",
       "Sterling Hayden",
-      "Ben Gazzara",
-      "Eva Marie Saint"
+      "Ben Gazzara"
     ]
   },
   {
@@ -140,14 +136,13 @@
     "generique": [
       "Jeanne Crain",
       "Linda Darnell",
-      "Ann Sothern",
-      "Kirk Douglas"
+      "Ann Sothern"
     ],
     "adaptation": "D'après l'histoire _A Letter to Five Wives_, parue dans le Cosmopolitan Magazine de John Klempner."
   },
   {
     "titre": "Château du dragon",
-    "art": "La",
+    "art": "Le",
     "titreVo": "Dragonwyck",
     "idFilm": 33609,
     "idCycle": 427,
@@ -165,8 +160,7 @@
     "generique": [
       "Gene Tierney",
       "Walter Huston",
-      "Vincent Price",
-      "Glenn Langan"
+      "Vincent Price"
     ],
     "adaptation": "D'après le roman _Dragonwyck_ d'Anya Seton."
   },
@@ -189,8 +183,7 @@
     "generique": [
       "Elizabeth Taylor",
       "Richard Burton",
-      "Rex Harrison",
-      "Pamela Brown"
+      "Rex Harrison"
     ],
     "adaptation": "D'après l'oeuvre _ The Life and times of Cleopatra _ de Carlo Maria Franzero."
   },
@@ -215,7 +208,6 @@
     "generique": [
       "Humphrey Bogart",
       "Ava Gardner",
-      "Rossano Brazzi",
       "Edmond O'Brien"
     ]
   },
@@ -228,8 +220,8 @@
     "idCategorie": 1928,
     "ageMinimal": 0,
     "realisateurs": "Joseph L. Mankiewicz",
-    "annee": 1948,
-    "pays": "États-Unis",
+    "annee": 1947,
+    "pays": "Grande-Bretagne-États-Unis",
     "textes": [
       {
         "typeTexte": 9,
@@ -240,7 +232,8 @@
       "Rex Harrison",
       "Peggy Cummins",
       "William Hartnell"
-    ]
+    ],
+    "adaptation": "D'après la pièce _Escape_ de John Galsworthy."
   },
   {
     "titre": "Eve",
@@ -261,8 +254,7 @@
     "generique": [
       "Bette Davis",
       "Anne Baxter",
-      "George Sanders",
-      "Celeste Holm"
+      "George Sanders"
     ],
     "adaptation": "D'après la nouvelle _The Wisdom of Eve_ de Mary Orr."
   },
@@ -286,8 +278,7 @@
     "generique": [
       "Rex Harrison",
       "Susan Hayward",
-      "Cliff Robertson",
-      "Capucine"
+      "Cliff Robertson"
     ],
     "adaptation": "D'après la pièce _Mr Fox of Venice_ de Frederick Knott.  \nD'après la pièce _Volpone_ de Ben Jonson.  \nD'après le roman _The Evil of the day_ de Thomas Sterling."
   },
@@ -308,10 +299,9 @@
       }
     ],
     "generique": [
-      "James Mason",
       "Marlon Brando",
-      "John Gielgud",
-      "Deborah Kerr"
+      "James Mason",
+      "John Gielgud"
     ]
   },
   {
@@ -333,12 +323,6 @@
         "typeTexte": 99,
         "texte": "Restauration réalisée par The Library of Congress (Washington) en collaboration avec Richard Kaplan (producteur associé) grâce à des éléments fournis par le MoMA (New York), d'après le négatif original."
       }
-    ],
-    "generique": [
-      "Paul Newman",
-      "Joanne Woodward",
-      "James Earl Jones",
-      "Ruby Dee"
     ]
   },
   {
@@ -361,8 +345,7 @@
     "generique": [
       "Laurence Olivier",
       "Michael Caine",
-      "Alec Cawthorne",
-      "John Matthews"
+      "Alec Cawthorne"
     ],
     "adaptation": "D'après la pièce _Sleuth_ d'Anthony Shaffer."
   },
@@ -386,8 +369,7 @@
     "generique": [
       "Edward G. Robinson",
       "Susan Hayward",
-      "Richard Conte",
-      "Luther Adler"
+      "Richard Conte"
     ],
     "adaptation": "D'après le roman _I'll never go there any more_ de Jerome Weidman."
   },
@@ -412,8 +394,7 @@
     "generique": [
       "Ronald Colman",
       "Peggy Cummins",
-      "Vanessa Brown",
-      "Richard Haydn"
+      "Vanessa Brown"
     ],
     "adaptation": "D'après la pièce _The Late George Apley_ de George S. Kaufman.  \nD'après le roman et la pièce _The Late George Apley_ de John P. Marquand."
   },
@@ -436,8 +417,7 @@
     "generique": [
       "Cary Grant",
       "Jeanne Crain",
-      "Finlay Currie",
-      "Hume Cronyn"
+      "Finlay Currie"
     ],
     "adaptation": "D'après la pièce _Dr. Praetorius_ de Curt Goetz."
   },
@@ -460,8 +440,8 @@
     ],
     "generique": [
       "Richard Widmark",
-      "Sidney Poitier",
-      "Linda Darnell"
+      "Linda Darnell",
+      "Sidney Poitier"
     ]
   },
   {
@@ -483,8 +463,7 @@
     "generique": [
       "John Hodiak",
       "Nancy Guild",
-      "Lloyd Nolan",
-      "Richard Conte"
+      "Lloyd Nolan"
     ]
   },
   {
@@ -507,8 +486,7 @@
     "generique": [
       "Kirk Douglas",
       "Henry Fonda",
-      "Hume Cronyn",
-      "Warren Oates"
+      "Hume Cronyn"
     ]
   },
   {
@@ -530,8 +508,7 @@
     "generique": [
       "Elizabeth Taylor",
       "Katharine Hepburn",
-      "Montgomery Clift",
-      "Mercedes McCambridge"
+      "Montgomery Clift"
     ],
     "adaptation": "D'après la pièce _Suddenly, last summer_ de Tennessee Williams."
   }

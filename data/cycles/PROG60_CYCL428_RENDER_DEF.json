@@ -64,6 +64,41 @@
         },
         {
           "idCycle": 428,
+          "idFilm": 141557,
+          "titre": "Cinéma des Cahiers",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Edgardo Cozarinsky",
+          "annee": 2001,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Cinquante ans après leur création, la récit de l'histoire tumultueuse des _Cahiers du cinéma_."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "« À travers les générations successives qui apportent à la revue des approches et des passions du cinéma qui leur sont propres, c'est une histoire d'amour (heureux, déçu, renouvelé) que nous voulons raconter. » (Edgardo Cozarinsky)"
+            }
+          ],
+          "duree": 88,
+          "format": "Vidéo",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 31359,
+              "ordre": 1,
+              "idEvenement": 19335,
+              "dateHeure": "2019-07-07T15:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 428,
           "idFilm": 43605,
           "titre": "Citizen Langlois",
           "titreVo": "",
@@ -77,7 +112,7 @@
             },
             {
               "typeTexte": 99,
-              "texte": "« Autrefois les films finissaient à la poubelle. Un homme a eu l'idée de les sauver, de les conserver, de les montrer aux jeune générations. C'est ainsi qu'il a gardé la mémoire de l'imaginaire du XXe siècle. Il s'appelait Henri Langlois. Qu'est-ce qui fait qu'à vingt ans, au lieu de se lancer vers l'avenir, une jeune homme décide de consacrer sa vie à sauver les traces du passé ? » (Edgardo Cozarinsky)"
+              "texte": "« Autrefois les films finissaient à la poubelle. Un homme a eu l'idée de les sauver, de les conserver, de les montrer aux jeune générations. C'est ainsi qu'il a gardé la mémoire de l'imaginaire du XX<sup>e</sup> siècle. Il s'appelait Henri Langlois. Qu'est-ce qui fait qu'à vingt ans, au lieu de se lancer vers l'avenir, une jeune homme décide de consacrer sa vie à sauver les traces du passé ? » (Edgardo Cozarinsky)"
             }
           ],
           "generique": [
@@ -149,7 +184,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "À Tanger, les parcours croisés d'un écrivain européen en panne d'inspiration et d'un petit garçon venu du sud du pays dans l'espoir de gagner l'Europe clandestinement."
+              "texte": "À Tanger, les parcours croisés d'un écrivain européen en panne d'inspiration et d'un petit garçon venu du Sud du pays dans l'espoir de gagner l'Europe clandestinement."
             }
           ],
           "generique": [
@@ -349,7 +384,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Au gré de rencontres diverses se dessine le portrait d’un jeune homme qui peine à comprendre son époque et à l'habiter."
+              "texte": "Au gré de rencontres diverses se dessine le portrait d'un jeune homme qui peine à comprendre son époque et à l'habiter."
             },
             {
               "typeTexte": 99,

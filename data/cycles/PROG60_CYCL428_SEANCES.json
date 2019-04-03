@@ -113,11 +113,11 @@
         "idFilm": 43605,
         "ordre": 1,
         "idSeance": 30138,
-        "idCopie": 3521,
+        "idCopie": 16182,
         "duree": 67,
         "version": "VF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -286,6 +286,30 @@
         "version": "",
         "format": "35 mm",
         "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 428,
+    "idCategorie": 1929,
+    "idEvenement": 19335,
+    "idSeance": 31359,
+    "dateHeure": "2019-07-07T15:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Cinéma des Cahiers (Le)",
+    "items": [
+      {
+        "idFilm": 141557,
+        "ordre": 1,
+        "idSeance": 31359,
+        "idCopie": 18394,
+        "duree": 88,
+        "version": "",
+        "format": "Vidéo",
+        "valide": 1
       }
     ]
   }
