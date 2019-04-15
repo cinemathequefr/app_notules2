@@ -1,0 +1,63 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>John Cassavetes
+
+<pstyle:TITRE>Les Anges de l'enfer
+<pstyle:TITRE_ANG>(Devil's Angels)
+<pstyle:TECHNIQUE>de Daniel Haller
+<pstyle:TECHNIQUE>États-Unis/1967/84'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec John Cassavetes, Beverly Adams, Mimsy Farmer.
+<pstyle:SYNOPSIS><ct:Italic>«<0x00A0>Skulls<0x00A0>»<ct:>, quittent leur ville où la police les a trop vus. Ils arrivent bientôt à Brookville, une petite cité qui paraît déserte au premier abord.
+<pstyle:><cstyle:INFOSBLEUES>ve 07 juinXXX20h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>La Cible étoilée
+<pstyle:TITRE_ANG>(Brass Target)
+<pstyle:TECHNIQUE>de John Hough
+<pstyle:TECHNIQUE>États-Unis/1978/111'/VOSTF/35mm
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>The Algonquin Project<cSkew:> de Frederick Nolan.
+<pstyle:TECHNIQUE>Avec Sophia Loren, John Cassavetes, Robert Vaughn, Max von Sydow.
+<pstyle:SYNOPSIS>Allemagne, août 1945. L'or de la banque centrale est dérobé lors d'un transfert en train. Les Soviétiques accusant les Américains, le général Patton décide de mener lui-même l'enquête.
+<pstyle:><cstyle:INFOSBLEUES>ve 07 juinXXX22h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:CATEGORIE>Ozploitation
+
+<pstyle:TITRE>Fair Game
+<pstyle:TECHNIQUE>de Mario Andreacchio
+<pstyle:TECHNIQUE>Australie/1986/82'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Cassandra Delaney, Peter Ford, David Sandford.
+<pstyle:SYNOPSIS>Une jeune femme chargée de veiller sur un sanctuaire d'animaux sauvages dans l'<ct:Italic>outback<ct:> australien est confrontée à trois chasseurs de kangourous bien décidés à s'amuser.
+<pstyle:><cstyle:INFOSBLEUES>ve 21 juinXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:CATEGORIE>long week end
+<pstyle:TITRE>Long Weekend
+<pstyle:TECHNIQUE>de Colin Eggleston
+<pstyle:TECHNIQUE>Australie/1978/92'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec John Hargreaves, Briony Behets, Mike McEwen.
+<pstyle:SYNOPSIS>Un couple de citadins au bord de la rupture s'installe dans un lieu isolé du littoral australien pour un week-end de camping sauvage. Peu à peu, la nature se montre menaçante.
+<pstyle:><cstyle:INFOSBLEUES>ve 21 juinXXX22h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:CATEGORIE>Les choix cinéphiles de Jess Franco
+
+<pstyle:TITRE>L'Homme d'Istambul
+<pstyle:TITRE_ANG>(Operacion Estambul)
+<pstyle:TECHNIQUE>d'Antonio Isasi-Isasmendi
+<pstyle:TECHNIQUE>Espagne-Italie-France/1964/115'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Horst Buchholz, Sylva Koscina, Perrette Pradier.
+<pstyle:SYNOPSIS>Une agente du FBI est envoyée à Istanbul pour retrouver un savant atomiste kidnappé par une organisation criminelle. Elle s'adjoint l'aide d'un playboy, propriétaire d'une boîte de nuit, qui connaît la ville comme sa poche.
+<pstyle:><cstyle:INFOSBLEUES>ve 28 juinXXX20h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Les Mains qui tuent
+<pstyle:TITRE_ANG>(Phantom Lady)
+<pstyle:TECHNIQUE>de Robert Siodmak
+<pstyle:TECHNIQUE>États-Unis/1944/90'/VOSTF/35mm
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Lady Fantôme<cSkew:> de William Irish.
+<pstyle:TECHNIQUE>Avec Franchot Tone, Ella Raines, Alan Curtis.
+<pstyle:SYNOPSIS>Scott Henderson est accusé d'avoir assassiné sa femme. Pour s'innocenter, il doit retrouver la femme au chapeau avec laquelle il a passé la soirée du meurtre.
+<pstyle:><cstyle:INFOSBLEUES>ve 28 juinXXX22h00XXX
+<cstyle:SALLESBLEUES>B
+

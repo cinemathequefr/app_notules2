@@ -64,6 +64,46 @@
     "adaptation": "D'après le roman _Airport_ d'Arthur Hailey."
   },
   {
+    "titre": "Abyss",
+    "idFilm": 30822,
+    "idCycle": 432,
+    "idCategorie": 1982,
+    "ageMinimal": null,
+    "realisateurs": "James Cameron",
+    "annee": 1989,
+    "pays": "États-Unis",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "L'équipage d'une base de forage pétrolière expérimentale est mobilisé afin de récupérer les ogives nucléaires d'un sous-marin ayant sombré. L'un des plongeurs se retrouve lancé dans une odyssée fantastique à 8 000 mètres de profondeur."
+    }],
+    "generique": [
+      "Ed Harris",
+      "Mary Elizabeth Mastrantonio",
+      "Michael Biehn"
+    ]
+  },
+  {
+    "titre": "Airport",
+    "titreVo": "",
+    "idFilm": 36109,
+    "idCycle": 432,
+    "idCategorie": 1982,
+    "ageMinimal": null,
+    "realisateurs": "George Seaton",
+    "annee": 1968,
+    "pays": "États-Unis",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "À Chicago, à l'aéroport Lincoln, le trafic est interrompu à la suite d'une tempête de neige et  un avion est paralysé sur la piste de décollage. Pendant ce temps, le pilote Vernon Demarest prépare son vol pour Rome où il doit rejoindre sa maîtresse. Mais une bombe a été placée à bord de l'avion."
+    }],
+    "generique": [
+      "Burt Lancaster",
+      "Dean Martin",
+      "Jean Seberg"
+    ],
+    "adaptation": "D'après le roman _Airport_ d'Arthur Hailey."
+  },
+  {
     "titre": "Alamo",
     "titreVo": "Alamo",
     "artVo": "The",
@@ -303,7 +343,7 @@
     "titreVo": "Inosensu",
     "idFilm": 91457,
     "idCycle": 432,
-    "idCategorie": 1982,
+    "idCategorie": 1933,
     "ageMinimal": 0,
     "realisateurs": "Mamoru Oshii",
     "annee": 2003,

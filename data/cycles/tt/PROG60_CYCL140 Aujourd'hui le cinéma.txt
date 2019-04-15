@@ -1,0 +1,91 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>Jean-Charles Hue
+
+<pstyle:TITRE>Topo y Wera
+<pstyle:TECHNIQUE>de Jean-Charles Hue
+<pstyle:TECHNIQUE>France/2018/49'/VOSTF/DCP
+<pstyle:SYNOPSIS>Un jeune coupe très aimant de déportés mexicains survit à Tijuana entre débrouille et petits larcins.
+<pstyle:><cstyle:INFOSBLEUES>lu 03 juinXXX19h00XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance suivie d'une discussion avec Jean-Charles Hue
+<pstyle:TITRE>Wanda
+<pstyle:TECHNIQUE>de Barbara Loden
+<pstyle:TECHNIQUE>États-Unis/1970/105'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Barbara Loden, Michael Higgins, Dorothy Shupenes.
+<pstyle:SYNOPSIS>Mariée et mère de deux enfants, Wanda reste dés<0x0153>uvrée jour après jour, avant que son mari ne décide de divorcer. L'errance commence.
+<pstyle:><cstyle:INFOSBLEUES>lu 03 juinXXX21h00XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Avant-première. Séance présentée par Jean-Charles Hue
+<pstyle:CATEGORIE>David Roux
+
+<pstyle:TITRE>L'Ordre des médecins
+<pstyle:TECHNIQUE>de David Roux
+<pstyle:TECHNIQUE>France-Belgique/2017/93'/DCP
+<pstyle:TECHNIQUE>Avec Jérémie Renier, Marthe Keller, Zita Hanrot.
+<pstyle:SYNOPSIS>Simon est un médecin aguerri. Il côtoie la maladie et la mort tous les jours dans son service de pneumologie et a appris à s'en protéger. Mais quand sa mère est hospitalisée dans une unité voisine, la frontière entre l'intime et le professionnel se brouille.
+<pstyle:><cstyle:INFOSBLEUES>lu 17 juinXXX19h00XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance suivie d'une discussion avec David Roux
+<pstyle:TITRE>Les Moissons du ciel
+<pstyle:TITRE_ANG>(Days of Heaven)
+<pstyle:TECHNIQUE>de Terrence Malick
+<pstyle:TECHNIQUE>États-Unis/1978/93'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Richard Gere, Brooke Adams, Sam Shepard.
+<pstyle:SYNOPSIS>En 1916, Bill, ouvrier dans une fonderie, sa petite amie Abby et sa s<0x0153>ur Linda quittent Chicago pour faire les moissons au Texas. Voyant là l'opportunité de sortir de la misère, Bill pousse Abby à céder aux avances d'un riche fermier, qu'ils savent atteint d'une maladie incurable.
+<pstyle:><cstyle:INFOSBLEUES>lu 17 juinXXX21h30XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance présentée par David Roux
+<pstyle:CATEGORIE>Festival de Brive 2019
+
+<pstyle:TITRE>Ce n'est qu'après
+<pstyle:TECHNIQUE>de Vincent Pouplard
+<pstyle:TECHNIQUE>France/2018/30'/DCP
+<pstyle:SYNOPSIS>Ils ont à peine 20 ans. Ils sont robustes, fragiles, habiles. Ils sont Allia, Hamza, Kilian et Maélis. Ils passent du temps à se dire, à nommer ce qu'ils sont, creux et pleins. Vox Clamantis in Deserto et nous tendons l'oreille. Le film est leur empreinte.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Tsuma Musume Haha
+<pstyle:TECHNIQUE>d'Alain Della Negra, Kaori Kinoshita
+<pstyle:TECHNIQUE>France/2019/31'/VOSTF/DCP
+<pstyle:SYNOPSIS>Une poupée grandeur nature, un avatar, une intelligence artificielle peuvent-ils véritablement aimer<0x00A0>? A travers des histoires d'amour non-réciproques entre humain et non humain, le film montre autant de tentatives d'appartenir au monde et dessine l'avenir du Japon.
+<pstyle:><cstyle:INFOSBLEUES>lu 24 juinXXX19h00XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance suivie d'une discussion avec Vincent Pouplard, Alain Della Negra et Kaori Kinoshita. Séance présentée par Elsa Charbit
+<pstyle:CATEGORIE>Premiers pas
+
+<pstyle:CATEGORIE>Chili, post-scriptum
+
+<pstyle:TITRE>Les S<0x0153>urs Quispe
+<pstyle:TITRE_ANG>(Las Niñas Quispe)
+<pstyle:TECHNIQUE>de Sebastián Sepúlveda
+<pstyle:TECHNIQUE>Chili-France-Argentine/2013/80'/VOSTF/DCP
+<pstyle:TECHNIQUE>D'après la pièce <cSkew:9>Las Brutas<cSkew:> de Juan Radrigán.
+<pstyle:TECHNIQUE>Avec Justa Quispe, Lucía Quispe, Luciana Quispe.
+<pstyle:SYNOPSIS>Chili 1974. Justa, Lucia et Luciana Quispe, trois bergères de l'Altiplano, mènent une vie retirée au rythme de la nature. À son arrivée au pouvoir, Pinochet remet en question ce mode de vie ancestral. Les trois s<0x0153>urs traversent alors une crise existentielle qui aura un retentissement unique dans l'histoire contemporaine du Chili.
+<pstyle:><cstyle:INFOSBLEUES>lu 01 juilXXX19h00XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>La Biographie inventée
+<pstyle:TECHNIQUE>de Nicolas Lasnibat
+<pstyle:TECHNIQUE>France-Chili-Mexique/2017/95'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Anne Alvaro, Michel Bulteau.
+<pstyle:SYNOPSIS>Documentaire? Fiction? Le réalisateur chilien Nicolas Lasnibat, résidant à Paris, reçoit une lettre et un billet à destination de Mexico. L'expéditeur anonyme affirme savoir ce qu'il est advenu de Arturo Belano, écrivain chilien disparu à Mexico en 1999. Est-il vivant? Est-il mort? Le réalisateur part à la recherche de Belano, alter ego de l'écrivain Roberto Bolaño, adoptant le documentaire pour une fiction troublante.
+<pstyle:><cstyle:INFOSBLEUES>lu 01 juilXXX21h00XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance suivie d'une discussion avec Nicolas Lasnibat
+<pstyle:CATEGORIE>Álvaro José Aponte-Centeno
+
+<pstyle:TITRE>Mi santa mirada
+<pstyle:TECHNIQUE>d'Álvaro Aponte-Centeno
+<pstyle:TECHNIQUE>Porto-Rico/2011/15'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Rafael Mercado, Felix Baez.
+<pstyle:SYNOPSIS>Samy est un homme seul, silencieux, qui vit du trafic de drogue. La seule chose qu'il a dans sa vie, c'est son petit frère (dont il se charge) et son cheval. Fatigué d'être un corvéable à merci dans le monde du narcotrafic, il décide un jour de trahir son patron, Papo.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Le Silence du vent
+<pstyle:TITRE_ANG>(El Silencio del Vento)
+<pstyle:TECHNIQUE>d'Álvaro Aponte-Centeno
+<pstyle:TECHNIQUE>Porto-Rico-France/2017/87'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Israel Lugo, Amanda Lugo.
+<pstyle:SYNOPSIS>Un homme tente de faire face après la mort de sa s<0x0153>ur, tout en poursuivant un trafic de migrants sans papiers entre la République Dominicaine et Porto Rico.
+<pstyle:><cstyle:INFOSBLEUES>lu 08 juilXXX20h00XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance présentée par Álvaro Aponte-Centeno

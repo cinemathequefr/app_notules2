@@ -1,0 +1,124 @@
+[
+  {
+    "titre": "8 ½ perdu",
+    "titreVo": "",
+    "idFilm": 141745,
+    "idCycle": 11,
+    "idCategorie": 2005,
+    "ageMinimal": null,
+    "realisateurs": "Lasha Otkhmezuri",
+    "annee": 2018,
+    "pays": "Géorgie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Lasha Otkhmezuri dresse le portrait du cinéaste géorgien Mikhail Kobakhidzé, auteur d'une œuvre fulgurante et poétique : Kobakhidzé par Kobakhidzé. Film inédit (avant-première)."
+      }
+    ]
+  },
+  {
+    "titre": "Carrousel",
+    "titreVo": "",
+    "idFilm": 75047,
+    "idCycle": 11,
+    "idCategorie": 2005,
+    "ageMinimal": 8,
+    "realisateurs": "Mikhail Kobakhidze",
+    "annee": 1962,
+    "pays": "URSS",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans une grande ville, un homme et une femme se sont rencontrés par hasard et finissent par se perdre de la même façon."
+      }
+    ]
+  },
+  {
+    "titre": "En chemin",
+    "titreVo": "",
+    "idFilm": 141743,
+    "idCycle": 11,
+    "idCategorie": 2005,
+    "ageMinimal": null,
+    "realisateurs": "Mikhail Kobakhidze",
+    "annee": 2002,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme qui a perdu tout ce qu'il possède perçoit enfin la liberté qui lui manquait jusque là."
+      }
+    ]
+  },
+  {
+    "titre": "Jeune amour",
+    "titreVo": "Molodaya lioubov",
+    "idFilm": 75046,
+    "idCycle": 11,
+    "idCategorie": 2005,
+    "ageMinimal": 8,
+    "realisateurs": "Mikhail Kobakhidze",
+    "annee": 1961,
+    "pays": "URSS",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un jeune géologue revient d'une expédition. Sa femme ne l'attend pas. Il profite de cette situation pour lui jouer des tours"
+      }
+    ]
+  },
+  {
+    "titre": "Mariage",
+    "art": "Le",
+    "titreVo": "Svad'ba",
+    "idFilm": 41489,
+    "idCycle": 11,
+    "idCategorie": 2005,
+    "ageMinimal": 8,
+    "realisateurs": "Mikhail Kobakhidze",
+    "annee": 1964,
+    "pays": "URSS",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A Tbilissi, un jour, un jeune pharmacien, croise dans le trolleybus le regard d'une jeune femme. La retrouvant par hasard le soir même au Conservatoire, il échange avec elle un regard complice. Il la raccompagne et se voit amoureux et aimé."
+      }
+    ]
+  },
+  {
+    "titre": "Musiciens",
+    "art": "Les",
+    "titreVo": "Musikanty",
+    "idFilm": 71112,
+    "idCycle": 11,
+    "idCategorie": 2005,
+    "ageMinimal": 8,
+    "realisateurs": "Mikhail Kobakhidze",
+    "annee": 1969,
+    "pays": "URSS",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Deux jeunes musiciens se rencontrent. Au début, ils sont heureux, ensuite ils se disputent, et la dispute se transforme en guerre."
+      }
+    ]
+  },
+  {
+    "titre": "Parapluie",
+    "art": "Le",
+    "titreVo": "Zontik",
+    "idFilm": 71113,
+    "idCycle": 11,
+    "idCategorie": 2005,
+    "ageMinimal": 8,
+    "realisateurs": "Mikhail Kobakhidze",
+    "annee": 1966,
+    "pays": "URSS",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un contrôleur de chemin de fer et sa bien-aimée vivent en paix le long d'une voie ferrée. Tout à coup, venu de nulle part, un parapluie entre dans leur vie."
+      }
+    ]
+  }
+]

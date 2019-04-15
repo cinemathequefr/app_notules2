@@ -11,6 +11,13 @@
         "tri": 2
       },
       {
+        "titre": "Courts métrages",
+        "cats": [
+          1992
+        ],
+        "tri": 2
+      },
+      {
         "titre": "Documentaires",
         "cats": [
           1984
@@ -82,107 +89,6 @@
               "idSalle": [
                 "GF",
                 "Georges Franju"
-              ]
-            }
-          ]
-        },
-        {
-          "idCycle": 424,
-          "idCategorie": 1925,
-          "idEvenement": 19086,
-          "films": [
-            {
-              "idFilm": 70506,
-              "titre": "Aquarelle",
-              "titreVo": "Akvareli",
-              "realisateurs": "Otar Iosseliani",
-              "annee": 1958,
-              "pays": "URSS",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Une femme blanchisseuse et son mari ivrogne se disputent. Le mari se réfugie dans un musée."
-                }
-              ],
-              "generique": [
-                "Guennadi Kracheninnikov",
-                "Sofiko Tchiaoureli"
-              ],
-              "duree": 10,
-              "format": "DCP",
-              "version": "VOSTF",
-              "ordre": 1
-            },
-            {
-              "idFilm": 70507,
-              "titre": "Chant de la fleur introuvable",
-              "art": "Le",
-              "titreVo": "Sapovnela",
-              "realisateurs": "Otar Iosseliani",
-              "annee": 1959,
-              "pays": "URSS",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Un homme âgé réalise de belles compositions florales. Les tracteurs envahissent les champs de fleurs."
-                }
-              ],
-              "duree": 20,
-              "format": "DCP",
-              "version": "VOSTF",
-              "ordre": 2
-            },
-            {
-              "idFilm": 70508,
-              "titre": "Fonte",
-              "art": "La",
-              "titreVo": "Toudji",
-              "realisateurs": "Otar Iosseliani",
-              "annee": 1964,
-              "pays": "URSS",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "La dure vie de quatre ouvriers de Rustavi dans une usine métallurgique."
-                }
-              ],
-              "duree": 20,
-              "format": "DCP",
-              "version": "VOSTF",
-              "ordre": 3
-            },
-            {
-              "idFilm": 70509,
-              "titre": "Vieilles chansons Georgiennes",
-              "titreVo": "Starinnaja gruzinskaja pesnja",
-              "realisateurs": "Otar Iosseliani",
-              "annee": 1968,
-              "pays": "URSS",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Un hommage en musique à la culture géorgienne."
-                }
-              ],
-              "duree": 20,
-              "format": "DCP",
-              "version": "VOSTF",
-              "ordre": 4
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2019-05-31T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            },
-            {
-              "dateHeure": "2019-06-09T15:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
               ]
             }
           ]
@@ -295,7 +201,7 @@
               ]
             },
             {
-              "dateHeure": "2019-06-16T20:30:00",
+              "dateHeure": "2019-06-16T20:45:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -438,7 +344,7 @@
               "mention": "Ouverture de la rétrospective"
             },
             {
-              "dateHeure": "2019-06-16T18:00:00",
+              "dateHeure": "2019-06-16T18:15:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -596,7 +502,7 @@
             {
               "idFilm": 41206,
               "titre": "Il était une fois un merle chanteur",
-              "titreVo": "Iqo chachvi mgalobeli – Revoir générique",
+              "titreVo": "Iqo chachvi mgalobeli",
               "realisateurs": "Otar Iosseliani",
               "annee": 1971,
               "pays": "URSS",
@@ -626,7 +532,7 @@
               ]
             },
             {
-              "dateHeure": "2019-06-12T19:30:00",
+              "dateHeure": "2019-06-09T16:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -692,6 +598,24 @@
               "realisateurs": "Otar Iosseliani",
               "annee": 2001,
               "pays": "France-Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Vincent habite dans un petit village où il croise régulièrement les mêmes personnes. Tous les matins, il se rend à l'usine chimique pour travailler, et le soir, il s'occupe de sa famille. Un jour, il décide de partir en voyage avec l'argent donné par son père."
+                },
+                {
+                  "typeTexte": 9,
+                  "texte": "Texte à saisir"
+                }
+              ],
+              "generique": [
+                "Jacques Bidou",
+                "Anne Kravz-Tarnavsky",
+                "Narda Blanchet"
+              ],
+              "duree": 122,
+              "format": "DCP",
+              "version": "",
               "ordre": 1
             }
           ],
@@ -704,7 +628,7 @@
               ]
             },
             {
-              "dateHeure": "2019-06-15T16:45:00",
+              "dateHeure": "2019-06-16T15:45:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -744,7 +668,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2019-06-12T21:30:00",
+              "dateHeure": "2019-06-12T16:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -755,6 +679,113 @@
               "idSalle": [
                 "GF",
                 "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Courts métrages",
+      "tri": 2,
+      "items": [
+        {
+          "idCycle": 424,
+          "idCategorie": 1992,
+          "idEvenement": 19086,
+          "films": [
+            {
+              "idFilm": 70506,
+              "titre": "Aquarelle",
+              "titreVo": "Akvareli",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1958,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une femme blanchisseuse et son mari ivrogne se disputent. Le mari se réfugie dans un musée."
+                }
+              ],
+              "generique": [
+                "Guennadi Kracheninnikov",
+                "Sofiko Tchiaoureli"
+              ],
+              "duree": 10,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            },
+            {
+              "idFilm": 70507,
+              "titre": "Chant de la fleur introuvable",
+              "art": "Le",
+              "titreVo": "Sapovnela",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1959,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un homme âgé réalise de belles compositions florales. Les tracteurs envahissent les champs de fleurs."
+                }
+              ],
+              "duree": 20,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 2
+            },
+            {
+              "idFilm": 70508,
+              "titre": "Fonte",
+              "art": "La",
+              "titreVo": "Toudji",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1964,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "La dure vie de quatre ouvriers de Rustavi dans une usine métallurgique."
+                }
+              ],
+              "duree": 20,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 3
+            },
+            {
+              "idFilm": 70509,
+              "titre": "Vieilles chansons Georgiennes",
+              "titreVo": "Starinnaja gruzinskaja pesnja",
+              "realisateurs": "Otar Iosseliani",
+              "annee": 1968,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un hommage en musique à la culture géorgienne."
+                }
+              ],
+              "duree": 20,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 4
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-05-31T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2019-06-09T15:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
               ]
             }
           ]
@@ -826,6 +857,16 @@
           "version": "",
           "seance": [
             {
+              "idSeance": 30719,
+              "ordre": 1,
+              "idEvenement": 19101,
+              "dateHeure": "2019-06-07T15:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
               "idSeance": 30015,
               "ordre": 1,
               "idEvenement": 19101,
@@ -833,16 +874,6 @@
               "idSalle": [
                 "JE",
                 "Jean Epstein"
-              ]
-            },
-            {
-              "idSeance": 30719,
-              "ordre": 1,
-              "idEvenement": 19101,
-              "dateHeure": "2019-06-10T19:45:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
               ]
             }
           ]
@@ -915,7 +946,7 @@
               "idSeance": 30598,
               "ordre": 1,
               "idEvenement": 19238,
-              "dateHeure": "2019-06-07T19:30:00",
+              "dateHeure": "2019-06-07T20:00:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"

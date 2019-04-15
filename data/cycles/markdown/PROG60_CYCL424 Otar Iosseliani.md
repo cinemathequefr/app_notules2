@@ -11,34 +11,6 @@ Nicolas vit dans un château régi par sa mère, une femme d'affaires autoritair
 - sa 1 juin 15h00 GF  
 - lu 17 juin 19h00 GF
 
-**Aquarelle**  
-**(Akvareli)**  
-d'Otar Iosseliani  
-URSS / 1958 / 10 min / VOSTF / DCP  
-Avec Guennadi Kracheninnikov, Sofiko Tchiaoureli.  
-Une femme blanchisseuse et son mari ivrogne se disputent. Le mari se réfugie dans un musée.  
-suivi de  
-**Le Chant de la fleur introuvable**  
-**(Sapovnela)**  
-d'Otar Iosseliani  
-URSS / 1959 / 20 min / VOSTF / DCP  
-Un homme âgé réalise de belles compositions florales. Les tracteurs envahissent les champs de fleurs.  
-suivi de  
-**La Fonte**  
-**(Toudji)**  
-d'Otar Iosseliani  
-URSS / 1964 / 20 min / VOSTF / DCP  
-La dure vie de quatre ouvriers de Rustavi dans une usine métallurgique.  
-suivi de  
-**Vieilles chansons Georgiennes**  
-**(Starinnaja gruzinskaja pesnja)**  
-d'Otar Iosseliani  
-URSS / 1968 / 20 min / VOSTF / DCP  
-Un hommage en musique à la culture géorgienne.
-
-- ve 31 mai 21h30 GF  
-- di 9 juin 15h30 JE
-
 **Avril**  
 **(Aprili)**  
 d'Otar Iosseliani  
@@ -62,7 +34,7 @@ Avec Amiran Amiranachvili, Dato Gogibedachvili, Guio Tzintsadze, Nino Ordjonikid
 Portraits de brigands du Moyen-Age à aujourd'hui. Bourreaux médiévaux, tortionnaires bolcheviks ou vulgaires mafieux contemporains, ils trahissent et torturent.
 
 - sa 1 juin 21h00 GF  
-- di 16 juin 20h30 GF
+- di 16 juin 20h45 GF
 
 **Chant d'hiver**  
 d'Otar Iosseliani  
@@ -90,7 +62,7 @@ Deux vieilles dames vivent en autarcie dans le vieux château de famille. L'une 
 
 - me 29 mai 20h00 HL  
 Ouverture de la rétrospective  
-- di 16 juin 18h00 GF
+- di 16 juin 18h15 GF
 
 **La Chute des feuilles**  
 **(Giorgobistve)**  
@@ -121,14 +93,14 @@ Des personnages divers se croisent dans Paris : un armurier trompé par sa femme
 - sa 15 juin 19h30 GF
 
 **Il était une fois un merle chanteur**  
-**(Iqo chachvi mgalobeli – Revoir générique)**  
+**(Iqo chachvi mgalobeli)**  
 d'Otar Iosseliani  
 URSS / 1971 / 85 min / VOSTF / DCP  
 Avec Gogi Chkheidze, Guela Kandelaki, Irina Djandieri.  
 Plongée dans la vie d'un jeune percussionniste de l'orchestre d'opéra de Tbilissi. Rêveur et insouciant, il erre dans les rues, au gré de rencontres amicales et sentimentales.
 
 - ve 31 mai 19h30 GF  
-- me 12 juin 19h30 GF
+- di 9 juin 16h30 GF
 
 **Jardins en automne**  
 d'Otar Iosseliani  
@@ -141,10 +113,13 @@ Vincent, un bon vivant, aime le pouvoir et sait profiter de ses fonctions de min
 
 **Lundi matin**  
 d'Otar Iosseliani  
-France-Italie / 2001
+France-Italie / 2001 / 122 min / DCP  
+Avec Jacques Bidou, Anne Kravz-Tarnavsky, Narda Blanchet.  
+Vincent habite dans un petit village où il croise régulièrement les mêmes personnes. Tous les matins, il se rend à l'usine chimique pour travailler, et le soir, il s'occupe de sa famille. Un jour, il décide de partir en voyage avec l'argent donné par son père.  
+Texte à saisir
 
 - me 5 juin 21h30 GF  
-- sa 15 juin 16h45 GF
+- di 16 juin 15h45 GF
 
 **Pastorale**  
 **(Pastorali)**  
@@ -153,8 +128,38 @@ URSS / 1976 / 95 min / VOSTF / DCP
 Avec Rezo Tcharkhalachvili, Lia Tokhadze-Djougueli, Marina Kartsivadze, Nana Iosseliani.  
 Quatre musiciens arrivent de la ville dans un village perdu pour se reposer. Ils logent dans une famille où cohabitent trois générations. La jeune fille de la maison tombe amoureuse de l'un d'eux.
 
-- me 12 juin 21h30 GF  
+- me 12 juin 16h00 GF  
 - me 19 juin 14h30 GF
+
+## Courts métrages
+
+**Aquarelle**  
+**(Akvareli)**  
+d'Otar Iosseliani  
+URSS / 1958 / 10 min / VOSTF / DCP  
+Avec Guennadi Kracheninnikov, Sofiko Tchiaoureli.  
+Une femme blanchisseuse et son mari ivrogne se disputent. Le mari se réfugie dans un musée.  
+suivi de  
+**Le Chant de la fleur introuvable**  
+**(Sapovnela)**  
+d'Otar Iosseliani  
+URSS / 1959 / 20 min / VOSTF / DCP  
+Un homme âgé réalise de belles compositions florales. Les tracteurs envahissent les champs de fleurs.  
+suivi de  
+**La Fonte**  
+**(Toudji)**  
+d'Otar Iosseliani  
+URSS / 1964 / 20 min / VOSTF / DCP  
+La dure vie de quatre ouvriers de Rustavi dans une usine métallurgique.  
+suivi de  
+**Vieilles chansons Georgiennes**  
+**(Starinnaja gruzinskaja pesnja)**  
+d'Otar Iosseliani  
+URSS / 1968 / 20 min / VOSTF / DCP  
+Un hommage en musique à la culture géorgienne.
+
+- ve 31 mai 21h30 GF  
+- di 9 juin 15h30 JE
 
 ## Documentaires
 
@@ -171,8 +176,8 @@ d'Otar Iosseliani
 France / 1993 / 236 min  
 Ce documentaire retrace 2000 ans de l'histoire mouvementée de la Géorgie notamment à travers des documents filmés et des extraits de films. Il est composé de 3 parties : _Prélude_ (86 minutes), _Tentation_ (65 minutes) et _L'Epreuve_ (83 minutes).
 
-- di 9 juin 17h30 JE  
-- lu 10 juin 19h45 GF
+- ve 7 juin 15h30 GF  
+- di 9 juin 17h30 JE
 
 **Un petit monastère en Toscane**  
 d'Otar Iosseliani  
@@ -189,7 +194,7 @@ de Julieeeeeee Bertuccelli
 France / 2006 / 92 min / 35 mm  
 Julie Bertucelli filme son mentor et ami pendant la préparation de son film _Jardins d'automne_. Elle montre son travail de mise en scène, ainsi que ses doutes.
 
-- ve 7 juin 19h30 JE  
+- ve 7 juin 20h00 JE  
 Séance présentée par Julie Bertuccelli
 
 ## Rencontres et conférences

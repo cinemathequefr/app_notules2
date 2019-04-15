@@ -1,0 +1,576 @@
+{
+  "header": {
+    "idCycleProg": 437,
+    "titreCycle": "Voyage dans le cinéma français des années 1940",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          1985
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 60
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 437,
+          "idFilm": 47591,
+          "titre": "Assassinat du père Noël",
+          "art": "L'",
+          "titreVo": "",
+          "realisateurs": "Christian-Jaque",
+          "annee": 1941,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans un village savoyard, le père Cornusse s'apprête à jouer comme chaque année le rôle du père Noël. Tandis que sa fille rêve au prince charmant, le baron du château voisin revient au pays. C'est alors qu'un homme en costume de père Noël est retrouvé mort."
+            }
+          ],
+          "adaptation": "D'après le roman _L'Assassinat du père Noël_ de Pierre Véry.",
+          "generique": [
+            "Harry Baur",
+            "Raymond Rouleau",
+            "Renée Faure"
+          ],
+          "duree": 105,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30694,
+              "ordre": 1,
+              "idEvenement": 19310,
+              "dateHeure": "2019-06-05T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 437,
+          "idFilm": 48587,
+          "titre": "Capitaine Fracasse",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Abel Gance",
+          "annee": 1942,
+          "pays": "France-Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au XVII<sup>e</sup> siècle, un baron ruiné décide, par amour pour une actrice, de suivre une troupe ambulante. Il remplace un comédien et prend le nom de capitaine Fracasse."
+            }
+          ],
+          "generique": [
+            "Fernand Gravey",
+            "Assia Noris",
+            "Jean Weber"
+          ],
+          "duree": 98,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30733,
+              "ordre": 1,
+              "idEvenement": 19312,
+              "dateHeure": "2019-07-24T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 437,
+          "idFilm": 43777,
+          "titre": "Carmen",
+          "titreVo": "",
+          "realisateurs": "Christian-Jaque",
+          "annee": 1942,
+          "pays": "France-Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Séville, 1820. Don José, brigadier de dragons, tombe amoureux fou de la belle gitane Carmen."
+            }
+          ],
+          "adaptation": "D'après la nouvelle « Carmen » de Prosper Mérimée.",
+          "generique": [
+            "Viviane Romance",
+            "Jean Marais",
+            "Lucien Coëdel"
+          ],
+          "duree": 124,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30695,
+              "ordre": 1,
+              "idEvenement": 19314,
+              "dateHeure": "2019-06-06T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 437,
+          "idFilm": 49351,
+          "titre": "Carrefour des enfants perdus",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Léo Joannon",
+          "annee": 1943,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À l'Armistice, trois anciens délinquants décident de fonder une maison de correction à visage humain."
+            }
+          ],
+          "generique": [
+            "René Dary",
+            "A.-M. Julien",
+            "Raymond Bussières",
+            "Jean Mercanton"
+          ],
+          "duree": 110,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30701,
+              "ordre": 1,
+              "idEvenement": 19323,
+              "dateHeure": "2019-07-19T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 437,
+          "idFilm": 49361,
+          "titre": "Comédie du bonheur",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Marcel L'Herbier",
+          "annee": 1940,
+          "pays": "France-Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le banquier Jourdain, que sa famille a fait interner, s'évade de l'asile et se réfugie dans une pension de famille."
+            }
+          ],
+          "adaptation": "D'après la pièce _Samoïé glavnoïé_  de Nicolas Evreinoff.",
+          "generique": [
+            "Michel Simon",
+            "Jacqueline Delubac",
+            "Ramón Novarro"
+          ],
+          "duree": 79,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29951,
+              "ordre": 1,
+              "idEvenement": 19313,
+              "dateHeure": "2019-05-30T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 437,
+          "idFilm": 46629,
+          "titre": "Dernier atout",
+          "titreVo": "",
+          "realisateurs": "Jacques Becker",
+          "annee": 1942,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans une ville imaginaire d'Amérique du Sud, Clarence et Montès, deux aspirants policiers, sortent _ex-aequo_ de l'école de police. Pour les départager, on les charge d'élucider une affaire de meurtre."
+            }
+          ],
+          "generique": [
+            "Raymond Rouleau",
+            "Mireille Balin",
+            "Pierre Renoir"
+          ],
+          "duree": 99,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30697,
+              "ordre": 1,
+              "idEvenement": 19315,
+              "dateHeure": "2019-07-13T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 437,
+          "idFilm": 49093,
+          "titre": "Donne-moi tes yeux",
+          "titreVo": "",
+          "realisateurs": "Sacha Guitry",
+          "annee": 1943,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un célèbre sculpteur, qui vient d'épouser sa jeune modèle, se montre étrangement distant avec elle. Mais elle comprend rapidement qu'il cherche à l'éloigner pour lui dissimuler qu'il est en train de perdre la vue."
+            }
+          ],
+          "generique": [
+            "Sacha Guitry",
+            "Geneviève Guitry",
+            "Aimé Clariond",
+            "Marguerite Moreno"
+          ],
+          "duree": 94,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30708,
+              "ordre": 1,
+              "idEvenement": 19327,
+              "dateHeure": "2019-07-27T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 437,
+          "idFilm": 47999,
+          "titre": "Éternel retour",
+          "art": "L'",
+          "titreVo": "",
+          "realisateurs": "Jean Delannoy",
+          "annee": 1943,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Transposition moderne de la légende de Tristan et Yseult."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré en 2K par SNC."
+            }
+          ],
+          "generique": [
+            "Jean Marais",
+            "Madeleine Sologne",
+            "Jean Murat"
+          ],
+          "duree": 115,
+          "format": "DCP",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30707,
+              "ordre": 1,
+              "idEvenement": 19326,
+              "dateHeure": "2019-07-26T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 437,
+          "idFilm": 47422,
+          "titre": "Madame et le mort",
+          "titreVo": "",
+          "realisateurs": "Louis Daquin",
+          "annee": 1942,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un romancier et une jeune provinciale sont mêlés malgré eux à l'assassinat d'un truand."
+            }
+          ],
+          "generique": [
+            "Henri Guisol",
+            "Renée Saint-Cyr",
+            "Michel Vitold"
+          ],
+          "duree": 100,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30698,
+              "ordre": 1,
+              "idEvenement": 19317,
+              "dateHeure": "2019-07-17T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 437,
+          "idFilm": 49767,
+          "titre": "Opéra-musette",
+          "titreVo": "",
+          "realisateurs": "René Lefèvre, Claude Renoir",
+          "annee": 1941,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lampluche, musicien ambulant, tente de s'approprier la dernière œuvre du grand compositeur Maxence Leroy, qui veut mettre fin à ses jours. Mais le candidat au suicide change d'avis."
+            }
+          ],
+          "generique": [
+            "René Lefèvre",
+            "Saturnin Fabre",
+            "Paulette Dubost",
+            "Ginette Garcin"
+          ],
+          "duree": 91,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29959,
+              "ordre": 1,
+              "idEvenement": 19306,
+              "dateHeure": "2019-05-31T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 437,
+          "idFilm": 46598,
+          "titre": "Pavillon brûle",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Jacques de Baroncelli",
+          "annee": 1941,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Denise, jeune employée d'une mine de cuivre et fiancée à l'ouvrier Daniel, est courtisée par l'ingénieur Risay. Lorsqu'un grave accident se produit, les soupçons se portent sur Daniel, dénoncé par une lettre anonyme."
+            }
+          ],
+          "adaptation": "D'après la pièce _Le Pavillon brûle_ de Steve Passeur.",
+          "generique": [
+            "Pierre Renoir",
+            "Jean Marais",
+            "Bernard Blier",
+            "Élina Labourdette"
+          ],
+          "duree": 86,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30693,
+              "ordre": 1,
+              "idEvenement": 19308,
+              "dateHeure": "2019-06-01T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 437,
+          "idFilm": 48227,
+          "titre": "Roquevillard",
+          "art": "Les",
+          "titreVo": "",
+          "realisateurs": "Jean Dréville",
+          "annee": 1943,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Maurice Roquevillard, fils d'un avocat au barreau de Chambéry, s'enfuit en Italie avec la femme de M<sup>e</sup> Frasne, jetant le déshonneur sur sa famille."
+            }
+          ],
+          "adaptation": "D'après le roman _Les Roquevillard_ d'Henry Bordeaux.",
+          "generique": [
+            "Charles Vanel",
+            "Aimé Clariond",
+            "Jean Pâqui",
+            "Mila Parély"
+          ],
+          "duree": 93,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30704,
+              "ordre": 1,
+              "idEvenement": 19328,
+              "dateHeure": "2019-07-25T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 437,
+          "idFilm": 49496,
+          "titre": "Vie de bohème",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Marcel L'Herbier",
+          "annee": 1942,
+          "pays": "France-Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Quatre jeunes artistes vivent ensemble dans le Quartier latin, partageant avec leurs petites amies l'insouciance et la gaîté de la vie de bohème."
+            }
+          ],
+          "adaptation": "D'après le roman _Scènes de la vie de bohème_ d'Henry Murger.",
+          "generique": [
+            "María Denis",
+            "Louis Jourdan",
+            "Gisèle Pascal"
+          ],
+          "duree": 114,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30702,
+              "ordre": 1,
+              "idEvenement": 19318,
+              "dateHeure": "2019-07-20T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 437,
+          "idFilm": 47328,
+          "titre": "Visiteurs du soir",
+          "art": "Les",
+          "titreVo": "",
+          "realisateurs": "Marcel Carné",
+          "annee": 1942,
+          "pays": "France-Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À la fin du Moyen-Âge, deux ménestrels, Gilles et Dominique, sont envoyés dans un château par le Diable en personne pour y apporter le désespoir."
+            }
+          ],
+          "generique": [
+            "Alain Cuny",
+            "Arletty",
+            "Marie Déa",
+            "Jules Berry"
+          ],
+          "duree": 120,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 30699,
+              "ordre": 1,
+              "idEvenement": 19319,
+              "dateHeure": "2019-07-18T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 437,
+          "idFilm": 51460,
+          "titre": "Volpone",
+          "titreVo": "",
+          "realisateurs": "Maurice Tourneur",
+          "annee": 1940,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Jeté en prison par ses créanciers, puis libéré, le marchand Volpone prépare sa vengeance : faire croire qu'il est à l'article de la mort et qu'il recherche un héritier."
+            }
+          ],
+          "adaptation": "D'après la pièce _Volpone_ de Ben Jonson.",
+          "generique": [
+            "Harry Baur",
+            "Louis Jouvet",
+            "Jacqueline Delubac",
+            "Charles Dullin"
+          ],
+          "duree": 94,
+          "format": "35 mm",
+          "version": "",
+          "seance": [
+            {
+              "idSeance": 29945,
+              "ordre": 1,
+              "idEvenement": 19307,
+              "dateHeure": "2019-05-29T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

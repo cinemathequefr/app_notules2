@@ -1,27 +1,53 @@
 [
   {
     "idCycle": 426,
-    "idCategorie": 1927,
-    "idEvenement": 19118,
-    "idSeance": 29949,
+    "idCategorie": 1936,
+    "idEvenement": 19123,
+    "idSeance": 30518,
     "dateHeure": "2019-05-30T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Maris",
+    "titreEvenement": "John Cassavetes (Hollywood 1965, Paris 1968)",
     "items": [
       {
-        "idFilm": 57072,
+        "idFilm": 65068,
         "ordre": 1,
-        "idSeance": 29949,
-        "idCopie": 284,
-        "duree": 140,
+        "idSeance": 30518,
+        "idCopie": 18413,
+        "duree": 50,
         "version": "VOSTF",
-        "format": "35 mm",
+        "format": "Numérique",
         "valide": 0
       }
     ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19111,
+    "idSeance": 30519,
+    "dateHeure": "2019-05-30T21:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeSeance": 44,
+    "titreEvenement": "Shadows",
+    "items": [
+      {
+        "idFilm": 31061,
+        "ordre": 1,
+        "idSeance": 30519,
+        "idCopie": 16136,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
   },
   {
     "idCycle": 426,
@@ -65,8 +91,8 @@
         "idSeance": 29955,
         "idCopie": 18153,
         "duree": 135,
-        "version": "",
-        "format": "",
+        "version": "VOSTF",
+        "format": "DCP",
         "valide": 0
       }
     ]
@@ -98,23 +124,23 @@
   {
     "idCycle": 426,
     "idCategorie": 1927,
-    "idEvenement": 19111,
-    "idSeance": 29961,
-    "dateHeure": "2019-06-01T17:00:00",
+    "idEvenement": 19118,
+    "idSeance": 30520,
+    "dateHeure": "2019-06-01T16:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Shadows",
+    "titreEvenement": "Maris",
     "items": [
       {
-        "idFilm": 31061,
+        "idFilm": 57072,
         "ordre": 1,
-        "idSeance": 29961,
-        "idCopie": 16136,
-        "duree": 87,
+        "idSeance": 30520,
+        "idCopie": 18171,
+        "duree": 140,
         "version": "VOSTF",
-        "format": "DCP",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -124,7 +150,7 @@
     "idCategorie": 1927,
     "idEvenement": 19106,
     "idSeance": 29962,
-    "dateHeure": "2019-06-01T19:00:00",
+    "dateHeure": "2019-06-01T19:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -148,7 +174,7 @@
     "idCategorie": 1927,
     "idEvenement": 19109,
     "idSeance": 29963,
-    "dateHeure": "2019-06-01T21:15:00",
+    "dateHeure": "2019-06-01T21:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -159,7 +185,7 @@
         "idFilm": 31013,
         "ordre": 1,
         "idSeance": 29963,
-        "idCopie": 18164,
+        "idCopie": 18161,
         "duree": 102,
         "version": "VOSTF",
         "format": "DCP",
@@ -232,9 +258,9 @@
         "ordre": 1,
         "idSeance": 29978,
         "idCopie": 18155,
-        "duree": 0,
-        "version": "",
-        "format": "",
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -242,23 +268,23 @@
   {
     "idCycle": 426,
     "idCategorie": 1935,
-    "idEvenement": 19153,
-    "idSeance": 29979,
+    "idEvenement": 19121,
+    "idSeance": 30724,
     "dateHeure": "2019-06-03T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Intouchables (Les)",
+    "titreEvenement": "Douze salopards (Les)",
     "items": [
       {
-        "idFilm": 53564,
+        "idFilm": 45368,
         "ordre": 1,
-        "idSeance": 29979,
-        "idCopie": 18178,
-        "duree": 96,
-        "version": "",
-        "format": "",
+        "idSeance": 30724,
+        "idCopie": 18174,
+        "duree": 149,
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -266,23 +292,47 @@
   {
     "idCycle": 426,
     "idCategorie": 1935,
-    "idEvenement": 19154,
-    "idSeance": 29998,
-    "dateHeure": "2019-06-07T20:00:00",
+    "idEvenement": 19119,
+    "idSeance": 29989,
+    "dateHeure": "2019-06-06T19:00:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
-    "titreEvenement": "Incubus",
+    "titreEvenement": "Bébé de Rosemary (Le)",
     "items": [
       {
-        "idFilm": 54503,
+        "idFilm": 35811,
         "ordre": 1,
-        "idSeance": 29998,
-        "idCopie": 18177,
-        "duree": 93,
-        "version": "",
-        "format": "",
+        "idSeance": 29989,
+        "idCopie": 18545,
+        "duree": 137,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1936,
+    "idEvenement": 19401,
+    "idSeance": 31399,
+    "dateHeure": "2019-06-07T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Anges de l'enfer (Les)",
+    "items": [
+      {
+        "idFilm": 33096,
+        "ordre": 1,
+        "idSeance": 31399,
+        "idCopie": 18504,
+        "duree": 84,
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -294,8 +344,8 @@
     "idSeance": 29999,
     "dateHeure": "2019-06-07T22:00:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "titreEvenement": "Cible étoilée (La)",
     "items": [
@@ -303,10 +353,10 @@
         "idFilm": 31920,
         "ordre": 1,
         "idSeance": 29999,
-        "idCopie": 18175,
+        "idCopie": 18422,
         "duree": 111,
-        "version": "",
-        "format": "",
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -351,44 +401,10 @@
         "idFilm": 31065,
         "ordre": 1,
         "idSeance": 30004,
-        "idCopie": 18167,
+        "idCopie": 18152,
         "duree": 115,
         "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 426,
-    "idCategorie": 1927,
-    "idEvenement": 19114,
-    "idSeance": 30009,
-    "dateHeure": "2019-06-08T21:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "A pair of boots / My daddy can lick your daddy",
-    "items": [
-      {
-        "idFilm": 75642,
-        "ordre": 1,
-        "idSeance": 30009,
-        "idCopie": 18282,
-        "duree": 48,
-        "version": "",
-        "format": "",
-        "valide": 0
-      },
-      {
-        "idFilm": 75643,
-        "ordre": 2,
-        "idSeance": 30009,
-        "idCopie": 18284,
-        "duree": 22,
-        "version": "",
-        "format": "",
+        "format": "DCP",
         "valide": 0
       }
     ]
@@ -400,8 +416,8 @@
     "idSeance": 30013,
     "dateHeure": "2019-06-09T19:00:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "titreEvenement": "Opening Night",
     "items": [
@@ -413,6 +429,54 @@
         "duree": 144,
         "version": "VOSTF",
         "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1927,
+    "idEvenement": 19116,
+    "idSeance": 30019,
+    "dateHeure": "2019-06-10T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Torrents d'amour",
+    "items": [
+      {
+        "idFilm": 31059,
+        "ordre": 1,
+        "idSeance": 30019,
+        "idCopie": 18154,
+        "duree": 141,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19149,
+    "idSeance": 31386,
+    "dateHeure": "2019-06-10T17:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Homme qui tua la peur (L')",
+    "items": [
+      {
+        "idFilm": 45218,
+        "ordre": 1,
+        "idSeance": 31386,
+        "idCopie": 18176,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -431,7 +495,13 @@
     "items": [
       {
         "idFilm": 65068,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30031,
+        "idCopie": 18413,
+        "duree": 50,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
       }
     ]
   },
@@ -451,10 +521,10 @@
         "idFilm": 35811,
         "ordre": 1,
         "idSeance": 30034,
-        "idCopie": 12459,
+        "idCopie": 18545,
         "duree": 137,
         "version": "VOSTF",
-        "format": "DCP",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -475,7 +545,7 @@
         "idFilm": 57072,
         "ordre": 1,
         "idSeance": 30035,
-        "idCopie": 284,
+        "idCopie": 18171,
         "duree": 140,
         "version": "VOSTF",
         "format": "35 mm",
@@ -514,8 +584,8 @@
     "idSeance": 30039,
     "dateHeure": "2019-06-14T14:30:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "titreEvenement": "Furie",
     "items": [
@@ -523,34 +593,10 @@
         "idFilm": 31442,
         "ordre": 1,
         "idSeance": 30039,
-        "idCopie": 15614,
+        "idCopie": 981,
         "duree": 117,
-        "version": "",
-        "format": "Numérique",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 426,
-    "idCategorie": 1935,
-    "idEvenement": 19149,
-    "idSeance": 30040,
-    "dateHeure": "2019-06-14T17:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "titreEvenement": "Homme qui tua la peur (L')",
-    "items": [
-      {
-        "idFilm": 45218,
-        "ordre": 1,
-        "idSeance": 30040,
-        "idCopie": 18176,
-        "duree": 85,
-        "version": "",
-        "format": "",
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -560,7 +606,7 @@
     "idCategorie": 1927,
     "idEvenement": 19116,
     "idSeance": 30502,
-    "dateHeure": "2019-06-14T20:30:00",
+    "dateHeure": "2019-06-14T21:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -571,10 +617,10 @@
         "idFilm": 31059,
         "ordre": 1,
         "idSeance": 30502,
-        "idCopie": 18172,
+        "idCopie": 18154,
         "duree": 141,
         "version": "VOSTF",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 0
       }
     ]
@@ -584,7 +630,7 @@
     "idCategorie": 1935,
     "idEvenement": 19121,
     "idSeance": 30046,
-    "dateHeure": "2019-06-15T14:30:00",
+    "dateHeure": "2019-06-15T15:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -597,8 +643,8 @@
         "idSeance": 30046,
         "idCopie": 18174,
         "duree": 149,
-        "version": "",
-        "format": "",
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -643,10 +689,10 @@
         "idFilm": 31065,
         "ordre": 1,
         "idSeance": 30049,
-        "idCopie": 18167,
+        "idCopie": 18152,
         "duree": 115,
         "version": "VOSTF",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 0
       }
     ]
@@ -693,8 +739,8 @@
         "idSeance": 30056,
         "idCopie": 18153,
         "duree": 135,
-        "version": "",
-        "format": "",
+        "version": "VOSTF",
+        "format": "DCP",
         "valide": 0
       }
     ]
@@ -728,7 +774,7 @@
     "idCategorie": 1927,
     "idEvenement": 19117,
     "idSeance": 30062,
-    "dateHeure": "2019-06-17T17:00:00",
+    "dateHeure": "2019-06-17T16:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -763,7 +809,7 @@
         "idFilm": 31013,
         "ordre": 1,
         "idSeance": 30068,
-        "idCopie": 18164,
+        "idCopie": 18161,
         "duree": 102,
         "version": "VOSTF",
         "format": "DCP",
@@ -773,10 +819,58 @@
   },
   {
     "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19150,
+    "idSeance": 30076,
+    "dateHeure": "2019-06-20T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Un tueur dans la foule",
+    "items": [
+      {
+        "idFilm": 35750,
+        "ordre": 1,
+        "idSeance": 30076,
+        "idCopie": 12634,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19149,
+    "idSeance": 30077,
+    "dateHeure": "2019-06-20T17:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "titreEvenement": "Homme qui tua la peur (L')",
+    "items": [
+      {
+        "idFilm": 45218,
+        "ordre": 1,
+        "idSeance": 30077,
+        "idCopie": 18176,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
     "idCategorie": 1927,
     "idEvenement": 19107,
     "idSeance": 30503,
-    "dateHeure": "2019-06-20T20:00:00",
+    "dateHeure": "2019-06-20T20:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -788,9 +882,9 @@
         "ordre": 1,
         "idSeance": 30503,
         "idCopie": 18155,
-        "duree": 0,
-        "version": "",
-        "format": "",
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -798,23 +892,71 @@
   {
     "idCycle": 426,
     "idCategorie": 1935,
-    "idEvenement": 19151,
-    "idSeance": 30083,
+    "idEvenement": 19122,
+    "idSeance": 30082,
+    "dateHeure": "2019-06-21T14:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Furie",
+    "items": [
+      {
+        "idFilm": 31442,
+        "ordre": 1,
+        "idSeance": 30082,
+        "idCopie": 981,
+        "duree": 117,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19426,
+    "idSeance": 31398,
     "dateHeure": "2019-06-21T17:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Intouchables (Les)",
+    "items": [
+      {
+        "idFilm": 53564,
+        "ordre": 1,
+        "idSeance": 31398,
+        "idCopie": 18178,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCycle": 426,
+    "idCategorie": 1935,
+    "idEvenement": 19120,
+    "idSeance": 30089,
+    "dateHeure": "2019-06-22T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Libre comme le vent",
+    "titreEvenement": "A bout portant",
     "items": [
       {
-        "idFilm": 35769,
+        "idFilm": 44746,
         "ordre": 1,
-        "idSeance": 30083,
-        "idCopie": 18179,
-        "duree": 84,
-        "version": "",
-        "format": "",
+        "idSeance": 30089,
+        "idCopie": 688,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]

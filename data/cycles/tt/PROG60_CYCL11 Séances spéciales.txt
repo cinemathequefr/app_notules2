@@ -1,0 +1,46 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>Mikhaïl Kobakhidzé
+
+<pstyle:CATEGORIE>Hommage à Mikhail Kobakhidzé
+<pstyle:TITRE>Carrousel
+<pstyle:TECHNIQUE>de Mikhail Kobakhidze
+<pstyle:TECHNIQUE>URSS/1962/11'/35mm
+<pstyle:SYNOPSIS>Dans une grande ville, un homme et une femme se sont rencontrés par hasard et finissent par se perdre de la même façon.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Jeune amour
+<pstyle:TITRE_ANG>(Molodaya lioubov)
+<pstyle:TECHNIQUE>de Mikhail Kobakhidze
+<pstyle:TECHNIQUE>URSS/1961/7'/35mm
+<pstyle:SYNOPSIS>Un jeune géologue revient d'une expédition. Sa femme ne l'attend pas. Il profite de cette situation pour lui jouer des tours
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Le Mariage
+<pstyle:TITRE_ANG>(Svad'ba)
+<pstyle:TECHNIQUE>de Mikhail Kobakhidze
+<pstyle:TECHNIQUE>URSS/1964/21'/35mm
+<pstyle:SYNOPSIS>A Tbilissi, un jour, un jeune pharmacien, croise dans le trolleybus le regard d'une jeune femme. La retrouvant par hasard le soir même au Conservatoire, il échange avec elle un regard complice. Il la raccompagne et se voit amoureux et aimé.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Les Musiciens
+<pstyle:TITRE_ANG>(Musikanty)
+<pstyle:TECHNIQUE>de Mikhail Kobakhidze
+<pstyle:TECHNIQUE>URSS/1969/12'/35mm
+<pstyle:SYNOPSIS>Deux jeunes musiciens se rencontrent. Au début, ils sont heureux, ensuite ils se disputent, et la dispute se transforme en guerre.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Le Parapluie
+<pstyle:TITRE_ANG>(Zontik)
+<pstyle:TECHNIQUE>de Mikhail Kobakhidze
+<pstyle:TECHNIQUE>URSS/1966/18'/35mm
+<pstyle:SYNOPSIS>Un contrôleur de chemin de fer et sa bien-aimée vivent en paix le long d'une voie ferrée. Tout à coup, venu de nulle part, un parapluie entre dans leur vie.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>En chemin
+<pstyle:TECHNIQUE>de Mikhail Kobakhidze
+<pstyle:TECHNIQUE>France/2002/13'/35mm
+<pstyle:SYNOPSIS>Un homme qui a perdu tout ce qu'il possède perçoit enfin la liberté qui lui manquait jusque là.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>8 ½ perdu
+<pstyle:TECHNIQUE>de Lasha Otkhmezuri
+<pstyle:TECHNIQUE>Géorgie/2018/47'/VOSTF/Numérique
+<pstyle:SYNOPSIS>Lasha Otkhmezuri dresse le portrait du cinéaste géorgien Mikhail Kobakhidzé, auteur d'une <0x0153>uvre fulgurante et poétique<0x00A0>: Kobakhidzé par Kobakhidzé. Film inédit (avant-première).
+<pstyle:><cstyle:INFOSBLEUES>me 19 juinXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+

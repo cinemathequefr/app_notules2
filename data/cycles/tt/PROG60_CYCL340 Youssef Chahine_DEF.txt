@@ -1,0 +1,32 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>C'est toi mon amour
+<pstyle:TITRE_ANG>(Enta habibi)
+<pstyle:TECHNIQUE>de Youssef Chahine
+<pstyle:TECHNIQUE>Égypte/1957/120'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Farid El-Atrache, Chadia, Hind Rostom.
+<pstyle:SYNOPSIS>Farid et Yasmina sont cousins. Poussés par leurs familles à se marier afin de cumuler les héritages, ils se détestent et multiplient les ruses pour retrouver leurs amants respectifs.
+<pstyle:INFOS_UTILES>Version restaurée par MISR International.
+<pstyle:><cstyle:INFOSBLEUES>di 23 juinXXX18h00XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Le Sable d'or
+<pstyle:TITRE_ANG>(Rimal min Dhahab)
+<pstyle:TECHNIQUE>de Youssef Chahine
+<pstyle:TECHNIQUE>Égypte/1966/110'/VOSTF/Vidéo
+<pstyle:TECHNIQUE>Avec Faten Hamama, Paul Barge, Duraid Lahham.
+<pstyle:SYNOPSIS>Tarak est amoureux de sa cousine mais elle est déjà promise à un autre cousin, fils du chef de la tribu.
+<pstyle:><cstyle:INFOSBLEUES>ve 28 juinXXX21h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Le Vendeur de bagues
+<pstyle:TITRE_ANG>(Biya el-Khawatim)
+<pstyle:TECHNIQUE>de Youssef Chahine
+<pstyle:TECHNIQUE>Égypte/1965/90'/VOSTF/Numérique
+<pstyle:TECHNIQUE>Avec Fayrouz, Youssef Azar, Nasri Shamseddine.
+<pstyle:SYNOPSIS>Le maire d'un petit village, pour conforter son autorité auprès des habitants, invente l'existence d'un bandit dénommé Rajeh. Effrayés, les villageois hésitent à maintenir la grande fête des célibataires.
+<pstyle:><cstyle:INFOSBLEUES>ve 28 juinXXX19h30XXX
+<cstyle:SALLESBLEUES>C
+

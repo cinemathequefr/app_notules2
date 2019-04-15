@@ -41,42 +41,6 @@
       "items": [
         {
           "idCycle": 426,
-          "idFilm": 75642,
-          "titre": "A Pair of Boots",
-          "titreVo": "",
-          "realisateurs": "John Cassavetes",
-          "annee": 1962,
-          "pays": "États-Unis",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Pendant la guerre de Sécession, un officier sudiste, au terme d'une bataille sanglante, propose un cessez-le-feu à l'ennemi. Mais cette trêve est rompue par un soldat confédéré dément, qui tue un nordiste pour lui voler ses bottes."
-            }
-          ],
-          "generique": [
-            "Seymour Cassel",
-            "Lloyd Bridges",
-            "Royal Dano"
-          ],
-          "duree": 48,
-          "format": "",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 30009,
-              "ordre": 1,
-              "idEvenement": 19114,
-              "dateHeure": "2019-06-08T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ],
-          "precedeSuivi": "Film suivi de _My Daddy Can Lick Your Daddy_ de John Cassavetes."
-        },
-        {
-          "idCycle": 426,
           "idFilm": 31074,
           "titre": "Ballade des sans-espoirs",
           "art": "La",
@@ -104,7 +68,7 @@
               "idSeance": 29962,
               "ordre": 1,
               "idEvenement": 19106,
-              "dateHeure": "2019-06-01T19:00:00",
+              "dateHeure": "2019-06-01T19:15:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -142,9 +106,9 @@
             "Robert Stack",
             "Valerie Curtin"
           ],
-          "duree": 0,
-          "format": "",
-          "version": "",
+          "duree": 83,
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 29978,
@@ -160,7 +124,7 @@
               "idSeance": 30503,
               "ordre": 1,
               "idEvenement": 19107,
-              "dateHeure": "2019-06-20T20:00:00",
+              "dateHeure": "2019-06-20T20:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -204,7 +168,7 @@
               "idSeance": 30062,
               "ordre": 1,
               "idEvenement": 19117,
-              "dateHeure": "2019-06-17T17:00:00",
+              "dateHeure": "2019-06-17T16:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -282,11 +246,11 @@
           "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 29949,
+              "idSeance": 30520,
               "ordre": 1,
               "idEvenement": 19118,
               "titreEvenement": "Maris",
-              "dateHeure": "2019-05-30T20:00:00",
+              "dateHeure": "2019-06-01T16:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -326,15 +290,26 @@
             "Seymour Cassel"
           ],
           "duree": 141,
-          "format": "35 mm",
+          "format": "DCP",
           "version": "VOSTF",
           "seance": [
+            {
+              "idSeance": 30019,
+              "ordre": 1,
+              "idEvenement": 19116,
+              "titreEvenement": "Torrents d'amour",
+              "dateHeure": "2019-06-10T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
             {
               "idSeance": 30502,
               "ordre": 1,
               "idEvenement": 19116,
               "titreEvenement": "Torrents d'amour",
-              "dateHeure": "2019-06-14T20:30:00",
+              "dateHeure": "2019-06-14T21:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -363,8 +338,8 @@
             "Seymour Cassel"
           ],
           "duree": 135,
-          "format": "",
-          "version": "",
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 29955,
@@ -408,7 +383,7 @@
             "Val Avery"
           ],
           "duree": 115,
-          "format": "35 mm",
+          "format": "DCP",
           "version": "VOSTF",
           "seance": [
             {
@@ -434,42 +409,6 @@
               ]
             }
           ]
-        },
-        {
-          "idCycle": 426,
-          "idFilm": 75643,
-          "titre": "My Daddy Can Lick Your Daddy",
-          "titreVo": "",
-          "realisateurs": "John Cassavetes",
-          "annee": 1962,
-          "pays": "États-Unis",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Pappy Davlin est un champion de boxe poids lourd, qui doit défendre son titre... face à son fils"
-            }
-          ],
-          "generique": [
-            "Lloyd Bridges",
-            "Gary Lockwood",
-            "Mary Murphy"
-          ],
-          "duree": 22,
-          "format": "",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 30009,
-              "ordre": 2,
-              "idEvenement": 19114,
-              "dateHeure": "2019-06-08T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ],
-          "precedeSuivi": "Film précédé d'_A Pair of Boots_ de John Cassavetes."
         },
         {
           "idCycle": 426,
@@ -500,8 +439,8 @@
               "idEvenement": 19112,
               "dateHeure": "2019-06-09T19:00:00",
               "idSalle": [
-                "HL",
-                "Henri Langlois"
+                "GF",
+                "Georges Franju"
               ]
             },
             {
@@ -541,14 +480,15 @@
           "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 29961,
+              "idSeance": 30519,
               "ordre": 1,
               "idEvenement": 19111,
-              "dateHeure": "2019-06-01T17:00:00",
+              "dateHeure": "2019-05-30T21:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
-              ]
+              ],
+              "mention": "Ouverture de la rétrospective"
             },
             {
               "idSeance": 30036,
@@ -589,7 +529,7 @@
               "idSeance": 29963,
               "ordre": 1,
               "idEvenement": 19109,
-              "dateHeure": "2019-06-01T21:15:00",
+              "dateHeure": "2019-06-01T21:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -692,6 +632,16 @@
                 "HL",
                 "Henri Langlois"
               ]
+            },
+            {
+              "idSeance": 30089,
+              "ordre": 1,
+              "idEvenement": 19120,
+              "dateHeure": "2019-06-22T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
             }
           ]
         },
@@ -718,8 +668,8 @@
             "Robert Vaughn"
           ],
           "duree": 111,
-          "format": "",
-          "version": "",
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 29999,
@@ -727,8 +677,8 @@
               "idEvenement": 19152,
               "dateHeure": "2019-06-07T22:00:00",
               "idSalle": [
-                "HL",
-                "Henri Langlois"
+                "GF",
+                "Georges Franju"
               ]
             }
           ]
@@ -756,14 +706,24 @@
             "Charles Bronson"
           ],
           "duree": 149,
-          "format": "",
-          "version": "",
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
+            {
+              "idSeance": 30724,
+              "ordre": 1,
+              "idEvenement": 19121,
+              "dateHeure": "2019-06-03T21:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
             {
               "idSeance": 30046,
               "ordre": 1,
               "idEvenement": 19121,
-              "dateHeure": "2019-06-15T14:30:00",
+              "dateHeure": "2019-06-15T15:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -794,8 +754,8 @@
             "Charles Durning"
           ],
           "duree": 117,
-          "format": "Numérique",
-          "version": "",
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30039,
@@ -803,8 +763,18 @@
               "idEvenement": 19122,
               "dateHeure": "2019-06-14T14:30:00",
               "idSalle": [
-                "HL",
-                "Henri Langlois"
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30082,
+              "ordre": 1,
+              "idEvenement": 19122,
+              "dateHeure": "2019-06-21T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
               ]
             }
           ]
@@ -830,50 +800,24 @@
             "Jack Warden"
           ],
           "duree": 85,
-          "format": "",
-          "version": "",
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30040,
+              "idSeance": 31386,
               "ordre": 1,
               "idEvenement": 19149,
-              "dateHeure": "2019-06-14T17:00:00",
+              "dateHeure": "2019-06-10T17:30:00",
               "idSalle": [
-                "HL",
-                "Henri Langlois"
+                "GF",
+                "Georges Franju"
               ]
-            }
-          ]
-        },
-        {
-          "idCycle": 426,
-          "idFilm": 54503,
-          "titre": "Incubus",
-          "titreVo": "",
-          "realisateurs": "John Hough",
-          "annee": 1981,
-          "pays": "Canada",
-          "textes": [
+            },
             {
-              "typeTexte": 9,
-              "texte": "Une petite ville américaine est frappée par une série de viols particulièrement étranges et brutaux. Un médecin et une journaliste mènent l'enquête. Leurs soupçons se portent sur le jeune Tim, sujet à d'étranges cauchemars."
-            }
-          ],
-          "generique": [
-            "John Cassavetes",
-            "John Ireland",
-            "Kerrie Keane",
-            "Helen Hughes"
-          ],
-          "duree": 93,
-          "format": "",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 29998,
+              "idSeance": 30077,
               "ordre": 1,
-              "idEvenement": 19154,
-              "dateHeure": "2019-06-07T20:00:00",
+              "idEvenement": 19149,
+              "dateHeure": "2019-06-20T17:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -904,53 +848,17 @@
             "Gena Rowlands"
           ],
           "duree": 96,
-          "format": "",
-          "version": "",
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 29979,
+              "idSeance": 31398,
               "ordre": 1,
-              "idEvenement": 19153,
-              "dateHeure": "2019-06-03T21:00:00",
+              "idEvenement": 19426,
+              "dateHeure": "2019-06-21T17:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
-              ]
-            }
-          ]
-        },
-        {
-          "idCycle": 426,
-          "idFilm": 35769,
-          "titre": "Libre comme le vent",
-          "titreVo": "Saddle the Wind",
-          "realisateurs": "Robert Parrish",
-          "annee": 1958,
-          "pays": "États-Unis",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Steve Sinclair, pistolero repenti, coule désormais des jours paisibles dans son ranch. Son jeune frère Tony, qui se vante d'être un roi de la gâchette, lui présente sa jolie fiancée. Pour montrer sa suprématie, Tony abat un hors-la-loi puis un fermier, avant de s'en prendre à un homme qui les considère, lui et son frère, comme ses fils."
-            }
-          ],
-          "generique": [
-            "Robert Taylor",
-            "John Cassavetes",
-            "Julie London",
-            "Donald Crisp"
-          ],
-          "duree": 84,
-          "format": "",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 30083,
-              "ordre": 1,
-              "idEvenement": 19151,
-              "dateHeure": "2019-06-21T17:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
               ]
             }
           ]
@@ -976,9 +884,20 @@
             "Sidney Blackmer"
           ],
           "duree": 137,
-          "format": "DCP",
+          "format": "35 mm",
           "version": "VOSTF",
           "seance": [
+            {
+              "idSeance": 29989,
+              "ordre": 1,
+              "idEvenement": 19119,
+              "titreEvenement": "Bébé de Rosemary (Le)",
+              "dateHeure": "2019-06-06T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
             {
               "idSeance": 30034,
               "ordre": 1,
@@ -1026,6 +945,16 @@
                 "HL",
                 "Henri Langlois"
               ]
+            },
+            {
+              "idSeance": 30076,
+              "ordre": 1,
+              "idEvenement": 19150,
+              "dateHeure": "2019-06-20T14:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
             }
           ]
         }
@@ -1049,7 +978,20 @@
               "texte": "En 1965, André Labarthe et Hubert Knapp partent à Hollywood et rencontrent John Cassavetes, le futur chef de file du jeune cinéma indépendant américain. En 1968, ils le retrouvent à Paris à l'occasion de la sortie de _Faces_. De ces rencontres improvisées va naître l'un des épisodes mythiques de la série _Cinéastes de notre temps_."
             }
           ],
+          "duree": 50,
+          "format": "Numérique",
+          "version": "VOSTF",
           "seance": [
+            {
+              "idSeance": 30518,
+              "ordre": 1,
+              "idEvenement": 19123,
+              "dateHeure": "2019-05-30T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
             {
               "idSeance": 30031,
               "ordre": 1,

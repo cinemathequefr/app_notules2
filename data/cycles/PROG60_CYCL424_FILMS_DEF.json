@@ -9,9 +9,14 @@
     "annee": 1998,
     "pays": "France-Suisse-Italie",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Nicolas vit dans un château régi par sa mère, une femme d'affaires autoritaire. Son père boit et joue au train électrique. Nicolas fuit chaque jour le domaine familial pour rejoindre à Paris ses amis, clochards ou voyous."
-    }],
+        "typeTexte": 9,
+        "texte": "Nicolas vit dans un château régi par sa mère, une femme d'affaires autoritaire. Son père boit et joue au train électrique. Nicolas fuit chaque jour le domaine familial pour rejoindre à Paris ses amis, clochards ou voyous."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K, avec le soutien du CNC. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ],
     "generique": [
       "Nico Tarielachvili",
       "Lily Lavina",
@@ -24,7 +29,7 @@
     "titreVo": "Akvareli",
     "idFilm": 70506,
     "idCycle": 424,
-    "idCategorie": 1925,
+    "idCategorie": 1992,
     "ageMinimal": null,
     "realisateurs": "Otar Iosseliani",
     "annee": 1958,
@@ -49,9 +54,14 @@
     "annee": 1961,
     "pays": "URSS",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "De jeunes mariés s'installent dans un appartement neuf, équipé du strict nécessaire, et y vivent heureux. Les habitants de l'immeuble achètent frénétiquement du mobilier, et lorsque le couple se met également à consommer, les querelles éclatent."
-    }],
+        "typeTexte": 9,
+        "texte": "De jeunes mariés s'installent dans un appartement neuf, équipé du strict nécessaire, et y vivent heureux. Les habitants de l'immeuble achètent frénétiquement du mobilier, et lorsque le couple se met également à consommer, les querelles éclatent."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ],
     "generique": [
       "Tania Tchantouria",
       "Guia Tchirakadze",
@@ -69,9 +79,14 @@
     "annee": 1995,
     "pays": "France-Suisse-URSS-Italie",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Quelques portraits de brigands, du Moyen-Âge à aujourd'hui. Bourreaux médiévaux, tortionnaires bolcheviks ou vulgaires mafieux contemporains, ils trahissent et torturent."
-    }],
+        "typeTexte": 9,
+        "texte": "Quelques portraits de brigands, du Moyen-Âge à aujourd'hui. Bourreaux médiévaux, tortionnaires bolcheviks ou vulgaires mafieux contemporains, ils trahissent et torturent."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K,  avec le soutien du CNC. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ],
     "generique": [
       "Amiran Amiranachvili",
       "Dato Gogibedachvili",
@@ -85,7 +100,7 @@
     "titreVo": "Sapovnela",
     "idFilm": 70507,
     "idCycle": 424,
-    "idCategorie": 1925,
+    "idCategorie": 1992,
     "ageMinimal": null,
     "realisateurs": "Otar Iosseliani",
     "annee": 1959,
@@ -106,9 +121,14 @@
     "annee": 2014,
     "pays": "France",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Trois histoires se succèdent, avec un même personnage : une fiction historique sous la Terreur, un conflit violent dans un pays en guerre, et une chronique policière burlesque dans le Paris d'aujourd'hui."
-    }],
+        "typeTexte": 9,
+        "texte": "Trois histoires se succèdent, avec un même personnage : une fiction historique sous la Terreur, un conflit violent dans un pays en guerre, et une chronique policière burlesque dans le Paris d'aujourd'hui."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ],
     "generique": [
       "Rufus",
       "Amiran Amiranachvili",
@@ -127,9 +147,14 @@
     "annee": 2009,
     "pays": "France-Géorgie-Ukraine",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Nicolas, cinéaste géorgien, ne supporte plus les pressions des idéologues qui entravent sa liberté créatrice. Il s'exile en France, où il affrontera une autre forme de censure, économique."
-    }],
+        "typeTexte": 9,
+        "texte": "Nicolas, cinéaste géorgien, ne supporte plus les pressions des idéologues qui entravent sa liberté créatrice. Il s'exile en France, où il affrontera une autre forme de censure, économique."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ],
     "generique": [
       "Dato Tarielachvili",
       "Tamuna Karumidze",
@@ -150,9 +175,14 @@
     "annee": 1991,
     "pays": "France-Allemagne-Italie",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Deux vieilles dames vivent en autarcie dans le vieux château familial. L'une joue du trombone dans la fanfare locale, tandis que l'autre s'enferme dans ses souvenirs. Un jour, l'une meurt et les héritiers se présentent."
-    }],
+        "typeTexte": 9,
+        "texte": "Deux vieilles dames vivent en autarcie dans le vieux château familial. L'une joue du trombone dans la fanfare locale, tandis que l'autre s'enferme dans ses souvenirs. Un jour, l'une meurt et les héritiers se présentent."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K, avec le soutien du CNC. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ],
     "generique": [
       "Narda Blanchet",
       "Pierrette Pompon-Bailhache",
@@ -172,9 +202,14 @@
     "annee": 1966,
     "pays": "URSS",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Fraîchement diplômés de l'Institut d'œnologie de Tbilissi, Niko et Otar entrent dans une coopérative vinicole. Otar, plus âgé et plus assuré, se conforme aux exigences des chefs, alors que Niko, naïf et sincère, éprouve quelques difficultés."
-    }],
+        "typeTexte": 9,
+        "texte": "Fraîchement diplômés de l'Institut d'œnologie de Tbilissi, Niko et Otar entrent dans une coopérative vinicole. Otar, plus âgé et plus assuré, se conforme aux exigences des chefs, alors que Niko, naïf et sincère, éprouve quelques difficultés."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ],
     "generique": [
       "Ramaz Guiorgobiani",
       "Marina Kartsivadze",
@@ -213,9 +248,14 @@
     "annee": 1983,
     "pays": "France",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Film tourné au Pays-Basque à l'été 1982 pendant la préparation de la pastorale jouée et chantée par les habitants de Pagolle."
-    }]
+        "typeTexte": 9,
+        "texte": "Film tourné au Pays-Basque à l'été 1982 pendant la préparation de la pastorale jouée et chantée par les habitants de Pagolle."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ]
   },
   {
     "titre": "Favoris de la lune",
@@ -229,9 +269,14 @@
     "annee": 1984,
     "pays": "France",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Des personnages divers se croisent dans Paris : un armurier trompé par sa femme avec un policier, des clochards qui font sauter une statue, un cambrioleur qui forme son fils..."
-    }],
+        "typeTexte": 9,
+        "texte": "Des personnages divers se croisent dans Paris : un armurier trompé par sa femme avec un policier, des clochards qui font sauter une statue, un cambrioleur qui forme son fils..."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K, avec le soutien du CNC. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ],
     "generique": [
       "Pascal Aubier",
       "Alix de Montaigu",
@@ -245,7 +290,7 @@
     "titreVo": "Toudji",
     "idFilm": 70508,
     "idCycle": 424,
-    "idCategorie": 1925,
+    "idCategorie": 1992,
     "ageMinimal": null,
     "realisateurs": "Otar Iosseliani",
     "annee": 1964,
@@ -266,9 +311,14 @@
     "annee": 1971,
     "pays": "URSS",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Plongée dans la vie d'un jeune percussionniste de l'opéra de Tbilissi. Rêveur et insouciant, il erre dans les rues, au gré de rencontres amicales et sentimentales."
-    }],
+        "typeTexte": 9,
+        "texte": "Plongée dans la vie d'un jeune percussionniste de l'opéra de Tbilissi. Rêveur et insouciant, il erre dans les rues, au gré de rencontres amicales et sentimentales."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ],
     "generique": [
       "Guela Kandelaki",
       "Gogi Chkheidze",
@@ -286,13 +336,44 @@
     "annee": 2005,
     "pays": "France",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Vincent, bon vivant, profite pleinement des avantages que lui confère sa fonction de ministre. Lorsqu'une succession de manifestations le pousse à démissionner, il redécouvre la vie et la liberté loin du pouvoir."
-    }],
+        "typeTexte": 9,
+        "texte": "Vincent, bon vivant, profite pleinement des avantages que lui confère sa fonction de ministre. Lorsqu'une succession de manifestations le pousse à démissionner, il redécouvre la vie et la liberté loin du pouvoir."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ],
     "generique": [
       "Séverin Blanchet",
       "Michel Piccoli",
       "Muriel Motte"
+    ]
+  },
+  {
+    "titre": "Lundi matin",
+    "titreVo": "",
+    "idFilm": 77201,
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "ageMinimal": null,
+    "realisateurs": "Otar Iosseliani",
+    "annee": 2001,
+    "pays": "France-Italie",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Vincent, ouvrier soudeur dans la vallée du Rhône, ne supporte plus la routine de l'usine et les contrariétés de la vie de famille. Un matin, sur un coup de tête, il quitte son village sans prévenir personne et se met en route pour l'Italie."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ],
+    "generique": [
+      "Jacques Bidou",
+      "Anne Kravz-Tarnavsky",
+      "Narda Blanchet",
+      "Radslav Kinski"
     ]
   },
   {
@@ -321,9 +402,14 @@
     "annee": 1976,
     "pays": "URSS",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Quatre musiciens arrivent de la ville dans un village perdu pour se reposer. Ils logent dans une famille où cohabitent trois générations. La jeune fille de la maison tombe amoureuse de l'un d'eux."
-    }],
+        "typeTexte": 9,
+        "texte": "Quatre musiciens arrivent de la ville dans un village perdu pour se reposer. Ils logent dans une famille où cohabitent trois générations. La jeune fille de la maison tombe amoureuse de l'un d'eux."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ],
     "generique": [
       "Nana Iosseliani",
       "Rezo Tcharkhalachvili",
@@ -342,9 +428,14 @@
     "annee": 1982,
     "pays": "France",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Série de saynètes entrecoupées de plans tournés dans les rues de Paris, en hommage affectueux à la ville et à ses habitants."
-    }],
+        "typeTexte": 9,
+        "texte": "Série de saynètes entrecoupées de plans tournés dans les rues de Paris, en hommage affectueux à la ville et à ses habitants."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ],
     "generique": [
       "Philippe Cousin",
       "Otar Iosseliani",
@@ -362,9 +453,14 @@
     "annee": 1993,
     "pays": "France",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Documentaire en trois parties (_Prélude_, _Tentation_ et _L'Épreuve_), qui retrace 2000 ans de l'histoire mouvementée de la Géorgie à travers des documents filmés et des extraits de films."
-    }]
+        "typeTexte": 9,
+        "texte": "Documentaire en trois parties (_Prélude_, _Tentation_ et _L'Épreuve_), qui retrace 2000 ans de l'histoire mouvementée de la Géorgie à travers des documents filmés et des extraits de films."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ]
   },
   {
     "titre": "Un petit monastère en Toscane",
@@ -377,23 +473,33 @@
     "annee": 1988,
     "pays": "France",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Autour des prières, chants, réfections de manuscrits et offices, la vie de cinq moines augustins français dans un petit monastère de Toscane."
-    }]
+        "typeTexte": 9,
+        "texte": "Autour des prières, chants, réfections de manuscrits et offices, la vie de cinq moines augustins français dans un petit monastère de Toscane."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ]
   },
   {
     "titre": "Vieilles chansons géorgiennes",
     "titreVo": "Starinnaja gruzinskaja pesnja",
     "idFilm": 70509,
     "idCycle": 424,
-    "idCategorie": 1925,
+    "idCategorie": 1992,
     "ageMinimal": null,
     "realisateurs": "Otar Iosseliani",
     "annee": 1968,
     "pays": "URSS",
     "textes": [{
-      "typeTexte": 9,
-      "texte": "Un hommage en musique à la culture géorgienne."
-    }]
+        "typeTexte": 9,
+        "texte": "Un hommage en musique à la culture géorgienne."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Films restaurés par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich."
+      }
+    ]
   }
 ]

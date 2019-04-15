@@ -67,7 +67,7 @@
     ]
   },
   {
-    "titre": "Lucia",
+    "titre": "Lucía",
     "titreVo": "",
     "idFilm": 141182,
     "idCycle": 431,
@@ -158,6 +158,11 @@
         "typeTexte": 99,
         "texte": "Fim inédit en France."
       }
+    ],
+    "generique": [
+      "Matias Oviedo",
+      "Antonia Zegers",
+      "Alejandro Goic"
     ]
   },
   {

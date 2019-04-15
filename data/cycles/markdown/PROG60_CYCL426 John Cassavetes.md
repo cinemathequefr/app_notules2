@@ -2,135 +2,129 @@
 
 ## Les films
 
-**A pair of boots**  
-de John Cassavetes  
-États-Unis / 1962 / 48 min  
-Avec Seymour Cassel, Lloyd Bridges, Royal Dano.  
-Pendant la guerre de Sécession, un officier sudiste, au terme d'une bataille sanglante, propose un cessez-le-feu a son collègue nordiste. Mais cet arrêt est violé par un soldat confédéré dément qui tue un nordiste uniquement pour lui voler ses bottes!  
-Film suivi de _My daddy can lick your daddy_ de John Cassavetes.
-
-- sa 8 juin 21h30 GF  
-Film suivi de _My daddy can lick your daddy_ de John Cassavetes.
-
+[31065]  
 **Ainsi va l'amour**  
 **(Minnie and Moskowitz)**  
 de John Cassavetes  
-États-Unis / 1971 / 115 min / VOSTF / 35 mm  
+États-Unis / 1971 / 115 min / VOSTF / DCP  
 Avec Gena Rowlands, Seymour Cassel, Val Avery, John Cassavetes.  
-Un beatnik vieillissant et gardien de parking rencontre une blonde sophistiquée travaillant au Musée. Tout les sépare sauf leur solitude, leur maladresse et leur admiration pour Bogart.
+Seymour Moskowitz, beatnik vieillissant, gardien de parking, quitte New York pour Los Angeles. Il y rencontre Minnie Moore, une blonde sophistiquée employée dans un musée. Tout les sépare, excepté leur solitude et leur maladresse.
 
 - sa 8 juin 18h30 HL  
 - sa 15 juin 21h00 HL
 
+[31048]  
 **Le Bal des vauriens = Meurtre d'un bookmaker chinois**  
-**(The Killing of a chinese bookie)**  
+**(The Killing of a Chinese Bookie)**  
 de John Cassavetes  
-États-Unis / 1976 / 135 min  
+États-Unis / 1976 / 135 min / VOSTF / DCP  
 Avec Ben Gazzara, Haji.  
-Cosmo Vitelli vient de rembourser la dernière hypothèque de sa boîte de nuit et fête l'événement à une table de jeux où il perd une très grosse somme d'argent. La pègre lui propose une alternative : pour éponger sa dette, il doit assassiner un vieux bookmaker chinois devenu gênant.
+Cosmo Vitelli vient de rembourser la dernière hypothèque de sa boîte de nuit et fête l'événement à une table de jeux, où il perd une très grosse somme d'argent. La pègre lui propose, pour éponger sa dette, d'assassiner un vieux bookmaker chinois devenu gênant.
 
 - ve 31 mai 19h00 HL  
 - di 16 juin 19h00 HL
 
-**La Ballade des sans-espoirs**  
-**(Too late blues)**  
+[31074]  
+**La Ballade des sans-espoir**  
+**(Too Late Blues)**  
 de John Cassavetes  
 États-Unis / 1961 / 98 min / VOSTF / 35 mm  
-Avec Bobby Darin, Stella Stevens, John Cassavetes, J. Alan Hopkins.  
-Chronique de la vie d'un groupe de musiciens de jazz qui refusent, en vain, de se soumettre a un monde conformiste et hostile. OU George, qui dirige un groupe de jazz, le quitte et devient l'amant d'une comtesse. Il est engagé comme pianiste dans les bars à la mode. Il tente un jour de retrouver ses anciens compagnons.
+Avec Bobby Darin, Stella Stevens, John Cassavetes.  
+Chronique de la vie d'un groupe de musiciens de jazz qui refusent, en vain, de se soumettre à un monde conformiste et hostile.
 
-- sa 1 juin 19h00 HL  
+- sa 1 juin 19h15 HL  
 - di 16 juin 21h45 HL
 
+[80369]  
 **Big Trouble**  
 de John Cassavetes  
-États-Unis / 1984  
+États-Unis / 1984 / 83 min / VOSTF / 35 mm  
 Avec Peter Falk, Robert Stack, Valerie Curtin.  
-Parce qu'il a besoin d'argent pour envoyer ses fils triplés faire leurs études à Yale, un courtier en assurances accepte d'assurer sur la vie le mari d'une blonde et d'aider celui-ci à mourir. L'époux, gravement malade, souhaite, soi-disant, qu'on mette fin à ses jours. Le pauvre courtier n'est pas au bout de ses peines avec ce couple insolite. Particulièrement avec le mari, un escroc qui regorge d'idées ....
+Parce qu'il a besoin d'argent pour envoyer ses fils étudier à Yale, un courtier en assurances accepte d'établir un contrat frauduleux pour un couple étrange.
 
 - lu 3 juin 19h00 GF  
-- je 20 juin 20h00 GF
+- je 20 juin 20h30 GF
 
+[31041]  
 **Faces**  
 de John Cassavetes  
-États-Unis / 1968 / 130 min / VOSTF / DCP  
+États-Unis / 1965 / 130 min / VOSTF / DCP  
 Avec Gena Rowlands, John Marley, Lynn Carlin.  
-Richard et Freddie rencontrent dans un bar une call-girl, Jeannie, qui les emmène chez elle. À son retour chez lui, Richard se dispute avec sa femme, Maria, claque la porte et repart chez Jeannie. Maria, à son tour, décide de passer la nuit dehors.
+Richard et Freddie rencontrent dans un bar une call-girl, Jeannie, qui les entraîne chez elle. De retour chez lui, Richard se dispute avec sa femme, Maria, et repart chez Jeannie. Maria décide à son tour de passer la nuit dehors.
 
 - sa 8 juin 14h30 HL  
-- lu 17 juin 17h00 HL
+- lu 17 juin 16h30 HL
 
+[31044]  
 **Gloria**  
 de John Cassavetes  
 États-Unis / 1979 / 123 min / VOSTF / 35 mm  
-Avec Gena Rowlands, John Adames, Julie Carmen, Buck Henry.  
-Après le massacre de sa famille par la mafia, un enfant en possession de documents compromettants est recueilli par sa voisine, une ancienne actrice.
+Avec Gena Rowlands, John Adames, Julie Carmen.  
+Gloria, New-Yorkaise solitaire et ancienne maîtresse d'un gangster, recueille le jeune fils de ses voisins de palier, assassinés par la mafia. Elle décide de s'enfuir avec lui pour le protéger de la pègre.
 
 - di 2 juin 20h00 HL  
 - sa 22 juin 16h30 HL
 
-**Maris**  
-**(Husbands)**  
+[57072]  
+**Husbands**  
 de John Cassavetes  
-États-Unis / 1970 / 140 min / VOSTF / 35 mm  
-Avec John Cassavetes, Ben Gazzara, Peter Falk, Jenny Runacre.  
-Trois amis font une virée de plusieurs jours après avoir appris la mort d'un de leurs anciens camarades.
+États-Unis / 1969 / 140 min / VOSTF / 35 mm  
+Avec John Cassavetes, Ben Gazzara, Peter Falk.  
+Après avoir enterré l'un de leurs amis, trois quadragénaires plutôt tranquilles quittent tout et partent pour une virée de plusieurs jours.
 
-- je 30 mai 20h00 HL  
+- sa 1 juin 16h30 HL  
 - je 13 juin 19h00 HL
 
-**My daddy can lick your daddy**  
+[31059]  
+**Love Streams (Torrents d'amour)**  
+**(Love Streams)**  
 de John Cassavetes  
-États-Unis / 1962 / 22 min  
-Avec Lloyd Bridges, Gary Lockwood, Mary Murphy.  
-Pappy Davlin est un champion de boxe poids lourd, qui doit défendre son titre... face à son fils  
-Film précédé d'_A pair of boots_ de John Cassavetes.
+États-Unis / 1983 / 141 min / VOSTF / DCP  
+D'après la pièce _Love Streams_ de Ted Allan.  
+Avec John Cassavetes, Gena Rowlands, Diahnne Abbott, Seymour Cassel.  
+Les tendres et solides relations entre un frère et une sœur. Lui, écrivain, fêtard et alcoolique, est entouré de filles vénales, et ne réussit pas à communiquer avec son jeune fils. Elle, brisée par son récent divorce, ne parvient pas à oublier son mari et sa fille.
 
-- sa 8 juin 21h30 GF  
-Film précédé d'_A pair of boots_ de John Cassavetes.
+- lu 10 juin 17h00 HL  
+- ve 14 juin 21h30 HL
 
+[31070]  
 **Opening Night**  
 de John Cassavetes  
 États-Unis / 1977 / 144 min / VOSTF / DCP  
-Avec John Cassavetes, Gena Rowlands, Joan Blondell, Ben Gazzara.  
-Après une représentation, la comédienne Myrtle Gordon assiste à la mort accidentelle d'une admiratrice. Plongée dans l'angoisse, hantée par le fantôme de la jeune morte, elle se noie dans le whisky alors qu'elle incarne le rôle d'une femme désespérée
+Avec John Cassavetes, Gena Rowlands, Joan Blondell.  
+Après une représentation, la comédienne Myrtle Gordon assiste à la mort accidentelle d'une admiratrice. Elle se noie dans le whisky, bouleversée par ce décès, alors qu'elle doit justement interpréter le rôle d'une femme désespérée.
 
-- di 9 juin 19h00 HL  
+- di 9 juin 19h00 GF  
 - di 16 juin 14h30 HL
 
+[31061]  
 **Shadows**  
 de John Cassavetes  
 États-Unis / 1959 / 87 min / VOSTF / DCP  
-Avec Ben Carruthers, Lelia Goldoni, Hugh Hurd, Anthony Ray.  
-Benny, Hugh et Lélia sont frères et sœur et partagent le même appartement à New York. Alors que Benny passe ses journées dans les rues, les bars et autres lieux, Hugh tente de faire carrière comme chanteur de jazz. Lélia, quant à elle, veut être écrivain.
+Avec Ben Carruthers, Lelia Goldoni.  
+Benny, Hugh et Lelia sont trois jeunes afro-américains, frères et sœur, et partagent le même appartement à New York. Alors que Benny passe ses journées entre la rue et les bars, Hugh tente de faire carrière comme chanteur de jazz. Lelia, quant à elle, rêve d'écrire.
 
-- sa 1 juin 17h00 HL  
+- je 30 mai 21h00 HL  
+Ouverture de la rétrospective  
 - je 13 juin 21h45 HL
 
-**Torrents d'amour**  
-**(Love Streams)**  
-de John Cassavetes  
-États-Unis / 1983 / 141 min / VOSTF / 35 mm  
-Avec John Cassavetes, Gena Rowlands, Diahnne Abbott, Seymour Cassel.  
-Les tendres et solides relations entre un frère et une sœur. Lui, écrivain, passe son temps, entouré de filles vénales et ne réussit pas a établir le contact avec son jeune fils. Elle, brisée par son récent divorce, et de retour d'un voyage en Europe, n'arrive pas a oublier son mari et sa fille.
-
-- ve 14 juin 20h30 HL
-
+[31013]  
 **Un enfant attend**  
 **(A Child Is Waiting)**  
 de John Cassavetes  
 États-Unis / 1962 / 102 min / VOSTF / DCP  
-Avec Burt Lancaster, Judy Garland, Gena Rowlands, Bruce Ritchey.  
-Dans une institution spécialisée qui accueille des enfants autistes et trisomiques, une professeur de musique, en désaccord avec les méthodes du directeur psychanalyste, s'attache à un enfant rebelle à toute vie de groupe.
+Avec Burt Lancaster, Judy Garland, Gena Rowlands.  
+Dans une institution spécialisée qui accueille des enfants autistes et trisomiques, une professeur de musique, en désaccord avec les méthodes du directeur, s'attache à un enfant rétif.
 
-- sa 1 juin 21h15 HL  
+- sa 1 juin 21h30 HL  
 - me 19 juin 17h00 GF
 
+[31019]  
 **Une femme sous influence**  
-**(A woman under the influence)**  
+**(A Woman Under the Influence)**  
 de John Cassavetes  
 États-Unis / 1974 / 146 min / VOSTF / DCP  
-Avec Peter Falk, Gena Rowlands, Fred Draper, Lady Rowlands.  
+Avec Gena Rowlands, Peter Falk, Fred Draper.  
 Face à l'indifférence de son mari et sous la pression exercée par son milieu social, une femme glisse peu à peu vers la folie.
 
 - di 2 juin 17h00 HL  
@@ -138,108 +132,118 @@ Face à l'indifférence de son mari et sous la pression exercée par son milieu 
 
 ## John Cassavetes acteur
 
+[44746]  
 **A bout portant**  
 **(The Killers)**  
 de Don Siegel  
 États-Unis / 1964 / 95 min / VOSTF / 35 mm  
 D'après le roman _The Killers_ d'Ernest Hemingway.  
-Avec Lee Marvin, John Cassavetes, Angie Dickinson, Ronald Reagan.  
+Avec Lee Marvin, John Cassavetes, Angie Dickinson.  
 Après l'exécution d'un contrat, deux tueurs cherchent à connaître le passé de leur victime.
 
-- sa 1 juin 14h30 HL
+- sa 1 juin 14h30 HL  
+- sa 22 juin 14h30 HL
 
+[35811]  
 **Le Bébé de Rosemary**  
 **(Rosemary's Baby)**  
 de Roman Polanski  
-États-Unis / 1967 / 137 min / VOSTF / DCP  
+États-Unis / 1967 / 137 min / VOSTF / 35 mm  
 D'après le roman _Rosemary's baby_ d'Ira Levin.  
-Avec John Cassavetes, Mia Farrow, Ruth Gordon, Sidney Blackmer.  
-Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un immeuble new-yorkais vétuste, considéré par leur ami Hutch comme une demeure maléfique. Aussitôt, leurs voisins, Minnie et Roman Castevet, imposent leur amitié et leurs services. Rosemary s'en inquiète
+Avec John Cassavetes, Mia Farrow, Ruth Gordon.  
+Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un ancien immeuble de Manhattan, que leur fidèle ami Hutch juge maléfique. Leurs voisins, un couple de retraités excentriques, se montrent rapidement envahissants.
 
+- je 6 juin 19h00 GF  
 - je 13 juin 16h15 HL
 
+[31920]  
 **La Cible étoilée**  
 **(Brass Target)**  
 de John Hough  
-États-Unis / 1978 / 111 min  
+États-Unis / 1978 / 111 min / VOSTF / 35 mm  
 D'après le roman _The Algonquin project_ de Frederick Nolan.  
-Avec Sophia Loren, John Cassavetes, George Kennedy, Robert Vaughn.  
-Août 1945 en Allemagne. Un convoi d'or réquisitionné par les armées occupantes est dévalisé. Les Soviétiques accusent les Américains. Patton décide de mener son enquête mais disparaît dans un accident de voiture mystérieux.
+Avec Sophia Loren, John Cassavetes, George Kennedy.  
+Août 1945, en Allemagne. L'or de la banque fédérale, réquisitionné par les alliés, est dérobé lors d'un transfert. Les Soviétiques accusant les Américains, le général Patton décide de mener lui-même l'enquête.
 
-- ve 7 juin 22h00 HL
+- ve 7 juin 22h00 GF
 
+[45368]  
 **Les Douze salopards**  
 **(The Dirty Dozen)**  
 de Robert Aldrich  
-États-Unis / 1966 / 149 min  
+États-Unis / 1966 / 149 min / VOSTF / 35 mm  
 D'après le roman _The Dirty Dozen_ d'E.M. Nathanson.  
-Avec Lee Marvin, Ernest Borgnine, Charles Bronson, Jim Brown.  
-En 1944, douze soldats américains, condamnés à mort ou à de fortes peines, ont pour mission d'attaquer un château abritant des officiers allemands.
+Avec Lee Marvin, Ernest Borgnine, Charles Bronson.  
+En 1944, douze soldats américains, condamnés à mort ou à de fortes peines, ont pour mission d'attaquer un château abritant de hauts dignitaires nazis, en échange d'une possible amnistie.
 
-- sa 15 juin 14h30 HL
+- lu 3 juin 21h00 GF  
+- sa 15 juin 15h00 HL
 
+[31442]  
 **Furie**  
 **(The Fury)**  
 de Brian De Palma  
-États-Unis / 1978 / 117 min / Numérique  
+États-Unis / 1978 / 117 min / VOSTF / 35 mm  
 D'après le roman _Furie_ de John Farris.  
-Avec Kirk Douglas, John Cassavetes, Carrie Snodgress, Charles Durning.  
-Le père d'un jeune homme doué de pouvoirs de voyance se met à la recherche de son fils. Celui-ci a été enlevé par une agence de contre-espionnage qui veut utiliser ses aptitudes paranormales à des fins politiques. L'homme est aidé par une jeune étudiante dotée des mêmes pouvoirs que ceux de son fils.
+Avec Kirk Douglas, John Cassavetes, Daryl Hannah.  
+Un jeune homme doué de perception extrasensorielle est enlevé par une agence de contre-espionnage qui veut utiliser ses aptitudes paranormales à des fins politiques. Son père le recherche activement, aidé par une jeune étudiante dotée des mêmes pouvoirs.
 
-- ve 14 juin 14h30 HL
+- ve 14 juin 14h30 GF  
+- ve 21 juin 14h30 GF
 
+[45218]  
 **L'Homme qui tua la peur**  
 **(Edge of the City)**  
 de Martin Ritt  
-États-Unis / 1956 / 85 min  
+États-Unis / 1956 / 85 min / VOSTF / 35 mm  
+D'après _A Man Is Ten Feet Tall_, épisode de la série télé _The Philco Television Playhouse_ de Robert Alan Aurthur.  
 Avec John Cassavetes, Sidney Poitier, Jack Warden.  
-Un déserteur trouve un emploi de docker grâce à un Noir qui devient son ami.
+Un déserteur trouve un emploi dans les docks, où il se lie avec un ouvrier noir. Mais leur amitié irrite le chef de chantier.
 
-- ve 14 juin 17h00 HL
+- lu 10 juin 17h30 GF  
+- je 20 juin 17h00 HL
 
-**Incubus**  
-de John Hough  
-Canada / 1981 / 93 min  
-Avec John Cassavetes, John Ireland, Kerrie Keane, Helen Hughes.  
-Une petite ville américaine est frappée par une série de viols particulièrement étranges et brutaux. Un médecin et une journaliste mènent l'enquête, leur soupçon se porte sur le jeune Tim, sujet à d'étranges cauchemars.
-
-- ve 7 juin 20h00 HL
-
+[53564]  
 **Les Intouchables**  
 **(Gli Intoccabili)**  
 de Giuliano Montaldo  
-Italie / 1968 / 96 min  
+Italie / 1968 / 96 min / VOSTF / 35 mm  
 Avec John Cassavetes, Florinda Bolkan, Peter Falk, Gena Rowlands.  
-Un parrain de la mafia parvient à faire sortir de prison le gangster Hank McCain, après douze années de détention. Jack, son fils, le convainc alors de participer à un vol dans un casino de Las Vegas.
+Hank McCain vient de sortir de prison après douze années de détention. Son fils Jack le convainc de dévaliser un casino de Las Vegas appartenant à la mafia.
 
-- lu 3 juin 21h00 GF
+- ve 21 juin 17h00 GF
 
-**Libre comme le vent**  
-**(Saddle the Wind)**  
-de Robert Parrish  
-États-Unis / 1958 / 84 min  
-Avec Robert Taylor, John Cassavetes, Julie London, Donald Crisp.  
- Steve Sinclair est un pistolero repenti et coule maintenant des jours paisibles dans son ranch. Son jeune frère Tony ne s'est pas retiré de la vie tumultueuse des affrontements aux revolvers et se vante d'être un roi de la gâchette. Ayant fait la connaissance de la belle Joan Blake, chanteuse dans un saloon, il vient présenter à son frère sa future fiancée. Afin de prouver qu'il est le meilleur tireur des alentours il abat un hors-la-loi qui s'en prenait à son frère avant de s'attaquer à Clay Ellison, un ancien soldat confédéré revendiquant un bout de terrain soit disant commun...
-
-- ve 21 juin 17h00 HL
-
+[35750]  
 **Un tueur dans la foule**  
 **(Two-minute Warning)**  
 de Larry Peerce  
 États-Unis / 1976 / 115 min / VOSTF / Numérique  
 D'après le roman _Two-Minute Warning_ de George La Fountaine.  
-Avec Charlton Heston, John Cassavetes, Martin Balsam, Beau Bridges.  
-Un tireur embusqué menace de tirer sur la foule lors d'un match de championnat de football américain dans le Los Angeles Memorial Coliseum. Repéré par une caméra, il est traqué par le capitaine Peter Holly et le sergent Button, associés pour l'arrêter avant la fin du match.
+Avec John Cassavetes, Charlton Heston, Beau Bridges.  
+Un tireur embusqué menace de tirer sur la foule lors d'un match de championnat de football américain au Los Angeles Memorial Coliseum. Repéré par une caméra, il est traqué par le capitaine Peter Holly et le sergent Button, qui doivent l'intercepter avant la fin du match.
 
-- ve 31 mai 16h30 HL
+- ve 31 mai 16h30 HL  
+- je 20 juin 14h30 GF
 
 ## Autour de John Cassavetes
 
+[33096]  
+**Les Anges de l'enfer**  
+**(Devil's Angels)**  
+de Daniel Haller  
+États-Unis / 1967 / 84 min / VOSTF / 35 mm  
+Avec John Cassavetes, Beverly Adams, Mimsy Farmer.  
+Cody et sa bande de blousons noirs les « skulls » vivent en marge de la société et décident de quitter la ville dans laquelle ils sont à présent trop connus des services de police. Ils arrivent bientôt dans la petite ville de Brookville qui parait déserte ...
+
+- ve 7 juin 20h00 GF
+
+[65068]  
 **John Cassavetes (Hollywood 1965, Paris 1968)**  
 de Hubert Knapp, André S. Labarthe  
-France / 1998  
-En 1965, André Labarthe et Hubert Knapp partent à Hollywood et rencontrent John Cassavetes, le futur chef de file du jeune cinéma indépendant américain. En 1968, ils le retrouvent à Paris à l'occasion de la sortie de Faces. De ces rencontres improvisées va naître l'un des films mythiques de la série _Cinéastes de notre temps_.
+France / 1998 / 50 min / VOSTF / Numérique  
+En 1965, André Labarthe et Hubert Knapp partent à Hollywood et rencontrent John Cassavetes, le futur chef de file du jeune cinéma indépendant américain. En 1968, ils le retrouvent à Paris à l'occasion de la sortie de _Faces_. De ces rencontres improvisées va naître l'un des épisodes mythiques de la série _Cinéastes de notre temps_.
 
+- je 30 mai 20h00 HL  
 - me 12 juin 20h30 JE
 
 ## Rencontres et conférences

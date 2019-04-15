@@ -1,0 +1,249 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>Jeune public
+
+<pstyle:CATEGORIE> Wallace, gromit et Compagnie (programme de Courts métrage)
+<pstyle:TITRE>Grand Morph's Home Movies
+<pstyle:TECHNIQUE>de Peter Lord
+<pstyle:TECHNIQUE>Grande-Bretagne/1980
+<pstyle:SYNOPSIS>Tout s'invente, tout se transforme, tout s'anime<0x00A0>! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur<0x00A0>!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Wallace et Gromit<0x00A0>: Une grande excursion
+<pstyle:TITRE_ANG>(Wallace and Gromit<0x00A0>: A Grand Day Out)
+<pstyle:TECHNIQUE>de Nick Park
+<pstyle:TECHNIQUE>Grande-Bretagne/1989/23'/VF/DCP
+<pstyle:SYNOPSIS>Tout s'invente, tout se transforme, tout s'anime<0x00A0>! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur<0x00A0>!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Pib et Pog
+<pstyle:TITRE_ANG>(Pib and Pog)
+<pstyle:TECHNIQUE>d'Anonyme
+<pstyle:TECHNIQUE>Grande-Bretagne/1994/6'/Numérique
+<pstyle:SYNOPSIS>Tout s'invente, tout se transforme, tout s'anime<0x00A0>! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur<0x00A0>!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Purple and Brown
+<pstyle:TECHNIQUE>de Richard Webber
+<pstyle:TECHNIQUE>Grande-Bretagne/2006
+<pstyle:SYNOPSIS>Tout s'invente, tout se transforme, tout s'anime<0x00A0>! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur<0x00A0>!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Nokia Dot
+<pstyle:TECHNIQUE>de Science Sumo
+<pstyle:TECHNIQUE>Grande-Bretagne/2010
+<pstyle:SYNOPSIS>Tout s'invente, tout se transforme, tout s'anime<0x00A0>! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur<0x00A0>!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Shaun the Sheep 3D
+<pstyle:TECHNIQUE>de Jay Grace
+<pstyle:TECHNIQUE>Grande-Bretagne/2013
+<pstyle:SYNOPSIS>Tout s'invente, tout se transforme, tout s'anime<0x00A0>! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur<0x00A0>!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Morph<0x00A0>: Selfie
+<pstyle:TECHNIQUE>de David Sproxton, Peter Lord
+<pstyle:TECHNIQUE>Grande-Bretagne/2013/2'/VF/DCP
+<pstyle:SYNOPSIS>Tout s'invente, tout se transforme, tout s'anime<0x00A0>! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur<0x00A0>!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Morph<0x00A0>: Sloped World
+<pstyle:TECHNIQUE>de Merlin Crossingham
+<pstyle:TECHNIQUE>Grande-Bretagne/2014/2'/Numérique
+<pstyle:SYNOPSIS>Tout s'invente, tout se transforme, tout s'anime<0x00A0>! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur<0x00A0>!
+<pstyle:><cstyle:INFOSBLEUES>me 29 maiXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>di 07 juilXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Chicken Run
+<pstyle:TECHNIQUE>de Nick Park, Peter Lord
+<pstyle:TECHNIQUE>États-Unis/1999/85'/VF/DCP
+<pstyle:TECHNIQUE>Avec Gérard Depardieu, Valérie Lemercier, Josiane Balasko.
+<pstyle:SYNOPSIS>Gare à vos plumes, poulettes, les fermiers ont décidé de se lancer dans la fabrication industrielle de tourte.
+<pstyle:><cstyle:INFOSBLEUES>di 02 juinXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>je 18 juilXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:CATEGORIE>Coeur à modeler (Programme de Courts métrages)
+<pstyle:TITRE>Non, tu exagères
+<pstyle:TITRE_ANG>(Now You Tell One)
+<pstyle:TECHNIQUE>de Charley Bowers, Harold L. Muller
+<pstyle:TECHNIQUE>États-Unis/1926/22'
+<pstyle:SYNOPSIS>Laveurs de carreaux ou boulangers, Wallace et Gromit n'en sont pas moins de géniaux inventeurs de machines plus ou moins utiles. Quelques années plus tôt, Charley Bowers, alias Bricolo, se creusait la tête pour inventer un arbre à faire pousser les chats<0x00A0>!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Wallace et Gromit<0x00A0>: Rasé de près
+<pstyle:TITRE_ANG>(Wallace and Gromit<0x00A0>: A Close Shave)
+<pstyle:TECHNIQUE>de Nick Park
+<pstyle:TECHNIQUE>Grande-Bretagne/1995/30'/VF/DCP
+<pstyle:SYNOPSIS>Laveurs de carreaux ou boulangers, Wallace et Gromit n'en sont pas moins de géniaux inventeurs de machines plus ou moins utiles. Quelques années plus tôt, Charley Bowers, alias Bricolo, se creusait la tête pour inventer un arbre à faire pousser les chats<0x00A0>!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Wallace et Gromit<0x00A0>: Un sacré pétrin
+<pstyle:TITRE_ANG>(Wallace and Gromit<0x00A0>: A Matter of Loaf and Death)
+<pstyle:TECHNIQUE>de Nick Park
+<pstyle:TECHNIQUE>Grande-Bretagne/2008/30'/VF/DCP
+<pstyle:SYNOPSIS>Laveurs de carreaux ou boulangers, Wallace et Gromit n'en sont pas moins de géniaux inventeurs de machines plus ou moins utiles. Quelques années plus tôt, Charley Bowers, alias Bricolo, se creusait la tête pour inventer un arbre à faire pousser les chats<0x00A0>!
+<pstyle:><cstyle:INFOSBLEUES>me 05 juinXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>me 03 juilXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Wallace et Gromit<0x00A0>: Le mystère du lapin-garou
+<pstyle:TITRE_ANG>(Wallace and Gromit<0x00A0>: The Curse of the Were-Rabbit)
+<pstyle:TECHNIQUE>de Nick Park, Steve Box
+<pstyle:TECHNIQUE>Grande-Bretagne/2004/85'/VF/DCP
+
+<pstyle:><cstyle:INFOSBLEUES>di 09 juinXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:CATEGORIE> Drôles d'inventeurs (Programme de Courts métrages  )
+<pstyle:TITRE>Blanchisserie automatique
+<pstyle:TECHNIQUE>d'Anonyme
+<pstyle:TECHNIQUE>France/1912
+<pstyle:SYNOPSIS>Tout s'invente, tout se transforme, tout s'anime<0x00A0>! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur<0x00A0>!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Adam
+<pstyle:TECHNIQUE>de Peter Lord
+<pstyle:TECHNIQUE>Grande-Bretagne/1991/6'/VF/DCP
+<pstyle:SYNOPSIS>Tout s'invente, tout se transforme, tout s'anime<0x00A0>! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur<0x00A0>!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Sledgehammer = Peter Gabriel<0x00A0>: Sledgehammer
+<pstyle:TECHNIQUE>de Stephen R. Johnson
+<pstyle:TECHNIQUE>Grande-Bretagne/1986
+<pstyle:SYNOPSIS>Tout s'invente, tout se transforme, tout s'anime<0x00A0>! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur<0x00A0>!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Wallace et Gromit<0x00A0>: Un mauvais pantalon
+<pstyle:TITRE_ANG>(Wallace and Gromit<0x00A0>: The Wrong Trousers)
+<pstyle:TECHNIQUE>de Nick Park
+<pstyle:TECHNIQUE>Grande-Bretagne/1993/29'/VF/DCP
+<pstyle:SYNOPSIS>Tout s'invente, tout se transforme, tout s'anime<0x00A0>! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur<0x00A0>!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Ray'sbig Idea
+<pstyle:TECHNIQUE>de Steve Harding-Hill
+<pstyle:TECHNIQUE>Grande-Bretagne/2014/3'/Numérique
+<pstyle:SYNOPSIS>Tout s'invente, tout se transforme, tout s'anime<0x00A0>! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur<0x00A0>!
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>So You Want to Be a Pirate<0x00A0>!
+<pstyle:TECHNIQUE>de Jay Grace
+<pstyle:TECHNIQUE>Grande-Bretagne/2012/Numérique
+<pstyle:SYNOPSIS>Tout s'invente, tout se transforme, tout s'anime<0x00A0>! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur<0x00A0>!
+<pstyle:><cstyle:INFOSBLEUES>me 19 juinXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:CATEGORIE>séance à remonter le temps<0x00A0>: Charley Bowers génial inventeur
+<pstyle:TITRE>Pour épater les poules
+<pstyle:TITRE_ANG>(Egged on)
+<pstyle:TECHNIQUE>de Charley Bowers
+<pstyle:TECHNIQUE>États-Unis/1926/24'/DCP
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Une invention moderne
+<pstyle:TITRE_ANG>(He Done His Best)
+<pstyle:TECHNIQUE>de Charley Bowers
+<pstyle:TECHNIQUE>États-Unis/1926/23'/DCP
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Bricolo inventeur
+<pstyle:TITRE_ANG>(Many a Slip)
+<pstyle:TECHNIQUE>de Charley Bowers, Harold L. Muller
+<pstyle:TECHNIQUE>États-Unis/1927/11'/DCP
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>It's a Bird
+<pstyle:TECHNIQUE>de Charley Bowers
+<pstyle:TECHNIQUE>États-Unis/1930/14'/DCP
+<pstyle:><cstyle:INFOSBLEUES>di 23 juinXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Shaun le mouton
+<pstyle:TITRE_ANG>(Shaun the Sheep Movie)
+<pstyle:TECHNIQUE>de Mark Burton, Richard Starzak
+<pstyle:TECHNIQUE>Grande-Bretagne-France/2014/85'/VF/DCP
+<pstyle:SYNOPSIS>Une blague qui tourne mal et voilà que le troupeau de Shaun doit se rendre dans la grande ville pour retrouver leur fermier. La vie urbaine ne sera pas de tout repos pour ses moutons habitués au calme de la campagne.
+<pstyle:><cstyle:INFOSBLEUES>me 26 juinXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:CATEGORIE>Un grain de folie (Programme de Courts métrages 3)
+<pstyle:TITRE>L'Avis des animaux
+<pstyle:TITRE_ANG>(Creature Comforts)
+<pstyle:TECHNIQUE>de Nick Park
+<pstyle:TECHNIQUE>Grande-Bretagne/1990/5'/Numérique
+<pstyle:SYNOPSIS>Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Bip Bip au pied léger
+<pstyle:TITRE_ANG>(Fast and Furry Ous)
+<pstyle:TECHNIQUE>de Chuck Jones
+<pstyle:TECHNIQUE>États-Unis/1948/7'/VOSTF/35mm
+<pstyle:SYNOPSIS>Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Le Confort électrique
+<pstyle:TITRE_ANG>(Heat electric)
+<pstyle:TECHNIQUE>d'Anonyme
+<pstyle:TECHNIQUE>Grande-Bretagne/1991/3'/VF/Numérique
+<pstyle:SYNOPSIS>Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Rex the runt<0x00A0>: dreams (1991)
+<pstyle:TECHNIQUE>de Richard Goleszowski
+<pstyle:TECHNIQUE>Grande-Bretagne/1991
+<pstyle:SYNOPSIS>Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Rex the runt<0x00A0>: how dinosaurs became extinct
+<pstyle:TECHNIQUE>de Richard Goleszowski
+<pstyle:TECHNIQUE>Grande-Bretagne/1994/2'/VF/Numérique
+<pstyle:SYNOPSIS>Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Loves me, loves me not
+<pstyle:TECHNIQUE>de Jeff Newitt
+<pstyle:TECHNIQUE>Grande-Bretagne/1992/8'/VF/Numérique
+<pstyle:SYNOPSIS>Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Jamais sans mon sac à main
+<pstyle:TITRE_ANG>(Not without my handbag)
+<pstyle:TECHNIQUE>d'Anonyme
+<pstyle:TECHNIQUE>Grande-Bretagne/1992/12'/VF/Numérique
+<pstyle:SYNOPSIS>Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Pop
+<pstyle:TECHNIQUE>de Sam Fell
+<pstyle:TECHNIQUE>Grande-Bretagne/1996/3'/VF/Numérique
+<pstyle:SYNOPSIS>Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Humdrum
+<pstyle:TECHNIQUE>de Peter Peake
+<pstyle:TECHNIQUE>Grande-Bretagne/1998
+<pstyle:SYNOPSIS>Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Stage fright
+<pstyle:TECHNIQUE>de Steve Box
+<pstyle:TECHNIQUE>Grande-Bretagne/1997
+<pstyle:SYNOPSIS>Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Le Cochon de Wat
+<pstyle:TITRE_ANG>(Wat's pig)
+<pstyle:TECHNIQUE>d'Anonyme
+<pstyle:TECHNIQUE>Grande-Bretagne/1996/12'/VF/DCP
+<pstyle:SYNOPSIS>Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Fly
+<pstyle:TECHNIQUE>d'Alan Short
+<pstyle:TECHNIQUE>Grande-Bretagne/2010/3'/Numérique
+<pstyle:SYNOPSIS>Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands.
+<pstyle:><cstyle:INFOSBLEUES>di 30 juinXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Souris city
+<pstyle:TITRE_ANG>(Flushed Away)
+<pstyle:TECHNIQUE>de David Bowers, Sam Fell
+<pstyle:TECHNIQUE>Grande-Bretagne-États-Unis/2005/95'/VOSTF/35mm
+<pstyle:SYNOPSIS>Roddy, un rat des beaux quartiers voit un rat d'égouts débarquer dans sa luxueuse demeure et bouleverser son quotidien confortable. Le nouvel arrivant se joue de lui et le propulse à Souris-city, une gigantesque ville souterraine. Roddy va devoir revoir sa façon de vivre<0x00A0>!
+<pstyle:><cstyle:INFOSBLEUES>me 10 juilXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Les Pirates<0x00A0>! Bons à rien, mauvais en tout
+<pstyle:TITRE_ANG>(The Pirates<0x00A0>! Band of Misfits)
+<pstyle:TECHNIQUE>de Peter Lord, Jeff Newitt
+<pstyle:TECHNIQUE>Grande-Bretagne-États-Unis/2011/89'/VF/DCP
+<pstyle:TECHNIQUE>D'après le livre <cSkew:9>Les Pirates<0x00A0>! Dans une aventure avec les savants<cSkew:> de Gideon Defoe.
+<pstyle:SYNOPSIS>Un capitaine pirate un peu gauche et son équipage de bras cassés convoitent pourtant le titre de Pirate de l'année. Hissez les voiles moussaillons<0x00A0>!
+<pstyle:><cstyle:INFOSBLEUES>je 11 juilXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Cro Man
+<pstyle:TITRE_ANG>(Early Man)
+<pstyle:TECHNIQUE>de Nick Park
+<pstyle:TECHNIQUE>Grande-Bretagne-France/2017/89'/VF/DCP
+<pstyle:SYNOPSIS>Durant la préhistoire, le quotidien primitif d'une tribue d'hommes des cavernes est boulversé par l'arrivée de l'âge de bronze, incarné par un roi corompu à la tête d'un peuple aux techniques plus avancées. Et cette querelle se reglera sur un terrain de... football<0x00A0>!
+<pstyle:><cstyle:INFOSBLEUES>me 17 juilXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+

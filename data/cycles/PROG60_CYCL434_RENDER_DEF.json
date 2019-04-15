@@ -1,0 +1,97 @@
+{
+  "header": {
+    "idCycleProg": 434,
+    "titreCycle": "Erich Von Stroheim",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          1937
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 60
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 434,
+          "idFilm": 37205,
+          "titre": "Queen Kelly",
+          "titreVo": "",
+          "realisateurs": "Erich von Stroheim",
+          "annee": 1928,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le prince Wolfram, fiancé désabusé de Regina V de Kronberg, une reine folle, tombe amoureux d'une orpheline élevée au couvent et l'enlève."
+            }
+          ],
+          "generique": [
+            "Gloria Swanson",
+            "Walter Byron",
+            "Seena Owen"
+          ],
+          "duree": 106,
+          "format": "35 mm",
+          "version": "INT. ANG.",
+          "seance": [
+            {
+              "idSeance": 29944,
+              "ordre": 1,
+              "idEvenement": 19271,
+              "dateHeure": "2019-05-29T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Accompagnement musical par Jean-François Zygel"
+            }
+          ]
+        },
+        {
+          "idCycle": 434,
+          "idFilm": 37220,
+          "titre": "Symphonie nuptiale",
+          "art": "La",
+          "titreVo": "Wedding March",
+          "artVo": "The",
+          "realisateurs": "Erich von Stroheim",
+          "annee": 1926,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Vienne en 1914, Nicki, officier issu de l'aristocratie décadente, doit épouser une riche infirme. Mais il tombe amoureux de Mitzi, une jeune femme des faubourgs populaires."
+            }
+          ],
+          "generique": [
+            "Fay Wray",
+            "Zasu Pitts",
+            "Erich von Stroheim"
+          ],
+          "duree": 109,
+          "format": "35 mm",
+          "version": "STF",
+          "seance": [
+            {
+              "idSeance": 29943,
+              "ordre": 1,
+              "idEvenement": 19272,
+              "dateHeure": "2019-05-29T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

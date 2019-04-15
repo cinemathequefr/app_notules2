@@ -2,57 +2,60 @@
   {
     "idCycle": 431,
     "idCategorie": 1932,
-    "idEvenement": 19225,
-    "idSeance": 30027,
+    "idEvenement": 19230,
+    "idSeance": 31370,
     "dateHeure": "2019-06-12T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "No",
+    "typeSeance": 44,
+    "titreEvenement": "Tarde para morir joven",
     "items": [
       {
-        "idFilm": 116547,
+        "idFilm": 141183,
         "ordre": 1,
-        "idSeance": 30027,
-        "idCopie": 18268,
-        "duree": 115,
-        "version": "",
+        "idSeance": 31370,
+        "idCopie": 18273,
+        "duree": 110,
+        "version": "VO",
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Ouverture de la rétrospective. Séance présentée par Antonia Zegers"
   },
   {
     "idCycle": 431,
     "idCategorie": 1932,
-    "idEvenement": 19221,
-    "idSeance": 30440,
-    "dateHeure": "2019-06-13T19:30:00",
+    "idEvenement": 19224,
+    "idSeance": 31378,
+    "dateHeure": "2019-06-13T19:15:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Nana (La)",
+    "titreEvenement": "Club (El)",
     "items": [
       {
-        "idFilm": 109182,
+        "idFilm": 127976,
         "ordre": 1,
-        "idSeance": 30440,
-        "idCopie": 18266,
-        "duree": 95,
-        "version": "",
+        "idSeance": 31378,
+        "idCopie": 18270,
+        "duree": 97,
+        "version": "VOSTF",
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Antonia Zegers"
   },
   {
     "idCycle": 431,
     "idCategorie": 1932,
     "idEvenement": 19222,
     "idSeance": 30439,
-    "dateHeure": "2019-06-14T19:30:00",
+    "dateHeure": "2019-06-13T21:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -65,55 +68,7 @@
         "idSeance": 30439,
         "idCopie": 18267,
         "duree": 80,
-        "version": "",
-        "format": "",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 431,
-    "idCategorie": 1932,
-    "idEvenement": 19224,
-    "idSeance": 30441,
-    "dateHeure": "2019-06-15T15:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Club (El)",
-    "items": [
-      {
-        "idFilm": 127976,
-        "ordre": 1,
-        "idSeance": 30441,
-        "idCopie": 18270,
-        "duree": 97,
-        "version": "",
-        "format": "",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 431,
-    "idCategorie": 1932,
-    "idEvenement": 19229,
-    "idSeance": 30053,
-    "dateHeure": "2019-06-15T18:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "titreEvenement": "Une femme fantastique",
-    "items": [
-      {
-        "idFilm": 136314,
-        "ordre": 1,
-        "idSeance": 30053,
-        "idCopie": 18272,
-        "duree": 104,
-        "version": "",
+        "version": "VOSTF",
         "format": "DCP",
         "valide": 0
       }
@@ -122,9 +77,34 @@
   {
     "idCycle": 431,
     "idCategorie": 1932,
+    "idEvenement": 19228,
+    "idSeance": 31377,
+    "dateHeure": "2019-06-14T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Jesús - Petit criminel",
+    "items": [
+      {
+        "idFilm": 138610,
+        "ordre": 1,
+        "idSeance": 31377,
+        "idCopie": 18271,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance suivie d'une discussion avec Fernando Guzzoni"
+  },
+  {
+    "idCycle": 431,
+    "idCategorie": 1932,
     "idEvenement": 19227,
-    "idSeance": 30443,
-    "dateHeure": "2019-06-15T21:30:00",
+    "idSeance": 31383,
+    "dateHeure": "2019-06-14T21:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -134,7 +114,7 @@
       {
         "idFilm": 124638,
         "ordre": 1,
-        "idSeance": 30443,
+        "idSeance": 31383,
         "idCopie": 7816,
         "duree": 82,
         "version": "VOSTF",
@@ -146,22 +126,22 @@
   {
     "idCycle": 431,
     "idCategorie": 1932,
-    "idEvenement": 19226,
-    "idSeance": 30442,
-    "dateHeure": "2019-06-16T17:00:00",
+    "idEvenement": 19229,
+    "idSeance": 30749,
+    "dateHeure": "2019-06-15T14:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Gloria",
+    "titreEvenement": "Une femme fantastique",
     "items": [
       {
-        "idFilm": 121514,
+        "idFilm": 136314,
         "ordre": 1,
-        "idSeance": 30442,
-        "idCopie": 6527,
-        "duree": 110,
-        "version": "",
+        "idSeance": 30749,
+        "idCopie": 18272,
+        "duree": 104,
+        "version": "VOSTF",
         "format": "DCP",
         "valide": 0
       }
@@ -170,9 +150,59 @@
   {
     "idCycle": 431,
     "idCategorie": 1932,
+    "idEvenement": 19226,
+    "idSeance": 31380,
+    "dateHeure": "2019-06-15T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "Gloria",
+    "items": [
+      {
+        "idFilm": 121514,
+        "ordre": 1,
+        "idSeance": 31380,
+        "idCopie": 6527,
+        "duree": 110,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance présentée par Sebastián Lelio"
+  },
+  {
+    "idCycle": 431,
+    "idCategorie": 1932,
+    "idEvenement": 19225,
+    "idSeance": 31382,
+    "dateHeure": "2019-06-15T21:15:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "titreEvenement": "No",
+    "items": [
+      {
+        "idFilm": 116547,
+        "ordre": 1,
+        "idSeance": 31382,
+        "idCopie": 18268,
+        "duree": 115,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ],
+    "mention": "Séance présentée par Antonia Zegers"
+  },
+  {
+    "idCycle": 431,
+    "idCategorie": 1932,
     "idEvenement": 19223,
-    "idSeance": 30058,
-    "dateHeure": "2019-06-16T19:30:00",
+    "idSeance": 31391,
+    "dateHeure": "2019-06-16T18:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -182,59 +212,36 @@
       {
         "idFilm": 117938,
         "ordre": 1,
-        "idSeance": 30058,
+        "idSeance": 31391,
         "idCopie": 18269,
         "duree": 110,
-        "version": "",
-        "format": "",
+        "version": "VOSTF",
+        "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Francisca Gavilán"
   },
   {
     "idCycle": 431,
     "idCategorie": 1932,
-    "idEvenement": 19230,
-    "idSeance": 30066,
-    "dateHeure": "2019-06-17T19:00:00",
+    "idEvenement": 19221,
+    "idSeance": 31390,
+    "dateHeure": "2019-06-16T21:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
     ],
-    "titreEvenement": "Tarde para morir joven",
+    "titreEvenement": "Nana (La)",
     "items": [
       {
-        "idFilm": 141183,
+        "idFilm": 109182,
         "ordre": 1,
-        "idSeance": 30066,
-        "idCopie": 18273,
-        "duree": 110,
-        "version": "",
-        "format": "",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 431,
-    "idCategorie": 1932,
-    "idEvenement": 19228,
-    "idSeance": 30074,
-    "dateHeure": "2019-06-19T19:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "titreEvenement": "Jesús - Petit criminel",
-    "items": [
-      {
-        "idFilm": 138610,
-        "ordre": 1,
-        "idSeance": 30074,
-        "idCopie": 18271,
-        "duree": 85,
-        "version": "",
-        "format": "",
+        "idSeance": 31390,
+        "idCopie": 18266,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP",
         "valide": 0
       }
     ]

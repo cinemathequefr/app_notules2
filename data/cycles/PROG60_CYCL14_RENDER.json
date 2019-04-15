@@ -1,0 +1,290 @@
+{
+  "header": {
+    "idCycleProg": 14,
+    "titreCycle": "Cinéma bis",
+    "sousCycles": [
+      {
+        "titre": "John Cassavetes",
+        "cats": [
+          1995
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Ozploitation",
+        "cats": [
+          1996
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Les choix cinéphiles de Jess Franco",
+        "cats": [
+          1997
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 60
+  },
+  "data": [
+    {
+      "titreSousCycle": "John Cassavetes",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 14,
+          "idCategorie": 1995,
+          "idEvenement": 19401,
+          "films": [
+            {
+              "idFilm": 33096,
+              "titre": "Anges de l'enfer",
+              "art": "Les",
+              "titreVo": "Devil's Angels",
+              "realisateurs": "Daniel Haller",
+              "annee": 1967,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Cody et sa bande de blousons noirs les « skulls » vivent en marge de la société et décident de quitter la ville dans laquelle ils sont à présent trop connus des services de police. Ils arrivent bientôt dans la petite ville de Brookville qui parait déserte ..."
+                }
+              ],
+              "generique": [
+                "John Cassavetes",
+                "Beverly Adams",
+                "Mimsy Farmer"
+              ],
+              "duree": 84,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-07T20:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 14,
+          "idCategorie": 1995,
+          "idEvenement": 19152,
+          "films": [
+            {
+              "idFilm": 31920,
+              "titre": "Cible étoilée",
+              "art": "La",
+              "titreVo": "Brass Target",
+              "realisateurs": "John Hough",
+              "annee": 1978,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Août 1945, en Allemagne. L'or de la banque fédérale, réquisitionné par les alliés, est dérobé lors d'un transfert. Les Soviétiques accusant les Américains, le général Patton décide de mener lui-même l'enquête."
+                }
+              ],
+              "adaptation": "D'après le roman _The Algonquin project_ de Frederick Nolan.",
+              "generique": [
+                "Sophia Loren",
+                "John Cassavetes",
+                "George Kennedy"
+              ],
+              "duree": 111,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-07T22:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Ozploitation",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 14,
+          "idCategorie": 1996,
+          "idEvenement": 19300,
+          "films": [
+            {
+              "idFilm": 141540,
+              "titre": "Fair Game",
+              "titreVo": "",
+              "realisateurs": "Mario Andreacchio",
+              "annee": 1986,
+              "pays": "Australie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une jeune femme qui garde un sanctuaire d'animaux sauvages dans l'outback australien est confrontée à trois chasseurs de kangourous décidés à s'amuser."
+                }
+              ],
+              "generique": [
+                "Cassandra Delaney",
+                "Peter Ford",
+                "David Sandford"
+              ],
+              "duree": 82,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-21T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 14,
+          "idCategorie": 1996,
+          "idEvenement": 19301,
+          "films": [
+            {
+              "idFilm": 55670,
+              "titre": "Long Week-end",
+              "titreVo": "",
+              "realisateurs": "Colin Eggleston",
+              "annee": 1978,
+              "pays": "Australie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un couple de citadins part en week-end camper dans un endroit isolé du littoral australien dans l'espoir de sauver leur mariage qui bat de l'aile."
+                }
+              ],
+              "generique": [
+                "John Hargreaves",
+                "Briony Behets",
+                "Mike Mcewen"
+              ],
+              "duree": 92,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-21T22:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Les choix cinéphiles de Jess Franco",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 14,
+          "idCategorie": 1997,
+          "idEvenement": 19333,
+          "films": [
+            {
+              "idFilm": 53101,
+              "titre": "Homme d'Istambul",
+              "art": "L'",
+              "titreVo": "Operacion Estambul",
+              "realisateurs": "Antonio Isasi-Isasmendi",
+              "annee": 1964,
+              "pays": "Espagne-Italie-France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une femme agent secret est envoyée en mission à Istanbul."
+                }
+              ],
+              "generique": [
+                "Horst Buchholz",
+                "Sylva Koscina",
+                "Perrette Pradier"
+              ],
+              "duree": 115,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-28T20:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 14,
+          "idCategorie": 1997,
+          "idEvenement": 19334,
+          "films": [
+            {
+              "idFilm": 35894,
+              "titre": "Mains qui tuent",
+              "art": "Les",
+              "titreVo": "Phantom Lady",
+              "realisateurs": "Robert Siodmak",
+              "annee": 1944,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Scott Henderson est accusé d'avoir assassiné sa femme. Il lui faut, pour s'innocenter, retrouver la femme au chapeau avec laquelle il a passé la soirée du meurtre."
+                }
+              ],
+              "adaptation": "D'après le roman _The Phantom lady_ de William Irish.",
+              "generique": [
+                "Franchot Tone",
+                "Ella Raines",
+                "Alan Curtis"
+              ],
+              "duree": 90,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-28T22:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

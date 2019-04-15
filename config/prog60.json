@@ -4,24 +4,28 @@
   "dateFrom": "",
   "dateTo": "",
   "cycles": [{
+      "idCycleProg": 11,
+      "titreCycle": "Séances spéciales",
+      "sousCycles": [{
+        "titre": "Hommage à Mikhaïl Kobakhidzé",
+        "cats": [2005],
+        "tri": 4
+      }]
+    },
+    {
       "idCycleProg": 14,
       "titreCycle": "Cinéma bis",
       "sousCycles": [{
-          "titre": "John Cassavetes acteur",
+          "titre": "John Cassavetes",
           "cats": [1995],
           "tri": 4
         }, {
-          "titre": "Australie",
+          "titre": "Ozploitation",
           "cats": [1996],
           "tri": 4
         },
         {
-          "titre": "Jess Franco",
-          "cats": [1997],
-          "tri": 4
-        },
-        {
-          "titre": "Mario Bava",
+          "titre": "Les choix cinéphiles de Jess Franco",
           "cats": [1997],
           "tri": 4
         }
@@ -37,12 +41,47 @@
       }]
     },
     {
+      "idCycleProg": 140,
+      "titreCycle": "Aujourd'hui le cinéma",
+      "sousCycles": [{
+          "titre": "Jean-Charles Hue",
+          "cats": [2009],
+          "tri": 4
+        },
+        {
+          "titre": "David Roux",
+          "cats": [2000],
+          "tri": 4
+        },
+        {
+          "titre": "Festival de Brive 2019",
+          "cats": [2001],
+          "tri": 4
+        },
+        {
+          "titre": "Premiers pas",
+          "cats": [2007],
+          "tri": 4
+        },
+        {
+          "titre": "Chili, post-scriptum",
+          "cats": [2006],
+          "tri": 4
+        },
+        {
+          "titre": "Álvaro Aponte-Centeno",
+          "cats": [2008],
+          "tri": 4
+        }
+      ]
+    },
+    {
       "idCycleProg": 192,
       "titreCycle": "Ciné-club Jean Douchet",
       "sousCycles": [{
         "titre": "Les films",
         "cats": [1944],
-        "tri": 1
+        "tri": 4
       }]
     },
     {
@@ -55,17 +94,32 @@
       }]
     },
     {
+      "idCycleProg": 340,
+      "titreCycle": "Youssef Chahine",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1991],
+        "tri": 1
+      }]
+    }, {
       "idCycleProg": 424,
       "titreCycle": "Otar Iosseliani",
       "sousCycles": [{
           "titre": "Les films",
           "cats": [1925],
           "tri": 2
-        }, {
+        },
+        {
+          "titre": "Courts métrages",
+          "cats": [1992],
+          "tri": 2
+        },
+        {
           "titre": "Documentaires",
           "cats": [1984],
           "tri": 1
-        }, {
+        },
+        {
           "titre": "Autour d'Otar Iosseliani",
           "cats": [1983],
           "tri": 1
@@ -159,6 +213,11 @@
           "tri": 1
         },
         {
+          "titre": "Autour de Mario Bava",
+          "cats": [2004],
+          "tri": 1
+        },
+        {
           "titre": "Rencontres et conférences",
           "cats": [1941],
           "tri": 1
@@ -190,29 +249,23 @@
       ]
     },
     {
+      "idCycleProg": 434,
+      "titreCycle": "Erich Von Stroheim",
+      "sousCycles": [{
+        "titre": "Les films",
+        "cats": [1937],
+        "tri": 1
+      }]
+    },
+    {
       "idCycleProg": 436,
       "titreCycle": "Séances jeune public",
+      "type": "jp",
       "sousCycles": [{
-          "titre": "Les studios Aardman",
-          "cats": [1979],
-          "tri": 4
-        },
-        {
-          "titre": "Programmes de courts métrages",
-          "cats": [1986],
-          "tri": 4
-        },
-        {
-          "titre": "Séance à remonter le temps : Charley Bowers, génial inventeur",
-          "cats": [1988],
-          "tri": 4
-        },
-        {
-          "titre": "Marie Bobine présente",
-          "cats": [1981],
-          "tri": 4
-        }
-      ]
+        "titre": "Jeune public",
+        "cats": [1979, 1986, 1988, 1981],
+        "tri": 4
+      }]
     },
     {
       "idCycleProg": 437,

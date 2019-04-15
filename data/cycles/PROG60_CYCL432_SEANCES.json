@@ -9,6 +9,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "typeSeance": 44,
     "titreEvenement": "Terre des pharaons",
     "items": [
       {
@@ -17,9 +18,9 @@
         "idSeance": 30665,
         "idCopie": 18348,
         "duree": 116,
-        "version": "",
-        "format": "",
-        "valide": 0
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
       }
     ],
     "mention": "Ouverture de la rétrospective"
@@ -44,7 +45,7 @@
         "duree": 115,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -65,10 +66,10 @@
         "ordre": 1,
         "idSeance": 30667,
         "idCopie": 13306,
-        "duree": 111,
-        "version": "INT. ALL.",
-        "format": "",
-        "valide": 0
+        "duree": 170,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -90,7 +91,7 @@
         "idSeance": 30668,
         "idCopie": 18345,
         "duree": 92,
-        "version": "",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }
@@ -114,8 +115,8 @@
         "idSeance": 30669,
         "idCopie": 18338,
         "duree": 140,
-        "version": "",
-        "format": "",
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -140,7 +141,7 @@
         "duree": 229,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -162,9 +163,9 @@
         "idSeance": 30678,
         "idCopie": 18336,
         "duree": 143,
-        "version": "",
-        "format": "",
-        "valide": 0
+        "version": "INT. ANG.",
+        "format": "35 mm",
+        "valide": 1
       }
     ]
   },
@@ -186,8 +187,8 @@
         "idSeance": 30672,
         "idCopie": 18335,
         "duree": 107,
-        "version": "",
-        "format": "",
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -212,7 +213,7 @@
         "duree": 83,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -234,9 +235,9 @@
         "idSeance": 30674,
         "idCopie": 18341,
         "duree": 99,
-        "version": "",
-        "format": "",
-        "valide": 0
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
       }
     ]
   },
@@ -258,8 +259,8 @@
         "idSeance": 30676,
         "idCopie": 18337,
         "duree": 105,
-        "version": "",
-        "format": "",
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -282,9 +283,9 @@
         "idSeance": 30717,
         "idCopie": 18340,
         "duree": 134,
-        "version": "",
-        "format": "",
-        "valide": 0
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
       }
     ]
   },
@@ -306,8 +307,8 @@
         "idSeance": 30718,
         "idCopie": 18350,
         "duree": 134,
-        "version": "",
-        "format": "",
+        "version": "VOSTF",
+        "format": "35 mm",
         "valide": 0
       }
     ]
@@ -331,8 +332,8 @@
         "idCopie": 18334,
         "duree": 116,
         "version": "VOSTF",
-        "format": "DCP",
-        "valide": 0
+        "format": "35 mm",
+        "valide": 1
       }
     ]
   },
@@ -354,9 +355,9 @@
         "idSeance": 30681,
         "idCopie": 18349,
         "duree": 165,
-        "version": "",
-        "format": "",
-        "valide": 0
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -378,11 +379,12 @@
         "idSeance": 30682,
         "idCopie": 18347,
         "duree": 130,
-        "version": "",
+        "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Jean-Jacques Annaud"
   },
   {
     "idCycle": 432,
@@ -402,9 +404,9 @@
         "idSeance": 30683,
         "idCopie": 18343,
         "duree": 88,
-        "version": "",
+        "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -428,28 +430,28 @@
         "duree": 149,
         "version": "VO",
         "format": "70 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
   {
     "idCycle": 432,
     "idCategorie": 1982,
-    "idEvenement": 19332,
-    "idSeance": 30297,
+    "idEvenement": 19418,
+    "idSeance": 31396,
     "dateHeure": "2019-07-26T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Batman",
+    "titreEvenement": "Airport",
     "items": [
       {
-        "idFilm": 31042,
+        "idFilm": 36109,
         "ordre": 1,
-        "idSeance": 30297,
-        "idCopie": 18393,
-        "duree": 125,
+        "idSeance": 31396,
+        "idCopie": 18549,
+        "duree": 137,
         "version": "VOSTF",
         "format": "70 mm",
         "valide": 0
@@ -474,9 +476,9 @@
         "idSeance": 30685,
         "idCopie": 18339,
         "duree": 167,
-        "version": "",
-        "format": "",
-        "valide": 0
+        "version": "VOSTF",
+        "format": "70 mm",
+        "valide": 1
       }
     ]
   },
@@ -498,7 +500,7 @@
         "idSeance": 30686,
         "idCopie": 18342,
         "duree": 169,
-        "version": "",
+        "version": "VOSTF",
         "format": "70 mm",
         "valide": 0
       }
@@ -507,22 +509,22 @@
   {
     "idCycle": 432,
     "idCategorie": 1982,
-    "idEvenement": 19288,
-    "idSeance": 30687,
+    "idEvenement": 19417,
+    "idSeance": 31397,
     "dateHeure": "2019-07-27T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Alamo",
+    "titreEvenement": "Abyss",
     "items": [
       {
-        "idFilm": 37818,
+        "idFilm": 30822,
         "ordre": 1,
-        "idSeance": 30687,
-        "idCopie": 5677,
-        "duree": 192,
-        "version": "",
+        "idSeance": 31397,
+        "idCopie": 3944,
+        "duree": 140,
+        "version": "VOSTF",
         "format": "70 mm",
         "valide": 0
       }
@@ -548,7 +550,7 @@
         "duree": 170,
         "version": "VO",
         "format": "70 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -570,9 +572,9 @@
         "idSeance": 30689,
         "idCopie": 5455,
         "duree": 160,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "70 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   }

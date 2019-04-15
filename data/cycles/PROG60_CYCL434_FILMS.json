@@ -1,0 +1,49 @@
+[
+  {
+    "titre": "Queen Kelly",
+    "titreVo": "",
+    "idFilm": 37205,
+    "idCycle": 434,
+    "idCategorie": 1937,
+    "ageMinimal": 0,
+    "realisateurs": "Erich von Stroheim",
+    "annee": 1928,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le prince Wolfram, fiancé désabusé de Regina V de Kronberg, une reine folle, tombe amoureux d'une orpheline élevée au couvent et l'enlève. Elle se retrouve dans un bordel en Afrique."
+      }
+    ],
+    "generique": [
+      "Gloria Swanson",
+      "Walter Byron",
+      "Seena Owen"
+    ],
+    "adaptation": "D'après l'histoire originale _The Swamp_ d'Erich von Stroheim."
+  },
+  {
+    "titre": "Symphonie nuptiale",
+    "art": "La",
+    "titreVo": "Wedding March = The Honey Moon",
+    "artVo": "The",
+    "idFilm": 37220,
+    "idCycle": 434,
+    "idCategorie": 1937,
+    "ageMinimal": 0,
+    "realisateurs": "Erich von Stroheim",
+    "annee": 1926,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A Vienne en 1914, un prince viennois qui doit épouser une riche infirme, tombe amoureux d'une jeune fille pauvre."
+      }
+    ],
+    "generique": [
+      "Fay Wray",
+      "Zasu Pitts",
+      "Erich von Stroheim"
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>El Club
+<pstyle:TECHNIQUE>de Pablo Larraín
+<pstyle:TECHNIQUE>Chili/2014/97'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Alfredo Castro, Roberto Farías, Antonia Zegers, Jaime Vadell.
+<pstyle:SYNOPSIS>Dans une ville côtière du Chili, des prêtres catholiques, mis à l'écart par l'Église, partagent une maison tenue par une religieuse. L'arrivée d'un nouveau pensionnaire perturbe le semblant d'équilibre qui règne.
+<pstyle:><cstyle:INFOSBLEUES>je 13 juinXXX19h15XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance présentée par Antonia Zegers
+
+<pstyle:TITRE>Gloria
+<pstyle:TECHNIQUE>de Sebastián Lelio
+<pstyle:TECHNIQUE>Chili-Espagne/2012/110'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Paulina García, Sergio Hernández, Alejandro Goic, Diego Fontecilla.
+<pstyle:SYNOPSIS>Gloria, 58 ans, est divorcée, et ses enfants sont partis. Elle se sent éternellement jeune et dévore la vie. Lorsqu'elle rencontre Rodolfo, son existence est bouleversée.
+<pstyle:><cstyle:INFOSBLEUES>sa 15 juinXXX18h30XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance présentée par Sebastián Lelio
+
+<pstyle:TITRE>Jesús, petit criminel
+<pstyle:TITRE_ANG>(Jesús)
+<pstyle:TECHNIQUE>de Fernando Guzzoni
+<pstyle:TECHNIQUE>France-Chili-Allemagne-Grèce/2016/85'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Nicolás Durán, Alejandro Goic, Gastón Salgado, Sebastián Ayala.
+<pstyle:SYNOPSIS>Depuis la mort de sa mère, Jesús, 18 ans, vit avec son père à Santiago. Il danse dans un groupe, délaisse l'école et traîne le soir, séduisant filles et garçons. Une nuit d'excès, tout dérape et il se retrouve impliqué dans un terrible fait divers.
+<pstyle:><cstyle:INFOSBLEUES>ve 14 juinXXX19h00XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance suivie d'une discussion avec Fernando Guzzoni
+
+<pstyle:TITRE>Lucía
+<pstyle:TECHNIQUE>de Niles Atallah
+<pstyle:TECHNIQUE>Chili/2010/80'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Gabriela Aguilera, Gregory Cohen, Eduardo Barril, Esperanza Silva.
+<pstyle:SYNOPSIS>À Santiago du Chili, pendant les funérailles fastueuses de l'ancien dictateur Pinochet, la vie de Lucía, jeune couturière, qui habite avec son père.
+<pstyle:INFOS_UTILES>Film inédit en France.
+<pstyle:><cstyle:INFOSBLEUES>je 13 juinXXX21h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>La Nana
+<pstyle:TECHNIQUE>de Sebastián Silva
+<pstyle:TECHNIQUE>Chili-Mexique/2008/95'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Catalina Saavedra, Claudia Celedón, Alejandro Goic, Andrea García-Huidobro.
+<pstyle:SYNOPSIS>Raquel, bonne à tout faire, fête son anniversaire chez ses employeurs. Sa patronne lui annonce l'arrivée de Mercedes pour l'aider dans ses tâches, mais Raquel, mécontente, commence à exercer une pression psychologique néfaste sur son entourage.
+<pstyle:><cstyle:INFOSBLEUES>di 16 juinXXX21h00XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>No
+<pstyle:TECHNIQUE>de Pablo Larraín
+<pstyle:TECHNIQUE>Chili/2011/115'/VOSTF/DCP
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Les Jours de l'arc-en-ciel<cSkew:> d'Antonio Skármeta.
+<pstyle:TECHNIQUE>Avec Gael García Bernal, Antonia Zegers, Alfredo Castro, Luis Gnecco.
+<pstyle:SYNOPSIS>Chili, 1988. Lorsque le dictateur Augusto Pinochet organise un référendum sur sa présidence, l'opposition persuade un jeune et brillant publicitaire, René Saavedra, de concevoir sa campagne. Avec son équipe, il élabore un plan audacieux pour libérer le pays de l'oppression.
+<pstyle:><cstyle:INFOSBLEUES>sa 15 juinXXX21h15XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance présentée par Antonia Zegers
+
+<pstyle:TITRE>Tarde para morir joven
+<pstyle:TECHNIQUE>de Dominga Sotomayor Castillo
+<pstyle:TECHNIQUE>Chili/2018/110'/VO/DCP
+<pstyle:TECHNIQUE>Avec Demian Hernández, Antar Machado, Magdalena Tótoro.
+<pstyle:SYNOPSIS>À l'été 1990, peu après la chute du régime de Pinochet, une petite communauté tente de se réinventer une vie à l'écart de la ville. Deux adolescents, Sofía et Lucas, vont y découvrir ensemble la liberté.
+<pstyle:INFOS_UTILES>Fim inédit en France.
+<pstyle:><cstyle:INFOSBLEUES>me 12 juinXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Ouverture de la rétrospective. Séance présentée par Antonia Zegers
+
+<pstyle:TITRE>Tuer un homme
+<pstyle:TITRE_ANG>(Matar a un hombre)
+<pstyle:TECHNIQUE>d'Alejandro Fernández Almendras
+<pstyle:TECHNIQUE>Chili-France/2013/82'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Daniel Candía, Alejandra Yáñez, Daniel Antivilo, Ariel Mateluna.
+<pstyle:SYNOPSIS>Jorge travaille dur pour faire vivre sa famille. Une nuit, il se fait insulter par une bande de jeunes menée par un ancien délinquant du quartier. Son fils se fait à son tour agresser. L'angoisse envahit peu à peu le quotidien de la famille.
+<pstyle:><cstyle:INFOSBLEUES>ve 14 juinXXX21h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Une femme fantastique
+<pstyle:TITRE_ANG>(Una mujer fantástica)
+<pstyle:TECHNIQUE>de Sebastián Lelio
+<pstyle:TECHNIQUE>Chili-Allemagne-Espagne/2016/104'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Daniela Vega, Francisco Reyes, Luis Gnecco, Aline Küppenheim.
+<pstyle:SYNOPSIS>Marina, jeune serveuse transgenre, fréquente Orlando, plus âgé qu'elle. Ensemble, ils forment des projets d'avenir, mais lorsqu'Orlando meurt brutalement, Marina doit affronter ses proches et se battre pour s'affirmer.
+<pstyle:><cstyle:INFOSBLEUES>sa 15 juinXXX14h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Violeta
+<pstyle:TITRE_ANG>(Violeta se fue a los cielos)
+<pstyle:TECHNIQUE>d'Andrés Wood
+<pstyle:TECHNIQUE>Chili-Argentine-Brésil/2011/110'/VOSTF/DCP
+<pstyle:TECHNIQUE>D'après le livre <cSkew:9>Violeta Parra, ma mère<cSkew:> d'Ángel Parra.
+<pstyle:TECHNIQUE>Avec Francisca Gavilán, Cristián Quevedo, Thomas Durand, Luis Machín.
+<pstyle:SYNOPSIS>Portrait de l'artiste Violeta Parra, chanteuse, poète et peintre, véritable icône de la culture chilienne.
+<pstyle:><cstyle:INFOSBLEUES>di 16 juinXXX18h30XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance présentée par Francisca Gavilán
+

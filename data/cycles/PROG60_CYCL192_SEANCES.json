@@ -1,5 +1,4 @@
-[
-  {
+[{
     "idCycle": 192,
     "idCategorie": 1944,
     "idEvenement": 19045,
@@ -10,60 +9,41 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Comtesse aux pieds nus (La)",
-    "items": [
-      {
-        "idFilm": 33564,
-        "ordre": 1,
-        "idSeance": 30198,
-        "idCopie": 18090,
-        "duree": 128,
-        "version": "VOSTF",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 33564,
+      "ordre": 1,
+      "idSeance": 30198,
+      "idCopie": 5381,
+      "duree": 128,
+      "version": "VOSTF",
+      "format": "35 mm",
+      "valide": 1
+    }],
+    "mention": "Film également projeté dans le cadre du cycle Joseph L. Mankiewicz"
   },
   {
     "idCycle": 192,
     "idCategorie": 1944,
-    "idEvenement": 19045,
-    "idSeance": 30490,
-    "dateHeure": "2019-07-12T19:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "titreEvenement": "Comtesse aux pieds nus (La)",
-    "items": [
-      {
-        "idFilm": 33564,
-        "ordre": 1,
-        "idSeance": 30490,
-        "idCopie": 18090,
-        "duree": 128,
-        "version": "VOSTF",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCycle": 192,
-    "idCategorie": 1944,
-    "idEvenement": 19237,
-    "idSeance": 30242,
+    "idEvenement": 19261,
+    "idSeance": 30665,
     "dateHeure": "2019-07-17T20:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
+    "typeSeance": 44,
     "titreEvenement": "Terre des pharaons",
-    "items": [
-      {
-        "idFilm": 33181,
-        "ordre": 1
-      }
-    ]
+    "items": [{
+      "idFilm": 33181,
+      "ordre": 1,
+      "idSeance": 30665,
+      "idCopie": 18348,
+      "duree": 116,
+      "version": "VOSTF",
+      "format": "35 mm",
+      "valide": 0
+    }],
+    "mention": "Film également projeté dans le cadre du cycle Plein les yeux ! Saison 3"
   },
   {
     "idCycle": 192,
@@ -76,17 +56,15 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Manchester by the Sea",
-    "items": [
-      {
-        "idFilm": 133605,
-        "ordre": 1,
-        "idSeance": 30496,
-        "idCopie": 17124,
-        "duree": 138,
-        "version": "VOSTF",
-        "format": "DCP",
-        "valide": 0
-      }
-    ]
+    "items": [{
+      "idFilm": 133605,
+      "ordre": 1,
+      "idSeance": 30496,
+      "idCopie": 17124,
+      "duree": 138,
+      "version": "VOSTF",
+      "format": "DCP",
+      "valide": 0
+    }]
   }
 ]

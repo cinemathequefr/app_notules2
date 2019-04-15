@@ -1,0 +1,132 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>L'Assassinat du père Noël
+<pstyle:TECHNIQUE>de Christian-Jaque
+<pstyle:TECHNIQUE>France/1941/105'/DCP
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>L'Assassinat du père Noël<cSkew:> de Pierre Véry.
+<pstyle:TECHNIQUE>Avec Harry Baur, Raymond Rouleau, Renée Faure.
+<pstyle:SYNOPSIS>Dans un village savoyard, le père Cornusse s'apprête à jouer comme chaque année le rôle du père Noël. Tandis que sa fille rêve au prince charmant, le baron du château voisin revient au pays. C'est alors qu'un homme en costume de père Noël est retrouvé mort.
+<pstyle:><cstyle:INFOSBLEUES>me 05 juinXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Le Capitaine Fracasse
+<pstyle:TECHNIQUE>d'Abel Gance
+<pstyle:TECHNIQUE>France-Italie/1942/98'/35mm
+<pstyle:TECHNIQUE>Avec Fernand Gravey, Assia Noris, Jean Weber.
+<pstyle:SYNOPSIS>Au XVII<cPosition:Superscript>e<cPosition:> siècle, un baron ruiné décide, par amour pour une actrice, de suivre une troupe ambulante. Il remplace un comédien et prend le nom de capitaine Fracasse.
+<pstyle:><cstyle:INFOSBLEUES>me 24 juilXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Carmen
+<pstyle:TECHNIQUE>de Christian-Jaque
+<pstyle:TECHNIQUE>France-Italie/1942/124'/35mm
+<pstyle:TECHNIQUE>D'après la nouvelle «<0x00A0>Carmen<0x00A0>» de Prosper Mérimée.
+<pstyle:TECHNIQUE>Avec Viviane Romance, Jean Marais, Lucien Coëdel.
+<pstyle:SYNOPSIS>Séville, 1820. Don José, brigadier de dragons, tombe amoureux fou de la belle gitane Carmen.
+<pstyle:><cstyle:INFOSBLEUES>je 06 juinXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Le Carrefour des enfants perdus
+<pstyle:TECHNIQUE>de Léo Joannon
+<pstyle:TECHNIQUE>France/1943/110'/35mm
+<pstyle:TECHNIQUE>Avec René Dary, A.-M. Julien, Raymond Bussières, Jean Mercanton.
+<pstyle:SYNOPSIS>À l'Armistice, trois anciens délinquants décident de fonder une maison de correction à visage humain.
+<pstyle:><cstyle:INFOSBLEUES>ve 19 juilXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>La Comédie du bonheur
+<pstyle:TECHNIQUE>de Marcel L'Herbier
+<pstyle:TECHNIQUE>France-Italie/1940/79'/35mm
+<pstyle:TECHNIQUE>D'après la pièce <cSkew:9>Samoïé glavnoïé<cSkew:>  de Nicolas Evreinoff.
+<pstyle:TECHNIQUE>Avec Michel Simon, Jacqueline Delubac, Ramón Novarro.
+<pstyle:SYNOPSIS>Le banquier Jourdain, que sa famille a fait interner, s'évade de l'asile et se réfugie dans une pension de famille.
+<pstyle:><cstyle:INFOSBLEUES>je 30 maiXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Dernier atout
+<pstyle:TECHNIQUE>de Jacques Becker
+<pstyle:TECHNIQUE>France/1942/99'/35mm
+<pstyle:TECHNIQUE>Avec Raymond Rouleau, Mireille Balin, Pierre Renoir.
+<pstyle:SYNOPSIS>Dans une ville imaginaire d'Amérique du Sud, Clarence et Montès, deux aspirants policiers, sortent <ct:Italic>ex-aequo<ct:> de l'école de police. Pour les départager, on les charge d'élucider une affaire de meurtre.
+<pstyle:><cstyle:INFOSBLEUES>sa 13 juilXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Donne-moi tes yeux
+<pstyle:TECHNIQUE>de Sacha Guitry
+<pstyle:TECHNIQUE>France/1943/94'/35mm
+<pstyle:TECHNIQUE>Avec Sacha Guitry, Geneviève Guitry, Aimé Clariond, Marguerite Moreno.
+<pstyle:SYNOPSIS>Un célèbre sculpteur, qui vient d'épouser sa jeune modèle, se montre étrangement distant avec elle. Mais elle comprend rapidement qu'il cherche à l'éloigner pour lui dissimuler qu'il est en train de perdre la vue.
+<pstyle:><cstyle:INFOSBLEUES>sa 27 juilXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>L'Éternel retour
+<pstyle:TECHNIQUE>de Jean Delannoy
+<pstyle:TECHNIQUE>France/1943/115'/DCP
+<pstyle:TECHNIQUE>Avec Jean Marais, Madeleine Sologne, Jean Murat.
+<pstyle:SYNOPSIS>Transposition moderne de la légende de Tristan et Yseult.
+<pstyle:INFOS_UTILES>Film restauré en 2K par SNC.
+<pstyle:><cstyle:INFOSBLEUES>ve 26 juilXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Madame et le mort
+<pstyle:TECHNIQUE>de Louis Daquin
+<pstyle:TECHNIQUE>France/1942/100'/35mm
+<pstyle:TECHNIQUE>Avec Henri Guisol, Renée Saint-Cyr, Michel Vitold.
+<pstyle:SYNOPSIS>Un romancier et une jeune provinciale sont mêlés malgré eux à l'assassinat d'un truand.
+<pstyle:><cstyle:INFOSBLEUES>me 17 juilXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Opéra-musette
+<pstyle:TECHNIQUE>de René Lefèvre, Claude Renoir
+<pstyle:TECHNIQUE>France/1941/91'/35mm
+<pstyle:TECHNIQUE>Avec René Lefèvre, Saturnin Fabre, Paulette Dubost, Ginette Garcin.
+<pstyle:SYNOPSIS>Lampluche, musicien ambulant, tente de s'approprier la dernière <0x0153>uvre du grand compositeur Maxence Leroy, qui veut mettre fin à ses jours. Mais le candidat au suicide change d'avis.
+<pstyle:><cstyle:INFOSBLEUES>ve 31 maiXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Le Pavillon brûle
+<pstyle:TECHNIQUE>de Jacques de Baroncelli
+<pstyle:TECHNIQUE>France/1941/86'/35mm
+<pstyle:TECHNIQUE>D'après la pièce <cSkew:9>Le Pavillon brûle<cSkew:> de Steve Passeur.
+<pstyle:TECHNIQUE>Avec Pierre Renoir, Jean Marais, Bernard Blier, Élina Labourdette.
+<pstyle:SYNOPSIS>Denise, jeune employée d'une mine de cuivre et fiancée à l'ouvrier Daniel, est courtisée par l'ingénieur Risay. Lorsqu'un grave accident se produit, les soupçons se portent sur Daniel, dénoncé par une lettre anonyme.
+<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Les Roquevillard
+<pstyle:TECHNIQUE>de Jean Dréville
+<pstyle:TECHNIQUE>France/1943/93'/35mm
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Les Roquevillard<cSkew:> d'Henry Bordeaux.
+<pstyle:TECHNIQUE>Avec Charles Vanel, Aimé Clariond, Jean Pâqui, Mila Parély.
+<pstyle:SYNOPSIS>Maurice Roquevillard, fils d'un avocat au barreau de Chambéry, s'enfuit en Italie avec la femme de M<cPosition:Superscript>e<cPosition:> Frasne, jetant le déshonneur sur sa famille.
+<pstyle:><cstyle:INFOSBLEUES>je 25 juilXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>La Vie de bohème
+<pstyle:TECHNIQUE>de Marcel L'Herbier
+<pstyle:TECHNIQUE>France-Italie/1942/114'/35mm
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Scènes de la vie de bohème<cSkew:> d'Henry Murger.
+<pstyle:TECHNIQUE>Avec María Denis, Louis Jourdan, Gisèle Pascal.
+<pstyle:SYNOPSIS>Quatre jeunes artistes vivent ensemble dans le Quartier latin, partageant avec leurs petites amies l'insouciance et la gaîté de la vie de bohème.
+<pstyle:><cstyle:INFOSBLEUES>sa 20 juilXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Les Visiteurs du soir
+<pstyle:TECHNIQUE>de Marcel Carné
+<pstyle:TECHNIQUE>France-Italie/1942/120'/35mm
+<pstyle:TECHNIQUE>Avec Alain Cuny, Arletty, Marie Déa, Jules Berry.
+<pstyle:SYNOPSIS>À la fin du Moyen-Âge, deux ménestrels, Gilles et Dominique, sont envoyés dans un château par le Diable en personne pour y apporter le désespoir.
+<pstyle:><cstyle:INFOSBLEUES>je 18 juilXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>Volpone
+<pstyle:TECHNIQUE>de Maurice Tourneur
+<pstyle:TECHNIQUE>France/1940/94'/35mm
+<pstyle:TECHNIQUE>D'après la pièce <cSkew:9>Volpone<cSkew:> de Ben Jonson.
+<pstyle:TECHNIQUE>Avec Harry Baur, Louis Jouvet, Jacqueline Delubac, Charles Dullin.
+<pstyle:SYNOPSIS>Jeté en prison par ses créanciers, puis libéré, le marchand Volpone prépare sa vengeance<0x00A0>: faire croire qu'il est à l'article de la mort et qu'il recherche un héritier.
+<pstyle:><cstyle:INFOSBLEUES>me 29 maiXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+

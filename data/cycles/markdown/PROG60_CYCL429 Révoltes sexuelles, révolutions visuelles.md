@@ -2,33 +2,33 @@
 
 ## Les films
 
-### Séance d'ouverture
+### « On dirait qu'elle danse. »
 
 **Glacier**  
 de Jonathan Caouette  
-États-Unis / 2015 / 8 min  
+États-Unis / 2015 / 8 min / DCP  
 Un clip en forme de récapitulatif visuel des luttes queer. (NB)  
 suivi de  
 **Chic Point : Fashion For Israeli Checkpoints**  
 de Sharif Waked  
-Israël / 2003 / 7 min  
+Israël / 2003 / 7 min / DCP  
 Avec Saleh Bakri.  
 Boomerang d'ironie. (NB)  
 suivi de  
 **Makita Witch**  
 d'Angela Marzullo  
-Suisse / 2008 / 3 min  
+Suisse / 2008 / 3 min / Numérique  
 Makita en sorcière qui vole sur son balai. (Angela Marzullo)  
 suivi de  
 **Kiki**  
 de Sara Jordenö  
-Suède / 2016 / 94 min / VOSTF  
+Suède / 2016 / 94 min / VOSTF / DCP  
 « Sur la scène Kiki, espace de performance et d'expression de soi, les jeunes LGBTQ de couleur à Harlem dansent pour inventer leur propre vie, élargir le spectre du genre et transformer le tissu social ». (Taylor Hess)
 
 - me 19 juin 20h00 HL  
 Ouverture de la rétrospective
 
-### Séance 12 : Je, tu, il, elle
+### « C'est bien dit, ma fille. »
 
 **Je, tu, il, elle**  
 de Chantal Akerman  
@@ -38,11 +38,11 @@ Avec Chantal Akerman, Niels Arestrup, Claire Wauthion.
 
 - je 20 juin 20h30 JE
 
-### Séance 25 : Courts-métrages
+### « Il ne faut regarder que l'amour. »
 
 **Paixao Nacional**  
 de Karim Aïnouz  
-Brésil-Canada / 1996 / 9 min / VOSTF  
+Brésil-Canada / 1996 / 9 min / VOSTF / Numérique  
 L'hypocrisie sexuelle à échelle nationale.  
 suivi de  
 **Gay ?**  
@@ -68,7 +68,7 @@ Cinq jours de liberté dont les travestis sont rois et reines, dans une sociét�
 suivi de  
 **There Is a Spider Living Between Us**  
 de Tejal Shah  
-Inde / 2009 / 7 min / VOSTF  
+Inde / 2009 / 7 min / VOSTF / Numérique  
 Une réflexion autour du désir de deux personnes voulant devenir une, ayant recours à de multiples techniques pour explorer le langage, la sexualité lesbienne et le tribadisme.  
 suivi de  
 **Dans le village**  
@@ -91,7 +91,7 @@ Image d'une afro-américaine déterminée à vivre ses rêves.
 - sa 22 juin 15h00 GF  
 Séance présentée par Jean Dubrel, Laurence Rebouillon et Patricia Godal
 
-### Séance 14 : Equation à un inconnu
+### « Ce n'est pas une chose qu'une vierge doive regarder. »
 
 **Equation à un inconnu**  
 de Dietrich De Velsa  
@@ -102,7 +102,7 @@ Avec Jean-Jacques Loupmon, Gianfranco Longhi, Reinhard Montz.
 - sa 22 juin 19h30 GF  
 Séance présentée par Yann Gonzalez
 
-### Séance 8 : Curt McDowell
+### « J'ai soif de ta beauté. J'ai faim de ton corps. »
 
 **Confessions**  
 de Curt McDowell  
@@ -112,19 +112,19 @@ Face caméra, l'auteur explique ses pratiques sexuelles à ses parents. (NB)
 suivi de  
 **Nudes : A Sketchbook**  
 de Curt McDowell  
-États-Unis / 1974 / 30 min / VOSTF  
+États-Unis / 1974 / 30 min / VOSTF / 16 mm  
 Avec Christopher, Mark Hellinger, Virginia Giritlian.  
 Galerie de portraits affectifs irradiant de désir. (NB)  
 suivi de  
 **Loads**  
 de Curt McDowell  
-États-Unis / 1985 / 19 min / VOSTF  
+États-Unis / 1985 / 19 min / VOSTF / 16 mm  
 Du mâle hétérosexuel comme fétiche. (NB)
 
 - sa 22 juin 21h45 GF  
 Séance présentée par Yann Gonzalez
 
-### Séance 1 : Dickson Experimental Sound Film / Salomé
+### « Comme la princesse Salomé est belle ce soir ! »
 
 **Dickson Experimental Sound Film**  
 de William K.L. Dickson  
@@ -141,7 +141,7 @@ Avec Alla Nazimova, Mitchell Lewis, Nigel De Brulier.
 - di 23 juin 19h30 GF  
 Séance présentée par Stephen Kent Jusick
 
-### Séance 5 : Dream Sphinx / Flaming creatures / Jerovi / Lupe
+### « Il n'y a rien au monde d'aussi blanc que ton corps. »
 
 **Flaming creatures**  
 de Jack Smith  
@@ -168,7 +168,7 @@ Parodie et critique de l'hétérosexualité où l'on retrouve son amant, collabo
 - di 23 juin 21h30 GF  
 Séance présentée par Stephen Kent Jusick
 
-### Séance 26 : L'Ordre des mots / Vos papiers
+### « Qu'est-ce que c'était ? Ah! je m'en souviens ! »
 
 **L'Ordre des mots**  
 de Cynthia Arra, Mélissa Arra  
@@ -177,13 +177,13 @@ Une série de portrait qui constitue un panorama du militantisme trans et inters
 suivi de  
 **Vos papiers**  
 de Bruce  
-France / 2013 / 36 min  
+France / 2013 / 36 min / DCP  
 Dans un photomaton, plusieurs personnes trans réfléchissent à leur rapport aux papiers d'identité. (SG)
 
 - lu 24 juin 19h00 GF  
 Séance présentée par Bruce, Karine Espineira et Maud-Yeuse Thomas
 
-### Séance 27 : Vie et survie trans
+### « Il peut faire tout cela s'il le veut. »
 
 **All That Sheltering Emptiness**  
 de Gina Carducci, Mattilda Bernstein Sycamore  
@@ -197,7 +197,7 @@ Expérience d'auto-filature dans laquelle Esmeray, artiste, transsexuelle, kurde
 suivi de  
 **Beware !**  
 de Bruce, Samuel B. Atman  
-France / 2012 / 7 min  
+France / 2012 / 7 min / DCP  
 Avec Lalla Kowska, Mattia Sieger.  
 Une immersion parodique dans la transphobie des années cinquante. (SG)  
 suivi de  
@@ -221,7 +221,7 @@ Un journal intime qui nous invite, au fil d'appels vidéo, dans le quotidien de 
 - lu 24 juin 21h30 GF  
 Séance présentée par Bruce
 
-### Séance 15 : Lionel Soukaz
+### « Le mystère de l'amour, plus grand que le mystère de la mort. »
 
 **Ixe**  
 de Lionel Soukaz  
@@ -247,7 +247,7 @@ Performance par Tom de Pékin.
 - me 26 juin 19h30 JE  
 Séance présentée par Lionel Soukaz
 
-### Séance 9 : Guy Hocquenghem
+### « Que les capitaines de guerre la percent de leurs épées. »
 
 **Le F.H.A.R. (Front Homosexuel d'Action Révolutionnaire)**  
 de Carole Roussopoulos  
@@ -263,7 +263,7 @@ Avec Elizar Van Effenterre, Pierre Stone, Gilles Sandier.
 - me 26 juin 21h30 JE  
 Séance présentée par Lionel Soukaz
 
-### Séance 13 : Paradis perdu/Farrah
+### « N'est-ce pas qu'elle serait très belle comme reine ? »
 
 **Paradis perdu**  
 de Franssou Prenant  
@@ -284,7 +284,7 @@ De ses collages transgenres retrouvés à ses sensuelles photos « poilues », d
 - je 27 juin 19h30 JE  
 Séance présentée par Franssou Prenant (sous réserve), Marie-Pierre Pruvot et Hélène Hazéra
 
-### Séance 28 : Stéphane Gérard
+### « C'est ainsi que j'abolirai les crimes de dessus la terre. »
 
 **#Manifestation ! #Egalité ! #Maintenant !**  
 de Les Panthères Roses  
@@ -313,7 +313,7 @@ Sept conversations croisées rencontrent des archives vidéo pour esquisser les 
 - je 27 juin 21h45 JE  
 Séance présentée par MilitantEs des Panthères roses et des DurEs à Queer
 
-### Séance 4 : Cavalier noir (Le)
+### « Ange du Seigneur Dieu, que fais-tu ici avec ton glaive ? »
 
 **Le Cavalier Noir**  
 **(The Singer Not the Song)**  
@@ -325,21 +325,21 @@ Avec Dirk Bogarde, John Mills, Mylène Demongeot.
 - sa 29 juin 19h30 JE  
 Séance présentée par Jean-François Rauger
 
-### Séance 20 : B.U.C.K.L.E/The Shakedown
+### « Une princesse aux pieds comme des petites colombes blanches. »
 
 **B.U.C.K.L.E.**  
 de Catherine Gund, Julie Tolentino  
-États-Unis / 1993 / 11 min / VOSTF  
+États-Unis / 1993 / 11 min / VOSTF / Numérique  
 Négocier, dévêtir, caresser, embrasser, lécher et séduire les femmes du légendaire Clit Club de New York qui a rayonné sur la scène lesbienne de 1990 à 2002. (Aubin Pictures)  
 suivi de  
 **The Shakedown**  
 de Leilah Weinraub  
-États-Unis / 2018 / 72 min / VOSTF  
+États-Unis / 2018 / 72 min / VOSTF / DCP  
 Rare espace dédié à la culture lesbienne, le Shakedown a réuni et galvanisé une communauté afro-américaine marginale et queer, ce qui en a fait la cible de nombreuses représailles policières.
 
 - sa 29 juin 22h15 JE
 
-### Séance 2 : Fireworks / Sang d'un poète (Le)
+### « Ils ne croient qu'aux choses qu'on ne peut pas voir. »
 
 **Le Sang d'un poète**  
 de Jean Cocteau  
@@ -356,11 +356,11 @@ Avec Kenneth Anger, Gordon Gray, Bill Seltzer.
 - di 30 juin 18h00 JE  
 Séance présentée par Dominique Païni (sous réserve)
 
-### Séance 19 : Fast Trip, Long Drop / L Is for the Way You Look / O Happy Day
+### « As-tu peur de moi, que tu ne veux pas me regarder ? »
 
 **L Is for the Way You Look**  
 de Jean Carlomusto  
-États-Unis / 1991 / 24 min / VOSTF  
+États-Unis / 1991 / 24 min / VOSTF / Numérique  
 Plusieurs lesbiennes racontent les femmes, les icônes, les idoles qui les fascinent, constituant une histoire joyeuse de la politique lesbienne des images. (SG)  
 suivi de  
 **Fast Trip, Long Drop**  
@@ -376,11 +376,11 @@ L'histoire se réécrit dans cette fusion imaginaire entre le mouvement de libé
 - di 30 juin 19h45 JE  
 Séance présentée par Elisabeth Lebovici
 
-### Séance 23 : Virginie Despentes
+### « Qui est cette femme qui me regarde ? »
 
 **Lesborama**  
 de Nathalie Magnan  
-France / 1995 / 30 min  
+France / 1995 / 30 min / DCP  
 Une jubilatoire histoire visuelle des lesbiennes dans le cinéma international. (NB)  
 suivi de  
 **Baise-moi**  
@@ -392,12 +392,12 @@ Rien ne les possède, elles ne sont pas folles, elles ne sont pas hystériques e
 - lu 1 juil 19h00 GF  
 Séance présentée par Virginie Despentes
 
-### Séance 6 : Holding / Reine (La)
+### « Qui éclate dans la beauté de ses vêtements ? »
 
 **La Reine**  
 **(The Queen)**  
 de Frank Simon  
-États-Unis / 1967 / 68 min / VOSTF  
+États-Unis / 1967 / 68 min / VOSTF / 16 mm  
 Avec Jack Doroshow, Richard Finocchio, Crystal.  
 Le concours de beauté Miss All-America Camp Beauty de 1967, qu'Andy Warhol est invité à juger, révèle Crystal LaBeija au monde et simultanément les tensions raciales à l'œuvre dans la scène étatsunienne de drag queens. \[SG\]  
 suivi de  
@@ -408,7 +408,7 @@ de Constance Beeson
 
 - lu 1 juil 21h15 GF
 
-### Séance 10 : Barbara Hammer
+### « C'est pour mon propre plaisir. »
 
 **Sisters !**  
 de Barbara Hammer  
@@ -444,7 +444,7 @@ Expérience de cinéma haptique. (NB)
 - me 3 juil 19h30 JE  
 Séance présentée par Nicole Fernandez Ferrer
 
-### Séance 17 : "Black Men loving Black Men is a revolutionary act"
+### « Était-ce la saveur du sang ou celle de l'amour ? »
 
 **I Object**  
 de House of Colour  
@@ -453,12 +453,12 @@ de House of Colour
 suivi de  
 **This Is Not an AIDS Advertisement**  
 d'Isaac Julien  
-Grande-Bretagne / 1988 / 11 min / VOSTF  
+Grande-Bretagne / 1988 / 11 min / VOSTF / Numérique  
 « Reconquête du terrain au temps du SIDA. » (Isaac Julien)  
 suivi de  
 **Looking for Langston**  
 d'Isaac Julien  
-Grande-Bretagne / 1989 / 45 min / VOSTF  
+Grande-Bretagne / 1989 / 45 min / VOSTF / DCP  
 Avec Ben Ellison, Matthew Baidoo, Akim Mogaji.  
 Fresque onirique de la Harlem Renaissance, fête explosive ponctuée par la voix du poète Langston Hughes, où des hommes noirs s'enivrent de plaisirs.  
 suivi de  
@@ -470,7 +470,7 @@ Marlon Riggs réunit ses frères, parmi lesquels le poète Essex Hemphill, dans 
 
 - me 3 juil 21h30 JE
 
-### Séance 24 : Fantasma (O)
+### « Battement des ailes de l'ange de la mort. »
 
 **O Fantasma**  
 de João Pedro Rodrigues  
@@ -481,18 +481,18 @@ Récit d'une obsession sexuelle sur fond de décharge lisboète. (Olivier Nickla
 - je 4 juil 19h30 JE  
 Séance présentée par Antoine Barraud
 
-### Séance 16 : Born in flames
+### « On dirait que ces fleurs sont faites de feu. »
 
 **Born in flames**  
 de Lizzie Borden  
-États-Unis / 1983 / 80 min / VOSTF / 35 mm  
+États-Unis / 1983 / 80 min / VOSTF / 16 mm  
 Avec Honey, Adele Bertei, Jean Satterfield.  
 Fable de science-fiction tournée caméra au poing dans le downtown new-yorkais rendant hommage comme jamais à une vision radicale dont la lucidité éclate à la manière d'un cocktail Molotov.
 
 - je 4 juil 22h00 JE  
 Séance présentée par Jackie Buet
 
-### Séance 29 : Le Projet Sextoy
+### « Il ne faut regarder que dans les miroirs. »
 
 **Je ne sais pas qui je suis, mais je sais ce que je pense**  
 **(Je ne sais pas qui je suis, mais je sais ce que j'aime)**  
@@ -502,13 +502,13 @@ Je ne sais pas qui je suis mais je sais ce que je pense : images et sons perçue
 suivi de  
 **Le Projet Sextoy**  
 d'Anastasia Mordin, Lidia Terki  
-France / 2014 / 75 min  
+France / 2014 / 75 min / DCP  
 Avec comme toile de fond l'univers du clubbing underground des années 90, le film retrace le projet artistique de Delphine Palatsi alias DJ Sextoy.
 
 - ve 5 juil 19h30 JE  
 Séance présentée par Mathieu Morel et Lidia Terki
 
-### Séance 3 : Jean Genet et cie
+### « Une grande foule le suivait. Il avait même des disciples. »
 
 **Un chant d'amour**  
 de Jean Genet  
@@ -534,7 +534,7 @@ Manifeste du cinéma haptique, qui pourrait aussi être résumé : « Tout l'uni
 - ve 5 juil 21h30 JE  
 Séance présentée par Olivier Neveux
 
-### Séance 31 : Jean Genet, un captif amoureux, parcours d'un poète combattant
+### « Ne te réjouis point, terre de Palestine. »
 
 **Jean Genet, un captif amoureux, parcours d'un poète combattant**  
 de Michèle Collery  
@@ -544,7 +544,7 @@ Les combats de Jean Genet pour les communautés afro-américaines lors de ses vo
 - sa 6 juil 18h45 JE  
 Séance présentée par Michèle Collery
 
-### Séance 30 : Théo et Hugo dans le même bateau
+### « Peut-être est-ce la saveur de l'amour ? »
 
 **Théo et Hugo dans le même bateau**  
 d'Olivier Ducastel, Jacques Martineau  
@@ -555,7 +555,7 @@ Dans un sex-club, les corps de Théo et de Hugo se mêlent en une étreinte pass
 - sa 6 juil 20h30 JE  
 Séance présentée par Olivier Ducastel et Jacques Martineau
 
-### Séance 21 : Tabou
+### « Je te donnerai tout ce que tu demanderas, sauf une chose. »
 
 **Tabou**  
 **(Gohatto)**  
@@ -567,7 +567,7 @@ Avec Takeshi Kitano, Ryuhei Matsuda, Shinji Takeda, Tadanobu Asano.
 - di 7 juil 17h00 JE  
 Séance présentée par Clément Rauger
 
-### Séance 11 : Droit du plus fort (Le)
+### « Enfin, il est le maître. »
 
 **Le Droit du plus fort**  
 **(Faustrecht der Freiheit)**  
@@ -578,11 +578,11 @@ Avec Rainer Werner Fassbinder, Peter Chatel, Karlheinz Böhm.
 
 - me 10 juil 19h00 JE
 
-### Séance 18 : Maria Klonaris et Katerina Thomadaki
+### « Les sirènes couchent sous les feuilles dans les forêts. »
 
 **Danse du miroir**  
 de Sothean Nhieim  
-France / 1981 / 6 min  
+France / 1981 / 6 min / Numérique  
 À jamais le stade du miroir. (NB)  
 suivi de  
 **Selva. Un portrait de Parvaneh Navaï**  
@@ -595,7 +595,7 @@ Restauré du Super 8 en 35mm par la Direction du patrimoine du CNC sous la direc
 - me 10 juil 21h30 JE  
 Séance présentée par Katerina Thomadaki
 
-### Séance 7 : Pink Narcissus
+### « Reflet d'une rose blanche dans un miroir d'argent. »
 
 **Pink Narcissus**  
 de James Bidgood  
@@ -606,16 +606,16 @@ Apogée d'une imagerie homosexuelle portée à l'incandescence. (NB)
 - je 11 juil 19h30 JE  
 Séance présentée par Pascal-Alex Vincent (sous réserve)
 
-### Séance 22 : William E. Jones
+### « Hommes peints, images tracées avec des couleurs. »
 
 **The Fall of Communism as Seen in Gay Pornography**  
 de William E. Jones  
-États-Unis / 1998 / 19 min / VOSTF  
+États-Unis / 1998 / 19 min / VOSTF / DCP  
 L'industrie du X gay à l'Est transforme l'iconographie soviétique en fétiche sexuel. (NB)  
 suivi de  
 **Tearoom**  
 de William E. Jones  
-États-Unis / 2008 / 56 min  
+États-Unis / 2008 / 56 min / DCP  
 Images de surveillance policière, symptômes d'une époque étouffante de répression sexuelle. (NB)
 
 - je 11 juil 21h15 JE

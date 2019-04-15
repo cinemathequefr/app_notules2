@@ -47,7 +47,7 @@
             "Keir Dullea"
           ],
           "duree": 116,
-          "format": "DCP",
+          "format": "35 mm",
           "version": "VOSTF",
           "seance": [
             {
@@ -85,8 +85,8 @@
             "Dana Andrews"
           ],
           "duree": 107,
-          "format": "",
-          "version": "",
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30672,
@@ -125,8 +125,8 @@
             "May McAvoy"
           ],
           "duree": 143,
-          "format": "",
-          "version": "",
+          "format": "35 mm",
+          "version": "INT. ANG.",
           "seance": [
             {
               "idSeance": 30678,
@@ -161,8 +161,8 @@
             "Sonny Su"
           ],
           "duree": 105,
-          "format": "",
-          "version": "",
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30676,
@@ -197,8 +197,8 @@
             "Leonardo Cimino"
           ],
           "duree": 140,
-          "format": "",
-          "version": "",
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30669,
@@ -234,9 +234,9 @@
             "Gustav von Wangenheim",
             "Gerda Maurus"
           ],
-          "duree": 111,
-          "format": "",
-          "version": "INT. ALL.",
+          "duree": 170,
+          "format": "DCP",
+          "version": "INT. FR.",
           "seance": [
             {
               "idSeance": 30667,
@@ -274,6 +274,38 @@
               "ordre": 1,
               "idEvenement": 19259,
               "dateHeure": "2019-07-20T19:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 91457,
+          "titre": "Ghost in the Shell 2 : Innocence",
+          "titreVo": "Inosensu",
+          "realisateurs": "Mamoru Oshii",
+          "annee": 2003,
+          "pays": "Japon",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Japon, 2032. Hanté par le souvenir du Major Motoko, l'inspecteur cyborg Batou enquête avec son partenaire humain Togusa sur une série de meurtres perpétrés par des gynoïdes, des androïdes à l'apparence féminine, destinés aux plaisirs sexuels."
+            }
+          ],
+          "adaptation": "D'après le manga _Ghost in the Shell_ de Masamune Shirow.",
+          "duree": 99,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30674,
+              "ordre": 1,
+              "idEvenement": 19290,
+              "titreEvenement": "Innocence",
+              "dateHeure": "2019-07-20T21:15:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -337,8 +369,8 @@
             "Biao Yuen"
           ],
           "duree": 134,
-          "format": "",
-          "version": "",
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30717,
@@ -374,7 +406,7 @@
           ],
           "duree": 88,
           "format": "35 mm",
-          "version": "",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30683,
@@ -408,7 +440,7 @@
           ],
           "duree": 92,
           "format": "35 mm",
-          "version": "",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30668,
@@ -478,7 +510,7 @@
           ],
           "duree": 130,
           "format": "35 mm",
-          "version": "",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30682,
@@ -488,7 +520,8 @@
               "idSalle": [
                 "HL",
                 "Henri Langlois"
-              ]
+              ],
+              "mention": "Séance présentée par Jean-Jacques Annaud"
             }
           ]
         },
@@ -513,8 +546,8 @@
             "James Robertson Justice"
           ],
           "duree": 116,
-          "format": "",
-          "version": "",
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30665,
@@ -553,8 +586,8 @@
             "Faye Dunaway"
           ],
           "duree": 165,
-          "format": "",
-          "version": "",
+          "format": "DCP",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30681,
@@ -589,8 +622,8 @@
             "Peter Stormare"
           ],
           "duree": 134,
-          "format": "",
-          "version": "",
+          "format": "35 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30718,
@@ -649,34 +682,67 @@
         },
         {
           "idCycle": 432,
-          "idFilm": 37818,
-          "titre": "Alamo",
-          "titreVo": "Alamo",
-          "artVo": "The",
-          "realisateurs": "John Wayne",
-          "annee": 1959,
+          "idFilm": 30822,
+          "titre": "Abyss",
+          "realisateurs": "James Cameron",
+          "annee": 1989,
           "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "En 1836, de nombreux colons et aventuriers américains, parmi lesquels le légendaire Davy Crockett, se sacrifient pour tenir le Fort Alamo face aux assauts des troupes mexicaines."
+              "texte": "L'équipage d'une base de forage pétrolière expérimentale est mobilisé afin de récupérer les ogives nucléaires d'un sous-marin ayant sombré. L'un des plongeurs se retrouve lancé dans une odyssée fantastique à 8 000 mètres de profondeur."
             }
           ],
           "generique": [
-            "John Wayne",
-            "Richard Widmark",
-            "Laurence Harvey",
-            "Richard Boone"
+            "Ed Harris",
+            "Mary Elizabeth Mastrantonio",
+            "Michael Biehn"
           ],
-          "duree": 192,
+          "duree": 140,
           "format": "70 mm",
-          "version": "",
+          "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 30687,
+              "idSeance": 31397,
               "ordre": 1,
-              "idEvenement": 19288,
+              "idEvenement": 19417,
               "dateHeure": "2019-07-27T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 432,
+          "idFilm": 36109,
+          "titre": "Airport",
+          "titreVo": "",
+          "realisateurs": "George Seaton",
+          "annee": 1968,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Chicago, à l'aéroport Lincoln, le trafic est interrompu à la suite d'une tempête de neige et  un avion est paralysé sur la piste de décollage. Pendant ce temps, le pilote Vernon Demarest prépare son vol pour Rome où il doit rejoindre sa maîtresse. Mais une bombe a été placée à bord de l'avion."
+            }
+          ],
+          "adaptation": "D'après le roman _Airport_ d'Arthur Hailey.",
+          "generique": [
+            "Burt Lancaster",
+            "Dean Martin",
+            "Jean Seberg"
+          ],
+          "duree": 137,
+          "format": "70 mm",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 31396,
+              "ordre": 1,
+              "idEvenement": 19418,
+              "dateHeure": "2019-07-26T14:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -707,45 +773,13 @@
           ],
           "duree": 160,
           "format": "70 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30689,
               "ordre": 1,
               "idEvenement": 19287,
               "dateHeure": "2019-07-28T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCycle": 432,
-          "idFilm": 91457,
-          "titre": "Ghost in the Shell 2 : Innocence",
-          "titreVo": "Inosensu",
-          "realisateurs": "Mamoru Oshii",
-          "annee": 2003,
-          "pays": "Japon",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Japon, 2032. Hanté par le souvenir du Major Motoko, l'inspecteur cyborg Batou enquête avec son partenaire humain Togusa sur une série de meurtres perpétrés par des gynoïdes, des androïdes à l'apparence féminine, destinés aux plaisirs sexuels."
-            }
-          ],
-          "adaptation": "D'après le manga _Ghost in the Shell_ de Masamune Shirow.",
-          "duree": 99,
-          "format": "",
-          "version": "",
-          "seance": [
-            {
-              "idSeance": 30674,
-              "ordre": 1,
-              "idEvenement": 19290,
-              "titreEvenement": "Innocence",
-              "dateHeure": "2019-07-20T21:15:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -775,8 +809,8 @@
             "Jennifer Jason Leigh"
           ],
           "duree": 167,
-          "format": "",
-          "version": "",
+          "format": "70 mm",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30685,
@@ -811,7 +845,7 @@
           ],
           "duree": 169,
           "format": "70 mm",
-          "version": "",
+          "version": "VOSTF",
           "seance": [
             {
               "idSeance": 30686,

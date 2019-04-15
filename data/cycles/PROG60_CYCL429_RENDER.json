@@ -54,7 +54,7 @@
           "idCycle": 429,
           "idCategorie": 1947,
           "idEvenement": 19218,
-          "titreEvenement": "Séance d'ouverture",
+          "titreEvenement": "« On dirait qu'elle danse. »",
           "films": [
             {
               "idFilm": 141290,
@@ -70,7 +70,7 @@
                 }
               ],
               "duree": 8,
-              "format": "",
+              "format": "DCP",
               "version": "",
               "ordre": 1
             },
@@ -91,7 +91,7 @@
                 "Saleh Bakri"
               ],
               "duree": 7,
-              "format": "",
+              "format": "DCP",
               "version": "",
               "ordre": 2
             },
@@ -109,7 +109,7 @@
                 }
               ],
               "duree": 3,
-              "format": "",
+              "format": "Numérique",
               "version": "",
               "ordre": 3
             },
@@ -127,7 +127,7 @@
                 }
               ],
               "duree": 94,
-              "format": "",
+              "format": "DCP",
               "version": "VOSTF",
               "ordre": 4
             }
@@ -147,7 +147,7 @@
           "idCycle": 429,
           "idCategorie": 1959,
           "idEvenement": 19136,
-          "titreEvenement": "Séance 12 : Je, tu, il, elle",
+          "titreEvenement": "« C'est bien dit, ma fille. »",
           "films": [
             {
               "idFilm": 56787,
@@ -187,7 +187,7 @@
           "idCycle": 429,
           "idCategorie": 1973,
           "idEvenement": 19145,
-          "titreEvenement": "Séance 25 : Courts-métrages",
+          "titreEvenement": "« Il ne faut regarder que l'amour. »",
           "films": [
             {
               "idFilm": 141244,
@@ -203,7 +203,7 @@
                 }
               ],
               "duree": 9,
-              "format": "",
+              "format": "Numérique",
               "version": "VOSTF",
               "ordre": 1
             },
@@ -293,7 +293,7 @@
                 }
               ],
               "duree": 7,
-              "format": "",
+              "format": "Numérique",
               "version": "VOSTF",
               "ordre": 6
             },
@@ -373,7 +373,7 @@
           "idCycle": 429,
           "idCategorie": 1961,
           "idEvenement": 19139,
-          "titreEvenement": "Séance 14 : Equation à un inconnu",
+          "titreEvenement": "« Ce n'est pas une chose qu'une vierge doive regarder. »",
           "films": [
             {
               "idFilm": 132661,
@@ -414,7 +414,7 @@
           "idCycle": 429,
           "idCategorie": 1955,
           "idEvenement": 19163,
-          "titreEvenement": "Séance 8 : Curt McDowell",
+          "titreEvenement": "« J'ai soif de ta beauté. J'ai faim de ton corps. »",
           "films": [
             {
               "idFilm": 141221,
@@ -458,7 +458,7 @@
                 "Virginia Giritlian"
               ],
               "duree": 30,
-              "format": "",
+              "format": "16 mm",
               "version": "VOSTF",
               "ordre": 2
             },
@@ -476,7 +476,7 @@
                 }
               ],
               "duree": 19,
-              "format": "",
+              "format": "16 mm",
               "version": "VOSTF",
               "ordre": 3
             }
@@ -496,7 +496,7 @@
           "idCycle": 429,
           "idCategorie": 1948,
           "idEvenement": 19156,
-          "titreEvenement": "Séance 1 : Dickson Experimental Sound Film / Salomé",
+          "titreEvenement": "« Comme la princesse Salomé est belle ce soir ! »",
           "films": [
             {
               "idFilm": 141214,
@@ -556,7 +556,7 @@
           "idCycle": 429,
           "idCategorie": 1952,
           "idEvenement": 19161,
-          "titreEvenement": "Séance 5 : Dream Sphinx / Flaming creatures / Jerovi / Lupe",
+          "titreEvenement": "« Il n'y a rien au monde d'aussi blanc que ton corps. »",
           "films": [
             {
               "idFilm": 58030,
@@ -654,7 +654,7 @@
           "idCycle": 429,
           "idCategorie": 1974,
           "idEvenement": 19192,
-          "titreEvenement": "Séance 26 : L'Ordre des mots / Vos papiers",
+          "titreEvenement": "« Qu'est-ce que c'était ? Ah! je m'en souviens ! »",
           "films": [
             {
               "idFilm": 141250,
@@ -689,7 +689,7 @@
                 }
               ],
               "duree": 36,
-              "format": "",
+              "format": "DCP",
               "version": "",
               "ordre": 2
             }
@@ -709,7 +709,7 @@
           "idCycle": 429,
           "idCategorie": 1975,
           "idEvenement": 19194,
-          "titreEvenement": "Séance 27 : Vie et survie trans",
+          "titreEvenement": "« Il peut faire tout cela s'il le veut. »",
           "films": [
             {
               "idFilm": 141252,
@@ -765,7 +765,7 @@
                 "Mattia Sieger"
               ],
               "duree": 7,
-              "format": "",
+              "format": "DCP",
               "version": "",
               "ordre": 3
             },
@@ -847,7 +847,7 @@
           "idCycle": 429,
           "idCategorie": 1962,
           "idEvenement": 19173,
-          "titreEvenement": "Séance 15 : Lionel Soukaz",
+          "titreEvenement": "« Le mystère de l'amour, plus grand que le mystère de la mort. »",
           "films": [
             {
               "idFilm": 76873,
@@ -943,7 +943,7 @@
           "idCycle": 429,
           "idCategorie": 1956,
           "idEvenement": 19166,
-          "titreEvenement": "Séance 9 : Guy Hocquenghem",
+          "titreEvenement": "« Que les capitaines de guerre la percent de leurs épées. »",
           "films": [
             {
               "idFilm": 141224,
@@ -1003,7 +1003,7 @@
           "idCycle": 429,
           "idCategorie": 1960,
           "idEvenement": 19138,
-          "titreEvenement": "Séance 13 : Paradis perdu/Farrah",
+          "titreEvenement": "« N'est-ce pas qu'elle serait très belle comme reine ? »",
           "films": [
             {
               "idFilm": 128050,
@@ -1080,7 +1080,7 @@
           "idCycle": 429,
           "idCategorie": 1976,
           "idEvenement": 19200,
-          "titreEvenement": "Séance 28 : Stéphane Gérard",
+          "titreEvenement": "« C'est ainsi que j'abolirai les crimes de dessus la terre. »",
           "films": [
             {
               "idFilm": 141593,
@@ -1183,7 +1183,7 @@
           "idCycle": 429,
           "idCategorie": 1951,
           "idEvenement": 19129,
-          "titreEvenement": "Séance 4 : Cavalier noir (Le)",
+          "titreEvenement": "« Ange du Seigneur Dieu, que fais-tu ici avec ton glaive ? »",
           "films": [
             {
               "idFilm": 39579,
@@ -1226,7 +1226,7 @@
           "idCycle": 429,
           "idCategorie": 1967,
           "idEvenement": 19183,
-          "titreEvenement": "Séance 20 : B.U.C.K.L.E/The Shakedown",
+          "titreEvenement": "« Une princesse aux pieds comme des petites colombes blanches. »",
           "films": [
             {
               "idFilm": 141263,
@@ -1242,7 +1242,7 @@
                 }
               ],
               "duree": 11,
-              "format": "",
+              "format": "Numérique",
               "version": "VOSTF",
               "ordre": 1
             },
@@ -1261,7 +1261,7 @@
                 }
               ],
               "duree": 72,
-              "format": "",
+              "format": "DCP",
               "version": "VOSTF",
               "ordre": 2
             }
@@ -1280,7 +1280,7 @@
           "idCycle": 429,
           "idCategorie": 1949,
           "idEvenement": 19127,
-          "titreEvenement": "Séance 2 : Fireworks / Sang d'un poète (Le)",
+          "titreEvenement": "« Ils ne croient qu'aux choses qu'on ne peut pas voir. »",
           "films": [
             {
               "idFilm": 47713,
@@ -1345,7 +1345,7 @@
           "idCycle": 429,
           "idCategorie": 1966,
           "idEvenement": 19181,
-          "titreEvenement": "Séance 19 : Fast Trip, Long Drop / L Is for the Way You Look / O Happy Day",
+          "titreEvenement": "« As-tu peur de moi, que tu ne veux pas me regarder ? »",
           "films": [
             {
               "idFilm": 141238,
@@ -1361,7 +1361,7 @@
                 }
               ],
               "duree": 24,
-              "format": "",
+              "format": "Numérique",
               "version": "VOSTF",
               "ordre": 1
             },
@@ -1417,7 +1417,7 @@
           "idCycle": 429,
           "idCategorie": 1971,
           "idEvenement": 19268,
-          "titreEvenement": "Séance 23 : Virginie Despentes",
+          "titreEvenement": "« Qui est cette femme qui me regarde ? »",
           "films": [
             {
               "idFilm": 141389,
@@ -1433,7 +1433,7 @@
                 }
               ],
               "duree": 30,
-              "format": "",
+              "format": "DCP",
               "version": "",
               "ordre": 1
             },
@@ -1476,7 +1476,7 @@
           "idCycle": 429,
           "idCategorie": 1953,
           "idEvenement": 19162,
-          "titreEvenement": "Séance 6 : Holding / Reine (La)",
+          "titreEvenement": "« Qui éclate dans la beauté de ses vêtements ? »",
           "films": [
             {
               "idFilm": 37028,
@@ -1499,7 +1499,7 @@
                 "Crystal"
               ],
               "duree": 68,
-              "format": "",
+              "format": "16 mm",
               "version": "VOSTF",
               "ordre": 1
             },
@@ -1536,7 +1536,7 @@
           "idCycle": 429,
           "idCategorie": 1957,
           "idEvenement": 19168,
-          "titreEvenement": "Séance 10 : Barbara Hammer",
+          "titreEvenement": "« C'est pour mon propre plaisir. »",
           "films": [
             {
               "idFilm": 141225,
@@ -1666,7 +1666,7 @@
           "idCycle": 429,
           "idCategorie": 1964,
           "idEvenement": 19269,
-          "titreEvenement": "Séance 17 : \"Black Men loving Black Men is a revolutionary act\"",
+          "titreEvenement": "« Était-ce la saveur du sang ou celle de l'amour ? »",
           "films": [
             {
               "idFilm": 141408,
@@ -1700,7 +1700,7 @@
                 }
               ],
               "duree": 11,
-              "format": "",
+              "format": "Numérique",
               "version": "VOSTF",
               "ordre": 2
             },
@@ -1723,7 +1723,7 @@
                 "Akim Mogaji"
               ],
               "duree": 45,
-              "format": "",
+              "format": "DCP",
               "version": "VOSTF",
               "ordre": 3
             },
@@ -1765,7 +1765,7 @@
           "idCycle": 429,
           "idCategorie": 1972,
           "idEvenement": 19144,
-          "titreEvenement": "Séance 24 : Fantasma (O)",
+          "titreEvenement": "« Battement des ailes de l'ange de la mort. »",
           "films": [
             {
               "idFilm": 73443,
@@ -1807,7 +1807,7 @@
           "idCycle": 429,
           "idCategorie": 1963,
           "idEvenement": 19141,
-          "titreEvenement": "Séance 16 : Born in flames",
+          "titreEvenement": "« On dirait que ces fleurs sont faites de feu. »",
           "films": [
             {
               "idFilm": 107314,
@@ -1828,7 +1828,7 @@
                 "Jean Satterfield"
               ],
               "duree": 80,
-              "format": "35 mm",
+              "format": "16 mm",
               "version": "VOSTF",
               "ordre": 1
             }
@@ -1848,7 +1848,7 @@
           "idCycle": 429,
           "idCategorie": 1980,
           "idEvenement": 19273,
-          "titreEvenement": "Séance 29 : Le Projet Sextoy",
+          "titreEvenement": "« Il ne faut regarder que dans les miroirs. »",
           "films": [
             {
               "idFilm": 141501,
@@ -1883,7 +1883,7 @@
                 }
               ],
               "duree": 75,
-              "format": "",
+              "format": "DCP",
               "version": "",
               "ordre": 2
             }
@@ -1903,7 +1903,7 @@
           "idCycle": 429,
           "idCategorie": 1950,
           "idEvenement": 19157,
-          "titreEvenement": "Séance 3 : Jean Genet et cie",
+          "titreEvenement": "« Une grande foule le suivait. Il avait même des disciples. »",
           "films": [
             {
               "idFilm": 54392,
@@ -1999,7 +1999,7 @@
           "idCycle": 429,
           "idCategorie": 1977,
           "idEvenement": 19204,
-          "titreEvenement": "Séance 31 : Jean Genet, un captif amoureux, parcours d'un poète combattant",
+          "titreEvenement": "« Ne te réjouis point, terre de Palestine. »",
           "films": [
             {
               "idFilm": 141262,
@@ -2035,7 +2035,7 @@
           "idCycle": 429,
           "idCategorie": 1978,
           "idEvenement": 19206,
-          "titreEvenement": "Séance 30 : Théo et Hugo dans le même bateau",
+          "titreEvenement": "« Peut-être est-ce la saveur de l'amour ? »",
           "films": [
             {
               "idFilm": 131275,
@@ -2076,7 +2076,7 @@
           "idCycle": 429,
           "idCategorie": 1968,
           "idEvenement": 19142,
-          "titreEvenement": "Séance 21 : Tabou",
+          "titreEvenement": "« Je te donnerai tout ce que tu demanderas, sauf une chose. »",
           "films": [
             {
               "idFilm": 68683,
@@ -2118,7 +2118,7 @@
           "idCycle": 429,
           "idCategorie": 1958,
           "idEvenement": 19135,
-          "titreEvenement": "Séance 11 : Droit du plus fort (Le)",
+          "titreEvenement": "« Enfin, il est le maître. »",
           "films": [
             {
               "idFilm": 38648,
@@ -2159,7 +2159,7 @@
           "idCycle": 429,
           "idCategorie": 1965,
           "idEvenement": 19179,
-          "titreEvenement": "Séance 18 : Maria Klonaris et Katerina Thomadaki",
+          "titreEvenement": "« Les sirènes couchent sous les feuilles dans les forêts. »",
           "films": [
             {
               "idFilm": 141455,
@@ -2175,7 +2175,7 @@
                 }
               ],
               "duree": 6,
-              "format": "",
+              "format": "Numérique",
               "version": "",
               "ordre": 1
             },
@@ -2220,7 +2220,7 @@
           "idCycle": 429,
           "idCategorie": 1954,
           "idEvenement": 19133,
-          "titreEvenement": "Séance 7 : Pink Narcissus",
+          "titreEvenement": "« Reflet d'une rose blanche dans un miroir d'argent. »",
           "films": [
             {
               "idFilm": 69494,
@@ -2261,7 +2261,7 @@
           "idCycle": 429,
           "idCategorie": 1969,
           "idEvenement": 19185,
-          "titreEvenement": "Séance 22 : William E. Jones",
+          "titreEvenement": "« Hommes peints, images tracées avec des couleurs. »",
           "films": [
             {
               "idFilm": 141242,
@@ -2278,7 +2278,7 @@
                 }
               ],
               "duree": 19,
-              "format": "",
+              "format": "DCP",
               "version": "VOSTF",
               "ordre": 1
             },
@@ -2296,7 +2296,7 @@
                 }
               ],
               "duree": 56,
-              "format": "",
+              "format": "DCP",
               "version": "",
               "ordre": 2
             }

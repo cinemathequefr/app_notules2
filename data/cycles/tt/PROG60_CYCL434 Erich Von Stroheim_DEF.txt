@@ -1,0 +1,22 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>Queen Kelly
+<pstyle:TECHNIQUE>d'Erich von Stroheim
+<pstyle:TECHNIQUE>États-Unis/1928/106'/INT. ANG./35mm
+<pstyle:TECHNIQUE>Avec Gloria Swanson, Walter Byron, Seena Owen.
+<pstyle:SYNOPSIS>Le prince Wolfram, fiancé désabusé de Regina V de Kronberg, une reine folle, tombe amoureux d'une orpheline élevée au couvent et l'enlève.
+<pstyle:><cstyle:INFOSBLEUES>me 29 maiXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Accompagnement musical par Jean-François Zygel
+
+<pstyle:TITRE>La Symphonie nuptiale
+<pstyle:TITRE_ANG>(The Wedding March)
+<pstyle:TECHNIQUE>d'Erich von Stroheim
+<pstyle:TECHNIQUE>États-Unis/1926/109'/STF/35mm
+<pstyle:TECHNIQUE>Avec Fay Wray, Zasu Pitts, Erich von Stroheim.
+<pstyle:SYNOPSIS>À Vienne en 1914, Nicki, officier issu de l'aristocratie décadente, doit épouser une riche infirme. Mais il tombe amoureux de Mitzi, une jeune femme des faubourgs populaires.
+<pstyle:><cstyle:INFOSBLEUES>me 29 maiXXX21h30XXX
+<cstyle:SALLESBLEUES>B
+

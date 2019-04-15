@@ -2,31 +2,14 @@
   "header": {
     "idCycleProg": 436,
     "titreCycle": "Séances jeune public",
+    "type": "jp",
     "sousCycles": [
       {
-        "titre": "Les studios Aardman",
+        "titre": "Jeune public",
         "cats": [
-          1979
-        ],
-        "tri": 4
-      },
-      {
-        "titre": "Programmes de courts métrages",
-        "cats": [
-          1986
-        ],
-        "tri": 4
-      },
-      {
-        "titre": "Séance à remonter le temps : Charley Bowers, génial inventeur",
-        "cats": [
-          1988
-        ],
-        "tri": 4
-      },
-      {
-        "titre": "Marie Bobine présente",
-        "cats": [
+          1979,
+          1986,
+          1988,
           1981
         ],
         "tri": 4
@@ -36,9 +19,168 @@
   },
   "data": [
     {
-      "titreSousCycle": "Les studios Aardman",
+      "titreSousCycle": "Jeune public",
       "tri": 4,
       "items": [
+        {
+          "idCycle": 436,
+          "idCategorie": 1986,
+          "idEvenement": 19302,
+          "titreEvenement": " Wallace, gromit et Compagnie (programme de Courts métrage)",
+          "films": [
+            {
+              "idFilm": 141544,
+              "titre": "Grand Morph's Home Movies",
+              "titreVo": "",
+              "realisateurs": "Peter Lord",
+              "annee": 1980,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Tout s'invente, tout se transforme, tout s'anime ! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur !"
+                }
+              ],
+              "ordre": 1
+            },
+            {
+              "idFilm": 74734,
+              "titre": "Wallace et Gromit : Une grande excursion",
+              "titreVo": "Wallace and Gromit : A Grand Day Out",
+              "realisateurs": "Nick Park",
+              "annee": 1989,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Tout s'invente, tout se transforme, tout s'anime ! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur !"
+                }
+              ],
+              "duree": 23,
+              "format": "DCP",
+              "version": "VF",
+              "ordre": 2
+            },
+            {
+              "idFilm": 91159,
+              "titre": "Pib et Pog",
+              "titreVo": "Pib and Pog",
+              "realisateurs": "Anonyme",
+              "annee": 1994,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Tout s'invente, tout se transforme, tout s'anime ! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur !"
+                }
+              ],
+              "duree": 6,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 141545,
+              "titre": "Purple and Brown",
+              "titreVo": "",
+              "realisateurs": "Richard Webber",
+              "annee": 2006,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Tout s'invente, tout se transforme, tout s'anime ! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur !"
+                }
+              ],
+              "ordre": 4
+            },
+            {
+              "idFilm": 141546,
+              "titre": "Nokia Dot",
+              "titreVo": "",
+              "realisateurs": "Science Sumo",
+              "annee": 2010,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Tout s'invente, tout se transforme, tout s'anime ! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur !"
+                }
+              ],
+              "ordre": 5
+            },
+            {
+              "idFilm": 141547,
+              "titre": "Shaun the Sheep 3D",
+              "titreVo": "",
+              "realisateurs": "Jay Grace",
+              "annee": 2013,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Tout s'invente, tout se transforme, tout s'anime ! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur !"
+                }
+              ],
+              "duree": null,
+              "format": "",
+              "version": "",
+              "ordre": 6
+            },
+            {
+              "idFilm": 141548,
+              "titre": "Morph : Selfie",
+              "titreVo": "",
+              "realisateurs": "David Sproxton, Peter Lord",
+              "annee": 2013,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Tout s'invente, tout se transforme, tout s'anime ! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur !"
+                }
+              ],
+              "duree": 2,
+              "format": "DCP",
+              "version": "VF",
+              "ordre": 7
+            },
+            {
+              "idFilm": 141549,
+              "titre": "Morph : Sloped World",
+              "titreVo": "",
+              "realisateurs": "Merlin Crossingham",
+              "annee": 2014,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Tout s'invente, tout se transforme, tout s'anime ! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur !"
+                }
+              ],
+              "duree": 2,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 8
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-05-29T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2019-07-07T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
         {
           "idCycle": 436,
           "idCategorie": 1979,
@@ -51,6 +193,12 @@
               "realisateurs": "Nick Park, Peter Lord",
               "annee": 1999,
               "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Gare à vos plumes, poulettes, les fermiers ont décidé de se lancer dans la fabrication industrielle de tourte."
+                }
+              ],
               "generique": [
                 "Gérard Depardieu",
                 "Valérie Lemercier",
@@ -81,6 +229,84 @@
         },
         {
           "idCycle": 436,
+          "idCategorie": 1986,
+          "idEvenement": 19305,
+          "titreEvenement": "Coeur à modeler (Programme de Courts métrages)",
+          "films": [
+            {
+              "idFilm": 89960,
+              "titre": "Non, tu exagères",
+              "titreVo": "Now You Tell One",
+              "realisateurs": "Charley Bowers, Harold L. Muller",
+              "annee": 1926,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Laveurs de carreaux ou boulangers, Wallace et Gromit n'en sont pas moins de géniaux inventeurs de machines plus ou moins utiles. Quelques années plus tôt, Charley Bowers, alias Bricolo, se creusait la tête pour inventer un arbre à faire pousser les chats !"
+                }
+              ],
+              "duree": 22,
+              "format": "",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 108733,
+              "titre": "Wallace et Gromit : Rasé de près",
+              "titreVo": "Wallace and Gromit : A Close Shave",
+              "realisateurs": "Nick Park",
+              "annee": 1995,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Laveurs de carreaux ou boulangers, Wallace et Gromit n'en sont pas moins de géniaux inventeurs de machines plus ou moins utiles. Quelques années plus tôt, Charley Bowers, alias Bricolo, se creusait la tête pour inventer un arbre à faire pousser les chats !"
+                }
+              ],
+              "duree": 30,
+              "format": "DCP",
+              "version": "VF",
+              "ordre": 2
+            },
+            {
+              "idFilm": 108732,
+              "titre": "Wallace et Gromit : Un sacré pétrin",
+              "titreVo": "Wallace and Gromit : A Matter of Loaf and Death",
+              "realisateurs": "Nick Park",
+              "annee": 2008,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Laveurs de carreaux ou boulangers, Wallace et Gromit n'en sont pas moins de géniaux inventeurs de machines plus ou moins utiles. Quelques années plus tôt, Charley Bowers, alias Bricolo, se creusait la tête pour inventer un arbre à faire pousser les chats !"
+                }
+              ],
+              "duree": 30,
+              "format": "DCP",
+              "version": "VF",
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-05T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "dateHeure": "2019-07-03T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 436,
           "idCategorie": 1979,
           "idEvenement": 19280,
           "films": [
@@ -91,8 +317,14 @@
               "realisateurs": "Nick Park, Steve Box",
               "annee": 2004,
               "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "On connaissait les loups-garous mais on ne se méfie pas assez du lapin-garou ! L'animal mutant qui attaque les potagers est plutôt du genre végétarien et Wallace et Gromit devront faire preuve d'inventivité pour le combattre."
+                }
+              ],
               "duree": 85,
-              "format": "",
+              "format": "DCP",
               "version": "VF",
               "ordre": 1
             }
@@ -100,6 +332,190 @@
           "seance": [
             {
               "dateHeure": "2019-06-09T15:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 436,
+          "idCategorie": 1986,
+          "idEvenement": 19299,
+          "titreEvenement": " Drôles d'inventeurs (Programme de Courts métrages  )",
+          "films": [
+            {
+              "idFilm": 113558,
+              "titre": "Blanchisserie automatique",
+              "titreVo": "",
+              "realisateurs": "Anonyme",
+              "annee": 1912,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Tout s'invente, tout se transforme, tout s'anime ! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur !"
+                }
+              ],
+              "ordre": 1
+            },
+            {
+              "idFilm": 74739,
+              "titre": "Adam",
+              "titreVo": "",
+              "realisateurs": "Peter Lord",
+              "annee": 1991,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Tout s'invente, tout se transforme, tout s'anime ! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur !"
+                }
+              ],
+              "duree": 6,
+              "format": "DCP",
+              "version": "VF",
+              "ordre": 2
+            },
+            {
+              "idFilm": 141550,
+              "titre": "Sledgehammer = Peter Gabriel : Sledgehammer",
+              "titreVo": "",
+              "realisateurs": "Stephen R. Johnson",
+              "annee": 1986,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Tout s'invente, tout se transforme, tout s'anime ! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur !"
+                }
+              ],
+              "ordre": 3
+            },
+            {
+              "idFilm": 74740,
+              "titre": "Wallace et Gromit : Un mauvais pantalon",
+              "titreVo": "Wallace and Gromit : The Wrong Trousers",
+              "realisateurs": "Nick Park",
+              "annee": 1993,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Tout s'invente, tout se transforme, tout s'anime ! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur !"
+                }
+              ],
+              "duree": 29,
+              "format": "DCP",
+              "version": "VF",
+              "ordre": 4
+            },
+            {
+              "idFilm": 141551,
+              "titre": "Ray'sbig Idea",
+              "titreVo": "",
+              "realisateurs": "Steve Harding-Hill",
+              "annee": 2014,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Tout s'invente, tout se transforme, tout s'anime ! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur !"
+                }
+              ],
+              "duree": 3,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 5
+            },
+            {
+              "idFilm": 141552,
+              "titre": "So You Want to Be a Pirate !",
+              "titreVo": "",
+              "realisateurs": "Jay Grace",
+              "annee": 2012,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Tout s'invente, tout se transforme, tout s'anime ! Qu'il s'agisse d'un pantalon mécanique, d'une blanchisserie automatique ou de la création du monde, les inventeurs sont à l'honneur !"
+                }
+              ],
+              "duree": 0,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 6
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-19T15:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 436,
+          "idCategorie": 1988,
+          "idEvenement": 19331,
+          "titreEvenement": "séance à remonter le temps : Charley Bowers génial inventeur",
+          "films": [
+            {
+              "idFilm": 89956,
+              "titre": "Pour épater les poules",
+              "titreVo": "Egged on",
+              "realisateurs": "Charley Bowers",
+              "annee": 1926,
+              "pays": "États-Unis",
+              "duree": 24,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 89957,
+              "titre": "Une invention moderne",
+              "titreVo": "He Done His Best",
+              "realisateurs": "Charley Bowers",
+              "annee": 1926,
+              "pays": "États-Unis",
+              "duree": 23,
+              "format": "DCP",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 89961,
+              "titre": "Bricolo inventeur",
+              "titreVo": "Many a Slip",
+              "realisateurs": "Charley Bowers, Harold L. Muller",
+              "annee": 1927,
+              "pays": "États-Unis",
+              "duree": 11,
+              "format": "DCP",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 89966,
+              "titre": "It's a Bird",
+              "titreVo": "",
+              "realisateurs": "Charley Bowers",
+              "annee": 1930,
+              "pays": "États-Unis",
+              "duree": 14,
+              "format": "DCP",
+              "version": "",
+              "ordre": 4
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-23T15:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -119,8 +535,14 @@
               "realisateurs": "Mark Burton, Richard Starzak",
               "annee": 2014,
               "pays": "Grande-Bretagne-France",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Une blague qui tourne mal et voilà que le troupeau de Shaun doit se rendre dans la grande ville pour retrouver leur fermier. La vie urbaine ne sera pas de tout repos pour ses moutons habitués au calme de la campagne."
+                }
+              ],
               "duree": 85,
-              "format": "",
+              "format": "DCP",
               "version": "VF",
               "ordre": 1
             }
@@ -137,6 +559,233 @@
         },
         {
           "idCycle": 436,
+          "idCategorie": 1986,
+          "idEvenement": 19298,
+          "titreEvenement": "Un grain de folie (Programme de Courts métrages 3)",
+          "films": [
+            {
+              "idFilm": 74738,
+              "titre": "Avis des animaux",
+              "art": "L'",
+              "titreVo": "Creature Comforts",
+              "realisateurs": "Nick Park",
+              "annee": 1990,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands."
+                }
+              ],
+              "duree": 5,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 130894,
+              "titre": "Bip Bip au pied léger",
+              "titreVo": "Fast and Furry Ous",
+              "realisateurs": "Chuck Jones",
+              "annee": 1948,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands."
+                }
+              ],
+              "duree": 7,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 2
+            },
+            {
+              "idFilm": 91162,
+              "titre": "Confort électrique",
+              "art": "Le",
+              "titreVo": "Heat electric",
+              "realisateurs": "Anonyme",
+              "annee": 1991,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands."
+                }
+              ],
+              "duree": 3,
+              "format": "Numérique",
+              "version": "VF",
+              "ordre": 3
+            },
+            {
+              "idFilm": 74736,
+              "titre": "Rex the runt : dreams (1991)",
+              "titreVo": "",
+              "realisateurs": "Richard Goleszowski",
+              "annee": 1991,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands."
+                }
+              ],
+              "ordre": 4
+            },
+            {
+              "idFilm": 74735,
+              "titre": "Rex the runt : how dinosaurs became extinct",
+              "titreVo": "",
+              "realisateurs": "Richard Goleszowski",
+              "annee": 1994,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands."
+                }
+              ],
+              "duree": 2,
+              "format": "Numérique",
+              "version": "VF",
+              "ordre": 5
+            },
+            {
+              "idFilm": 74737,
+              "titre": "Loves me, loves me not",
+              "titreVo": "",
+              "realisateurs": "Jeff Newitt",
+              "annee": 1992,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands."
+                }
+              ],
+              "duree": 8,
+              "format": "Numérique",
+              "version": "VF",
+              "ordre": 6
+            },
+            {
+              "idFilm": 91161,
+              "titre": "Jamais sans mon sac à main",
+              "titreVo": "Not without my handbag",
+              "realisateurs": "Anonyme",
+              "annee": 1992,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands."
+                }
+              ],
+              "duree": 12,
+              "format": "Numérique",
+              "version": "VF",
+              "ordre": 7
+            },
+            {
+              "idFilm": 141553,
+              "titre": "Pop",
+              "titreVo": "",
+              "realisateurs": "Sam Fell",
+              "annee": 1996,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands."
+                }
+              ],
+              "duree": 3,
+              "format": "Numérique",
+              "version": "VF",
+              "ordre": 8
+            },
+            {
+              "idFilm": 90191,
+              "titre": "Humdrum",
+              "titreVo": "",
+              "realisateurs": "Peter Peake",
+              "annee": 1998,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands."
+                }
+              ],
+              "ordre": 9
+            },
+            {
+              "idFilm": 90933,
+              "titre": "Stage fright",
+              "titreVo": "",
+              "realisateurs": "Steve Box",
+              "annee": 1997,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands."
+                }
+              ],
+              "ordre": 10
+            },
+            {
+              "idFilm": 91160,
+              "titre": "Cochon de Wat",
+              "art": "Le",
+              "titreVo": "Wat's pig",
+              "realisateurs": "Anonyme",
+              "annee": 1996,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands."
+                }
+              ],
+              "duree": 12,
+              "format": "DCP",
+              "version": "VF",
+              "ordre": 11
+            },
+            {
+              "idFilm": 141556,
+              "titre": "Fly",
+              "titreVo": "",
+              "realisateurs": "Alan Short",
+              "annee": 2010,
+              "pays": "Grande-Bretagne",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Des animaux qui se comportent comme des humains ou des personnages excentriques qui jouent à se faire peur, l'humour est parfois décalé dans les films de pâte à modeler comme dans les cartoons. Un programme surprenant qui ravira aussi les plus grands."
+                }
+              ],
+              "duree": 3,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 12
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-30T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 436,
           "idCategorie": 1979,
           "idEvenement": 19279,
           "films": [
@@ -147,9 +796,15 @@
               "realisateurs": "David Bowers, Sam Fell",
               "annee": 2005,
               "pays": "Grande-Bretagne-États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Roddy, un rat des beaux quartiers voit un rat d'égouts débarquer dans sa luxueuse demeure et bouleverser son quotidien confortable. Le nouvel arrivant se joue de lui et le propulse à Souris-city, une gigantesque ville souterraine. Roddy va devoir revoir sa façon de vivre !"
+                }
+              ],
               "duree": 95,
-              "format": "",
-              "version": "VF",
+              "format": "35 mm",
+              "version": "VOSTF",
               "ordre": 1
             }
           ],
@@ -177,9 +832,15 @@
               "realisateurs": "Peter Lord, Jeff Newitt",
               "annee": 2011,
               "pays": "Grande-Bretagne-États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Un capitaine pirate un peu gauche et son équipage de bras cassés convoitent pourtant le titre de Pirate de l'année. Hissez les voiles moussaillons !"
+                }
+              ],
               "adaptation": "D'après le livre _Les Pirates ! Dans une aventure avec les savants_ de Gideon Defoe.",
               "duree": 89,
-              "format": "",
+              "format": "DCP",
               "version": "VF",
               "ordre": 1
             }
@@ -206,6 +867,12 @@
               "realisateurs": "Nick Park",
               "annee": 2017,
               "pays": "Grande-Bretagne-France",
+              "textes": [
+                {
+                  "typeTexte": 203,
+                  "texte": "Durant la préhistoire, le quotidien primitif d'une tribue d'hommes des cavernes est boulversé par l'arrivée de l'âge de bronze, incarné par un roi corompu à la tête d'un peuple aux techniques plus avancées. Et cette querelle se reglera sur un terrain de... football !"
+                }
+              ],
               "duree": 89,
               "format": "DCP",
               "version": "VF",
@@ -223,386 +890,6 @@
           ]
         }
       ]
-    },
-    {
-      "titreSousCycle": "Programmes de courts métrages",
-      "tri": 4,
-      "items": [
-        {
-          "idCycle": 436,
-          "idCategorie": 1986,
-          "idEvenement": 19302,
-          "titreEvenement": " Wallace, gromit et Compagnie (programme de Courts métrage)",
-          "films": [
-            {
-              "idFilm": 141544,
-              "titre": "Grand Morph's Home Movies",
-              "titreVo": "",
-              "realisateurs": "Peter Lord",
-              "annee": 1980,
-              "pays": "Grande-Bretagne",
-              "ordre": 1
-            },
-            {
-              "idFilm": 74734,
-              "titre": "Wallace et Gromit : Une grande excursion",
-              "titreVo": "Wallace and Gromit : A Grand Day Out",
-              "realisateurs": "Nick Park",
-              "annee": 1989,
-              "pays": "Grande-Bretagne",
-              "duree": 23,
-              "format": "DCP",
-              "version": "VF",
-              "ordre": 2
-            },
-            {
-              "idFilm": 91159,
-              "titre": "Pib et Pog",
-              "titreVo": "Pib and Pog",
-              "realisateurs": "Anonyme",
-              "annee": 1994,
-              "pays": "Grande-Bretagne",
-              "ordre": 3
-            },
-            {
-              "idFilm": 141545,
-              "titre": "Purple and Brown",
-              "titreVo": "",
-              "realisateurs": "Richard Webber",
-              "annee": 2006,
-              "pays": "Grande-Bretagne",
-              "ordre": 4
-            },
-            {
-              "idFilm": 141546,
-              "titre": "Nokia Dot",
-              "titreVo": "",
-              "realisateurs": "Science Sumo",
-              "annee": 2010,
-              "pays": "Grande-Bretagne",
-              "ordre": 5
-            },
-            {
-              "idFilm": 141547,
-              "titre": "Shaun the Sheep 3D",
-              "titreVo": "",
-              "realisateurs": "Jay Grace",
-              "annee": 2013,
-              "pays": "Grande-Bretagne",
-              "ordre": 6
-            },
-            {
-              "idFilm": 141548,
-              "titre": "Morph : Selfie",
-              "titreVo": "",
-              "realisateurs": "David Sproxton, Peter Lord",
-              "annee": 2013,
-              "pays": "Grande-Bretagne",
-              "duree": 2,
-              "format": "DCP",
-              "version": "VF",
-              "ordre": 7
-            },
-            {
-              "idFilm": 141549,
-              "titre": "Morph : Sloped World",
-              "titreVo": "",
-              "realisateurs": "Merlin Crossingham",
-              "annee": 2014,
-              "pays": "Grande-Bretagne",
-              "ordre": 8
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2019-05-29T15:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            },
-            {
-              "dateHeure": "2019-07-07T15:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
-        },
-        {
-          "idCycle": 436,
-          "idCategorie": 1986,
-          "idEvenement": 19305,
-          "titreEvenement": "Coeur à modeler (Programme de Courts métrages)",
-          "films": [
-            {
-              "idFilm": 89960,
-              "titre": "Non, tu exagères",
-              "titreVo": "Now You Tell One",
-              "realisateurs": "Charley Bowers, Harold L. Muller",
-              "annee": 1926,
-              "pays": "États-Unis",
-              "ordre": 1
-            },
-            {
-              "idFilm": 108733,
-              "titre": "Wallace et Gromit : Rasé de près",
-              "titreVo": "Wallace and Gromit : A Close Shave",
-              "realisateurs": "Nick Park",
-              "annee": 1995,
-              "pays": "Grande-Bretagne",
-              "duree": 30,
-              "format": "DCP",
-              "version": "",
-              "ordre": 2
-            },
-            {
-              "idFilm": 108732,
-              "titre": "Wallace et Gromit : Un sacré pétrin",
-              "titreVo": "Wallace and Gromit : A Matter of Loaf and Death",
-              "realisateurs": "Nick Park",
-              "annee": 2008,
-              "pays": "Grande-Bretagne",
-              "duree": 30,
-              "format": "DCP",
-              "version": "",
-              "ordre": 3
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2019-06-05T15:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            },
-            {
-              "dateHeure": "2019-07-03T15:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
-        },
-        {
-          "idCycle": 436,
-          "idCategorie": 1986,
-          "idEvenement": 19299,
-          "titreEvenement": " Drôles d'inventeurs (Programme de Courts métrages  )",
-          "films": [
-            {
-              "idFilm": 113558,
-              "titre": "Blanchisserie automatique",
-              "titreVo": "",
-              "realisateurs": "Anonyme",
-              "annee": 1912,
-              "pays": "France",
-              "ordre": 1
-            },
-            {
-              "idFilm": 74739,
-              "titre": "Adam",
-              "titreVo": "",
-              "realisateurs": "Peter Lord",
-              "annee": 1991,
-              "pays": "Grande-Bretagne",
-              "duree": 6,
-              "format": "DCP",
-              "version": "",
-              "ordre": 2
-            },
-            {
-              "idFilm": 141550,
-              "titre": "Sledgehammer = Peter Gabriel : Sledgehammer",
-              "titreVo": "",
-              "realisateurs": "Stephen R. Johnson",
-              "annee": 1986,
-              "pays": "Grande-Bretagne",
-              "ordre": 3
-            },
-            {
-              "idFilm": 74740,
-              "titre": "Wallace et Gromit : Un mauvais pantalon",
-              "titreVo": "Wallace and Gromit : The Wrong Trousers",
-              "realisateurs": "Nick Park",
-              "annee": 1993,
-              "pays": "Grande-Bretagne",
-              "duree": 29,
-              "format": "DCP",
-              "version": "VF",
-              "ordre": 4
-            },
-            {
-              "idFilm": 141551,
-              "titre": "Ray'sbig Idea",
-              "titreVo": "",
-              "realisateurs": "Steve Harding-Hill",
-              "annee": 2014,
-              "pays": "Grande-Bretagne",
-              "ordre": 5
-            },
-            {
-              "idFilm": 141552,
-              "titre": "So You Want to Be a Pirate !",
-              "titreVo": "",
-              "realisateurs": "Jay Grace",
-              "annee": 2012,
-              "pays": "Grande-Bretagne",
-              "ordre": 6
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2019-06-19T15:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCycle": 436,
-          "idCategorie": 1986,
-          "idEvenement": 19298,
-          "titreEvenement": "Un grain de folie (Programme de Courts métrages 3)",
-          "films": [
-            {
-              "idFilm": 74738,
-              "titre": "Avis des animaux",
-              "art": "L'",
-              "titreVo": "Creature Comforts",
-              "realisateurs": "Nick Park",
-              "annee": 1990,
-              "pays": "Grande-Bretagne",
-              "ordre": 1
-            },
-            {
-              "idFilm": 130894,
-              "titre": "Bip Bip au pied léger",
-              "titreVo": "Fast and Furry Ous",
-              "realisateurs": "Chuck Jones",
-              "annee": 1948,
-              "pays": "États-Unis",
-              "ordre": 2
-            },
-            {
-              "idFilm": 91162,
-              "titre": "Confort électrique",
-              "art": "Le",
-              "titreVo": "Heat electric",
-              "realisateurs": "Anonyme",
-              "annee": 1991,
-              "pays": "Grande-Bretagne",
-              "ordre": 3
-            },
-            {
-              "idFilm": 74736,
-              "titre": "Rex the runt : dreams (1991)",
-              "titreVo": "",
-              "realisateurs": "Richard Goleszowski",
-              "annee": 1991,
-              "pays": "Grande-Bretagne",
-              "ordre": 4
-            },
-            {
-              "idFilm": 74735,
-              "titre": "Rex the runt : how dinosaurs became extinct",
-              "titreVo": "",
-              "realisateurs": "Richard Goleszowski",
-              "annee": 1994,
-              "pays": "Grande-Bretagne",
-              "ordre": 5
-            },
-            {
-              "idFilm": 74737,
-              "titre": "Loves me, loves me not",
-              "titreVo": "",
-              "realisateurs": "Jeff Newitt",
-              "annee": 1992,
-              "pays": "Grande-Bretagne",
-              "ordre": 6
-            },
-            {
-              "idFilm": 91161,
-              "titre": "Jamais sans mon sac à main",
-              "titreVo": "Not without my handbag",
-              "realisateurs": "Anonyme",
-              "annee": 1992,
-              "pays": "Grande-Bretagne",
-              "ordre": 7
-            },
-            {
-              "idFilm": 141553,
-              "titre": "Pop",
-              "titreVo": "",
-              "realisateurs": "Sam Fell",
-              "annee": 1996,
-              "pays": "Grande-Bretagne",
-              "ordre": 8
-            },
-            {
-              "idFilm": 90191,
-              "titre": "Humdrum",
-              "titreVo": "",
-              "realisateurs": "Peter Peake",
-              "annee": 1998,
-              "pays": "Grande-Bretagne",
-              "ordre": 9
-            },
-            {
-              "idFilm": 90933,
-              "titre": "Stage fright",
-              "titreVo": "",
-              "realisateurs": "Steve Box",
-              "annee": 1997,
-              "pays": "Grande-Bretagne",
-              "ordre": 10
-            },
-            {
-              "idFilm": 91160,
-              "titre": "Cochon de Wat",
-              "art": "Le",
-              "titreVo": "Wat's pig",
-              "realisateurs": "Anonyme",
-              "annee": 1996,
-              "pays": "Grande-Bretagne",
-              "ordre": 11
-            },
-            {
-              "idFilm": 141556,
-              "titre": "Fly",
-              "titreVo": "",
-              "realisateurs": "Alan Short",
-              "annee": 2010,
-              "pays": "Grande-Bretagne",
-              "ordre": 12
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2019-06-30T15:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "titreSousCycle": "Séance à remonter le temps : Charley Bowers, génial inventeur",
-      "tri": 4,
-      "items": []
-    },
-    {
-      "titreSousCycle": "Marie Bobine présente",
-      "tri": 4,
-      "items": []
     }
   ]
 }

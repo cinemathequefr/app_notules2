@@ -1,0 +1,135 @@
+{
+  "header": {
+    "idCycleProg": 340,
+    "titreCycle": "Youssef Chahine",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          1991
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 60
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idCycle": 340,
+          "idFilm": 37622,
+          "titre": "C'est toi mon amour",
+          "titreVo": "Enta habibi",
+          "realisateurs": "Youssef Chahine",
+          "annee": 1957,
+          "pays": "Égypte",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Farid et Yasmina sont cousins. Poussés par leurs familles à se marier afin de cumuler les héritages, ils se détestent et multiplient les ruses pour retrouver leurs amants respectifs."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Version restaurée par MISR International."
+            }
+          ],
+          "generique": [
+            "Farid El-Atrache",
+            "Chadia",
+            "Hind Rostom"
+          ],
+          "duree": 120,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 31369,
+              "ordre": 1,
+              "idEvenement": 17968,
+              "dateHeure": "2019-06-23T18:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 340,
+          "idFilm": 88623,
+          "titre": "Sable d'or",
+          "art": "Le",
+          "titreVo": "Rimal min Dhahab",
+          "realisateurs": "Youssef Chahine",
+          "annee": 1966,
+          "pays": "Égypte",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Tarak est amoureux de sa cousine mais elle est déjà promise à un autre cousin, fils du chef de la tribu."
+            }
+          ],
+          "generique": [
+            "Faten Hamama",
+            "Paul Barge",
+            "Duraid Lahham"
+          ],
+          "duree": 110,
+          "format": "Vidéo",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30756,
+              "ordre": 1,
+              "idEvenement": 19339,
+              "dateHeure": "2019-06-28T21:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 340,
+          "idFilm": 88619,
+          "titre": "Vendeur de bagues",
+          "art": "Le",
+          "titreVo": "Biya el-Khawatim",
+          "realisateurs": "Youssef Chahine",
+          "annee": 1965,
+          "pays": "Égypte",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le maire d'un petit village, pour conforter son autorité auprès des habitants, invente l'existence d'un bandit dénommé Rajeh. Effrayés, les villageois hésitent à maintenir la grande fête des célibataires."
+            }
+          ],
+          "generique": [
+            "Fayrouz",
+            "Youssef Azar",
+            "Nasri Shamseddine"
+          ],
+          "duree": 90,
+          "format": "Numérique",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30755,
+              "ordre": 1,
+              "idEvenement": 19338,
+              "dateHeure": "2019-06-28T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

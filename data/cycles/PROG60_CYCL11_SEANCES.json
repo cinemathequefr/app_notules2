@@ -1,0 +1,83 @@
+[{
+  "idCycle": 11,
+  "idCategorie": 2005,
+  "idEvenement": 19412,
+  "idSeance": 31389,
+  "dateHeure": "2019-06-19T20:30:00",
+  "idSalle": [
+    "JE",
+    "Jean Epstein"
+  ],
+  "titreEvenement": "Hommage à Mikhaïl Kobakhidzé",
+  "items": [{
+      "idFilm": 75047,
+      "ordre": 1,
+      "idSeance": 31389,
+      "idCopie": 6550,
+      "duree": 11,
+      "version": "",
+      "format": "35 mm",
+      "valide": 1
+    },
+    {
+      "idFilm": 75046,
+      "ordre": 2,
+      "idSeance": 31389,
+      "idCopie": 6549,
+      "duree": 7,
+      "version": "",
+      "format": "35 mm",
+      "valide": 1
+    },
+    {
+      "idFilm": 41489,
+      "ordre": 3,
+      "idSeance": 31389,
+      "idCopie": 6548,
+      "duree": 21,
+      "version": "",
+      "format": "35 mm",
+      "valide": 1
+    },
+    {
+      "idFilm": 71112,
+      "ordre": 4,
+      "idSeance": 31389,
+      "idCopie": 6170,
+      "duree": 12,
+      "version": "",
+      "format": "35 mm",
+      "valide": 1
+    },
+    {
+      "idFilm": 71113,
+      "ordre": 5,
+      "idSeance": 31389,
+      "idCopie": 6551,
+      "duree": 18,
+      "version": "",
+      "format": "35 mm",
+      "valide": 1
+    },
+    {
+      "idFilm": 141743,
+      "ordre": 6,
+      "idSeance": 31389,
+      "idCopie": 18536,
+      "duree": 13,
+      "version": "",
+      "format": "35 mm",
+      "valide": 1
+    },
+    {
+      "idFilm": 141745,
+      "ordre": 7,
+      "idSeance": 31389,
+      "idCopie": 18537,
+      "duree": 47,
+      "version": "VOSTF",
+      "format": "Numérique",
+      "valide": 1
+    }
+  ]
+}]

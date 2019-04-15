@@ -79,7 +79,7 @@
         "duree": 100,
         "version": "VOSTF",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -103,13 +103,13 @@
         "duree": 85,
         "version": "VOSTF",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
   {
     "idCycle": 424,
-    "idCategorie": 1925,
+    "idCategorie": 1992,
     "idEvenement": 19086,
     "idSeance": 30590,
     "dateHeure": "2019-05-31T21:30:00",
@@ -157,7 +157,7 @@
         "duree": 20,
         "version": "VOSTF",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -229,7 +229,7 @@
         "duree": 129,
         "version": "VOSTF",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -253,7 +253,7 @@
         "duree": 101,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -275,7 +275,7 @@
         "idSeance": 30595,
         "idCopie": 18319,
         "duree": 122,
-        "version": "",
+        "version": "VOSTF",
         "format": "DCP",
         "valide": 1
       }
@@ -301,7 +301,7 @@
         "duree": 54,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -343,7 +343,13 @@
     "items": [
       {
         "idFilm": 77201,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 30739,
+        "idCopie": 18453,
+        "duree": 122,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -365,7 +371,7 @@
         "idSeance": 30691,
         "idCopie": 18319,
         "duree": 122,
-        "version": "",
+        "version": "VOSTF",
         "format": "DCP",
         "valide": 1
       }
@@ -391,7 +397,31 @@
         "duree": 100,
         "version": "VOSTF",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1984,
+    "idEvenement": 19101,
+    "idSeance": 30719,
+    "dateHeure": "2019-06-07T15:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Seule, Georgie",
+    "items": [
+      {
+        "idFilm": 117982,
+        "ordre": 1,
+        "idSeance": 30719,
+        "idCopie": 18321,
+        "duree": 236,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -400,7 +430,7 @@
     "idCategorie": 1983,
     "idEvenement": 19238,
     "idSeance": 30598,
-    "dateHeure": "2019-06-07T19:30:00",
+    "dateHeure": "2019-06-07T20:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -415,7 +445,7 @@
         "duree": 92,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ],
     "mention": "Séance présentée par Julie Bertuccelli"
@@ -438,9 +468,9 @@
         "idSeance": 30726,
         "idCopie": 18311,
         "duree": 117,
-        "version": "",
+        "version": "VO",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -504,7 +534,7 @@
   },
   {
     "idCycle": 424,
-    "idCategorie": 1925,
+    "idCategorie": 1992,
     "idEvenement": 19086,
     "idSeance": 30614,
     "dateHeure": "2019-06-09T15:30:00",
@@ -552,7 +582,31 @@
         "duree": 20,
         "version": "VOSTF",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
+    "idEvenement": 19097,
+    "idSeance": 30603,
+    "dateHeure": "2019-06-09T16:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Il était une fois un merle chanteur",
+    "items": [
+      {
+        "idFilm": 41206,
+        "ordre": 1,
+        "idSeance": 30603,
+        "idCopie": 18309,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -575,56 +629,8 @@
         "idCopie": 18321,
         "duree": 236,
         "version": "",
-        "format": "",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 424,
-    "idCategorie": 1984,
-    "idEvenement": 19101,
-    "idSeance": 30719,
-    "dateHeure": "2019-06-10T19:45:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Seule, Georgie",
-    "items": [
-      {
-        "idFilm": 117982,
-        "ordre": 1,
-        "idSeance": 30719,
-        "idCopie": 18321,
-        "duree": 236,
-        "version": "",
-        "format": "",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 424,
-    "idCategorie": 1925,
-    "idEvenement": 19097,
-    "idSeance": 30603,
-    "dateHeure": "2019-06-12T19:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Il était une fois un merle chanteur",
-    "items": [
-      {
-        "idFilm": 41206,
-        "ordre": 1,
-        "idSeance": 30603,
-        "idCopie": 18309,
-        "duree": 85,
-        "version": "VOSTF",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -633,7 +639,7 @@
     "idCategorie": 1925,
     "idEvenement": 19099,
     "idSeance": 30604,
-    "dateHeure": "2019-06-12T21:30:00",
+    "dateHeure": "2019-06-12T16:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -649,24 +655,6 @@
         "version": "VOSTF",
         "format": "DCP",
         "valide": 1
-      }
-    ]
-  },
-  {
-    "idCycle": 424,
-    "idCategorie": 1925,
-    "idEvenement": 19336,
-    "idSeance": 30741,
-    "dateHeure": "2019-06-15T16:45:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Lundi matin",
-    "items": [
-      {
-        "idFilm": 77201,
-        "ordre": 1
       }
     ]
   },
@@ -690,7 +678,7 @@
         "duree": 101,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -721,9 +709,33 @@
   {
     "idCycle": 424,
     "idCategorie": 1925,
+    "idEvenement": 19336,
+    "idSeance": 30752,
+    "dateHeure": "2019-06-16T15:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Lundi matin",
+    "items": [
+      {
+        "idFilm": 77201,
+        "ordre": 1,
+        "idSeance": 30752,
+        "idCopie": 18453,
+        "duree": 122,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCycle": 424,
+    "idCategorie": 1925,
     "idEvenement": 19092,
     "idSeance": 30608,
-    "dateHeure": "2019-06-16T18:00:00",
+    "dateHeure": "2019-06-16T18:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -747,7 +759,7 @@
     "idCategorie": 1925,
     "idEvenement": 19088,
     "idSeance": 30609,
-    "dateHeure": "2019-06-16T20:30:00",
+    "dateHeure": "2019-06-16T20:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -762,7 +774,7 @@
         "duree": 129,
         "version": "VOSTF",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -858,7 +870,7 @@
         "duree": 54,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -904,9 +916,9 @@
         "idSeance": 30742,
         "idCopie": 18311,
         "duree": 117,
-        "version": "",
+        "version": "VO",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   }

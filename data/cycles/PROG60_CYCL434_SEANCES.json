@@ -1,0 +1,51 @@
+[
+  {
+    "idCycle": 434,
+    "idCategorie": 1937,
+    "idEvenement": 19271,
+    "idSeance": 29944,
+    "dateHeure": "2019-05-29T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Queen Kelly",
+    "items": [
+      {
+        "idFilm": 37205,
+        "ordre": 1,
+        "idSeance": 29944,
+        "idCopie": 18295,
+        "duree": 106,
+        "version": "INT. ANG.",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ],
+    "mention": "Accompagnement musical par Jean-François Zygel"
+  },
+  {
+    "idCycle": 434,
+    "idCategorie": 1937,
+    "idEvenement": 19272,
+    "idSeance": 29943,
+    "dateHeure": "2019-05-29T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "titreEvenement": "Symphonie nuptiale (La)",
+    "items": [
+      {
+        "idFilm": 37220,
+        "ordre": 1,
+        "idSeance": 29943,
+        "idCopie": 18297,
+        "duree": 109,
+        "version": "STF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  }
+]

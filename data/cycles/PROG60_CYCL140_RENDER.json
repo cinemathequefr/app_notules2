@@ -1,0 +1,443 @@
+{
+  "header": {
+    "idCycleProg": 140,
+    "titreCycle": "Aujourd'hui le cinéma",
+    "sousCycles": [
+      {
+        "titre": "Jean-Charles Hue",
+        "cats": [
+          2009
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "David Roux",
+        "cats": [
+          2000
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Festival de Brive 2019",
+        "cats": [
+          2001
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Premiers pas",
+        "cats": [
+          2007
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Chili, post-scriptum",
+        "cats": [
+          2006
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Álvaro José Aponte-Centeno",
+        "cats": [
+          2008
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 60
+  },
+  "data": [
+    {
+      "titreSousCycle": "Jean-Charles Hue",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 140,
+          "idCategorie": 2009,
+          "idEvenement": 19422,
+          "films": [
+            {
+              "idFilm": 141770,
+              "titre": "Topo y Wera",
+              "titreVo": "",
+              "realisateurs": "Jean-Charles Hue",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un jeune coupe très aimant de déportés mexicains survit à Tijuana entre débrouille et petits larcins."
+                }
+              ],
+              "duree": 49,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-03T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Séance suivie d'une discussion avec Jean-Charles Hue"
+            }
+          ]
+        },
+        {
+          "idCycle": 140,
+          "idCategorie": 2009,
+          "idEvenement": 19423,
+          "films": [
+            {
+              "idFilm": 34795,
+              "titre": "Wanda",
+              "titreVo": "",
+              "realisateurs": "Barbara Loden",
+              "annee": 1970,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Mariée et mère de deux enfants, Wanda reste désœuvrée jour après jour, avant que son mari ne décide de divorcer. L'errance commence."
+                }
+              ],
+              "generique": [
+                "Barbara Loden",
+                "Michael Higgins",
+                "Dorothy Shupenes"
+              ],
+              "duree": 105,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-03T21:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Avant-première. Séance présentée par Jean-Charles Hue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "David Roux",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 140,
+          "idCategorie": 2000,
+          "idEvenement": 19400,
+          "films": [
+            {
+              "idFilm": 140828,
+              "titre": "Ordre des médecins",
+              "art": "L'",
+              "titreVo": "",
+              "realisateurs": "David Roux",
+              "annee": 2017,
+              "pays": "France-Belgique",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Simon est un médecin aguerri. Il côtoie la maladie et la mort tous les jours dans son service de pneumologie et a appris à s'en protéger. Mais quand sa mère est hospitalisée dans une unité voisine, la frontière entre l'intime et le professionnel se brouille."
+                }
+              ],
+              "generique": [
+                "Jérémie Renier",
+                "Marthe Keller",
+                "Zita Hanrot"
+              ],
+              "duree": 93,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-17T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Séance suivie d'une discussion avec David Roux"
+            }
+          ]
+        },
+        {
+          "idCycle": 140,
+          "idCategorie": 2000,
+          "idEvenement": 19405,
+          "films": [
+            {
+              "idFilm": 33685,
+              "titre": "Moissons du ciel",
+              "art": "Les",
+              "titreVo": "Days of Heaven",
+              "realisateurs": "Terrence Malick",
+              "annee": 1978,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "En 1916, Bill, ouvrier dans une fonderie, sa petite amie Abby et sa sœur Linda quittent Chicago pour faire les moissons au Texas. Voyant là l'opportunité de sortir de la misère, Bill pousse Abby à céder aux avances d'un riche fermier, qu'ils savent atteint d'une maladie incurable."
+                }
+              ],
+              "generique": [
+                "Richard Gere",
+                "Brooke Adams",
+                "Sam Shepard"
+              ],
+              "duree": 93,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-17T21:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Séance présentée par David Roux"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Festival de Brive 2019",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 140,
+          "idCategorie": 2001,
+          "idEvenement": 19421,
+          "films": [
+            {
+              "idFilm": 141769,
+              "titre": "Ce n'est qu'après",
+              "titreVo": "",
+              "realisateurs": "Vincent Pouplard",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Ils ont à peine 20 ans. Ils sont robustes, fragiles, habiles. Ils sont Allia, Hamza, Kilian et Maélis. Ils passent du temps à se dire, à nommer ce qu'ils sont, creux et pleins. Vox Clamantis in Deserto et nous tendons l'oreille. Le film est leur empreinte."
+                }
+              ],
+              "duree": 30,
+              "format": "DCP",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141746,
+              "titre": "Tsuma Musume Haha",
+              "titreVo": "",
+              "realisateurs": "Alain Della Negra, Kaori Kinoshita",
+              "annee": 2019,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une poupée grandeur nature, un avatar, une intelligence artificielle peuvent-ils véritablement aimer ? A travers des histoires d'amour non-réciproques entre humain et non humain, le film montre autant de tentatives d'appartenir au monde et dessine l'avenir du Japon."
+                }
+              ],
+              "duree": 31,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-24T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Séance suivie d'une discussion avec Vincent Pouplard, Alain Della Negra et Kaori Kinoshita. Séance présentée par Elsa Charbit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Premiers pas",
+      "tri": 4,
+      "items": []
+    },
+    {
+      "titreSousCycle": "Chili, post-scriptum",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 140,
+          "idCategorie": 2006,
+          "idEvenement": 19415,
+          "films": [
+            {
+              "idFilm": 123386,
+              "titre": "Sœurs Quispe",
+              "art": "Les",
+              "titreVo": "Niñas Quispe",
+              "artVo": "Las",
+              "realisateurs": "Sebastián Sepúlveda",
+              "annee": 2013,
+              "pays": "Chili-France-Argentine",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Chili 1974. Justa, Lucia et Luciana Quispe, trois bergères de l'Altiplano, mènent une vie retirée au rythme de la nature. À son arrivée au pouvoir, Pinochet remet en question ce mode de vie ancestral. Les trois sœurs traversent alors une crise existentielle qui aura un retentissement unique dans l'histoire contemporaine du Chili."
+                }
+              ],
+              "adaptation": "D'après la pièce _Las Brutas_ de Juan Radrigán.",
+              "generique": [
+                "Justa Quispe",
+                "Lucía Quispe",
+                "Luciana Quispe"
+              ],
+              "duree": 80,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-01T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 140,
+          "idCategorie": 2006,
+          "idEvenement": 19416,
+          "films": [
+            {
+              "idFilm": 141766,
+              "titre": "Biographie inventée",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Nicolas Lasnibat",
+              "annee": 2017,
+              "pays": "France-Chili-Mexique",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Documentaire? Fiction? Le réalisateur chilien Nicolas Lasnibat, résidant à Paris, reçoit une lettre et un billet à destination de Mexico. L'expéditeur anonyme affirme savoir ce qu'il est advenu de Arturo Belano, écrivain chilien disparu à Mexico en 1999. Est-il vivant? Est-il mort? Le réalisateur part à la recherche de Belano, alter ego de l'écrivain Roberto Bolaño, adoptant le documentaire pour une fiction troublante."
+                }
+              ],
+              "generique": [
+                "Anne Alvaro",
+                "Michel Bulteau"
+              ],
+              "duree": 95,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-01T21:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Séance suivie d'une discussion avec Nicolas Lasnibat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Álvaro José Aponte-Centeno",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 140,
+          "idCategorie": 2008,
+          "idEvenement": 19420,
+          "films": [
+            {
+              "idFilm": 116611,
+              "titre": "Mi santa mirada",
+              "titreVo": "",
+              "realisateurs": "Álvaro Aponte-Centeno",
+              "annee": 2011,
+              "pays": "Porto-Rico",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Samy est un homme seul, silencieux, qui vit du trafic de drogue. La seule chose qu'il a dans sa vie, c'est son petit frère (dont il se charge) et son cheval. Fatigué d'être un corvéable à merci dans le monde du narcotrafic, il décide un jour de trahir son patron, Papo."
+                }
+              ],
+              "generique": [
+                "Rafael Mercado",
+                "Felix Baez"
+              ],
+              "duree": 15,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 1
+            },
+            {
+              "idFilm": 141767,
+              "titre": "Silence du vent",
+              "art": "Le",
+              "titreVo": "Silencio del Vento",
+              "artVo": "El",
+              "realisateurs": "Álvaro Aponte-Centeno",
+              "annee": 2017,
+              "pays": "Porto-Rico-France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un homme tente de faire face après la mort de sa sœur, tout en poursuivant un trafic de migrants sans papiers entre la République Dominicaine et Porto Rico."
+                }
+              ],
+              "generique": [
+                "Israel Lugo",
+                "Amanda Lugo"
+              ],
+              "duree": 87,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-07-08T20:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ],
+              "mention": "Séance présentée par Álvaro Aponte-Centeno"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -155,7 +155,7 @@
         "texte": "Un prêtre prend ses fonctions dans une ville mexicaine reculée qui se trouve sous la coupe d'un bandit impitoyable. La rivalité mortelle entre les deux hommes tourne vite à la fascination réciproque."
       },
       {
-        "typeTexte": 9,
+        "typeTexte": 99,
         "texte": "« Le pantalon moulant vient provoquer la soutane. Indéniablement, ambiguïté et identité sexuelles fascinaient le cinéaste. » (Olivier Rossignot)"
       }
     ],
@@ -485,7 +485,7 @@
     "idCycle": 429,
     "idCategorie": 1976,
     "ageMinimal": 0,
-    "realisateurs": "Les Panthères Roses, Les Dures à queer",
+    "realisateurs": "Les Panthères Roses, Les DurEs à queer",
     "annee": 2012,
     "pays": "France",
     "textes": [{
@@ -541,7 +541,6 @@
   },
   {
     "titre": "Je ne sais pas qui je suis, mais je sais ce que je pense",
-    "titreVo": "Tra kegro lafi sasam mle ra kgro lafe beln",
     "idFilm": 141501,
     "idCycle": 429,
     "idCategorie": 1980,
@@ -760,6 +759,17 @@
     }]
   },
   {
+    "titre": "#Manifestation ! #Égalité ! #Maintenant !",
+    "titreVo": "",
+    "idFilm": 141593,
+    "idCycle": 429,
+    "idCategorie": 1976,
+    "ageMinimal": 0,
+    "realisateurs": "Les Panthères Roses",
+    "annee": 2013,
+    "pays": "France"
+  },
+  {
     "titre": "Multiple Orgasm",
     "titreVo": "",
     "idFilm": 141228,
@@ -947,7 +957,7 @@
   },
   {
     "titre": "Red Chewing Gum",
-    "titreVo": "العلكة الحمراء [Al-ilka al-hamra]",
+    "titreVo": "Al-ilka al-hamra",
     "idFilm": 141245,
     "idCycle": 429,
     "idCategorie": 1973,
@@ -1137,7 +1147,7 @@
     "pays": "Canada",
     "textes": [{
       "typeTexte": 9,
-      "texte": "« En montant des caméras cachées tournées lors de l'hystérectomie d'un patient avec les interviews des instruments gynécologiques utilisés, Stealth figure le contrôle des corps par les technologies médicales et militaires. » (Stéphane Gérard)"
+      "texte": "« En montant des caméras cachées tournées lors de l'hystérectomie d'un patient avec les interviews des instruments gynécologiques utilisés, _Stealth_ figure le contrôle des corps par les technologies médicales et militaires. » (Stéphane Gérard)"
     }]
   },
   {

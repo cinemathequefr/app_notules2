@@ -20,7 +20,6 @@
     "generique": [
       "Humphrey Bogart",
       "Ava Gardner",
-      "Rossano Brazzi",
       "Edmond O'Brien"
     ]
   },
@@ -43,17 +42,17 @@
     "generique": [
       "Casey Affleck",
       "Ben O'Brien",
-      "Kyle Chandler",
-      "Richard Donnelly"
+      "Kyle Chandler"
     ]
   },
   {
     "titre": "Terre des pharaons",
+    "art": "La",
     "titreVo": "Land of the Pharaohs",
     "idFilm": 33181,
     "idCycle": 192,
     "idCategorie": 1944,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Howard Hawks",
     "annee": 1954,
     "pays": "États-Unis",
@@ -66,8 +65,7 @@
     "generique": [
       "Jack Hawkins",
       "Joan Collins",
-      "Dewey Martin",
-      "Alexis Minotis"
+      "Dewey Martin"
     ]
   }
 ]

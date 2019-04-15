@@ -6,6 +6,8 @@ France-Suisse-Italie / 1998
 Avec Nico Tarielashvili, Lily Lavina, Otar Iosseliani, Philippe Bas.  
 Nicolas vit dans un château régi par sa mère, une femme d'affaires autoritaire. Son père boit et joue au train électrique. Nicolas fuit chaque jour le domaine familial pour rejoindre ses amis à Paris, clochards ou voyoux. Il participe au _hold-up_ d'un supermarché.
 
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K – avec le soutien du CNC. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+
 **Aquarelle**  
 **(Akvareli)**  
 d'Otar Iosseliani  
@@ -20,10 +22,14 @@ URSS / 1961
 Avec Tania Tchantouria, Guia Tchirakadze, Alexandre Tchikvaidze.  
 Un couple s'installe dans un appartement neuf, équipé du strict nécessaire. Ils sont heureux. Autour d'eux, les habitants de l'immeuble achètent frénétiquement du mobilier. Le jeune couple se met également à consommer. Bientôt, il se querellent.
 
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+
 **Brigands, chapitre VII**  
 d'Otar Iosseliani  
 France-Suisse-URSS-Italie / 1995  
 Avec Amiran Amiranachvili, Dato Gogibedachvili, Guio Tzintsadze, Nino Ordjonikidze.  
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K – avec le soutien du CNC. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+
 Portraits de brigands du Moyen-Age à aujourd'hui. Bourreaux médiévaux, tortionnaires bolcheviks ou vulgaires mafieux contemporains, ils trahissent et torturent.
 
 **Le Chant de la fleur introuvable**  
@@ -38,11 +44,15 @@ France / 2014
 Avec Rufus, Amiran Amiranashvili, Mathias Jung, Enrico Ghezzi.  
 Trois histoires se succèdent : une fiction historique pendant a Révolution française, un film de guerre montrant terreur, pillage et viol, et une chronique parisienne contemporaine.
 
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+
 **Chantrapas**  
 d'Otar Iosseliani  
 France-Géorgie-Ukraine / 2009  
 Avec Dato Tarielashvili, Tamuna Karumidze, Fanny Gonin, Bulle Ogier.  
 Nicolas est un cinéaste géorgien. Lassé d'être en but aux pressions des « idéologues » qui l'empêchent de s'exprimer, Nicolas quitte son pays d'origine pour la France, terre de liberté et de démocratie.
+
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
 
 **La Chasse aux papillons**  
 d'Otar Iosseliani  
@@ -50,12 +60,16 @@ France-Allemagne-Italie / 1991
 Avec Narda Blanchet, Pierrette Pompon-Bailhache, Alexandre Tcherkassoff, Thamar Tarassachvili.  
 Deux vieilles dames vivent en autarcie dans le vieux château de famille. L'une joue du trombone dans la fanfare locale, tandis que l'autre s'enferme dans ses souvenirs. Un jour, la propriétaire du domaine meurt et les héritiers se présentent.
 
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K – avec le soutien du CNC. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+
 **La Chute des feuilles**  
 **(Giorgobistve)**  
 d'Otar Iosseliani  
 URSS / 1966  
 Avec Ramaz Guiorgobiani, Marina Kartsivadze, Gogui Kharabadze.  
 Fraîchement diplômés de l'Institut du vin de Tbilissi, Niko et Otar entrent dans une coopérative vinicole comme œnologues. Otar, plus âgé et plus assuré, se conforme aux exigences des chefs, alors que Niko, naïf et sincère, éprouve des difficultés.
+
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
 
 **Et la lumière fut**  
 d'Otar Iosseliani  
@@ -68,11 +82,15 @@ d'Otar Iosseliani
 France / 1982  
 Film tourné au Pays-Basque à l'été 1982 pendant la préparation de la Pastorale jouée et chantée par les habitants de Pagolle.
 
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+
 **Les Favoris de la lune**  
 d'Otar Iosseliani  
 France / 1984  
 Avec Pascal Aubier, Alix de Montaigu, Gaspard Flori, Mathieu Amalric.  
 Des personnages divers se croisent dans Paris : un armurier trompé par sa femme avec un policier, des clochards qui font sauter une statue, un cambrioleur qui forme son fils...
+
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K – avec le soutien du CNC. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
 
 **La Fonte**  
 **(Toudji)**  
@@ -81,11 +99,13 @@ URSS / 1964
 La dure vie de quatre ouvriers de Rustavi dans une usine métallurgique.
 
 **Il était une fois un merle chanteur**  
-**(Iqo chachvi mgalobeli – Revoir générique)**  
+**(Iqo chachvi mgalobeli)**  
 d'Otar Iosseliani  
 URSS / 1971  
 Avec Gogi Chkheidze, Guela Kandelaki, Irina Djandieri.  
 Plongée dans la vie d'un jeune percussionniste de l'orchestre d'opéra de Tbilissi. Rêveur et insouciant, il erre dans les rues, au gré de rencontres amicales et sentimentales.
+
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
 
 **Jardins en automne**  
 d'Otar Iosseliani  
@@ -93,9 +113,15 @@ France / 2005
 Avec Séverin Blanchet, Michel Piccoli, Muriel Motte.  
 Vincent, un bon vivant, aime le pouvoir et sait profiter de ses fonctions de ministre pour mener la grande vie. Mais lorsqu'une succession de manifestations le pousse à démissionner, ce petit univers factice s'effondre.
 
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+
 **Lundi matin**  
 d'Otar Iosseliani  
-France-Italie / 2001
+France-Italie / 2001  
+Avec Jacques Bidou, Anne Kravz-Tarnavsky, Narda Blanchet.  
+Vincent habite dans un petit village où il croise régulièrement les mêmes personnes. Tous les matins, il se rend à l'usine chimique pour travailler, et le soir, il s'occupe de sa famille. Un jour, il décide de partir en voyage avec l'argent donné par son père.
+
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
 
 **Otar Iosseliani, le merle siffleur**  
 de Julieeeeeee Bertuccelli  
@@ -109,20 +135,30 @@ URSS / 1976
 Avec Rezo Tcharkhalachvili, Lia Tokhadze-Djougueli, Marina Kartsivadze, Nana Iosseliani.  
 Quatre musiciens arrivent de la ville dans un village perdu pour se reposer. Ils logent dans une famille où cohabitent trois générations. La jeune fille de la maison tombe amoureuse de l'un d'eux.
 
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+
 **Sept pièces pour cinéma noir et blanc**  
 d'Otar Iosseliani  
 France / 1982  
 Avec Philippe Cousin, Otar Iosseliani, Antonine Catzéflis.  
 Série de saynètes entrecoupées de plans tournés dans les rues de Paris. Le film est un hommage affectueux aux habitants de Paris.
 
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+
 **Seule, Géorgie**  
 d'Otar Iosseliani  
 France / 1993  
 Ce documentaire retrace 2000 ans de l'histoire mouvementée de la Géorgie notamment à travers des documents filmés et des extraits de films. Il est composé de 3 parties : _Prélude_ (86 minutes), _Tentation_ (65 minutes) et _L'Epreuve_ (83 minutes).
 
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+
 **Un petit monastère en Toscane**  
 d'Otar Iosseliani  
 France / 1988  
+Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+
 En Toscane, cinq moines augustins français font revivre un petit monastère. Leur quotidien s'organise autour des prières, chants, réfections de manuscrits et offices. A côté de cette existence austère, les paysans des alentours travaillent et les nobles sortent.
 
 **Vieilles chansons Georgiennes**  
@@ -130,4 +166,6 @@ En Toscane, cinq moines augustins français font revivre un petit monastère. Le
 d'Otar Iosseliani  
 URSS / 1968  
 Un hommage en musique à la culture géorgienne.
+
+Films restaurés par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
 

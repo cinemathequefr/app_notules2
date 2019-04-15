@@ -1,0 +1,212 @@
+[
+  {
+    "titre": "Biographie inventée",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 141766,
+    "idCycle": 140,
+    "idCategorie": 2006,
+    "ageMinimal": null,
+    "realisateurs": "Nicolas Lasnibat",
+    "annee": 2017,
+    "pays": "France-Chili-Mexique",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Documentaire? Fiction? Le réalisateur chilien Nicolas Lasnibat, résidant à Paris, reçoit une lettre et un billet à destination de Mexico. L'expéditeur anonyme affirme savoir ce qu'il est advenu de Arturo Belano, écrivain chilien disparu à Mexico en 1999. Est-il vivant? Est-il mort? Le réalisateur part à la recherche de Belano, alter ego de l'écrivain Roberto Bolaño, adoptant le documentaire pour une fiction troublante."
+      }
+    ],
+    "generique": [
+      "Anne Alvaro",
+      "Michel Bulteau"
+    ]
+  },
+  {
+    "titre": "Ce n'est qu'après",
+    "titreVo": "",
+    "idFilm": 141769,
+    "idCycle": 140,
+    "idCategorie": 2001,
+    "ageMinimal": null,
+    "realisateurs": "Vincent Pouplard",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ils ont à peine 20 ans. Ils sont robustes, fragiles, habiles. Ils sont Allia, Hamza, Kilian et Maélis. Ils passent du temps à se dire, à nommer ce qu'ils sont, creux et pleins. Vox Clamantis in Deserto et nous tendons l'oreille. Le film est leur empreinte."
+      }
+    ]
+  },
+  {
+    "titre": "Mi santa mirada",
+    "titreVo": "",
+    "idFilm": 116611,
+    "idCycle": 140,
+    "idCategorie": 2008,
+    "ageMinimal": null,
+    "realisateurs": "Álvaro Aponte-Centeno",
+    "annee": 2011,
+    "pays": "Porto Rico",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Samy est un homme seul, silencieux, qui vit du trafic de drogue. La seule chose qu'il a dans sa vie, c'est son petit frère (dont il se charge) et son cheval. Fatigué d'être un corvéable à merci dans le monde du narcotrafic, il décide un jour de trahir son patron, Papo."
+      }
+    ],
+    "generique": [
+      "Rafael Mercado",
+      "Felix Baez"
+    ]
+  },
+  {
+    "titre": "Moissons du ciel",
+    "art": "Les",
+    "titreVo": "Days of Heaven",
+    "idFilm": 33685,
+    "idCycle": 140,
+    "idCategorie": 2000,
+    "ageMinimal": null,
+    "realisateurs": "Terrence Malick",
+    "annee": 1978,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1916, Bill, ouvrier dans une fonderie, sa petite amie Abby et sa sœur Linda quittent Chicago pour faire les moissons au Texas. Voyant là l'opportunité de sortir de la misère, Bill pousse Abby à céder aux avances d'un riche fermier, qu'ils savent atteint d'une maladie incurable."
+      }
+    ],
+    "generique": [
+      "Richard Gere",
+      "Brooke Adams",
+      "Sam Shepard"
+    ]
+  },
+  {
+    "titre": "Ordre des médecins",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 140828,
+    "idCycle": 140,
+    "idCategorie": 2000,
+    "ageMinimal": null,
+    "realisateurs": "David Roux",
+    "annee": 2017,
+    "pays": "France-Belgique",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Simon est un médecin aguerri. Il côtoie la maladie et la mort tous les jours dans son service de pneumologie et a appris à s'en protéger. Mais quand sa mère est hospitalisée dans une unité voisine, la frontière entre l'intime et le professionnel se brouille."
+      }
+    ],
+    "generique": [
+      "Jérémie Renier",
+      "Marthe Keller",
+      "Zita Hanrot"
+    ]
+  },
+  {
+    "titre": "Silence du vent",
+    "art": "Le",
+    "titreVo": "Silencio del Vento",
+    "artVo": "El",
+    "idFilm": 141767,
+    "idCycle": 140,
+    "idCategorie": 2008,
+    "ageMinimal": null,
+    "realisateurs": "Álvaro Aponte-Centeno",
+    "annee": 2017,
+    "pays": "Porto Rico-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme tente de faire face après la mort de sa sœur, tout en poursuivant un trafic de migrants sans papiers entre la République Dominicaine et Porto Rico."
+      }
+    ],
+    "generique": [
+      "Israel Lugo",
+      "Amanda Lugo"
+    ]
+  },
+  {
+    "titre": "Sœurs Quispe",
+    "art": "Les",
+    "titreVo": "Niñas Quispe",
+    "artVo": "Las",
+    "idFilm": 123386,
+    "idCycle": 140,
+    "idCategorie": 2006,
+    "ageMinimal": null,
+    "realisateurs": "Sebastián Sepúlveda",
+    "annee": 2013,
+    "pays": "Chili-France-Argentine",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Chili 1974. Justa, Lucia et Luciana Quispe, trois bergères de l'Altiplano, mènent une vie retirée au rythme de la nature. À son arrivée au pouvoir, Pinochet remet en question ce mode de vie ancestral. Les trois sœurs traversent alors une crise existentielle qui aura un retentissement unique dans l'histoire contemporaine du Chili."
+      }
+    ],
+    "generique": [
+      "Justa Quispe",
+      "Lucía Quispe",
+      "Luciana Quispe"
+    ],
+    "adaptation": "D'après la pièce _Las Brutas_ de Juan Radrigán."
+  },
+  {
+    "titre": "Topo y Wera",
+    "titreVo": "",
+    "idFilm": 141770,
+    "idCycle": 140,
+    "idCategorie": 2009,
+    "ageMinimal": null,
+    "realisateurs": "Jean-Charles Hue",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un jeune coupe très aimant de déportés mexicains survit à Tijuana entre débrouille et petits larcins."
+      }
+    ]
+  },
+  {
+    "titre": "Tsuma Musume Haha",
+    "titreVo": "",
+    "idFilm": 141746,
+    "idCycle": 140,
+    "idCategorie": 2001,
+    "ageMinimal": null,
+    "realisateurs": "Alain Della Negra, Kaori Kinoshita",
+    "annee": 2019,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une poupée grandeur nature, un avatar, une intelligence artificielle peuvent-ils véritablement aimer ? A travers des histoires d'amour non-réciproques entre humain et non humain, le film montre autant de tentatives d'appartenir au monde et dessine l'avenir du Japon."
+      }
+    ]
+  },
+  {
+    "titre": "Wanda",
+    "titreVo": "",
+    "idFilm": 34795,
+    "idCycle": 140,
+    "idCategorie": 2009,
+    "ageMinimal": null,
+    "realisateurs": "Barbara Loden",
+    "annee": 1970,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Mariée et mère de deux enfants, Wanda reste désœuvrée jour après jour, avant que son mari ne décide de divorcer. L'errance commence."
+      }
+    ],
+    "generique": [
+      "Barbara Loden",
+      "Michael Higgins",
+      "Dorothy Shupenes"
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+{
+  "header": {
+    "idCycleProg": 11,
+    "titreCycle": "Séances spéciales",
+    "sousCycles": [
+      {
+        "titre": "Mikhaïl Kobakhidzé",
+        "cats": [
+          2005
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 60
+  },
+  "data": [
+    {
+      "titreSousCycle": "Mikhaïl Kobakhidzé",
+      "tri": 4,
+      "items": [
+        {
+          "idCycle": 11,
+          "idCategorie": 2005,
+          "idEvenement": 19412,
+          "titreEvenement": "Hommage à Mikhail Kobakhidzé",
+          "films": [
+            {
+              "idFilm": 75047,
+              "titre": "Carrousel",
+              "titreVo": "",
+              "realisateurs": "Mikhail Kobakhidze",
+              "annee": 1962,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Dans une grande ville, un homme et une femme se sont rencontrés par hasard et finissent par se perdre de la même façon."
+                }
+              ],
+              "duree": 11,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 1
+            },
+            {
+              "idFilm": 75046,
+              "titre": "Jeune amour",
+              "titreVo": "Molodaya lioubov",
+              "realisateurs": "Mikhail Kobakhidze",
+              "annee": 1961,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un jeune géologue revient d'une expédition. Sa femme ne l'attend pas. Il profite de cette situation pour lui jouer des tours"
+                }
+              ],
+              "duree": 7,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 41489,
+              "titre": "Mariage",
+              "art": "Le",
+              "titreVo": "Svad'ba",
+              "realisateurs": "Mikhail Kobakhidze",
+              "annee": 1964,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "A Tbilissi, un jour, un jeune pharmacien, croise dans le trolleybus le regard d'une jeune femme. La retrouvant par hasard le soir même au Conservatoire, il échange avec elle un regard complice. Il la raccompagne et se voit amoureux et aimé."
+                }
+              ],
+              "duree": 21,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 3
+            },
+            {
+              "idFilm": 71112,
+              "titre": "Musiciens",
+              "art": "Les",
+              "titreVo": "Musikanty",
+              "realisateurs": "Mikhail Kobakhidze",
+              "annee": 1969,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Deux jeunes musiciens se rencontrent. Au début, ils sont heureux, ensuite ils se disputent, et la dispute se transforme en guerre."
+                }
+              ],
+              "duree": 12,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 4
+            },
+            {
+              "idFilm": 71113,
+              "titre": "Parapluie",
+              "art": "Le",
+              "titreVo": "Zontik",
+              "realisateurs": "Mikhail Kobakhidze",
+              "annee": 1966,
+              "pays": "URSS",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un contrôleur de chemin de fer et sa bien-aimée vivent en paix le long d'une voie ferrée. Tout à coup, venu de nulle part, un parapluie entre dans leur vie."
+                }
+              ],
+              "duree": 18,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 5
+            },
+            {
+              "idFilm": 141743,
+              "titre": "En chemin",
+              "titreVo": "",
+              "realisateurs": "Mikhail Kobakhidze",
+              "annee": 2002,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un homme qui a perdu tout ce qu'il possède perçoit enfin la liberté qui lui manquait jusque là."
+                }
+              ],
+              "duree": 13,
+              "format": "35 mm",
+              "version": "",
+              "ordre": 6
+            },
+            {
+              "idFilm": 141745,
+              "titre": "8 ½ perdu",
+              "titreVo": "",
+              "realisateurs": "Lasha Otkhmezuri",
+              "annee": 2018,
+              "pays": "Géorgie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Lasha Otkhmezuri dresse le portrait du cinéaste géorgien Mikhail Kobakhidzé, auteur d'une œuvre fulgurante et poétique : Kobakhidzé par Kobakhidzé. Film inédit (avant-première)."
+                }
+              ],
+              "duree": 47,
+              "format": "Numérique",
+              "version": "VOSTF",
+              "ordre": 7
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2019-06-19T20:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
