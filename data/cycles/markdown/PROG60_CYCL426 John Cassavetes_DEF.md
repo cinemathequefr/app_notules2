@@ -2,6 +2,7 @@
 
 ## Les films
 
+[31074]  
 **La Ballade des sans-espoirs**  
 **(Too Late Blues)**  
 de John Cassavetes  
@@ -12,6 +13,7 @@ Chronique de la vie d'un groupe de musiciens de jazz qui refusent, en vain, de s
 - sa 1 juin 19h15 HL  
 - di 16 juin 21h45 HL
 
+[80369]  
 **Big Trouble**  
 de John Cassavetes  
 États-Unis / 1984 / 83 min / VOSTF / 35 mm  
@@ -21,6 +23,7 @@ Parce qu'il a besoin d'argent pour envoyer ses fils étudier à Yale, un courtie
 - lu 3 juin 19h00 GF  
 - je 20 juin 20h30 GF
 
+[31041]  
 **Faces**  
 de John Cassavetes  
 États-Unis / 1968 / 130 min / VOSTF / DCP  
@@ -30,6 +33,7 @@ Richard et Freddie rencontrent dans un bar une call-girl, Jeannie, qui les entra
 - sa 8 juin 14h30 HL  
 - lu 17 juin 16h30 HL
 
+[31044]  
 **Gloria**  
 de John Cassavetes  
 États-Unis / 1979 / 123 min / VOSTF / 35 mm  
@@ -39,6 +43,7 @@ Gloria, New-Yorkaise solitaire et ancienne maîtresse d'un gangster, recueille l
 - di 2 juin 20h00 HL  
 - sa 22 juin 16h30 HL
 
+[57072]  
 **Husbands**  
 de John Cassavetes  
 États-Unis / 1970 / 140 min / VOSTF / 35 mm  
@@ -48,6 +53,7 @@ Après avoir enterré l'un de leurs amis, trois quadragénaires plutôt tranquil
 - sa 1 juin 16h30 HL  
 - je 13 juin 19h00 HL
 
+[31059]  
 **Love Streams**  
 de John Cassavetes  
 États-Unis / 1983 / 141 min / VOSTF / DCP  
@@ -58,6 +64,7 @@ Les tendres et solides relations entre un frère et une sœur. Lui, écrivain, f
 - lu 10 juin 17h00 HL  
 - ve 14 juin 21h30 HL
 
+[31048]  
 **Meurtre d'un bookmaker chinois**  
 **(The Killing of a Chinese Bookie)**  
 de John Cassavetes  
@@ -68,6 +75,7 @@ Cosmo Vitelli vient de rembourser la dernière hypothèque de sa boîte de nuit 
 - ve 31 mai 19h00 HL  
 - di 16 juin 19h00 HL
 
+[31065]  
 **Minnie et Moskowitz**  
 **(Minnie and Moskowitz)**  
 de John Cassavetes  
@@ -78,6 +86,7 @@ Seymour Moskowitz, beatnik vieillissant, gardien de parking, quitte New York pou
 - sa 8 juin 18h30 HL  
 - sa 15 juin 21h00 HL
 
+[31070]  
 **Opening Night**  
 de John Cassavetes  
 États-Unis / 1977 / 144 min / VOSTF / DCP  
@@ -87,6 +96,7 @@ Après une représentation, la comédienne Myrtle Gordon assiste à la mort acci
 - di 9 juin 19h00 GF  
 - di 16 juin 14h30 HL
 
+[31061]  
 **Shadows**  
 de John Cassavetes  
 États-Unis / 1959 / 87 min / VOSTF / DCP  
@@ -97,6 +107,7 @@ Benny, Hugh et Lelia sont trois jeunes afro-américains, frères et sœur, et pa
 Ouverture de la rétrospective  
 - je 13 juin 21h45 HL
 
+[31013]  
 **Un enfant attend**  
 **(A Child Is Waiting)**  
 de John Cassavetes  
@@ -107,6 +118,7 @@ Dans une institution spécialisée qui accueille des enfants autistes et trisomi
 - sa 1 juin 21h30 HL  
 - me 19 juin 17h00 GF
 
+[31019]  
 **Une femme sous influence**  
 **(A Woman Under the Influence)**  
 de John Cassavetes  
@@ -119,6 +131,7 @@ Face à l'indifférence de son mari et sous la pression exercée par son milieu 
 
 ## John Cassavetes acteur
 
+[44746]  
 **À bout portant**  
 **(The Killers)**  
 de Don Siegel  
@@ -130,6 +143,7 @@ Après l'exécution d'un contrat, deux tueurs cherchent à connaître le passé 
 - sa 1 juin 14h30 HL  
 - sa 22 juin 14h30 HL
 
+[31920]  
 **La Cible étoilée**  
 **(Brass Target)**  
 de John Hough  
@@ -140,6 +154,7 @@ Août 1945, en Allemagne. L'or de la banque fédérale, réquisitionné par les 
 
 - ve 7 juin 22h00 GF
 
+[45368]  
 **Les Douze salopards**  
 **(The Dirty Dozen)**  
 de Robert Aldrich  
@@ -151,6 +166,7 @@ En 1944, douze soldats américains, condamnés à mort ou à de fortes peines, o
 - lu 3 juin 21h00 GF  
 - sa 15 juin 15h00 HL
 
+[31442]  
 **Furie**  
 **(The Fury)**  
 de Brian De Palma  
@@ -162,6 +178,7 @@ Un jeune homme doué de perception extrasensorielle est enlevé par une agence d
 - ve 14 juin 14h30 GF  
 - ve 21 juin 14h30 GF
 
+[45218]  
 **L'Homme qui tua la peur**  
 **(Edge of the City)**  
 de Martin Ritt  
@@ -172,6 +189,7 @@ Un déserteur trouve un emploi dans les docks, où il se lie avec un ouvrier noi
 - lu 10 juin 17h30 GF  
 - je 20 juin 17h00 HL
 
+[53564]  
 **Les Intouchables**  
 **(Gli Intoccabili)**  
 de Giuliano Montaldo  
@@ -181,6 +199,7 @@ Hank McCain vient de sortir de prison après douze années de détention. Son fi
 
 - ve 21 juin 17h00 GF
 
+[35811]  
 **Rosemary's Baby**  
 de Roman Polanski  
 États-Unis / 1967 / 137 min / VOSTF / 35 mm  
@@ -191,6 +210,7 @@ Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un ancien immeuble 
 - je 6 juin 19h00 GF  
 - je 13 juin 16h15 HL
 
+[35750]  
 **Un tueur dans la foule**  
 **(Two-Minute Warning)**  
 de Larry Peerce  
@@ -204,6 +224,7 @@ Un tireur embusqué menace de tirer sur la foule lors d'un match de championnat 
 
 ## Autour de John Cassavetes
 
+[65068]  
 **John Cassavetes (Hollywood 1965, Paris 1968)**  
 de Hubert Knapp, André S. Labarthe  
 France / 1998 / 50 min / VOSTF / Numérique  

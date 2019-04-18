@@ -143,8 +143,7 @@
               ],
               "generique": [
                 "Mamadou Touré",
-                "Issa Diabaté",
-                "Adiatou Sakho"
+                "Issa Diabaté"
               ],
               "duree": 22,
               "format": "DCP",
@@ -182,6 +181,9 @@
                   "texte": "En 2014, ExxonMobil a commencé à exploiter le gaz naturel dans les Highlands de Papouasie-Nouvelle-Guinée. Des familles ont cédé leurs terres en échange de royalties. Pour le moment, à part des compensations pour la destruction des terrains, rien ne leur a été versé. Céline Rouzet nous présente des rushes de ce documentaire à venir."
                 }
               ],
+              "duree": 18,
+              "format": "Numérique",
+              "version": "VOSTF",
               "ordre": 5
             }
           ],
@@ -216,8 +218,7 @@
               "generique": [
                 "Eric Judor",
                 "Laure Calamy",
-                "Brigitte Roüan",
-                "Ilan Debrabant"
+                "Brigitte Roüan"
               ],
               "duree": 84,
               "format": "DCP",
@@ -262,8 +263,7 @@
               "generique": [
                 "Félix Moati",
                 "Nils Othenin-Girard",
-                "Mélanie Bernier",
-                "Audrey Lamy"
+                "Mélanie Bernier"
               ],
               "duree": 84,
               "format": "DCP",
@@ -366,12 +366,11 @@
                 }
               ],
               "generique": [
-                "Bogdan Salceanu",
-                "Cosmin Stanila"
+                "Bogdan Salceanu"
               ],
               "duree": 17,
               "format": "DCP",
-              "version": "VOSTF",
+              "version": "VOSTA",
               "ordre": 2
             },
             {
@@ -411,8 +410,7 @@
               ],
               "generique": [
                 "Xiaoqian Zhang",
-                "Yiyi Qu",
-                "Tieguang Gao"
+                "Yiyi Qu"
               ],
               "duree": 16,
               "format": "DCP",
@@ -434,7 +432,7 @@
               ],
               "duree": 10,
               "format": "Numérique",
-              "version": "",
+              "version": "VOSTF",
               "ordre": 5
             },
             {
@@ -451,7 +449,7 @@
                 }
               ],
               "duree": 16,
-              "format": "Numérique",
+              "format": "35 mm",
               "version": "",
               "ordre": 6
             }
@@ -596,8 +594,7 @@
               ],
               "generique": [
                 "Dragos Bucur",
-                "Gheorghe Visu",
-                "Vlad Ivanov"
+                "Gheorghe Visu"
               ],
               "duree": 104,
               "format": "DCP",
@@ -716,12 +713,6 @@
                   "texte": "C'est le jour de la rentrée des classes dans un petit village du Var. René n'a pas fait ses devoirs de vacances: il jette son cartable à la rivière et part faire l'école buissonnière."
                 }
               ],
-              "generique": [
-                "René Boglio",
-                "Marius Sumian",
-                "Léon Sauve",
-                "Jean Rémy"
-              ],
               "duree": 24,
               "format": "DCP",
               "version": "",
@@ -742,9 +733,7 @@
               ],
               "generique": [
                 "Théo Polgar",
-                "Madeleine Follacci",
-                "Aurélien Gabrielli",
-                "Emmanuelle Cuau"
+                "Madeleine Follacci"
               ],
               "duree": 59,
               "format": "DCP",
@@ -756,8 +745,8 @@
             {
               "dateHeure": "2019-04-15T20:00:00",
               "idSalle": [
-                "JE",
-                "Jean Epstein"
+                "GF",
+                "Georges Franju"
               ],
               "mention": "Séance présentée par Marine Atlan"
             }
@@ -791,7 +780,7 @@
                 "Pauline Lorillard",
                 "Pascal Rénéric",
                 "Emmanuel Matte",
-                "Laurent Papot"
+                "Laure Calamy"
               ],
               "duree": 91,
               "format": "DCP",
@@ -912,8 +901,7 @@
               "generique": [
                 "Bruno S.",
                 "Eva Mattes",
-                "Clemens Scheitz",
-                "Wilhelm von Homburg"
+                "Clemens Scheitz"
               ],
               "duree": 107,
               "format": "DCP",
@@ -941,32 +929,76 @@
         {
           "idCycle": 140,
           "idCategorie": 1901,
-          "idEvenement": 18983,
-          "titreEvenement": "Quentin Papapietro : programme de courts métrages",
+          "idEvenement": 19431,
+          "titreEvenement": "Quentin Papapietro : programme de courts métrages ",
           "films": [
             {
-              "idFilm": 140879,
-              "titre": "Gros lapin",
+              "idFilm": 140880,
+              "titre": "Sophisticated French",
+              "art": "The",
               "titreVo": "",
               "realisateurs": "Quentin Papapietro",
-              "annee": 2018,
+              "annee": 2012,
               "pays": "France",
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Dans le métro, un homme aborde une jeune femme catalane qui a un gros lapin dans les bras. Il lui propose de prendre rendez-vous pour le casting d'un film."
+                  "texte": "Pierre débarque à New York à la recherche insensée de son ex-petite amie. Gaffeur et maladroit, il a bien du mal à s'adapter aux us et aux coutumes du nouveau monde..."
                 }
               ],
               "generique": [
-                "Hugues Perrot",
-                "Victor Bournerias",
-                "Louis Seguin",
-                "Judit Naranjo Ribó"
+                "Quentin Papapietro",
+                "Tyler Gumb"
               ],
-              "duree": 12,
+              "duree": 22,
               "format": "DCP",
               "version": "",
               "ordre": 1
+            },
+            {
+              "idFilm": 141839,
+              "titre": "Pierres d'angle",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Quentin Papapietro",
+              "annee": 2012,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Deux amis se retrouvent dans le beau village de Talmont, au bord de l'estuaire de la Gironde. Un débat érudit s'engage : ils évoquent tour à tour la Nouvelle Vague, l'art roman, la place de l'artiste dans le monde et la théorie des degrés."
+                }
+              ],
+              "generique": [
+                "Cyril Gay",
+                "Quentin Papapietro"
+              ],
+              "duree": 20,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 2
+            },
+            {
+              "idFilm": 141840,
+              "titre": "Plantage",
+              "titreVo": "",
+              "realisateurs": "Quentin Papapietro",
+              "annee": 2012,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Pierre et Amaury, deux directeurs de musées, se retrouvent pour faire un bilan. Toutes leurs dernières expositions ont été des échecs. La solution : il faut taper du poing sur la table."
+                }
+              ],
+              "generique": [
+                "Kevin Gourvellec",
+                "Quentin Papapietro"
+              ],
+              "duree": 10,
+              "format": "Numérique",
+              "version": "",
+              "ordre": 3
             },
             {
               "idFilm": 140878,
@@ -988,32 +1020,7 @@
               "duree": 13,
               "format": "DCP",
               "version": "",
-              "ordre": 2
-            },
-            {
-              "idFilm": 140880,
-              "titre": "Sophisticated French",
-              "art": "The",
-              "titreVo": "",
-              "realisateurs": "Quentin Papapietro",
-              "annee": 2012,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Pierre débarque à New York à la recherche insensée de son ex-petite amie. Gaffeur et maladroit, il a bien du mal à s'adapter aux us et aux coutumes du nouveau monde..."
-                }
-              ],
-              "generique": [
-                "Quentin Papapietro",
-                "Tyler Gumb",
-                "Angela Stach",
-                "Kat knight"
-              ],
-              "duree": 22,
-              "format": "DCP",
-              "version": "",
-              "ordre": 3
+              "ordre": 4
             },
             {
               "idFilm": 140877,
@@ -1034,7 +1041,31 @@
               "duree": 12,
               "format": "DCP",
               "version": "",
-              "ordre": 4
+              "ordre": 5
+            },
+            {
+              "idFilm": 140879,
+              "titre": "Gros lapin",
+              "titreVo": "",
+              "realisateurs": "Quentin Papapietro",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Dans le métro, un homme aborde une jeune femme catalane qui a un gros lapin dans les bras. Il lui propose de prendre rendez-vous pour le casting d'un film."
+                }
+              ],
+              "generique": [
+                "Judit Naranjo Ribó",
+                "Hugues Perrot",
+                "Victor Bournerias",
+                "Louis Seguin"
+              ],
+              "duree": 12,
+              "format": "DCP",
+              "version": "",
+              "ordre": 6
             }
           ],
           "seance": [
