@@ -1,0 +1,2371 @@
+{
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "items": [
+        {
+          "idFilm": 86739,
+          "ordre": 1,
+          "idSeance": 30623,
+          "idCopie": 18351,
+          "duree": 90,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19014,
+          "dateHeure": "2019-07-10T21:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Arizona Bill",
+          "titreVo": "Strada per Fort Alamo",
+          "artVo": "La",
+          "realisateurs": "Mario Bava",
+          "annee": 1964,
+          "pays": "Italie-France",
+          "generique": [
+            "Ken Clark",
+            "Jany Clair",
+            "Michel Lemoine"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Ruiné par la guerre de Sécession, un fermier désespéré s'associe, avec un de ses amis, à un braqueur de banques. Mais celui-ci, une fois le forfait commis, s'enfuit avec le butin."
+            }
+          ]
+        },
+        {
+          "idFilm": 86739,
+          "ordre": 1,
+          "idSeance": 30652,
+          "idCopie": 18351,
+          "duree": 90,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19014,
+          "dateHeure": "2019-07-25T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Arizona Bill",
+          "titreVo": "Strada per Fort Alamo",
+          "artVo": "La",
+          "realisateurs": "Mario Bava",
+          "annee": 1964,
+          "pays": "Italie-France",
+          "generique": [
+            "Ken Clark",
+            "Jany Clair",
+            "Michel Lemoine"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Ruiné par la guerre de Sécession, un fermier désespéré s'associe, avec un de ses amis, à un braqueur de banques. Mais celui-ci, une fois le forfait commis, s'enfuit avec le butin."
+            }
+          ]
+        },
+        {
+          "idFilm": 58483,
+          "ordre": 1,
+          "idSeance": 30736,
+          "idCopie": 18352,
+          "duree": 81,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19015,
+          "dateHeure": "2019-07-11T21:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Baie sanglante",
+          "art": "La",
+          "titreVo": "Ecologia del delitto = Reazione a Catena",
+          "realisateurs": "Mario Bava",
+          "annee": 1971,
+          "pays": "Italie",
+          "generique": [
+            "Claudine Auger",
+            "Luigi Pistilli",
+            "Claudio Volonté"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Plusieurs assassinats, tous plus extravagants les uns que les autres, sont commis dans la propriété d'une vieille comtesse infirme."
+            }
+          ]
+        },
+        {
+          "idFilm": 58483,
+          "ordre": 1,
+          "idSeance": 30660,
+          "idCopie": 18352,
+          "duree": 81,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19015,
+          "dateHeure": "2019-07-27T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Baie sanglante",
+          "art": "La",
+          "titreVo": "Ecologia del delitto = Reazione a Catena",
+          "realisateurs": "Mario Bava",
+          "annee": 1971,
+          "pays": "Italie",
+          "generique": [
+            "Claudine Auger",
+            "Luigi Pistilli",
+            "Claudio Volonté"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Plusieurs assassinats, tous plus extravagants les uns que les autres, sont commis dans la propriété d'une vieille comtesse infirme."
+            }
+          ]
+        },
+        {
+          "idFilm": 44242,
+          "ordre": 1,
+          "idSeance": 30538,
+          "idCopie": 18466,
+          "duree": 89,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19386,
+          "dateHeure": "2019-07-26T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Baiser macabre",
+          "titreVo": "Macabro",
+          "realisateurs": "Lamberto Bava",
+          "annee": 1980,
+          "pays": "Italie",
+          "generique": [
+            "Bernice Stegers",
+            "Stanko Molnar",
+            "Victoria Zinny"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Après avoir perdu simultanément son fils, tué par sa propre fille, et son amant dans un accident, Jane Baker, traumatisée, est internée en hôpital psychiatrique. Elle en sort, un an plus tard, toujours perturbée. C'est alors que sa fille la recontacte."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Ce premier film réalisé par Lamberto Bava seul est particulièrement sous l'influence de Mario Bava."
+            }
+          ]
+        },
+        {
+          "idFilm": 42592,
+          "ordre": 1,
+          "idSeance": 30624,
+          "idCopie": 18484,
+          "duree": 98,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19016,
+          "dateHeure": "2019-07-11T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Baron vampire",
+          "titreVo": "Orrori del castello di Norimberga",
+          "artVo": "Gli",
+          "realisateurs": "Mario Bava",
+          "annee": 1971,
+          "pays": "Italie-RFA",
+          "generique": [
+            "Joseph Cotten",
+            "Elke Sommer",
+            "Massimo Girotti"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Peter Kleist, originaire d'Autriche, revient au pays pour toucher son héritage. Accueilli par son oncle, il visite le château de leur ancêtre, le Baron Sanglant, qu'il souhaite ramener à la vie à l'aide de très anciens parchemins.'"
+            }
+          ]
+        },
+        {
+          "idFilm": 42592,
+          "ordre": 1,
+          "idSeance": 30631,
+          "idCopie": 18484,
+          "duree": 98,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19016,
+          "dateHeure": "2019-07-17T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Baron vampire",
+          "titreVo": "Orrori del castello di Norimberga",
+          "artVo": "Gli",
+          "realisateurs": "Mario Bava",
+          "annee": 1971,
+          "pays": "Italie-RFA",
+          "generique": [
+            "Joseph Cotten",
+            "Elke Sommer",
+            "Massimo Girotti"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Peter Kleist, originaire d'Autriche, revient au pays pour toucher son héritage. Accueilli par son oncle, il visite le château de leur ancêtre, le Baron Sanglant, qu'il souhaite ramener à la vie à l'aide de très anciens parchemins.'"
+            }
+          ]
+        },
+        {
+          "idFilm": 44845,
+          "ordre": 1,
+          "idSeance": 30616,
+          "idCopie": 11854,
+          "duree": 87,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19017,
+          "dateHeure": "2019-07-04T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Bataille de Marathon",
+          "art": "La",
+          "titreVo": "Battaglia di Maratona",
+          "artVo": "La",
+          "realisateurs": "Jacques Tourneur, Bruno Vailati, Mario Bava",
+          "annee": 1959,
+          "pays": "Italie-France",
+          "generique": [
+            "Steve Reeves",
+            "Mylène Demongeot",
+            "Sergio Fantoni",
+            "Daniela Rocca"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au Ve siècle avant J.-C., Philippidès, récent vainqueur des Jeux olympiques, est nommé chef de la Garde Sacrée d'Athéna. Il tombe amoureux d'Andromède, mais elle est promise à Théocrite, un aristocrate ambitieux et fourbe qui manigance le retour au pouvoir du tyran Hippias."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Les producteurs firent appel à Mario Bava en tant que chef opérateur et coordinateur des effets spéciaux pour terminer le film, Jacques Tourneur ayant dépassé les semaines de tournage accordées."
+            }
+          ]
+        },
+        {
+          "idFilm": 44845,
+          "ordre": 1,
+          "idSeance": 30649,
+          "idCopie": 11854,
+          "duree": 87,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19017,
+          "dateHeure": "2019-07-24T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Bataille de Marathon",
+          "art": "La",
+          "titreVo": "Battaglia di Maratona",
+          "artVo": "La",
+          "realisateurs": "Jacques Tourneur, Bruno Vailati, Mario Bava",
+          "annee": 1959,
+          "pays": "Italie-France",
+          "generique": [
+            "Steve Reeves",
+            "Mylène Demongeot",
+            "Sergio Fantoni",
+            "Daniela Rocca"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au Ve siècle avant J.-C., Philippidès, récent vainqueur des Jeux olympiques, est nommé chef de la Garde Sacrée d'Athéna. Il tombe amoureux d'Andromède, mais elle est promise à Théocrite, un aristocrate ambitieux et fourbe qui manigance le retour au pouvoir du tyran Hippias."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Les producteurs firent appel à Mario Bava en tant que chef opérateur et coordinateur des effets spéciaux pour terminer le film, Jacques Tourneur ayant dépassé les semaines de tournage accordées."
+            }
+          ]
+        },
+        {
+          "idFilm": 97353,
+          "ordre": 1,
+          "idSeance": 31388,
+          "idCopie": 18532,
+          "duree": 77,
+          "version": "VOSTF",
+          "format": "16 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19403,
+          "dateHeure": "2019-07-21T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Caltiki, le monstre immortel",
+          "titreVo": "Caltiki, il mostro immortale",
+          "realisateurs": "Robert Hampton",
+          "annee": 1959,
+          "pays": "Italie",
+          "generique": [
+            "John Merivale",
+            "Didi Sullivan",
+            "Gérard Herter"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans un temple Maya dédié à la déesse Caltiki, des scientifiques découvrent une créature informe et inquiétante qui s'en prend à l'un des archéologues."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Riccardo Freda signe le film sous le pseudonyme de Robert Hampton, mais c'est Mario Bava (sous celui de John Foam) qui reprend la réalisation abandonnée par Freda dès le début du tournage."
+            }
+          ]
+        },
+        {
+          "idFilm": 101129,
+          "ordre": 1,
+          "idSeance": 30737,
+          "idCopie": 18354,
+          "duree": 96,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19018,
+          "dateHeure": "2019-07-12T22:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Cani arrabiati",
+          "titreVo": "",
+          "realisateurs": "Mario Bava",
+          "annee": 1974,
+          "pays": "Italie",
+          "generique": [
+            "Lea Lander",
+            "George Eastman",
+            "Riccardo Cucciolla"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Des gangsters en cavale prennent un homme et son enfant en otage."
+            }
+          ]
+        },
+        {
+          "idFilm": 101129,
+          "ordre": 1,
+          "idSeance": 30658,
+          "idCopie": 18354,
+          "duree": 96,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19018,
+          "dateHeure": "2019-07-27T17:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Cani arrabiati",
+          "titreVo": "",
+          "realisateurs": "Mario Bava",
+          "annee": 1974,
+          "pays": "Italie",
+          "generique": [
+            "Lea Lander",
+            "George Eastman",
+            "Riccardo Cucciolla"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Des gangsters en cavale prennent un homme et son enfant en otage."
+            }
+          ]
+        },
+        {
+          "idFilm": 59013,
+          "ordre": 1,
+          "idSeance": 30728,
+          "idCopie": 1145,
+          "duree": 85,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19019,
+          "dateHeure": "2019-07-11T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Corps et le fouet",
+          "art": "Le",
+          "titreVo": "Frusta e il corpo",
+          "artVo": "La",
+          "realisateurs": "John Old",
+          "annee": 1963,
+          "pays": "Italie-France",
+          "generique": [
+            "Daliah Lavi",
+            "Christopher Lee",
+            "Harriet White"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au XIXe siècle, le baron Kurt regagne le château familial, dont il avait été banni par son propre père, pour assister au mariage de son frère avec son ancienne maîtresse, Nevenka. Celle-ci est fortement troublée, tandis que les habitants des environs voient ce retour d'un mauvais œil."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mario Bava réalise le film sous le pseudonyme de John M. Old."
+            }
+          ]
+        },
+        {
+          "idFilm": 59013,
+          "ordre": 1,
+          "idSeance": 30639,
+          "idCopie": 1145,
+          "duree": 85,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19019,
+          "dateHeure": "2019-07-20T19:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Corps et le fouet",
+          "art": "Le",
+          "titreVo": "Frusta e il corpo",
+          "artVo": "La",
+          "realisateurs": "John Old",
+          "annee": 1963,
+          "pays": "Italie-France",
+          "generique": [
+            "Daliah Lavi",
+            "Christopher Lee",
+            "Harriet White"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Au XIXe siècle, le baron Kurt regagne le château familial, dont il avait été banni par son propre père, pour assister au mariage de son frère avec son ancienne maîtresse, Nevenka. Celle-ci est fortement troublée, tandis que les habitants des environs voient ce retour d'un mauvais œil."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mario Bava réalise le film sous le pseudonyme de John M. Old."
+            }
+          ]
+        },
+        {
+          "idFilm": 43456,
+          "ordre": 1,
+          "idSeance": 30622,
+          "idCopie": 18356,
+          "duree": 82,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19155,
+          "dateHeure": "2019-07-10T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Danger vient de l'espace",
+          "art": "Le",
+          "titreVo": "Morte viene dallo spazio",
+          "artVo": "La",
+          "realisateurs": "Paolo Heusch",
+          "annee": 1958,
+          "pays": "Italie-France",
+          "generique": [
+            "Paul Hubschmid",
+            "Madeleine Fischer",
+            "Fiorella Mari"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Plusieurs nations, dont la Russie et les États-Unis, collaborent pour envoyer un homme vers la Lune. Mais en cours de route, la mission tourne court, et la fusée explose, devenant une menace pour la Terre."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mario Bava est crédité comme chef opérateur."
+            }
+          ]
+        },
+        {
+          "idFilm": 43456,
+          "ordre": 1,
+          "idSeance": 30648,
+          "idCopie": 18356,
+          "duree": 82,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19155,
+          "dateHeure": "2019-07-24T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Danger vient de l'espace",
+          "art": "Le",
+          "titreVo": "Morte viene dallo spazio",
+          "artVo": "La",
+          "realisateurs": "Paolo Heusch",
+          "annee": 1958,
+          "pays": "Italie-France",
+          "generique": [
+            "Paul Hubschmid",
+            "Madeleine Fischer",
+            "Fiorella Mari"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Plusieurs nations, dont la Russie et les États-Unis, collaborent pour envoyer un homme vers la Lune. Mais en cours de route, la mission tourne court, et la fusée explose, devenant une menace pour la Terre."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mario Bava est crédité comme chef opérateur."
+            }
+          ]
+        },
+        {
+          "idFilm": 46006,
+          "ordre": 1,
+          "idSeance": 30714,
+          "idCopie": 2124,
+          "duree": 105,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19020,
+          "dateHeure": "2019-07-13T21:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Danger, Diabolik",
+          "titreVo": "Diabolik",
+          "realisateurs": "Mario Bava",
+          "annee": 1967,
+          "pays": "Italie-France",
+          "generique": [
+            "John Philip Law",
+            "Marisa Mell",
+            "Michel Piccoli",
+            "Adolfo Celi"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les exploits de l'insaisissable bandit Diabolik et de sa fiancée Eva Kant, traqués à la fois par la police et le syndicat du crime."
+            }
+          ]
+        },
+        {
+          "idFilm": 46006,
+          "ordre": 1,
+          "idSeance": 30646,
+          "idCopie": 2124,
+          "duree": 105,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19020,
+          "dateHeure": "2019-07-22T21:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Danger, Diabolik",
+          "titreVo": "Diabolik",
+          "realisateurs": "Mario Bava",
+          "annee": 1967,
+          "pays": "Italie-France",
+          "generique": [
+            "John Philip Law",
+            "Marisa Mell",
+            "Michel Piccoli",
+            "Adolfo Celi"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les exploits de l'insaisissable bandit Diabolik et de sa fiancée Eva Kant, traqués à la fois par la police et le syndicat du crime."
+            }
+          ]
+        },
+        {
+          "idFilm": 90841,
+          "ordre": 1,
+          "idSeance": 30627,
+          "idCopie": 18357,
+          "duree": 91,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19022,
+          "dateHeure": "2019-07-13T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Dollars du Nebraska",
+          "art": "Les",
+          "titreVo": "Ringo del Nebraska",
+          "realisateurs": "Mario Bava",
+          "annee": 1966,
+          "pays": "Espagne-Italie",
+          "generique": [
+            "Ken Clark",
+            "Yvonne Bastien",
+            "Piero Lulli"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un vagabond nommé Nebraska, engagé par Marty et Kay Hillman pour travailler dans leur ranch, va les aider à se défaire de l'emprise d'un puissant propriétaire terrien qui les exploite sans scrupules."
+            }
+          ]
+        },
+        {
+          "idFilm": 90841,
+          "ordre": 1,
+          "idSeance": 30655,
+          "idCopie": 18357,
+          "duree": 91,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19022,
+          "dateHeure": "2019-07-26T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Dollars du Nebraska",
+          "art": "Les",
+          "titreVo": "Ringo del Nebraska",
+          "realisateurs": "Mario Bava",
+          "annee": 1966,
+          "pays": "Espagne-Italie",
+          "generique": [
+            "Ken Clark",
+            "Yvonne Bastien",
+            "Piero Lulli"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un vagabond nommé Nebraska, engagé par Marty et Kay Hillman pour travailler dans leur ranch, va les aider à se défaire de l'emprise d'un puissant propriétaire terrien qui les exploite sans scrupules."
+            }
+          ]
+        },
+        {
+          "idFilm": 141609,
+          "ordre": 1,
+          "idSeance": 31403,
+          "idCopie": 18572,
+          "duree": 82,
+          "version": "VASTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19428,
+          "dateHeure": "2019-07-25T17:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Dr. Goldfoot and the Girl Bombs",
+          "titreVo": "",
+          "realisateurs": "Mario Bava",
+          "annee": 1966,
+          "pays": "Italie-États-Unis",
+          "generique": [
+            "Fabian"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un savant fou, le Dr Goldfoot, crée des bombes robots prenant la forme de jeunes femmes destinées à tuer les principaux dirigeants militaires de tous les pays afin de lui permettre de conquérir le monde."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Cette version anglaise du film _Le Spie vengono dal semifreddo_ fut réécrite, remontée, et la musique fut modifiée sans Mario Bava, à destination du public américain."
+            }
+          ]
+        },
+        {
+          "idFilm": 73697,
+          "ordre": 1,
+          "idSeance": 30628,
+          "idCopie": 18441,
+          "duree": 89,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19039,
+          "dateHeure": "2019-07-13T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titreEvenement": "Spie vengono dal semifreddo",
+          "titre": "Dr. Goldfoot and the girl bombs",
+          "titreVo": "Spie vengono dal semifreddo",
+          "realisateurs": "Mario Bava",
+          "annee": 1966,
+          "pays": "Italie-États-Unis",
+          "generique": [
+            "Vincent Price",
+            "Fabian",
+            "Laura Antonelli"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un savant fou, le Dr Goldfoot, crée des bombes robots prenant la forme de jeunes femmes destinées à tuer les principaux dirigeants militaires de tous les pays afin de lui permettre de conquérir le monde."
+            }
+          ]
+        },
+        {
+          "idFilm": 82898,
+          "ordre": 1,
+          "idSeance": 30642,
+          "idCopie": 18358,
+          "duree": 85,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19023,
+          "dateHeure": "2019-07-21T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Duel au couteau",
+          "titreVo": "Coltelli del vendicatore",
+          "artVo": "I",
+          "realisateurs": "John Hold",
+          "annee": 1966,
+          "pays": "Italie",
+          "generique": [
+            "Cameron Mitchell",
+            "Frank Ross",
+            "Jack Stuart"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Arald, le roi des Vikings, a disparu en mer. Son général, Aghen, rentre au pays et revendique le trône et la reine. Celle-ci s'enfuit avec son fils Moki dans la forêt où, poursuivis par Aghen et ses hommes, ils sont secourus par un mystérieux voyageur."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mario Bava réalise le film sous le pseudonyme de John M. Old."
+            }
+          ]
+        },
+        {
+          "idFilm": 82898,
+          "ordre": 1,
+          "idSeance": 30651,
+          "idCopie": 18358,
+          "duree": 85,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19023,
+          "dateHeure": "2019-07-25T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Duel au couteau",
+          "titreVo": "Coltelli del vendicatore",
+          "artVo": "I",
+          "realisateurs": "John Hold",
+          "annee": 1966,
+          "pays": "Italie",
+          "generique": [
+            "Cameron Mitchell",
+            "Frank Ross",
+            "Jack Stuart"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Arald, le roi des Vikings, a disparu en mer. Son général, Aghen, rentre au pays et revendique le trône et la reine. Celle-ci s'enfuit avec son fils Moki dans la forêt où, poursuivis par Aghen et ses hommes, ils sont secourus par un mystérieux voyageur."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mario Bava réalise le film sous le pseudonyme de John M. Old."
+            }
+          ]
+        },
+        {
+          "idFilm": 101141,
+          "ordre": 1,
+          "idSeance": 30640,
+          "idCopie": 18359,
+          "duree": 95,
+          "version": "VASTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19021,
+          "dateHeure": "2019-07-20T21:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Démons de la nuit",
+          "art": "Les",
+          "titreVo": "Schock",
+          "realisateurs": "Mario Bava",
+          "annee": 1977,
+          "pays": "Italie",
+          "generique": [
+            "John Steiner",
+            "Daria Nicolodi",
+            "David Colin"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Sept ans après le suicide de son mari, Dora revient vivre dans leur maison avec leur fils Marco et son nouveau compagnon. Mais le comportement de l'enfant change peu à peu et il devient menaçant."
+            }
+          ]
+        },
+        {
+          "idFilm": 101141,
+          "ordre": 1,
+          "idSeance": 30663,
+          "idCopie": 18359,
+          "duree": 95,
+          "version": "VASTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19021,
+          "dateHeure": "2019-07-28T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Démons de la nuit",
+          "art": "Les",
+          "titreVo": "Schock",
+          "realisateurs": "Mario Bava",
+          "annee": 1977,
+          "pays": "Italie",
+          "generique": [
+            "John Steiner",
+            "Daria Nicolodi",
+            "David Colin"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Sept ans après le suicide de son mari, Dora revient vivre dans leur maison avec leur fils Marco et son nouveau compagnon. Mais le comportement de l'enfant change peu à peu et il devient menaçant."
+            }
+          ]
+        },
+        {
+          "idFilm": 37834,
+          "ordre": 1,
+          "idSeance": 30637,
+          "idCopie": 18360,
+          "duree": 109,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19024,
+          "dateHeure": "2019-07-20T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Esther et le roi",
+          "titreVo": "Ester e il re",
+          "realisateurs": "Raoul Walsh, Mario Bava",
+          "annee": 1960,
+          "pays": "Italie-États-Unis",
+          "generique": [
+            "Joan Collins",
+            "Richard Egan",
+            "Denis O'Dea"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier sa femme et de la remplacer. Alors que sous l'égide de son premier Ministre, le peuple juif connaît de rudes persécutions, son choix se porte sur une jeune Juive, Esther."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mario Bava est crédité comme co-réalisateur du film."
+            }
+          ]
+        },
+        {
+          "idFilm": 37834,
+          "ordre": 1,
+          "idSeance": 30650,
+          "idCopie": 18360,
+          "duree": 109,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19024,
+          "dateHeure": "2019-07-24T21:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Esther et le roi",
+          "titreVo": "Ester e il re",
+          "realisateurs": "Raoul Walsh, Mario Bava",
+          "annee": 1960,
+          "pays": "Italie-États-Unis",
+          "generique": [
+            "Joan Collins",
+            "Richard Egan",
+            "Denis O'Dea"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier sa femme et de la remplacer. Alors que sous l'égide de son premier Ministre, le peuple juif connaît de rudes persécutions, son choix se porte sur une jeune Juive, Esther."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mario Bava est crédité comme co-réalisateur du film."
+            }
+          ]
+        },
+        {
+          "idFilm": 42594,
+          "ordre": 1,
+          "idSeance": 30620,
+          "idCopie": 18482,
+          "duree": 88,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19025,
+          "dateHeure": "2019-07-07T21:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Fille qui en savait trop",
+          "art": "La",
+          "titreVo": "Ragazza che sapeva troppo",
+          "artVo": "La",
+          "realisateurs": "Mario Bava",
+          "annee": 1962,
+          "pays": "Italie",
+          "generique": [
+            "Leticia Roman",
+            "John Saxon",
+            "Valentina Cortese"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une jeune Américaine en vacances à Rome assiste impuissante à un meurtre. Cherchant à témoigner, elle devient gênante."
+            }
+          ]
+        },
+        {
+          "idFilm": 42594,
+          "ordre": 1,
+          "idSeance": 30635,
+          "idCopie": 18482,
+          "duree": 88,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19025,
+          "dateHeure": "2019-07-19T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Fille qui en savait trop",
+          "art": "La",
+          "titreVo": "Ragazza che sapeva troppo",
+          "artVo": "La",
+          "realisateurs": "Mario Bava",
+          "annee": 1962,
+          "pays": "Italie",
+          "generique": [
+            "Leticia Roman",
+            "John Saxon",
+            "Valentina Cortese"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une jeune Américaine en vacances à Rome assiste impuissante à un meurtre. Cherchant à témoigner, elle devient gênante."
+            }
+          ]
+        },
+        {
+          "idFilm": 45039,
+          "ordre": 1,
+          "idSeance": 30711,
+          "idCopie": 18362,
+          "duree": 90,
+          "version": "VF",
+          "format": "16 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19026,
+          "dateHeure": "2019-07-06T22:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Hercule contre les vampires",
+          "titreVo": "Ercole al centro della terra",
+          "realisateurs": "Mario Bava",
+          "annee": 1961,
+          "pays": "Italie",
+          "generique": [
+            "Reg Park",
+            "Eleonora Ruffo",
+            "Christopher Lee"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pour obtenir la guérison de sa fiancée Déjanire, Hercule doit se rendre aux Enfers et trouver une pierre sacrée."
+            }
+          ]
+        },
+        {
+          "idFilm": 45039,
+          "ordre": 1,
+          "idSeance": 30633,
+          "idCopie": 18362,
+          "duree": 90,
+          "version": "VF",
+          "format": "16 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19026,
+          "dateHeure": "2019-07-18T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Hercule contre les vampires",
+          "titreVo": "Ercole al centro della terra",
+          "realisateurs": "Mario Bava",
+          "annee": 1961,
+          "pays": "Italie",
+          "generique": [
+            "Reg Park",
+            "Eleonora Ruffo",
+            "Christopher Lee"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pour obtenir la guérison de sa fiancée Déjanire, Hercule doit se rendre aux Enfers et trouver une pierre sacrée."
+            }
+          ]
+        },
+        {
+          "idFilm": 45523,
+          "ordre": 1,
+          "idSeance": 31387,
+          "idCopie": 18505,
+          "duree": 110,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19402,
+          "dateHeure": "2019-07-15T17:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Hercule et la reine de Lydie",
+          "titreVo": "Ercole e la regina di Lidia",
+          "realisateurs": "Pietro Francisci",
+          "annee": 1958,
+          "pays": "Italie-France",
+          "generique": [
+            "Steve Reeves",
+            "Sylva Koscina",
+            "Sylvia Lopez"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En route pour Thèbes, avec son épouse Iole et son fidèle compagnon Ulysse, Hercule est enlevé par des soldats de la terrible Omphale, reine de Lydie."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mario Bava est chef opérateur mais certaines séquences portent vraisemblablement la marque de sa réalisation."
+            }
+          ]
+        },
+        {
+          "idFilm": 66016,
+          "ordre": 1,
+          "idSeance": 30173,
+          "idCopie": 18363,
+          "duree": 90,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19027,
+          "dateHeure": "2019-07-05T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idSeanceAssoc": 30172,
+          "typeAssoc": 117,
+          "titre": "Ile de l'épouvante",
+          "art": "L'",
+          "titreVo": "Cinque bambole per la luna d'agosto",
+          "realisateurs": "Mario Bava",
+          "annee": 1970,
+          "pays": "Italie",
+          "generique": [
+            "Ira de Fürstenberg",
+            "Edwige Fenech"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En vacances sur une île, de riches oisifs sont sauvagement assassinés les uns après les autres."
+            }
+          ]
+        },
+        {
+          "idFilm": 66016,
+          "ordre": 1,
+          "idSeance": 30625,
+          "idCopie": 18363,
+          "duree": 90,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19027,
+          "dateHeure": "2019-07-12T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Ile de l'épouvante",
+          "art": "L'",
+          "titreVo": "Cinque bambole per la luna d'agosto",
+          "realisateurs": "Mario Bava",
+          "annee": 1970,
+          "pays": "Italie",
+          "generique": [
+            "Ira de Fürstenberg",
+            "Edwige Fenech"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En vacances sur une île, de riches oisifs sont sauvagement assassinés les uns après les autres."
+            }
+          ]
+        },
+        {
+          "idFilm": 42508,
+          "ordre": 1,
+          "idSeance": 30636,
+          "idCopie": 797,
+          "duree": 106,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19081,
+          "dateHeure": "2019-07-19T21:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Inferno",
+          "titreVo": "",
+          "realisateurs": "Dario Argento",
+          "annee": 1979,
+          "pays": "Italie",
+          "generique": [
+            "Irene Miracle",
+            "Sacha Pitoëff",
+            "Alida Valli"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À New York, Rose apprend que l'immeuble où elle vient de s'installer aurait été construit pour abriter une des trois sorcières qui dominent le monde."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mario Bava intervient en tant que réalisateur de seconde équipe et coordinateur des effets spéciaux, tandis que Lamberto Bava est assistant réalisateur."
+            }
+          ]
+        },
+        {
+          "idFilm": 110686,
+          "ordre": 1,
+          "idSeance": 30715,
+          "idCopie": 18364,
+          "duree": 95,
+          "version": "VASTF",
+          "format": "16 mm",
+          "valide": 0,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19028,
+          "dateHeure": "2019-07-14T19:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Lisa et le diable",
+          "titreVo": "Lisa e il diavolo",
+          "realisateurs": "Mario Bava",
+          "annee": 1972,
+          "pays": "Italie-RFA-Espagne",
+          "generique": [
+            "Eduardo Fajardo",
+            "Sylva Koscina",
+            "Alessio Orano"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lisa, en visitant Tolède, tombe en arrêt devant une fresque représentant le Diable. Troublée, elle s'éloigne et se perd. Un couple la prend en stop, mais une panne les contraint à passer la nuit dans une demeure sinistre."
+            }
+          ]
+        },
+        {
+          "idFilm": 110686,
+          "ordre": 1,
+          "idSeance": 30661,
+          "idCopie": 18364,
+          "duree": 95,
+          "version": "VASTF",
+          "format": "16 mm",
+          "valide": 0,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19028,
+          "dateHeure": "2019-07-28T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Lisa et le diable",
+          "titreVo": "Lisa e il diavolo",
+          "realisateurs": "Mario Bava",
+          "annee": 1972,
+          "pays": "Italie-RFA-Espagne",
+          "generique": [
+            "Eduardo Fajardo",
+            "Sylva Koscina",
+            "Alessio Orano"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Lisa, en visitant Tolède, tombe en arrêt devant une fresque représentant le Diable. Troublée, elle s'éloigne et se perd. Un couple la prend en stop, mais une panne les contraint à passer la nuit dans une demeure sinistre."
+            }
+          ]
+        },
+        {
+          "idFilm": 57093,
+          "ordre": 1,
+          "idSeance": 30716,
+          "idCopie": 18365,
+          "duree": 92,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19029,
+          "dateHeure": "2019-07-14T21:15:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Maison de l'exorcisme",
+          "art": "La",
+          "titreVo": "Casa dell' esorcismo",
+          "artVo": "La",
+          "realisateurs": "Mario Bava, Alfredo Leone",
+          "annee": 1975,
+          "pays": "Italie-Espagne-RFA",
+          "generique": [
+            "Alida Valli",
+            "Elke Sommer",
+            "Telly Savalas"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Se croyant pourchassée par le Diable, Lisa s'enfuit et se cache dans un manoir. Victime de possession, elle est emmenée dans un hôpital pour être soumise à un exorcisme."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "_La Maison de l'exorcisme_ est une nouvelle version de _Lisa et le diable_, avec un montage et des séquences différentes, parfois tournées a posteriori, pour capitaliser sur le succès du film _L'exorciste_ de William Friedkin."
+            }
+          ]
+        },
+        {
+          "idFilm": 57093,
+          "ordre": 1,
+          "idSeance": 30662,
+          "idCopie": 18365,
+          "duree": 92,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19029,
+          "dateHeure": "2019-07-28T17:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Maison de l'exorcisme",
+          "art": "La",
+          "titreVo": "Casa dell' esorcismo",
+          "artVo": "La",
+          "realisateurs": "Mario Bava, Alfredo Leone",
+          "annee": 1975,
+          "pays": "Italie-Espagne-RFA",
+          "generique": [
+            "Alida Valli",
+            "Elke Sommer",
+            "Telly Savalas"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Se croyant pourchassée par le Diable, Lisa s'enfuit et se cache dans un manoir. Victime de possession, elle est emmenée dans un hôpital pour être soumise à un exorcisme."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "_La Maison de l'exorcisme_ est une nouvelle version de _Lisa et le diable_, avec un montage et des séquences différentes, parfois tournées a posteriori, pour capitaliser sur le succès du film _L'exorciste_ de William Friedkin."
+            }
+          ]
+        },
+        {
+          "idFilm": 45212,
+          "ordre": 1,
+          "idSeance": 30710,
+          "idCopie": 18491,
+          "duree": 84,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19030,
+          "dateHeure": "2019-07-06T19:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Masque du démon",
+          "art": "Le",
+          "titreVo": "Maschera del demonio",
+          "artVo": "La",
+          "realisateurs": "Mario Bava",
+          "annee": 1960,
+          "pays": "Italie",
+          "generique": [
+            "Barbara Steele",
+            "John Richardson",
+            "Ivo Garrani"
+          ],
+          "adaptation": "D'après la nouvelle _Vij_ de Nicolas Gogol.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Deux siècles après leur exécution féroce, une sorcière et son amant reviennent à la vie."
+            }
+          ]
+        },
+        {
+          "idFilm": 45212,
+          "ordre": 1,
+          "idSeance": 30641,
+          "idCopie": 18491,
+          "duree": 84,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19030,
+          "dateHeure": "2019-07-21T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Masque du démon",
+          "art": "Le",
+          "titreVo": "Maschera del demonio",
+          "artVo": "La",
+          "realisateurs": "Mario Bava",
+          "annee": 1960,
+          "pays": "Italie",
+          "generique": [
+            "Barbara Steele",
+            "John Richardson",
+            "Ivo Garrani"
+          ],
+          "adaptation": "D'après la nouvelle _Vij_ de Nicolas Gogol.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Deux siècles après leur exécution féroce, une sorcière et son amant reviennent à la vie."
+            }
+          ]
+        },
+        {
+          "idFilm": 66461,
+          "ordre": 1,
+          "idSeance": 30738,
+          "idCopie": 18366,
+          "duree": 100,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19031,
+          "dateHeure": "2019-07-14T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Mille et une nuits",
+          "art": "Les",
+          "titreVo": "Meraviglie di Aladino",
+          "artVo": "La",
+          "realisateurs": "Mario Bava",
+          "annee": 1961,
+          "pays": "Italie-France",
+          "generique": [
+            "Donald O'Connor",
+            "Raymond Bussières",
+            "Michèle Mercier"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les principaux épisodes du célèbre recueil de contes arabes."
+            }
+          ]
+        },
+        {
+          "idFilm": 66461,
+          "ordre": 1,
+          "idSeance": 30657,
+          "idCopie": 18366,
+          "duree": 100,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 0,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19031,
+          "dateHeure": "2019-07-27T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Mille et une nuits",
+          "art": "Les",
+          "titreVo": "Meraviglie di Aladino",
+          "artVo": "La",
+          "realisateurs": "Mario Bava",
+          "annee": 1961,
+          "pays": "Italie-France",
+          "generique": [
+            "Donald O'Connor",
+            "Raymond Bussières",
+            "Michèle Mercier"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les principaux épisodes du célèbre recueil de contes arabes."
+            }
+          ]
+        },
+        {
+          "idFilm": 87698,
+          "ordre": 1,
+          "idSeance": 30713,
+          "idCopie": 18367,
+          "duree": 85,
+          "version": "VASTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19033,
+          "dateHeure": "2019-07-13T19:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "titre": "Operazione paura",
+          "titreVo": "",
+          "realisateurs": "Mario Bava",
+          "annee": 1966,
+          "pays": "Italie",
+          "generique": [
+            "Giacomo Rossi-Stuart",
+            "Erika Blanc",
+            "Fabienne Dali"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le village perdu de Karmingen semble frappé de malédiction : les habitants meurent les uns après les autres. Aidé par le docteur Eswai et une sorcière locale, l'inspecteur Kruger décide de mener l'enquête."
+            }
+          ]
+        },
+        {
+          "idFilm": 87698,
+          "ordre": 1,
+          "idSeance": 30645,
+          "idCopie": 18367,
+          "duree": 85,
+          "version": "VASTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19033,
+          "dateHeure": "2019-07-22T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Operazione paura",
+          "titreVo": "",
+          "realisateurs": "Mario Bava",
+          "annee": 1966,
+          "pays": "Italie",
+          "generique": [
+            "Giacomo Rossi-Stuart",
+            "Erika Blanc",
+            "Fabienne Dali"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le village perdu de Karmingen semble frappé de malédiction : les habitants meurent les uns après les autres. Aidé par le docteur Eswai et une sorcière locale, l'inspecteur Kruger décide de mener l'enquête."
+            }
+          ]
+        },
+        {
+          "idFilm": 88798,
+          "ordre": 1,
+          "idSeance": 30643,
+          "idCopie": 18368,
+          "duree": 90,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19034,
+          "dateHeure": "2019-07-21T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Planète des vampires",
+          "art": "La",
+          "titreVo": "Terrore nello spazio",
+          "realisateurs": "Mario Bava",
+          "annee": 1965,
+          "pays": "Italie-Espagne",
+          "generique": [
+            "Barry Sullivan",
+            "Norma Bengell",
+            "Ángel Aranda"
+          ],
+          "adaptation": "D'après le roman _Una notte di 21 ore_ de Renato Pestriniero.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Deux vaisseaux envoyés en mission d'exploration atterrissent sur la planète Aura. Pris de folie, le premier équipage s'entretue. Le second découvre que la planète est habitée par des extraterrestres qui cherchent à s'emparer de leurs corps."
+            }
+          ]
+        },
+        {
+          "idFilm": 88798,
+          "ordre": 1,
+          "idSeance": 30653,
+          "idCopie": 18368,
+          "duree": 90,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19034,
+          "dateHeure": "2019-07-25T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Planète des vampires",
+          "art": "La",
+          "titreVo": "Terrore nello spazio",
+          "realisateurs": "Mario Bava",
+          "annee": 1965,
+          "pays": "Italie-Espagne",
+          "generique": [
+            "Barry Sullivan",
+            "Norma Bengell",
+            "Ángel Aranda"
+          ],
+          "adaptation": "D'après le roman _Una notte di 21 ore_ de Renato Pestriniero.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Deux vaisseaux envoyés en mission d'exploration atterrissent sur la planète Aura. Pris de folie, le premier équipage s'entretue. Le second découvre que la planète est habitée par des extraterrestres qui cherchent à s'emparer de leurs corps."
+            }
+          ]
+        },
+        {
+          "idFilm": 101126,
+          "ordre": 1,
+          "idSeance": 30632,
+          "idCopie": 18483,
+          "duree": 83,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19035,
+          "dateHeure": "2019-07-17T21:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Quante volte, quella notte",
+          "titreVo": "",
+          "realisateurs": "Mario Bava",
+          "annee": 1969,
+          "pays": "Italie-RFA",
+          "generique": [
+            "Daniela Giordano",
+            "Brett Halsey",
+            "Dick Randall"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Plusieurs versions différentes d'une même nuit agitée, vue par ses différents protagonistes : une jeune femme suit un ami dans un night-club où ils retrouvent trois autres camarades."
+            }
+          ]
+        },
+        {
+          "idFilm": 101126,
+          "ordre": 1,
+          "idSeance": 30656,
+          "idCopie": 18483,
+          "duree": 83,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19035,
+          "dateHeure": "2019-07-26T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Quante volte, quella notte",
+          "titreVo": "",
+          "realisateurs": "Mario Bava",
+          "annee": 1969,
+          "pays": "Italie-RFA",
+          "generique": [
+            "Daniela Giordano",
+            "Brett Halsey",
+            "Dick Randall"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Plusieurs versions différentes d'une même nuit agitée, vue par ses différents protagonistes : une jeune femme suit un ami dans un night-club où ils retrouvent trois autres camarades."
+            }
+          ]
+        },
+        {
+          "idFilm": 92335,
+          "ordre": 1,
+          "idSeance": 30630,
+          "idCopie": 17133,
+          "duree": 88,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19036,
+          "dateHeure": "2019-07-14T17:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Rosso segno della follia",
+          "art": "Il",
+          "titreVo": "",
+          "realisateurs": "Mario Bava",
+          "annee": 1970,
+          "pays": "Italie",
+          "generique": [
+            "Laura Betti",
+            "Stephen Forsyth",
+            "Dagmar Lassander"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un grand couturier, schizophrène, est spécialisé dans les robes de mariées. Ses pulsions le poussent à assassiner les jeunes femmes qui essaient ses créations."
+            }
+          ]
+        },
+        {
+          "idFilm": 92335,
+          "ordre": 1,
+          "idSeance": 30644,
+          "idCopie": 17133,
+          "duree": 88,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19036,
+          "dateHeure": "2019-07-22T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Rosso segno della follia",
+          "art": "Il",
+          "titreVo": "",
+          "realisateurs": "Mario Bava",
+          "annee": 1970,
+          "pays": "Italie",
+          "generique": [
+            "Laura Betti",
+            "Stephen Forsyth",
+            "Dagmar Lassander"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un grand couturier, schizophrène, est spécialisé dans les robes de mariées. Ses pulsions le poussent à assassiner les jeunes femmes qui essaient ses créations."
+            }
+          ]
+        },
+        {
+          "idFilm": 100650,
+          "ordre": 1,
+          "idSeance": 31362,
+          "idCopie": 18435,
+          "duree": 90,
+          "version": "VASTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19382,
+          "dateHeure": "2019-07-12T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Roy Colt et Winchester Jack",
+          "titreVo": "Roy Colt e Winchester Jack",
+          "realisateurs": "Mario Bava",
+          "annee": 1969,
+          "pays": "Italie",
+          "generique": [
+            "Brett Halsey",
+            "Marilù Tolo",
+            "Isa Miranda"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Deux _pistoleros_, Roy et Jack, à la fois amis et rivaux, décident de prendre des voies différentes. L'un poursuit sa vie de hors-la-loi tandis que l'autre devient shérif."
+            }
+          ]
+        },
+        {
+          "idFilm": 100650,
+          "ordre": 1,
+          "idSeance": 30240,
+          "idCopie": 18435,
+          "duree": 90,
+          "version": "VASTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19382,
+          "dateHeure": "2019-07-17T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Roy Colt et Winchester Jack",
+          "titreVo": "Roy Colt e Winchester Jack",
+          "realisateurs": "Mario Bava",
+          "annee": 1969,
+          "pays": "Italie",
+          "generique": [
+            "Brett Halsey",
+            "Marilù Tolo",
+            "Isa Miranda"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Deux _pistoleros_, Roy et Jack, à la fois amis et rivaux, décident de prendre des voies différentes. L'un poursuit sa vie de hors-la-loi tandis que l'autre devient shérif."
+            }
+          ]
+        },
+        {
+          "idFilm": 100644,
+          "ordre": 1,
+          "idSeance": 30619,
+          "idCopie": 13959,
+          "duree": 90,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19037,
+          "dateHeure": "2019-07-07T19:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Ruée des vikings",
+          "art": "La",
+          "titreVo": "Invasori",
+          "artVo": "Gli",
+          "realisateurs": "Mario Bava",
+          "annee": 1961,
+          "pays": "Italie-France",
+          "generique": [
+            "Cameron Mitchell",
+            "Folco Lulli",
+            "Françoise Christophe"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Deux frères, combattant dans des camps opposés, affrontent le félon qui les a séparés et cherchent à venger la mort de leur père."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré en 2K par les Sociétés Arrow Films, Cinématographique Lyre et Comeci, en partenariat avec les laboratoires L'Immagine Ritrovata di Bologna et Hiventy."
+            }
+          ]
+        },
+        {
+          "idFilm": 100644,
+          "ordre": 1,
+          "idSeance": 30634,
+          "idCopie": 13959,
+          "duree": 90,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19037,
+          "dateHeure": "2019-07-18T21:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Ruée des vikings",
+          "art": "La",
+          "titreVo": "Invasori",
+          "artVo": "Gli",
+          "realisateurs": "Mario Bava",
+          "annee": 1961,
+          "pays": "Italie-France",
+          "generique": [
+            "Cameron Mitchell",
+            "Folco Lulli",
+            "Françoise Christophe"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Deux frères, combattant dans des camps opposés, affrontent le félon qui les a séparés et cherchent à venger la mort de leur père."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauré en 2K par les Sociétés Arrow Films, Cinématographique Lyre et Comeci, en partenariat avec les laboratoires L'Immagine Ritrovata di Bologna et Hiventy."
+            }
+          ]
+        },
+        {
+          "idFilm": 83125,
+          "ordre": 1,
+          "idSeance": 30731,
+          "idCopie": 18370,
+          "duree": 86,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19038,
+          "dateHeure": "2019-07-06T14:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idSeanceAssoc": 30735,
+          "typeAssoc": 118,
+          "titre": "Six femmes pour l'assassin",
+          "titreVo": "Sei donne per l'assassino",
+          "realisateurs": "Mario Bava",
+          "annee": 1964,
+          "pays": "Italie-France-RFA",
+          "generique": [
+            "Eva Bartok",
+            "Cameron Mitchell",
+            "Thomas Reiner"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une série de meurtres est perpétrée sur les mannequins d'une maison de haute couture réputée."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauration 2k réalisée d'après le négatif caméra par les Sociétés Arrow Films et Studio canal."
+            }
+          ]
+        },
+        {
+          "idFilm": 83125,
+          "ordre": 1,
+          "idSeance": 30638,
+          "idCopie": 18370,
+          "duree": 86,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19038,
+          "dateHeure": "2019-07-20T17:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Six femmes pour l'assassin",
+          "titreVo": "Sei donne per l'assassino",
+          "realisateurs": "Mario Bava",
+          "annee": 1964,
+          "pays": "Italie-France-RFA",
+          "generique": [
+            "Eva Bartok",
+            "Cameron Mitchell",
+            "Thomas Reiner"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une série de meurtres est perpétrée sur les mannequins d'une maison de haute couture réputée."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauration 2k réalisée d'après le négatif caméra par les Sociétés Arrow Films et Studio canal."
+            }
+          ]
+        },
+        {
+          "idFilm": 41943,
+          "ordre": 1,
+          "idSeance": 30537,
+          "idCopie": 18465,
+          "duree": 104,
+          "version": "VF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19385,
+          "dateHeure": "2019-07-26T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Travaux d'Hercule",
+          "art": "Les",
+          "titreVo": "Fatiche di Ercole",
+          "artVo": "Le",
+          "realisateurs": "Pietro Francisci",
+          "annee": 1957,
+          "pays": "Italie",
+          "generique": [
+            "Steve Reeves",
+            "Sylva Koscina",
+            "Fabrizio Mioni"
+          ],
+          "adaptation": "D'après le poème _ Les Argonautiques _ d'Apollonios de Rhodes.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Hercule sauve la fille du roi Pélias, affronte le lion de Némée et recherche la Toison d'or en compagnie de Jason."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mario Bava occupe le poste de chef opérateur mais serait intervenu à la réalisation."
+            }
+          ]
+        },
+        {
+          "idFilm": 42596,
+          "ordre": 1,
+          "idSeance": 30615,
+          "idCopie": 18372,
+          "duree": 92,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19040,
+          "dateHeure": "2019-07-03T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "typeSeance": 44,
+          "mention": "Ouverture de la rétrospective",
+          "titre": "Trois visages de la peur",
+          "art": "Les",
+          "titreVo": "Tre volti della paura",
+          "artVo": "I",
+          "realisateurs": "Mario Bava",
+          "annee": 1963,
+          "pays": "Italie-France",
+          "generique": [
+            "Michèle Mercier",
+            "Boris Karloff",
+            "Jacqueline Pierreux"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Restauration 4K effectuée par les laboratoires L'Immagine ritrovata (Bologne), L'Image retrouvée (Paris) et Le Diapason (Paris)."
+            },
+            {
+              "typeTexte": 9,
+              "texte": "Film à sketches. _Le Téléphone_ : Une femme est victime de menaces téléphoniques. _Les Wurdalaks_ : Une histoire de vampires dans la campagne slave. _La Goutte d'eau_ : Le vol d'une bague sur un cadavre provoque d'étranges phénomènes."
+            }
+          ]
+        },
+        {
+          "idFilm": 42596,
+          "ordre": 1,
+          "idSeance": 30659,
+          "idCopie": 18372,
+          "duree": 92,
+          "version": "VOSTF",
+          "format": "DCP",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19040,
+          "dateHeure": "2019-07-27T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Trois visages de la peur",
+          "art": "Les",
+          "titreVo": "Tre volti della paura",
+          "artVo": "I",
+          "realisateurs": "Mario Bava",
+          "annee": 1963,
+          "pays": "Italie-France",
+          "generique": [
+            "Michèle Mercier",
+            "Boris Karloff",
+            "Jacqueline Pierreux"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Restauration 4K effectuée par les laboratoires L'Immagine ritrovata (Bologne), L'Image retrouvée (Paris) et Le Diapason (Paris)."
+            },
+            {
+              "typeTexte": 9,
+              "texte": "Film à sketches. _Le Téléphone_ : Une femme est victime de menaces téléphoniques. _Les Wurdalaks_ : Une histoire de vampires dans la campagne slave. _La Goutte d'eau_ : Le vol d'une bague sur un cadavre provoque d'étranges phénomènes."
+            }
+          ]
+        },
+        {
+          "idFilm": 32360,
+          "ordre": 1,
+          "idSeance": 30621,
+          "idCopie": 8994,
+          "duree": 85,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19082,
+          "dateHeure": "2019-07-10T17:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Vampires",
+          "art": "Les",
+          "titreVo": "Vampiri",
+          "artVo": "I",
+          "realisateurs": "Riccardo Freda",
+          "annee": 1956,
+          "pays": "Italie",
+          "generique": [
+            "Gianna Maria Canale",
+            "Carlo D'Angelo"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Paris, une duchesse qui aspire à la jeunesse éternelle fait exécuter des jeunes filles pour récupérer leur sang."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mario Bava est officiellement Directeur de la photographie et des effets spéciaux mais termine le film après le départ de Riccardo Freda, brouillé avec les producteurs."
+            }
+          ]
+        },
+        {
+          "idFilm": 32360,
+          "ordre": 1,
+          "idSeance": 30647,
+          "idCopie": 8994,
+          "duree": 85,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "valide": 1,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19082,
+          "dateHeure": "2019-07-24T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Vampires",
+          "art": "Les",
+          "titreVo": "Vampiri",
+          "artVo": "I",
+          "realisateurs": "Riccardo Freda",
+          "annee": 1956,
+          "pays": "Italie",
+          "generique": [
+            "Gianna Maria Canale",
+            "Carlo D'Angelo"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Paris, une duchesse qui aspire à la jeunesse éternelle fait exécuter des jeunes filles pour récupérer leur sang."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Mario Bava est officiellement Directeur de la photographie et des effets spéciaux mais termine le film après le départ de Riccardo Freda, brouillé avec les producteurs."
+            }
+          ]
+        },
+        {
+          "idFilm": 83664,
+          "ordre": 1,
+          "idSeance": 30664,
+          "idCopie": 18373,
+          "duree": 60,
+          "version": "VOSTF",
+          "format": "Numérique",
+          "valide": 0,
+          "idCycle": 430,
+          "idCategorie": 1931,
+          "idEvenement": 19041,
+          "dateHeure": "2019-07-28T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "titre": "Venere d'Ille",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Mario Bava, Lamberto Bava",
+          "annee": 1978,
+          "pays": "Italie",
+          "generique": [
+            "Marc Porel",
+            "Daria Nicolodi",
+            "Fausto Di Bella"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Découvrant dans sa propriété une statue de Vénus, M. de Peyhorade demande à un jeune spécialiste de l'expertiser. Celui-ci tombe immédiatement amoureux de la belle-fille du propriétaire, qui ressemble étrangement à la statue."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "_Sous réserve_"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Rencontres et conférences",
+      "tri": 1,
+      "items": []
+    }
+  ],
+  "info": {}
+}

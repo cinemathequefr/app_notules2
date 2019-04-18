@@ -1,5 +1,4 @@
-[
-  {
+[{
     "titre": "Arizona Bill",
     "titreVo": "Strada per Fort Alamo",
     "artVo": "La",
@@ -10,12 +9,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1964,
     "pays": "Italie-France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Ruiné par la guerre de Sécession, un fermier désespéré s'associe, avec un de ses amis, à un braqueur de banques. Mais celui-ci, une fois le forfait commis, s'enfuit avec le butin."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Ruiné par la guerre de Sécession, un fermier désespéré s'associe, avec un de ses amis, à un braqueur de banques. Mais celui-ci, une fois le forfait commis, s'enfuit avec le butin."
+    }],
     "generique": [
       "Ken Clark",
       "Jany Clair",
@@ -33,12 +30,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1971,
     "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Plusieurs assassinats, tous plus extravagants les uns que les autres, sont commis dans la propriété d'une vieille comtesse infirme."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Plusieurs assassinats, tous plus extravagants les uns que les autres, sont commis dans la propriété d'une vieille comtesse infirme."
+    }],
     "generique": [
       "Claudine Auger",
       "Luigi Pistilli",
@@ -55,8 +50,7 @@
     "realisateurs": "Lamberto Bava",
     "annee": 1980,
     "pays": "Italie",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "Après avoir perdu simultanément son fils, tué par sa propre fille, et son amant dans un accident, Jane Baker, traumatisée, est internée en hôpital psychiatrique. Elle en sort, un an plus tard, toujours perturbée. C'est alors que sa fille la recontacte."
       },
@@ -82,12 +76,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1971,
     "pays": "Italie-RFA",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Peter Kleist, originaire d'Autriche, revient au pays pour toucher son héritage. Accueilli par son oncle, il visite le château de leur ancêtre, le Baron Sanglant, qu'il souhaite ramener à la vie à l'aide de très anciens parchemins."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Peter Kleist, originaire d'Autriche, revient au pays pour toucher son héritage. Accueilli par son oncle, il visite le château de leur ancêtre, le Baron Sanglant, qu'il souhaite ramener à la vie à l'aide de très anciens parchemins."
+    }],
     "generique": [
       "Joseph Cotten",
       "Elke Sommer",
@@ -106,8 +98,7 @@
     "realisateurs": "Jacques Tourneur, Bruno Vailati, Mario Bava",
     "annee": 1959,
     "pays": "Italie-France",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "Au Ve siècle avant J.-C., Philippidès, récent vainqueur des Jeux olympiques, est nommé chef de la Garde Sacrée d'Athéna. Il tombe amoureux d'Andromède, mais elle est promise à Théocrite, un aristocrate ambitieux et fourbe qui manigance le retour au pouvoir du tyran Hippias."
       },
@@ -133,8 +124,7 @@
     "realisateurs": "Robert Hampton",
     "annee": 1959,
     "pays": "Italie",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "Dans un temple Maya dédié à la déesse Caltiki, des scientifiques découvrent une créature informe et inquiétante qui s'en prend à l'un des archéologues."
       },
@@ -159,12 +149,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1974,
     "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Des gangsters en cavale prennent un homme et son enfant en otage."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Des gangsters en cavale prennent un homme et son enfant en otage."
+    }],
     "generique": [
       "Lea Lander",
       "George Eastman",
@@ -183,8 +171,7 @@
     "realisateurs": "John Old",
     "annee": 1963,
     "pays": "Italie-France",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "Au XIXe siècle, le baron Kurt regagne le château familial, dont il avait été banni par son propre père, pour assister au mariage de son frère avec son ancienne maîtresse, Nevenka. Celle-ci est fortement troublée, tandis que les habitants des environs voient ce retour d'un mauvais œil."
       },
@@ -209,12 +196,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1967,
     "pays": "Italie-France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Les exploits de l'insaisissable bandit Diabolik et de sa fiancée Eva Kant, traqués à la fois par la police et le syndicat du crime."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Les exploits de l'insaisissable bandit Diabolik et de sa fiancée Eva Kant, traqués à la fois par la police et le syndicat du crime."
+    }],
     "generique": [
       "John Philip Law",
       "Marisa Mell",
@@ -234,8 +219,7 @@
     "realisateurs": "Paolo Heusch",
     "annee": 1958,
     "pays": "Italie-France",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "Plusieurs nations, dont la Russie et les États-Unis, collaborent pour envoyer un homme vers la Lune. Mais en cours de route, la mission tourne court, et la fusée explose, devenant une menace pour la Terre."
       },
@@ -261,12 +245,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1977,
     "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Sept ans après le suicide de son mari, Dora revient vivre dans leur maison avec leur fils Marco et son nouveau compagnon. Mais le comportement de l'enfant change peu à peu et il devient menaçant."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Sept ans après le suicide de son mari, Dora revient vivre dans leur maison avec leur fils Marco et son nouveau compagnon. Mais le comportement de l'enfant change peu à peu et il devient menaçant."
+    }],
     "generique": [
       "John Steiner",
       "Daria Nicolodi",
@@ -284,16 +266,57 @@
     "realisateurs": "Mario Bava",
     "annee": 1966,
     "pays": "Espagne-Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Un vagabond nommé Nebraska, engagé par Marty et Kay Hillman pour travailler dans leur ranch, va les aider à se défaire de l'emprise d'un puissant propriétaire terrien qui les exploite sans scrupules."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Un vagabond nommé Nebraska, engagé par Marty et Kay Hillman pour travailler dans leur ranch, va les aider à se défaire de l'emprise d'un puissant propriétaire terrien qui les exploite sans scrupules."
+    }],
     "generique": [
       "Ken Clark",
       "Yvonne Bastien",
       "Piero Lulli"
+    ]
+  },
+  {
+    "titre": "Dr. Goldfoot and the girl bombs",
+    "titreVo": "Spie vengono dal semifreddo",
+    "idFilm": 73697,
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "ageMinimal": 0,
+    "realisateurs": "Mario Bava",
+    "annee": 1966,
+    "pays": "Italie-États-Unis",
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Un savant fou, le Dr Goldfoot, crée des bombes robots prenant la forme de jeunes femmes destinées à tuer les principaux dirigeants militaires de tous les pays afin de lui permettre de conquérir le monde."
+    }],
+    "generique": [
+      "Vincent Price",
+      "Fabian",
+      "Laura Antonelli"
+    ]
+  },
+  {
+    "titre": "Dr. Goldfoot and the Girl Bombs",
+    "titreVo": "",
+    "idFilm": 141609,
+    "idCycle": 430,
+    "idCategorie": 1931,
+    "ageMinimal": null,
+    "realisateurs": "Mario Bava",
+    "annee": 1966,
+    "pays": "Italie-États-Unis",
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Un savant fou, le Dr Goldfoot, crée des bombes robots prenant la forme de jeunes femmes destinées à tuer les principaux dirigeants militaires de tous les pays afin de lui permettre de conquérir le monde."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Cette version anglaise du film _Le Spie vengono dal semifreddo_ fut réécrite, remontée, et la musique fut modifiée sans Mario Bava, à destination du public américain."
+      }
+    ],
+    "generique": [
+      "Fabian"
     ]
   },
   {
@@ -307,8 +330,7 @@
     "realisateurs": "John Hold",
     "annee": 1966,
     "pays": "Italie",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "Arald, le roi des Vikings, a disparu en mer. Son général, Aghen, rentre au pays et revendique le trône et la reine. Celle-ci s'enfuit avec son fils Moki dans la forêt où, poursuivis par Aghen et ses hommes, ils sont secourus par un mystérieux voyageur."
       },
@@ -324,34 +346,6 @@
     ]
   },
   {
-    "titre": "Espion qui venait du surgelé",
-    "art": "L'",
-    "titreVo": "Spie vengono dal semifreddo",
-    "idFilm": 73697,
-    "idCycle": 430,
-    "idCategorie": 1931,
-    "ageMinimal": 0,
-    "realisateurs": "Mario Bava",
-    "annee": 1966,
-    "pays": "Italie-États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Un savant fou, le Dr Goldfoot, crée des bombes robots prenant la forme de jeunes femmes destinées à tuer les principaux dirigeants militaires de tous les pays afin de lui permettre de conquérir le monde."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Cette version anglaise du film _Le Spie vengono dal semifreddo_ fut réécrite, remontée, et la musique fut modifiée sans Mario Bava, à destination du public américain."
-      }
-    ],
-    "generique": [
-      "Vincent Price",
-      "Vincent Price",
-      "Fabian",
-      "Fabian"
-    ]
-  },
-  {
     "titre": "Esther et le roi",
     "titreVo": "Ester e il re",
     "idFilm": 37834,
@@ -361,8 +355,7 @@
     "realisateurs": "Raoul Walsh, Mario Bava",
     "annee": 1960,
     "pays": "Italie-États-Unis",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier sa femme et de la remplacer. Alors que sous l'égide de son premier Ministre, le peuple juif connaît de rudes persécutions, son choix se porte sur une jeune Juive, Esther."
       },
@@ -389,12 +382,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1962,
     "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Une jeune Américaine en vacances à Rome assiste impuissante à un meurtre. Cherchant à témoigner, elle devient gênante."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Une jeune Américaine en vacances à Rome assiste impuissante à un meurtre. Cherchant à témoigner, elle devient gênante."
+    }],
     "generique": [
       "Leticia Roman",
       "John Saxon",
@@ -411,12 +402,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1961,
     "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Pour obtenir la guérison de sa fiancée Déjanire, Hercule doit se rendre aux Enfers et trouver une pierre sacrée."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Pour obtenir la guérison de sa fiancée Déjanire, Hercule doit se rendre aux Enfers et trouver une pierre sacrée."
+    }],
     "generique": [
       "Reg Park",
       "Eleonora Ruffo",
@@ -433,8 +422,7 @@
     "realisateurs": "Pietro Francisci",
     "annee": 1958,
     "pays": "Italie-France",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "En route pour Thèbes, avec son épouse Iole et son fidèle compagnon Ulysse, Hercule est enlevé par des soldats de la terrible Omphale, reine de Lydie."
       },
@@ -460,12 +448,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1970,
     "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "En vacances sur une île, de riches oisifs sont sauvagement assassinés les uns après les autres."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "En vacances sur une île, de riches oisifs sont sauvagement assassinés les uns après les autres."
+    }],
     "generique": [
       "Ira de Fürstenberg",
       "Edwige Fenech"
@@ -481,8 +467,7 @@
     "realisateurs": "Dario Argento",
     "annee": 1979,
     "pays": "Italie",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "À New York, Rose apprend que l'immeuble où elle vient de s'installer aurait été construit pour abriter une des trois sorcières qui dominent le monde."
       },
@@ -507,12 +492,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1972,
     "pays": "Italie-RFA-Espagne",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Lisa, en visitant Tolède, tombe en arrêt devant une fresque représentant le Diable. Troublée, elle s'éloigne et se perd. Un couple la prend en stop, mais une panne les contraint à passer la nuit dans une demeure sinistre."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Lisa, en visitant Tolède, tombe en arrêt devant une fresque représentant le Diable. Troublée, elle s'éloigne et se perd. Un couple la prend en stop, mais une panne les contraint à passer la nuit dans une demeure sinistre."
+    }],
     "generique": [
       "Eduardo Fajardo",
       "Sylva Koscina",
@@ -531,8 +514,7 @@
     "realisateurs": "Mario Bava, Alfredo Leone",
     "annee": 1975,
     "pays": "Italie-Espagne-RFA",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "Se croyant pourchassée par le Diable, Lisa s'enfuit et se cache dans un manoir. Victime de possession, elle est emmenée dans un hôpital pour être soumise à un exorcisme."
       },
@@ -559,12 +541,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1960,
     "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Deux siècles après leur exécution féroce, une sorcière et son amant reviennent à la vie."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Deux siècles après leur exécution féroce, une sorcière et son amant reviennent à la vie."
+    }],
     "generique": [
       "Barbara Steele",
       "John Richardson",
@@ -584,12 +564,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1961,
     "pays": "Italie-France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Les principaux épisodes du célèbre recueil de contes arabes."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Les principaux épisodes du célèbre recueil de contes arabes."
+    }],
     "generique": [
       "Donald O'Connor",
       "Raymond Bussières",
@@ -606,12 +584,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1966,
     "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Le village perdu de Karmingen semble frappé de malédiction : les habitants meurent les uns après les autres. Aidé par le docteur Eswai et une sorcière locale, l'inspecteur Kruger décide de mener l'enquête."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Le village perdu de Karmingen semble frappé de malédiction : les habitants meurent les uns après les autres. Aidé par le docteur Eswai et une sorcière locale, l'inspecteur Kruger décide de mener l'enquête."
+    }],
     "generique": [
       "Giacomo Rossi-Stuart",
       "Erika Blanc",
@@ -629,12 +605,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1965,
     "pays": "Italie-Espagne",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Deux vaisseaux envoyés en mission d'exploration atterrissent sur la planète Aura. Pris de folie, le premier équipage s'entretue. Le second découvre que la planète est habitée par des extraterrestres qui cherchent à s'emparer de leurs corps."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Deux vaisseaux envoyés en mission d'exploration atterrissent sur la planète Aura. Pris de folie, le premier équipage s'entretue. Le second découvre que la planète est habitée par des extraterrestres qui cherchent à s'emparer de leurs corps."
+    }],
     "generique": [
       "Barry Sullivan",
       "Norma Bengell",
@@ -652,12 +626,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1969,
     "pays": "Italie-RFA",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Plusieurs versions différentes d'une même nuit agitée, vue par ses différents protagonistes : une jeune femme suit un ami dans un night-club où ils retrouvent trois autres camarades."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Plusieurs versions différentes d'une même nuit agitée, vue par ses différents protagonistes : une jeune femme suit un ami dans un night-club où ils retrouvent trois autres camarades."
+    }],
     "generique": [
       "Daniela Giordano",
       "Brett Halsey",
@@ -675,12 +647,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1970,
     "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Un grand couturier, schizophrène, est spécialisé dans les robes de mariées. Ses pulsions le poussent à assassiner les jeunes femmes qui essaient ses créations."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Un grand couturier, schizophrène, est spécialisé dans les robes de mariées. Ses pulsions le poussent à assassiner les jeunes femmes qui essaient ses créations."
+    }],
     "generique": [
       "Laura Betti",
       "Stephen Forsyth",
@@ -697,12 +667,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1969,
     "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Deux _pistoleros_, Roy et Jack, à la fois amis et rivaux, décident de prendre des voies différentes. L'un poursuit sa vie de hors-la-loi tandis que l'autre devient shérif."
-      }
-    ],
+    "textes": [{
+      "typeTexte": 9,
+      "texte": "Deux _pistoleros_, Roy et Jack, à la fois amis et rivaux, décident de prendre des voies différentes. L'un poursuit sa vie de hors-la-loi tandis que l'autre devient shérif."
+    }],
     "generique": [
       "Brett Halsey",
       "Marilù Tolo",
@@ -721,10 +689,13 @@
     "realisateurs": "Mario Bava",
     "annee": 1961,
     "pays": "Italie-France",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "Deux frères, combattant dans des camps opposés, affrontent le félon qui les a séparés et cherchent à venger la mort de leur père."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré en 2K par les Sociétés Arrow Films, Cinématographique Lyre et Comeci, en partenariat avec les laboratoires L'Immagine Ritrovata di Bologna et Hiventy."
       }
     ],
     "generique": [
@@ -743,10 +714,13 @@
     "realisateurs": "Mario Bava",
     "annee": 1964,
     "pays": "Italie-France-RFA",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "Une série de meurtres est perpétrée sur les mannequins d'une maison de haute couture réputée."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauration 2k réalisée d'après le négatif caméra par les Sociétés Arrow Films et Studio canal."
       }
     ],
     "generique": [
@@ -767,8 +741,7 @@
     "realisateurs": "Pietro Francisci",
     "annee": 1957,
     "pays": "Italie",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "Hercule sauve la fille du roi Pélias, affronte le lion de Némée et recherche la Toison d'or en compagnie de Jason."
       },
@@ -796,7 +769,10 @@
     "realisateurs": "Mario Bava",
     "annee": 1963,
     "pays": "Italie-France",
-    "textes": [
+    "textes": [{
+        "typeTexte": 9,
+        "texte": "Restauration 4K effectuée par les laboratoires L'Immagine ritrovata (Bologne), L'Image retrouvée (Paris) et Le Diapason (Paris)."
+      },
       {
         "typeTexte": 9,
         "texte": "Film à sketches. _Le Téléphone_ : Une femme est victime de menaces téléphoniques. _Les Wurdalaks_ : Une histoire de vampires dans la campagne slave. _La Goutte d'eau_ : Le vol d'une bague sur un cadavre provoque d'étranges phénomènes."
@@ -820,8 +796,7 @@
     "realisateurs": "Riccardo Freda",
     "annee": 1956,
     "pays": "Italie",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
         "texte": "À Paris, une duchesse qui aspire à la jeunesse éternelle fait exécuter des jeunes filles pour récupérer leur sang."
       },
@@ -846,10 +821,9 @@
     "realisateurs": "Mario Bava, Lamberto Bava",
     "annee": 1978,
     "pays": "Italie",
-    "textes": [
-      {
+    "textes": [{
         "typeTexte": 9,
-        "texte": "Découvrant dans sa propriété une statue de Vénus, M. de Peyhorrade demande à un jeune spécialiste de l'expertiser. Celui-ci tombe immédiatement amoureux de la belle-fille du propriétaire, qui ressemble étrangement à la statue."
+        "texte": "Découvrant dans sa propriété une statue de Vénus, M. de Peyhorade demande à un jeune spécialiste de l'expertiser. Celui-ci tombe immédiatement amoureux de la belle-fille du propriétaire, qui ressemble étrangement à la statue."
       },
       {
         "typeTexte": 99,
