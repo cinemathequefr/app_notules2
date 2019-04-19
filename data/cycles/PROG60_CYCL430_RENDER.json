@@ -2,11 +2,17 @@
   "header": {
     "idCycleProg": 430,
     "titreCycle": "Mario Bava",
-    "sousCycles": [
-      {
+    "sousCycles": [{
         "titre": "Les films",
         "cats": [
           1931
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Autour de Mario Bava",
+        "cats": [
+          2004
         ],
         "tri": 1
       },
@@ -20,12 +26,10 @@
     ],
     "idProg": 60
   },
-  "data": [
-    {
+  "data": [{
       "titreSousCycle": "Les films",
       "tri": 1,
-      "items": [
-        {
+      "items": [{
           "idCycle": 430,
           "idFilm": 86739,
           "titre": "Arizona Bill",
@@ -34,12 +38,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1964,
           "pays": "Italie-France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Ruiné par la guerre de Sécession, un fermier désespéré s'associe, avec un de ses amis, à un braqueur de banques. Mais celui-ci, une fois le forfait commis, s'enfuit avec le butin."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Ruiné par la guerre de Sécession, un fermier désespéré s'associe, avec un de ses amis, à un braqueur de banques. Mais celui-ci, une fois le forfait commis, s'enfuit avec le butin."
+          }],
           "generique": [
             "Ken Clark",
             "Jany Clair",
@@ -48,8 +50,7 @@
           "duree": 90,
           "format": "35 mm",
           "version": "VF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30623,
               "ordre": 1,
               "idEvenement": 19014,
@@ -80,12 +81,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1971,
           "pays": "Italie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Plusieurs assassinats, tous plus extravagants les uns que les autres, sont commis dans la propriété d'une vieille comtesse infirme."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Plusieurs assassinats, tous plus extravagants les uns que les autres, sont commis dans la propriété d'une vieille comtesse infirme."
+          }],
           "generique": [
             "Claudine Auger",
             "Luigi Pistilli",
@@ -94,8 +93,7 @@
           "duree": 81,
           "format": "35 mm",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30736,
               "ordre": 1,
               "idEvenement": 19015,
@@ -125,8 +123,7 @@
           "realisateurs": "Lamberto Bava",
           "annee": 1980,
           "pays": "Italie",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "Après avoir perdu simultanément son fils, tué par sa propre fille, et son amant dans un accident, Jane Baker, traumatisée, est internée en hôpital psychiatrique. Elle en sort, un an plus tard, toujours perturbée. C'est alors que sa fille la recontacte."
             },
@@ -143,18 +140,16 @@
           "duree": 89,
           "format": "35 mm",
           "version": "VF",
-          "seance": [
-            {
-              "idSeance": 30538,
-              "ordre": 1,
-              "idEvenement": 19386,
-              "dateHeure": "2019-07-26T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
+          "seance": [{
+            "idSeance": 30538,
+            "ordre": 1,
+            "idEvenement": 19386,
+            "dateHeure": "2019-07-26T21:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }]
         },
         {
           "idCycle": 430,
@@ -165,12 +160,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1971,
           "pays": "Italie-RFA",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Peter Kleist, originaire d'Autriche, revient au pays pour toucher son héritage. Accueilli par son oncle, il visite le château de leur ancêtre, le Baron Sanglant, qu'il souhaite ramener à la vie à l'aide de très anciens parchemins.'"
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Peter Kleist, originaire d'Autriche, revient au pays pour toucher son héritage. Accueilli par son oncle, il visite le château de leur ancêtre, le Baron Sanglant, qu'il souhaite ramener à la vie à l'aide de très anciens parchemins.'"
+          }],
           "generique": [
             "Joseph Cotten",
             "Elke Sommer",
@@ -179,8 +172,7 @@
           "duree": 98,
           "format": "DCP",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30624,
               "ordre": 1,
               "idEvenement": 19016,
@@ -212,8 +204,7 @@
           "realisateurs": "Jacques Tourneur, Bruno Vailati, Mario Bava",
           "annee": 1959,
           "pays": "Italie-France",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "Au Ve siècle avant J.-C., Philippidès, récent vainqueur des Jeux olympiques, est nommé chef de la Garde Sacrée d'Athéna. Il tombe amoureux d'Andromède, mais elle est promise à Théocrite, un aristocrate ambitieux et fourbe qui manigance le retour au pouvoir du tyran Hippias."
             },
@@ -231,8 +222,7 @@
           "duree": 87,
           "format": "35 mm",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30616,
               "ordre": 1,
               "idEvenement": 19017,
@@ -262,8 +252,7 @@
           "realisateurs": "Robert Hampton",
           "annee": 1959,
           "pays": "Italie",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "Dans un temple Maya dédié à la déesse Caltiki, des scientifiques découvrent une créature informe et inquiétante qui s'en prend à l'un des archéologues."
             },
@@ -280,18 +269,16 @@
           "duree": 77,
           "format": "16 mm",
           "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 31388,
-              "ordre": 1,
-              "idEvenement": 19403,
-              "dateHeure": "2019-07-21T15:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
+          "seance": [{
+            "idSeance": 31388,
+            "ordre": 1,
+            "idEvenement": 19403,
+            "dateHeure": "2019-07-21T15:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }]
         },
         {
           "idCycle": 430,
@@ -301,12 +288,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1974,
           "pays": "Italie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Des gangsters en cavale prennent un homme et son enfant en otage."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Des gangsters en cavale prennent un homme et son enfant en otage."
+          }],
           "generique": [
             "Lea Lander",
             "George Eastman",
@@ -315,8 +300,7 @@
           "duree": 96,
           "format": "DCP",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30737,
               "ordre": 1,
               "idEvenement": 19018,
@@ -348,8 +332,7 @@
           "realisateurs": "John Old",
           "annee": 1963,
           "pays": "Italie-France",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "Au XIXe siècle, le baron Kurt regagne le château familial, dont il avait été banni par son propre père, pour assister au mariage de son frère avec son ancienne maîtresse, Nevenka. Celle-ci est fortement troublée, tandis que les habitants des environs voient ce retour d'un mauvais œil."
             },
@@ -366,8 +349,7 @@
           "duree": 85,
           "format": "35 mm",
           "version": "VF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30728,
               "ordre": 1,
               "idEvenement": 19019,
@@ -397,12 +379,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1967,
           "pays": "Italie-France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Les exploits de l'insaisissable bandit Diabolik et de sa fiancée Eva Kant, traqués à la fois par la police et le syndicat du crime."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Les exploits de l'insaisissable bandit Diabolik et de sa fiancée Eva Kant, traqués à la fois par la police et le syndicat du crime."
+          }],
           "generique": [
             "John Philip Law",
             "Marisa Mell",
@@ -412,8 +392,7 @@
           "duree": 105,
           "format": "35 mm",
           "version": "VF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30714,
               "ordre": 1,
               "idEvenement": 19020,
@@ -445,8 +424,7 @@
           "realisateurs": "Paolo Heusch",
           "annee": 1958,
           "pays": "Italie-France",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "Plusieurs nations, dont la Russie et les États-Unis, collaborent pour envoyer un homme vers la Lune. Mais en cours de route, la mission tourne court, et la fusée explose, devenant une menace pour la Terre."
             },
@@ -463,8 +441,7 @@
           "duree": 82,
           "format": "35 mm",
           "version": "VF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30622,
               "ordre": 1,
               "idEvenement": 19155,
@@ -495,12 +472,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1977,
           "pays": "Italie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Sept ans après le suicide de son mari, Dora revient vivre dans leur maison avec leur fils Marco et son nouveau compagnon. Mais le comportement de l'enfant change peu à peu et il devient menaçant."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Sept ans après le suicide de son mari, Dora revient vivre dans leur maison avec leur fils Marco et son nouveau compagnon. Mais le comportement de l'enfant change peu à peu et il devient menaçant."
+          }],
           "generique": [
             "John Steiner",
             "Daria Nicolodi",
@@ -509,8 +484,7 @@
           "duree": 95,
           "format": "35 mm",
           "version": "VASTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30640,
               "ordre": 1,
               "idEvenement": 19021,
@@ -541,12 +515,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1966,
           "pays": "Espagne-Italie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Un vagabond nommé Nebraska, engagé par Marty et Kay Hillman pour travailler dans leur ranch, va les aider à se défaire de l'emprise d'un puissant propriétaire terrien qui les exploite sans scrupules."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Un vagabond nommé Nebraska, engagé par Marty et Kay Hillman pour travailler dans leur ranch, va les aider à se défaire de l'emprise d'un puissant propriétaire terrien qui les exploite sans scrupules."
+          }],
           "generique": [
             "Ken Clark",
             "Yvonne Bastien",
@@ -555,8 +527,7 @@
           "duree": 91,
           "format": "35 mm",
           "version": "VF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30627,
               "ordre": 1,
               "idEvenement": 19022,
@@ -586,12 +557,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1966,
           "pays": "Italie-États-Unis",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Un savant fou, le Dr Goldfoot, crée des bombes robots prenant la forme de jeunes femmes destinées à tuer les principaux dirigeants militaires de tous les pays afin de lui permettre de conquérir le monde."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Un savant fou, le Dr Goldfoot, crée des bombes robots prenant la forme de jeunes femmes destinées à tuer les principaux dirigeants militaires de tous les pays afin de lui permettre de conquérir le monde."
+          }],
           "generique": [
             "Vincent Price",
             "Fabian",
@@ -600,19 +569,17 @@
           "duree": 89,
           "format": "35 mm",
           "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 30628,
-              "ordre": 1,
-              "idEvenement": 19039,
-              "titreEvenement": "Spie vengono dal semifreddo",
-              "dateHeure": "2019-07-13T17:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
+          "seance": [{
+            "idSeance": 30628,
+            "ordre": 1,
+            "idEvenement": 19039,
+            "titreEvenement": "Spie vengono dal semifreddo",
+            "dateHeure": "2019-07-13T17:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }]
         },
         {
           "idCycle": 430,
@@ -622,8 +589,7 @@
           "realisateurs": "Mario Bava",
           "annee": 1966,
           "pays": "Italie-États-Unis",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "Un savant fou, le Dr Goldfoot, crée des bombes robots prenant la forme de jeunes femmes destinées à tuer les principaux dirigeants militaires de tous les pays afin de lui permettre de conquérir le monde."
             },
@@ -638,18 +604,16 @@
           "duree": 82,
           "format": "35 mm",
           "version": "VASTF",
-          "seance": [
-            {
-              "idSeance": 31403,
-              "ordre": 1,
-              "idEvenement": 19428,
-              "dateHeure": "2019-07-25T17:15:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
+          "seance": [{
+            "idSeance": 31403,
+            "ordre": 1,
+            "idEvenement": 19428,
+            "dateHeure": "2019-07-25T17:15:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }]
         },
         {
           "idCycle": 430,
@@ -660,8 +624,7 @@
           "realisateurs": "John Hold",
           "annee": 1966,
           "pays": "Italie",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "Arald, le roi des Vikings, a disparu en mer. Son général, Aghen, rentre au pays et revendique le trône et la reine. Celle-ci s'enfuit avec son fils Moki dans la forêt où, poursuivis par Aghen et ses hommes, ils sont secourus par un mystérieux voyageur."
             },
@@ -678,8 +641,7 @@
           "duree": 85,
           "format": "35 mm",
           "version": "VF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30642,
               "ordre": 1,
               "idEvenement": 19023,
@@ -709,8 +671,7 @@
           "realisateurs": "Raoul Walsh, Mario Bava",
           "annee": 1960,
           "pays": "Italie-États-Unis",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "Souverain puissant et respecté, le roi de Perse Assuérus choisit de répudier sa femme et de la remplacer. Alors que sous l'égide de son premier Ministre, le peuple juif connaît de rudes persécutions, son choix se porte sur une jeune Juive, Esther."
             },
@@ -727,8 +688,7 @@
           "duree": 109,
           "format": "35 mm",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30637,
               "ordre": 1,
               "idEvenement": 19024,
@@ -760,12 +720,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1962,
           "pays": "Italie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Une jeune Américaine en vacances à Rome assiste impuissante à un meurtre. Cherchant à témoigner, elle devient gênante."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Une jeune Américaine en vacances à Rome assiste impuissante à un meurtre. Cherchant à témoigner, elle devient gênante."
+          }],
           "generique": [
             "Leticia Roman",
             "John Saxon",
@@ -774,8 +732,7 @@
           "duree": 88,
           "format": "DCP",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30620,
               "ordre": 1,
               "idEvenement": 19025,
@@ -805,12 +762,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1961,
           "pays": "Italie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Pour obtenir la guérison de sa fiancée Déjanire, Hercule doit se rendre aux Enfers et trouver une pierre sacrée."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Pour obtenir la guérison de sa fiancée Déjanire, Hercule doit se rendre aux Enfers et trouver une pierre sacrée."
+          }],
           "generique": [
             "Reg Park",
             "Eleonora Ruffo",
@@ -819,8 +774,7 @@
           "duree": 90,
           "format": "16 mm",
           "version": "VF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30711,
               "ordre": 1,
               "idEvenement": 19026,
@@ -850,8 +804,7 @@
           "realisateurs": "Pietro Francisci",
           "annee": 1958,
           "pays": "Italie-France",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "En route pour Thèbes, avec son épouse Iole et son fidèle compagnon Ulysse, Hercule est enlevé par des soldats de la terrible Omphale, reine de Lydie."
             },
@@ -868,18 +821,16 @@
           "duree": 110,
           "format": "35 mm",
           "version": "VF",
-          "seance": [
-            {
-              "idSeance": 31387,
-              "ordre": 1,
-              "idEvenement": 19402,
-              "dateHeure": "2019-07-15T17:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
+          "seance": [{
+            "idSeance": 31387,
+            "ordre": 1,
+            "idEvenement": 19402,
+            "dateHeure": "2019-07-15T17:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }]
         },
         {
           "idCycle": 430,
@@ -890,12 +841,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1970,
           "pays": "Italie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "En vacances sur une île, de riches oisifs sont sauvagement assassinés les uns après les autres."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "En vacances sur une île, de riches oisifs sont sauvagement assassinés les uns après les autres."
+          }],
           "generique": [
             "Ira de Fürstenberg",
             "Edwige Fenech"
@@ -903,8 +852,7 @@
           "duree": 90,
           "format": "35 mm",
           "version": "VF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30173,
               "ordre": 1,
               "idEvenement": 19027,
@@ -934,8 +882,7 @@
           "realisateurs": "Dario Argento",
           "annee": 1979,
           "pays": "Italie",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "À New York, Rose apprend que l'immeuble où elle vient de s'installer aurait été construit pour abriter une des trois sorcières qui dominent le monde."
             },
@@ -952,18 +899,16 @@
           "duree": 106,
           "format": "35 mm",
           "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 30636,
-              "ordre": 1,
-              "idEvenement": 19081,
-              "dateHeure": "2019-07-19T21:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
+          "seance": [{
+            "idSeance": 30636,
+            "ordre": 1,
+            "idEvenement": 19081,
+            "dateHeure": "2019-07-19T21:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }]
         },
         {
           "idCycle": 430,
@@ -973,12 +918,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1972,
           "pays": "Italie-RFA-Espagne",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Lisa, en visitant Tolède, tombe en arrêt devant une fresque représentant le Diable. Troublée, elle s'éloigne et se perd. Un couple la prend en stop, mais une panne les contraint à passer la nuit dans une demeure sinistre."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Lisa, en visitant Tolède, tombe en arrêt devant une fresque représentant le Diable. Troublée, elle s'éloigne et se perd. Un couple la prend en stop, mais une panne les contraint à passer la nuit dans une demeure sinistre."
+          }],
           "generique": [
             "Eduardo Fajardo",
             "Sylva Koscina",
@@ -987,8 +930,7 @@
           "duree": 95,
           "format": "16 mm",
           "version": "VASTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30715,
               "ordre": 1,
               "idEvenement": 19028,
@@ -1020,8 +962,7 @@
           "realisateurs": "Mario Bava, Alfredo Leone",
           "annee": 1975,
           "pays": "Italie-Espagne-RFA",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "Se croyant pourchassée par le Diable, Lisa s'enfuit et se cache dans un manoir. Victime de possession, elle est emmenée dans un hôpital pour être soumise à un exorcisme."
             },
@@ -1038,8 +979,7 @@
           "duree": 92,
           "format": "35 mm",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30716,
               "ordre": 1,
               "idEvenement": 19029,
@@ -1071,12 +1011,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1960,
           "pays": "Italie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Deux siècles après leur exécution féroce, une sorcière et son amant reviennent à la vie."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Deux siècles après leur exécution féroce, une sorcière et son amant reviennent à la vie."
+          }],
           "adaptation": "D'après la nouvelle _Vij_ de Nicolas Gogol.",
           "generique": [
             "Barbara Steele",
@@ -1086,8 +1024,7 @@
           "duree": 84,
           "format": "35 mm",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30710,
               "ordre": 1,
               "idEvenement": 19030,
@@ -1119,12 +1056,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1961,
           "pays": "Italie-France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Les principaux épisodes du célèbre recueil de contes arabes."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Les principaux épisodes du célèbre recueil de contes arabes."
+          }],
           "generique": [
             "Donald O'Connor",
             "Raymond Bussières",
@@ -1133,8 +1068,7 @@
           "duree": 100,
           "format": "35 mm",
           "version": "VF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30738,
               "ordre": 1,
               "idEvenement": 19031,
@@ -1164,12 +1098,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1966,
           "pays": "Italie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Le village perdu de Karmingen semble frappé de malédiction : les habitants meurent les uns après les autres. Aidé par le docteur Eswai et une sorcière locale, l'inspecteur Kruger décide de mener l'enquête."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Le village perdu de Karmingen semble frappé de malédiction : les habitants meurent les uns après les autres. Aidé par le docteur Eswai et une sorcière locale, l'inspecteur Kruger décide de mener l'enquête."
+          }],
           "generique": [
             "Giacomo Rossi-Stuart",
             "Erika Blanc",
@@ -1178,8 +1110,7 @@
           "duree": 85,
           "format": "35 mm",
           "version": "VASTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30713,
               "ordre": 1,
               "idEvenement": 19033,
@@ -1210,12 +1141,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1965,
           "pays": "Italie-Espagne",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Deux vaisseaux envoyés en mission d'exploration atterrissent sur la planète Aura. Pris de folie, le premier équipage s'entretue. Le second découvre que la planète est habitée par des extraterrestres qui cherchent à s'emparer de leurs corps."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Deux vaisseaux envoyés en mission d'exploration atterrissent sur la planète Aura. Pris de folie, le premier équipage s'entretue. Le second découvre que la planète est habitée par des extraterrestres qui cherchent à s'emparer de leurs corps."
+          }],
           "adaptation": "D'après le roman _Una notte di 21 ore_ de Renato Pestriniero.",
           "generique": [
             "Barry Sullivan",
@@ -1225,8 +1154,7 @@
           "duree": 90,
           "format": "DCP",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30643,
               "ordre": 1,
               "idEvenement": 19034,
@@ -1256,12 +1184,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1969,
           "pays": "Italie-RFA",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Plusieurs versions différentes d'une même nuit agitée, vue par ses différents protagonistes : une jeune femme suit un ami dans un night-club où ils retrouvent trois autres camarades."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Plusieurs versions différentes d'une même nuit agitée, vue par ses différents protagonistes : une jeune femme suit un ami dans un night-club où ils retrouvent trois autres camarades."
+          }],
           "generique": [
             "Daniela Giordano",
             "Brett Halsey",
@@ -1270,8 +1196,7 @@
           "duree": 83,
           "format": "DCP",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30632,
               "ordre": 1,
               "idEvenement": 19035,
@@ -1302,12 +1227,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1970,
           "pays": "Italie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Un grand couturier, schizophrène, est spécialisé dans les robes de mariées. Ses pulsions le poussent à assassiner les jeunes femmes qui essaient ses créations."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Un grand couturier, schizophrène, est spécialisé dans les robes de mariées. Ses pulsions le poussent à assassiner les jeunes femmes qui essaient ses créations."
+          }],
           "generique": [
             "Laura Betti",
             "Stephen Forsyth",
@@ -1316,8 +1239,7 @@
           "duree": 88,
           "format": "35 mm",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30630,
               "ordre": 1,
               "idEvenement": 19036,
@@ -1347,12 +1269,10 @@
           "realisateurs": "Mario Bava",
           "annee": 1969,
           "pays": "Italie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Deux _pistoleros_, Roy et Jack, à la fois amis et rivaux, décident de prendre des voies différentes. L'un poursuit sa vie de hors-la-loi tandis que l'autre devient shérif."
-            }
-          ],
+          "textes": [{
+            "typeTexte": 9,
+            "texte": "Deux _pistoleros_, Roy et Jack, à la fois amis et rivaux, décident de prendre des voies différentes. L'un poursuit sa vie de hors-la-loi tandis que l'autre devient shérif."
+          }],
           "generique": [
             "Brett Halsey",
             "Marilù Tolo",
@@ -1361,8 +1281,7 @@
           "duree": 90,
           "format": "35 mm",
           "version": "VASTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 31362,
               "ordre": 1,
               "idEvenement": 19382,
@@ -1394,8 +1313,7 @@
           "realisateurs": "Mario Bava",
           "annee": 1961,
           "pays": "Italie-France",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "Deux frères, combattant dans des camps opposés, affrontent le félon qui les a séparés et cherchent à venger la mort de leur père."
             },
@@ -1412,8 +1330,7 @@
           "duree": 90,
           "format": "DCP",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30619,
               "ordre": 1,
               "idEvenement": 19037,
@@ -1443,8 +1360,7 @@
           "realisateurs": "Mario Bava",
           "annee": 1964,
           "pays": "Italie-France-RFA",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "Une série de meurtres est perpétrée sur les mannequins d'une maison de haute couture réputée."
             },
@@ -1461,8 +1377,7 @@
           "duree": 86,
           "format": "DCP",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30731,
               "ordre": 1,
               "idEvenement": 19038,
@@ -1494,8 +1409,7 @@
           "realisateurs": "Pietro Francisci",
           "annee": 1957,
           "pays": "Italie",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "Hercule sauve la fille du roi Pélias, affronte le lion de Némée et recherche la Toison d'or en compagnie de Jason."
             },
@@ -1513,18 +1427,16 @@
           "duree": 104,
           "format": "35 mm",
           "version": "VF",
-          "seance": [
-            {
-              "idSeance": 30537,
-              "ordre": 1,
-              "idEvenement": 19385,
-              "dateHeure": "2019-07-26T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
+          "seance": [{
+            "idSeance": 30537,
+            "ordre": 1,
+            "idEvenement": 19385,
+            "dateHeure": "2019-07-26T19:00:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }]
         },
         {
           "idCycle": 430,
@@ -1536,8 +1448,7 @@
           "realisateurs": "Mario Bava",
           "annee": 1963,
           "pays": "Italie-France",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "Restauration 4K effectuée par les laboratoires L'Immagine ritrovata (Bologne), L'Image retrouvée (Paris) et Le Diapason (Paris)."
             },
@@ -1554,8 +1465,7 @@
           "duree": 92,
           "format": "DCP",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30615,
               "ordre": 1,
               "idEvenement": 19040,
@@ -1588,8 +1498,7 @@
           "realisateurs": "Riccardo Freda",
           "annee": 1956,
           "pays": "Italie",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "À Paris, une duchesse qui aspire à la jeunesse éternelle fait exécuter des jeunes filles pour récupérer leur sang."
             },
@@ -1605,8 +1514,7 @@
           "duree": 85,
           "format": "35 mm",
           "version": "VOSTF",
-          "seance": [
-            {
+          "seance": [{
               "idSeance": 30621,
               "ordre": 1,
               "idEvenement": 19082,
@@ -1637,8 +1545,7 @@
           "realisateurs": "Mario Bava, Lamberto Bava",
           "annee": 1978,
           "pays": "Italie",
-          "textes": [
-            {
+          "textes": [{
               "typeTexte": 9,
               "texte": "Découvrant dans sa propriété une statue de Vénus, M. de Peyhorade demande à un jeune spécialiste de l'expertiser. Celui-ci tombe immédiatement amoureux de la belle-fille du propriétaire, qui ressemble étrangement à la statue."
             },
@@ -1655,20 +1562,23 @@
           "duree": 60,
           "format": "Numérique",
           "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 30664,
-              "ordre": 1,
-              "idEvenement": 19041,
-              "dateHeure": "2019-07-28T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
+          "seance": [{
+            "idSeance": 30664,
+            "ordre": 1,
+            "idEvenement": 19041,
+            "dateHeure": "2019-07-28T21:30:00",
+            "idSalle": [
+              "GF",
+              "Georges Franju"
+            ]
+          }]
         }
       ]
+    },
+    {
+      "titreSousCycle": "Autour de Mario Bava",
+      "tri": 1,
+      "items": []
     },
     {
       "titreSousCycle": "Rencontres et conférences",

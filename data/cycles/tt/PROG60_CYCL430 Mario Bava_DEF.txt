@@ -2,6 +2,11 @@
 <vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
 <pstyle:CATEGORIE>Les films
 
+<pstyle:TITRE>
+<pstyle:TECHNIQUE>82'/VASTF/35mm
+<pstyle:><cstyle:INFOSBLEUES>je 25 juilXXX17h15XXX
+<cstyle:SALLESBLEUES>B
+
 <pstyle:TITRE>Arizona Bill
 <pstyle:TITRE_ANG>(La Strada per Fort Alamo)
 <pstyle:TECHNIQUE>de Mario Bava
@@ -145,8 +150,6 @@
 <pstyle:SYNOPSIS>Pour déclencher un conflit entre les États-Unis et l'Union soviétique, et dominer le monde, un savant fou crée des bombes robots prenant la forme de jeunes femmes. Seul l'agent Bill Dexter semble capable de stopper son plan machiavélique.
 <pstyle:INFOS_UTILES>Cette version anglaise du film <ct:Italic>Le Spie vengono dal semifreddo<ct:> fut réécrite, remontée, et la musique fut modifiée sans Mario Bava, à destination du public américain.
 <pstyle:><cstyle:INFOSBLEUES>sa 13 juilXXX17h00XXX
-<cstyle:SALLESBLEUES>B
-<cstyle:INFOSBLEUES>je 25 juilXXX21h30XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Esther et le roi

@@ -34,6 +34,25 @@
       "items": [
         {
           "idCycle": 430,
+          "idFilm": 141609,
+          "duree": 82,
+          "format": "35 mm",
+          "version": "VASTF",
+          "seance": [
+            {
+              "idSeance": 31403,
+              "ordre": 1,
+              "idEvenement": 19428,
+              "dateHeure": "2019-07-25T17:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 430,
           "idFilm": 86739,
           "titre": "Arizona Bill",
           "titreVo": "Strada per Fort Alamo",
@@ -637,17 +656,6 @@
               "idEvenement": 19039,
               "titreEvenement": "Spie vengono dal semifreddo",
               "dateHeure": "2019-07-13T17:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            },
-            {
-              "idSeance": 31363,
-              "ordre": 1,
-              "idEvenement": 19384,
-              "titreEvenement": "Dr. Goldfoot and the girl bombs",
-              "dateHeure": "2019-07-25T21:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"

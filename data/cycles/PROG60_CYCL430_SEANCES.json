@@ -1,4 +1,5 @@
-[{
+[
+  {
     "idCycle": 430,
     "idCategorie": 1931,
     "idEvenement": 19040,
@@ -10,16 +11,18 @@
     ],
     "typeSeance": 44,
     "titreEvenement": "Trois visages de la peur (Les)",
-    "items": [{
-      "idFilm": 42596,
-      "ordre": 1,
-      "idSeance": 30615,
-      "idCopie": 18372,
-      "duree": 92,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }],
+    "items": [
+      {
+        "idFilm": 42596,
+        "ordre": 1,
+        "idSeance": 30615,
+        "idCopie": 18372,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
     "mention": "Ouverture de la rétrospective"
   },
   {
@@ -33,16 +36,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Bataille de Marathon (La)",
-    "items": [{
-      "idFilm": 44845,
-      "ordre": 1,
-      "idSeance": 30616,
-      "idCopie": 11854,
-      "duree": 87,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 44845,
+        "ordre": 1,
+        "idSeance": 30616,
+        "idCopie": 11854,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -57,16 +62,18 @@
     "titreEvenement": "Ile de l'épouvante (L')",
     "idSeanceAssoc": 30172,
     "typeAssoc": 117,
-    "items": [{
-      "idFilm": 66016,
-      "ordre": 1,
-      "idSeance": 30173,
-      "idCopie": 18363,
-      "duree": 90,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 66016,
+        "ordre": 1,
+        "idSeance": 30173,
+        "idCopie": 18363,
+        "duree": 90,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -81,16 +88,18 @@
     "titreEvenement": "Six femmes pour l'assassin",
     "idSeanceAssoc": 30735,
     "typeAssoc": 118,
-    "items": [{
-      "idFilm": 83125,
-      "ordre": 1,
-      "idSeance": 30731,
-      "idCopie": 18370,
-      "duree": 86,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 83125,
+        "ordre": 1,
+        "idSeance": 30731,
+        "idCopie": 18370,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -103,16 +112,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Masque du démon (Le)",
-    "items": [{
-      "idFilm": 45212,
-      "ordre": 1,
-      "idSeance": 30710,
-      "idCopie": 18491,
-      "duree": 84,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 45212,
+        "ordre": 1,
+        "idSeance": 30710,
+        "idCopie": 18491,
+        "duree": 84,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -125,16 +136,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Hercule contre les vampires",
-    "items": [{
-      "idFilm": 45039,
-      "ordre": 1,
-      "idSeance": 30711,
-      "idCopie": 18362,
-      "duree": 90,
-      "version": "VF",
-      "format": "16 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 45039,
+        "ordre": 1,
+        "idSeance": 30711,
+        "idCopie": 18362,
+        "duree": 90,
+        "version": "VF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -147,16 +160,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Ruée des vikings (La)",
-    "items": [{
-      "idFilm": 100644,
-      "ordre": 1,
-      "idSeance": 30619,
-      "idCopie": 13959,
-      "duree": 90,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 100644,
+        "ordre": 1,
+        "idSeance": 30619,
+        "idCopie": 13959,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -169,16 +184,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Fille qui en savait trop (La)",
-    "items": [{
-      "idFilm": 42594,
-      "ordre": 1,
-      "idSeance": 30620,
-      "idCopie": 18482,
-      "duree": 88,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42594,
+        "ordre": 1,
+        "idSeance": 30620,
+        "idCopie": 18482,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -191,16 +208,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Vampires (Les)",
-    "items": [{
-      "idFilm": 32360,
-      "ordre": 1,
-      "idSeance": 30621,
-      "idCopie": 8994,
-      "duree": 85,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 32360,
+        "ordre": 1,
+        "idSeance": 30621,
+        "idCopie": 8994,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -213,16 +232,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Danger vient de l'espace (Le)",
-    "items": [{
-      "idFilm": 43456,
-      "ordre": 1,
-      "idSeance": 30622,
-      "idCopie": 18356,
-      "duree": 82,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 43456,
+        "ordre": 1,
+        "idSeance": 30622,
+        "idCopie": 18356,
+        "duree": 82,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -235,16 +256,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Arizona Bill",
-    "items": [{
-      "idFilm": 86739,
-      "ordre": 1,
-      "idSeance": 30623,
-      "idCopie": 18351,
-      "duree": 90,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 86739,
+        "ordre": 1,
+        "idSeance": 30623,
+        "idCopie": 18351,
+        "duree": 90,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -257,16 +280,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Baron vampire",
-    "items": [{
-      "idFilm": 42592,
-      "ordre": 1,
-      "idSeance": 30624,
-      "idCopie": 18484,
-      "duree": 98,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42592,
+        "ordre": 1,
+        "idSeance": 30624,
+        "idCopie": 18484,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -279,16 +304,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Corps et le fouet ",
-    "items": [{
-      "idFilm": 59013,
-      "ordre": 1,
-      "idSeance": 30728,
-      "idCopie": 1145,
-      "duree": 85,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 59013,
+        "ordre": 1,
+        "idSeance": 30728,
+        "idCopie": 1145,
+        "duree": 85,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -301,16 +328,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Baie sanglante (La)",
-    "items": [{
-      "idFilm": 58483,
-      "ordre": 1,
-      "idSeance": 30736,
-      "idCopie": 18352,
-      "duree": 81,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 58483,
+        "ordre": 1,
+        "idSeance": 30736,
+        "idCopie": 18352,
+        "duree": 81,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -323,16 +352,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Roy Colt et Winchester Jack",
-    "items": [{
-      "idFilm": 100650,
-      "ordre": 1,
-      "idSeance": 31362,
-      "idCopie": 18435,
-      "duree": 90,
-      "version": "VASTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 100650,
+        "ordre": 1,
+        "idSeance": 31362,
+        "idCopie": 18435,
+        "duree": 90,
+        "version": "VASTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -345,16 +376,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Ile de l'épouvante (L')",
-    "items": [{
-      "idFilm": 66016,
-      "ordre": 1,
-      "idSeance": 30625,
-      "idCopie": 18363,
-      "duree": 90,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 66016,
+        "ordre": 1,
+        "idSeance": 30625,
+        "idCopie": 18363,
+        "duree": 90,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -367,16 +400,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Cani arrabiati",
-    "items": [{
-      "idFilm": 101129,
-      "ordre": 1,
-      "idSeance": 30737,
-      "idCopie": 18354,
-      "duree": 96,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 101129,
+        "ordre": 1,
+        "idSeance": 30737,
+        "idCopie": 18354,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -389,16 +424,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Dollars du Nebraska (Les)",
-    "items": [{
-      "idFilm": 90841,
-      "ordre": 1,
-      "idSeance": 30627,
-      "idCopie": 18357,
-      "duree": 91,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 90841,
+        "ordre": 1,
+        "idSeance": 30627,
+        "idCopie": 18357,
+        "duree": 91,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -411,16 +448,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Spie vengono dal semifreddo",
-    "items": [{
-      "idFilm": 73697,
-      "ordre": 1,
-      "idSeance": 30628,
-      "idCopie": 18441,
-      "duree": 89,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 73697,
+        "ordre": 1,
+        "idSeance": 30628,
+        "idCopie": 18441,
+        "duree": 89,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -433,16 +472,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Operazione paura",
-    "items": [{
-      "idFilm": 87698,
-      "ordre": 1,
-      "idSeance": 30713,
-      "idCopie": 18367,
-      "duree": 85,
-      "version": "VASTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 87698,
+        "ordre": 1,
+        "idSeance": 30713,
+        "idCopie": 18367,
+        "duree": 85,
+        "version": "VASTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -455,16 +496,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Danger, Diabolik",
-    "items": [{
-      "idFilm": 46006,
-      "ordre": 1,
-      "idSeance": 30714,
-      "idCopie": 2124,
-      "duree": 105,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 46006,
+        "ordre": 1,
+        "idSeance": 30714,
+        "idCopie": 2124,
+        "duree": 105,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -477,16 +520,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Mille et une nuits (Les)",
-    "items": [{
-      "idFilm": 66461,
-      "ordre": 1,
-      "idSeance": 30738,
-      "idCopie": 18366,
-      "duree": 100,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 66461,
+        "ordre": 1,
+        "idSeance": 30738,
+        "idCopie": 18366,
+        "duree": 100,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -499,16 +544,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Rosso segno della follia (Il)",
-    "items": [{
-      "idFilm": 92335,
-      "ordre": 1,
-      "idSeance": 30630,
-      "idCopie": 17133,
-      "duree": 88,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 92335,
+        "ordre": 1,
+        "idSeance": 30630,
+        "idCopie": 17133,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -521,16 +568,18 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Lisa et le diable",
-    "items": [{
-      "idFilm": 110686,
-      "ordre": 1,
-      "idSeance": 30715,
-      "idCopie": 18364,
-      "duree": 95,
-      "version": "VASTF",
-      "format": "16 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 110686,
+        "ordre": 1,
+        "idSeance": 30715,
+        "idCopie": 18364,
+        "duree": 95,
+        "version": "VASTF",
+        "format": "16 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -543,20 +592,22 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Maison de l'exorcisme (La)",
-    "items": [{
-      "idFilm": 57093,
-      "ordre": 1,
-      "idSeance": 30716,
-      "idCopie": 18365,
-      "duree": 92,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 57093,
+        "ordre": 1,
+        "idSeance": 30716,
+        "idCopie": 18365,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCycle": 430,
-    "idCategorie": 2004,
+    "idCategorie": 1931,
     "idEvenement": 19402,
     "idSeance": 31387,
     "dateHeure": "2019-07-15T17:30:00",
@@ -565,16 +616,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Hercule et la reine de Lydie",
-    "items": [{
-      "idFilm": 45523,
-      "ordre": 1,
-      "idSeance": 31387,
-      "idCopie": 18505,
-      "duree": 110,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 45523,
+        "ordre": 1,
+        "idSeance": 31387,
+        "idCopie": 18505,
+        "duree": 110,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -587,16 +640,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Roy Colt et Winchester Jack",
-    "items": [{
-      "idFilm": 100650,
-      "ordre": 1,
-      "idSeance": 30240,
-      "idCopie": 18435,
-      "duree": 90,
-      "version": "VASTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 100650,
+        "ordre": 1,
+        "idSeance": 30240,
+        "idCopie": 18435,
+        "duree": 90,
+        "version": "VASTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -609,16 +664,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Baron vampire",
-    "items": [{
-      "idFilm": 42592,
-      "ordre": 1,
-      "idSeance": 30631,
-      "idCopie": 18484,
-      "duree": 98,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42592,
+        "ordre": 1,
+        "idSeance": 30631,
+        "idCopie": 18484,
+        "duree": 98,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -631,16 +688,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Quante volte, quella notte",
-    "items": [{
-      "idFilm": 101126,
-      "ordre": 1,
-      "idSeance": 30632,
-      "idCopie": 18483,
-      "duree": 83,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 101126,
+        "ordre": 1,
+        "idSeance": 30632,
+        "idCopie": 18483,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -653,16 +712,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Hercule contre les vampires",
-    "items": [{
-      "idFilm": 45039,
-      "ordre": 1,
-      "idSeance": 30633,
-      "idCopie": 18362,
-      "duree": 90,
-      "version": "VF",
-      "format": "16 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 45039,
+        "ordre": 1,
+        "idSeance": 30633,
+        "idCopie": 18362,
+        "duree": 90,
+        "version": "VF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -675,16 +736,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Ruée des vikings (La)",
-    "items": [{
-      "idFilm": 100644,
-      "ordre": 1,
-      "idSeance": 30634,
-      "idCopie": 13959,
-      "duree": 90,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 100644,
+        "ordre": 1,
+        "idSeance": 30634,
+        "idCopie": 13959,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -697,20 +760,22 @@
       "Georges Franju"
     ],
     "titreEvenement": "Fille qui en savait trop (La)",
-    "items": [{
-      "idFilm": 42594,
-      "ordre": 1,
-      "idSeance": 30635,
-      "idCopie": 18482,
-      "duree": 88,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42594,
+        "ordre": 1,
+        "idSeance": 30635,
+        "idCopie": 18482,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
-    "idCategorie": 2004,
+    "idCategorie": 1931,
     "idEvenement": 19081,
     "idSeance": 30636,
     "dateHeure": "2019-07-19T21:00:00",
@@ -719,16 +784,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Inferno",
-    "items": [{
-      "idFilm": 42508,
-      "ordre": 1,
-      "idSeance": 30636,
-      "idCopie": 797,
-      "duree": 106,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42508,
+        "ordre": 1,
+        "idSeance": 30636,
+        "idCopie": 797,
+        "duree": 106,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -741,16 +808,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Esther et le roi",
-    "items": [{
-      "idFilm": 37834,
-      "ordre": 1,
-      "idSeance": 30637,
-      "idCopie": 18360,
-      "duree": 109,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 37834,
+        "ordre": 1,
+        "idSeance": 30637,
+        "idCopie": 18360,
+        "duree": 109,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -763,16 +832,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Six femmes pour l'assassin",
-    "items": [{
-      "idFilm": 83125,
-      "ordre": 1,
-      "idSeance": 30638,
-      "idCopie": 18370,
-      "duree": 86,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 83125,
+        "ordre": 1,
+        "idSeance": 30638,
+        "idCopie": 18370,
+        "duree": 86,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -785,16 +856,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Corps et le fouet ",
-    "items": [{
-      "idFilm": 59013,
-      "ordre": 1,
-      "idSeance": 30639,
-      "idCopie": 1145,
-      "duree": 85,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 59013,
+        "ordre": 1,
+        "idSeance": 30639,
+        "idCopie": 1145,
+        "duree": 85,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -807,16 +880,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Démons de la nuit (Les)",
-    "items": [{
-      "idFilm": 101141,
-      "ordre": 1,
-      "idSeance": 30640,
-      "idCopie": 18359,
-      "duree": 95,
-      "version": "VASTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 101141,
+        "ordre": 1,
+        "idSeance": 30640,
+        "idCopie": 18359,
+        "duree": 95,
+        "version": "VASTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -829,16 +904,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Caltiki, le monstre immortel",
-    "items": [{
-      "idFilm": 97353,
-      "ordre": 1,
-      "idSeance": 31388,
-      "idCopie": 18532,
-      "duree": 77,
-      "version": "VOSTF",
-      "format": "16 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 97353,
+        "ordre": 1,
+        "idSeance": 31388,
+        "idCopie": 18532,
+        "duree": 77,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -851,16 +928,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Masque du démon (Le)",
-    "items": [{
-      "idFilm": 45212,
-      "ordre": 1,
-      "idSeance": 30641,
-      "idCopie": 18491,
-      "duree": 84,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 45212,
+        "ordre": 1,
+        "idSeance": 30641,
+        "idCopie": 18491,
+        "duree": 84,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -873,16 +952,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Duel au couteau",
-    "items": [{
-      "idFilm": 82898,
-      "ordre": 1,
-      "idSeance": 30642,
-      "idCopie": 18358,
-      "duree": 85,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 82898,
+        "ordre": 1,
+        "idSeance": 30642,
+        "idCopie": 18358,
+        "duree": 85,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -895,16 +976,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Planète des vampires (La)",
-    "items": [{
-      "idFilm": 88798,
-      "ordre": 1,
-      "idSeance": 30643,
-      "idCopie": 18368,
-      "duree": 90,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 88798,
+        "ordre": 1,
+        "idSeance": 30643,
+        "idCopie": 18368,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -917,16 +1000,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Rosso segno della follia (Il)",
-    "items": [{
-      "idFilm": 92335,
-      "ordre": 1,
-      "idSeance": 30644,
-      "idCopie": 17133,
-      "duree": 88,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 92335,
+        "ordre": 1,
+        "idSeance": 30644,
+        "idCopie": 17133,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -939,16 +1024,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Operazione paura",
-    "items": [{
-      "idFilm": 87698,
-      "ordre": 1,
-      "idSeance": 30645,
-      "idCopie": 18367,
-      "duree": 85,
-      "version": "VASTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 87698,
+        "ordre": 1,
+        "idSeance": 30645,
+        "idCopie": 18367,
+        "duree": 85,
+        "version": "VASTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -961,16 +1048,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Danger, Diabolik",
-    "items": [{
-      "idFilm": 46006,
-      "ordre": 1,
-      "idSeance": 30646,
-      "idCopie": 2124,
-      "duree": 105,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 46006,
+        "ordre": 1,
+        "idSeance": 30646,
+        "idCopie": 2124,
+        "duree": 105,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -983,16 +1072,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Vampires (Les)",
-    "items": [{
-      "idFilm": 32360,
-      "ordre": 1,
-      "idSeance": 30647,
-      "idCopie": 8994,
-      "duree": 85,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 32360,
+        "ordre": 1,
+        "idSeance": 30647,
+        "idCopie": 8994,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1005,16 +1096,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Danger vient de l'espace (Le)",
-    "items": [{
-      "idFilm": 43456,
-      "ordre": 1,
-      "idSeance": 30648,
-      "idCopie": 18356,
-      "duree": 82,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 43456,
+        "ordre": 1,
+        "idSeance": 30648,
+        "idCopie": 18356,
+        "duree": 82,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1027,16 +1120,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Bataille de Marathon (La)",
-    "items": [{
-      "idFilm": 44845,
-      "ordre": 1,
-      "idSeance": 30649,
-      "idCopie": 11854,
-      "duree": 87,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 44845,
+        "ordre": 1,
+        "idSeance": 30649,
+        "idCopie": 11854,
+        "duree": 87,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1049,16 +1144,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Esther et le roi",
-    "items": [{
-      "idFilm": 37834,
-      "ordre": 1,
-      "idSeance": 30650,
-      "idCopie": 18360,
-      "duree": 109,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 37834,
+        "ordre": 1,
+        "idSeance": 30650,
+        "idCopie": 18360,
+        "duree": 109,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1071,16 +1168,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Duel au couteau",
-    "items": [{
-      "idFilm": 82898,
-      "ordre": 1,
-      "idSeance": 30651,
-      "idCopie": 18358,
-      "duree": 85,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 82898,
+        "ordre": 1,
+        "idSeance": 30651,
+        "idCopie": 18358,
+        "duree": 85,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1093,16 +1192,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Arizona Bill",
-    "items": [{
-      "idFilm": 86739,
-      "ordre": 1,
-      "idSeance": 30652,
-      "idCopie": 18351,
-      "duree": 90,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 86739,
+        "ordre": 1,
+        "idSeance": 30652,
+        "idCopie": 18351,
+        "duree": 90,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1115,16 +1216,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Dr. Goldfoot and the Girl Bombs",
-    "items": [{
-      "idFilm": 141609,
-      "ordre": 1,
-      "idSeance": 31403,
-      "idCopie": 18572,
-      "duree": 82,
-      "version": "VASTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 141609,
+        "ordre": 1,
+        "idSeance": 31403,
+        "idCopie": 18572,
+        "duree": 82,
+        "version": "VASTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1137,16 +1240,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Planète des vampires (La)",
-    "items": [{
-      "idFilm": 88798,
-      "ordre": 1,
-      "idSeance": 30653,
-      "idCopie": 18368,
-      "duree": 90,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 88798,
+        "ordre": 1,
+        "idSeance": 30653,
+        "idCopie": 18368,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1159,16 +1264,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Dollars du Nebraska (Les)",
-    "items": [{
-      "idFilm": 90841,
-      "ordre": 1,
-      "idSeance": 30655,
-      "idCopie": 18357,
-      "duree": 91,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 90841,
+        "ordre": 1,
+        "idSeance": 30655,
+        "idCopie": 18357,
+        "duree": 91,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1181,16 +1288,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Quante volte, quella notte",
-    "items": [{
-      "idFilm": 101126,
-      "ordre": 1,
-      "idSeance": 30656,
-      "idCopie": 18483,
-      "duree": 83,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 101126,
+        "ordre": 1,
+        "idSeance": 30656,
+        "idCopie": 18483,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1203,20 +1312,22 @@
       "Georges Franju"
     ],
     "titreEvenement": "Travaux d'Hercule (Les)",
-    "items": [{
-      "idFilm": 41943,
-      "ordre": 1,
-      "idSeance": 30537,
-      "idCopie": 18465,
-      "duree": 104,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 41943,
+        "ordre": 1,
+        "idSeance": 30537,
+        "idCopie": 18465,
+        "duree": 104,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
-    "idCategorie": 2004,
+    "idCategorie": 1931,
     "idEvenement": 19386,
     "idSeance": 30538,
     "dateHeure": "2019-07-26T21:30:00",
@@ -1225,16 +1336,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Baiser macabre",
-    "items": [{
-      "idFilm": 44242,
-      "ordre": 1,
-      "idSeance": 30538,
-      "idCopie": 18466,
-      "duree": 89,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 44242,
+        "ordre": 1,
+        "idSeance": 30538,
+        "idCopie": 18466,
+        "duree": 89,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1247,16 +1360,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Mille et une nuits (Les)",
-    "items": [{
-      "idFilm": 66461,
-      "ordre": 1,
-      "idSeance": 30657,
-      "idCopie": 18366,
-      "duree": 100,
-      "version": "VF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 66461,
+        "ordre": 1,
+        "idSeance": 30657,
+        "idCopie": 18366,
+        "duree": 100,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1269,16 +1384,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Cani arrabiati",
-    "items": [{
-      "idFilm": 101129,
-      "ordre": 1,
-      "idSeance": 30658,
-      "idCopie": 18354,
-      "duree": 96,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 101129,
+        "ordre": 1,
+        "idSeance": 30658,
+        "idCopie": 18354,
+        "duree": 96,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1291,16 +1408,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Trois visages de la peur (Les)",
-    "items": [{
-      "idFilm": 42596,
-      "ordre": 1,
-      "idSeance": 30659,
-      "idCopie": 18372,
-      "duree": 92,
-      "version": "VOSTF",
-      "format": "DCP",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 42596,
+        "ordre": 1,
+        "idSeance": 30659,
+        "idCopie": 18372,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1313,16 +1432,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Baie sanglante (La)",
-    "items": [{
-      "idFilm": 58483,
-      "ordre": 1,
-      "idSeance": 30660,
-      "idCopie": 18352,
-      "duree": 81,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 58483,
+        "ordre": 1,
+        "idSeance": 30660,
+        "idCopie": 18352,
+        "duree": 81,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1335,16 +1456,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Lisa et le diable",
-    "items": [{
-      "idFilm": 110686,
-      "ordre": 1,
-      "idSeance": 30661,
-      "idCopie": 18364,
-      "duree": 95,
-      "version": "VASTF",
-      "format": "16 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 110686,
+        "ordre": 1,
+        "idSeance": 30661,
+        "idCopie": 18364,
+        "duree": 95,
+        "version": "VASTF",
+        "format": "16 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1357,16 +1480,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Maison de l'exorcisme (La)",
-    "items": [{
-      "idFilm": 57093,
-      "ordre": 1,
-      "idSeance": 30662,
-      "idCopie": 18365,
-      "duree": 92,
-      "version": "VOSTF",
-      "format": "35 mm",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 57093,
+        "ordre": 1,
+        "idSeance": 30662,
+        "idCopie": 18365,
+        "duree": 92,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1379,16 +1504,18 @@
       "Georges Franju"
     ],
     "titreEvenement": "Démons de la nuit (Les)",
-    "items": [{
-      "idFilm": 101141,
-      "ordre": 1,
-      "idSeance": 30663,
-      "idCopie": 18359,
-      "duree": 95,
-      "version": "VASTF",
-      "format": "35 mm",
-      "valide": 1
-    }]
+    "items": [
+      {
+        "idFilm": 101141,
+        "ordre": 1,
+        "idSeance": 30663,
+        "idCopie": 18359,
+        "duree": 95,
+        "version": "VASTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   },
   {
     "idCycle": 430,
@@ -1401,15 +1528,17 @@
       "Georges Franju"
     ],
     "titreEvenement": "Venere d'Ille (La)",
-    "items": [{
-      "idFilm": 83664,
-      "ordre": 1,
-      "idSeance": 30664,
-      "idCopie": 18373,
-      "duree": 60,
-      "version": "VOSTF",
-      "format": "Numérique",
-      "valide": 0
-    }]
+    "items": [
+      {
+        "idFilm": 83664,
+        "ordre": 1,
+        "idSeance": 30664,
+        "idCopie": 18373,
+        "duree": 60,
+        "version": "VOSTF",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
   }
 ]

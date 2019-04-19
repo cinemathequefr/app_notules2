@@ -2,6 +2,7 @@
 
 ## Les films
 
+[86739]  
 **Arizona Bill**  
 **(La Strada per Fort Alamo)**  
 de Mario Bava  
@@ -12,6 +13,7 @@ Ruiné par la guerre de Sécession, un fermier désespéré s'associe, avec un d
 - me 10 juil 21h00 GF  
 - je 25 juil 17h00 GF
 
+[58483]  
 **La Baie sanglante**  
 **(Ecologia del delitto = Reazione a Catena)**  
 de Mario Bava  
@@ -22,6 +24,7 @@ Plusieurs assassinats, tous plus extravagants les uns que les autres, sont commi
 - je 11 juil 21h00 HL  
 - sa 27 juil 21h30 GF
 
+[44242]  
 **Baiser macabre**  
 **(Macabro)**  
 de Lamberto Bava  
@@ -32,6 +35,7 @@ Ce premier film réalisé par Lamberto Bava seul est particulièrement sous l'in
 
 - ve 26 juil 21h30 GF
 
+[42592]  
 **Baron vampire**  
 **(Gli Orrori del castello di Norimberga)**  
 de Mario Bava  
@@ -42,6 +46,7 @@ Peter Kleist, originaire d'Autriche, revient au pays pour toucher son héritage.
 - je 11 juil 17h00 GF  
 - me 17 juil 19h30 GF
 
+[44845]  
 **La Bataille de Marathon**  
 **(La Battaglia di Maratona)**  
 de Jacques Tourneur, Bruno Vailati, Mario Bava  
@@ -53,6 +58,7 @@ Les producteurs firent appel à Mario Bava en tant que chef opérateur et coordi
 - je 4 juil 17h00 GF  
 - me 24 juil 19h00 GF
 
+[97353]  
 **Caltiki, le monstre immortel**  
 **(Caltiki, il mostro immortale)**  
 de Robert Hampton  
@@ -63,6 +69,7 @@ Riccardo Freda signe le film sous le pseudonyme de Robert Hampton, mais c'est Ma
 
 - di 21 juil 15h00 GF
 
+[101129]  
 **Cani arrabiati**  
 de Mario Bava  
 Italie / 1974 / 96 min / VOSTF / DCP  
@@ -72,6 +79,7 @@ Des gangsters en cavale prennent un homme et son enfant en otage.
 - ve 12 juil 22h00 GF  
 - sa 27 juil 17h15 GF
 
+[59013]  
 **Le Corps et le fouet**  
 **(La Frusta e il corpo)**  
 de John Old  
@@ -83,6 +91,7 @@ Mario Bava réalise le film sous le pseudonyme de John M. Old.
 - je 11 juil 19h00 HL  
 - sa 20 juil 19h45 GF
 
+[46006]  
 **Danger, Diabolik**  
 **(Diabolik)**  
 de Mario Bava  
@@ -93,6 +102,7 @@ Les exploits de l'insaisissable bandit Diabolik et de sa fiancée Eva Kant, traq
 - sa 13 juil 21h30 HL  
 - lu 22 juil 21h45 GF
 
+[43456]  
 **Le Danger vient de l'espace**  
 **(La Morte viene dallo spazio)**  
 de Paolo Heusch  
@@ -104,6 +114,7 @@ Mario Bava est crédité comme chef opérateur.
 - me 10 juil 19h00 GF  
 - me 24 juil 17h00 GF
 
+[101141]  
 **Les Démons de la nuit**  
 **(Schock)**  
 de Mario Bava  
@@ -114,6 +125,7 @@ Sept ans après le suicide de son mari, Dora revient vivre dans leur maison avec
 - sa 20 juil 21h45 GF  
 - di 28 juil 19h30 GF
 
+[90841]  
 **Les Dollars du Nebraska**  
 **(Ringo del Nebraska)**  
 de Mario Bava  
@@ -124,6 +136,7 @@ Un vagabond nommé Nebraska, engagé par Marty et Kay Hillman pour travailler da
 - sa 13 juil 15h00 GF  
 - ve 26 juil 15h00 GF
 
+[73697]  
 **Dr. Goldfoot and the girl bombs**  
 **(Spie vengono dal semifreddo)**  
 de Mario Bava  
@@ -133,6 +146,7 @@ Un savant fou, le Dr Goldfoot, crée des bombes robots prenant la forme de jeune
 
 - sa 13 juil 17h00 GF
 
+[141609]  
 **Dr. Goldfoot and the Girl Bombs**  
 de Mario Bava  
 Italie-États-Unis / 1966 / 82 min / VASTF / 35 mm  
@@ -142,6 +156,7 @@ Cette version anglaise du film _Le Spie vengono dal semifreddo_ fut réécrite, 
 
 - je 25 juil 17h15 GF
 
+[82898]  
 **Duel au couteau**  
 **(I Coltelli del vendicatore)**  
 de John Hold  
@@ -153,6 +168,7 @@ Mario Bava réalise le film sous le pseudonyme de John M. Old.
 - di 21 juil 19h30 GF  
 - je 25 juil 15h00 GF
 
+[37834]  
 **Esther et le roi**  
 **(Ester e il re)**  
 de Raoul Walsh, Mario Bava  
@@ -164,6 +180,7 @@ Mario Bava est crédité comme co-réalisateur du film.
 - sa 20 juil 15h00 GF  
 - me 24 juil 21h00 GF
 
+[42594]  
 **La Fille qui en savait trop**  
 **(La Ragazza che sapeva troppo)**  
 de Mario Bava  
@@ -174,6 +191,7 @@ Une jeune Américaine en vacances à Rome assiste impuissante à un meurtre. Che
 - di 7 juil 21h45 GF  
 - ve 19 juil 19h00 GF
 
+[45039]  
 **Hercule contre les vampires**  
 **(Ercole al centro della terra)**  
 de Mario Bava  
@@ -184,6 +202,7 @@ Pour obtenir la guérison de sa fiancée Déjanire, Hercule doit se rendre aux E
 - sa 6 juil 22h00 GF  
 - je 18 juil 19h00 GF
 
+[45523]  
 **Hercule et la reine de Lydie**  
 **(Ercole e la regina di Lidia)**  
 de Pietro Francisci  
@@ -194,6 +213,7 @@ Mario Bava est chef opérateur mais certaines séquences portent vraisemblableme
 
 - lu 15 juil 17h30 GF
 
+[66016]  
 **L'Ile de l'épouvante**  
 **(Cinque bambole per la luna d'agosto)**  
 de Mario Bava  
@@ -204,6 +224,7 @@ En vacances sur une île, de riches oisifs sont sauvagement assassinés les uns 
 - ve 5 juil 21h30 GF  
 - ve 12 juil 19h30 GF
 
+[42508]  
 **Inferno**  
 de Dario Argento  
 Italie / 1979 / 106 min / VOSTF / 35 mm  
@@ -213,6 +234,7 @@ Mario Bava intervient en tant que réalisateur de seconde équipe et coordinateu
 
 - ve 19 juil 21h00 GF
 
+[110686]  
 **Lisa et le diable**  
 **(Lisa e il diavolo)**  
 de Mario Bava  
@@ -223,6 +245,7 @@ Lisa, en visitant Tolède, tombe en arrêt devant une fresque représentant le D
 - di 14 juil 19h15 HL  
 - di 28 juil 15h00 GF
 
+[57093]  
 **La Maison de l'exorcisme**  
 **(La Casa dell' esorcismo)**  
 de Mario Bava, Alfredo Leone  
@@ -234,6 +257,7 @@ _La Maison de l'exorcisme_ est une nouvelle version de _Lisa et le diable_, avec
 - di 14 juil 21h15 HL  
 - di 28 juil 17h15 GF
 
+[45212]  
 **Le Masque du démon**  
 **(La Maschera del demonio)**  
 de Mario Bava  
@@ -245,6 +269,7 @@ Deux siècles après leur exécution féroce, une sorcière et son amant revienn
 - sa 6 juil 19h45 GF  
 - di 21 juil 17h00 GF
 
+[66461]  
 **Les Mille et une nuits**  
 **(La Meraviglie di Aladino)**  
 de Mario Bava  
@@ -255,6 +280,7 @@ Les principaux épisodes du célèbre recueil de contes arabes.
 - di 14 juil 15h00 GF  
 - sa 27 juil 15h00 GF
 
+[87698]  
 **Operazione paura**  
 de Mario Bava  
 Italie / 1966 / 85 min / VASTF / 35 mm  
@@ -264,6 +290,7 @@ Le village perdu de Karmingen semble frappé de malédiction : les habitants meu
 - sa 13 juil 19h30 HL  
 - lu 22 juil 19h30 GF
 
+[88798]  
 **La Planète des vampires**  
 **(Terrore nello spazio)**  
 de Mario Bava  
@@ -275,6 +302,7 @@ Deux vaisseaux envoyés en mission d'exploration atterrissent sur la planète Au
 - di 21 juil 21h30 GF  
 - je 25 juil 19h30 GF
 
+[101126]  
 **Quante volte, quella notte**  
 de Mario Bava  
 Italie-RFA / 1969 / 83 min / VOSTF / DCP  
@@ -284,6 +312,7 @@ Plusieurs versions différentes d'une même nuit agitée, vue par ses différent
 - me 17 juil 21h45 GF  
 - ve 26 juil 17h00 GF
 
+[92335]  
 **Il Rosso segno della follia**  
 de Mario Bava  
 Italie / 1970 / 88 min / VOSTF / 35 mm  
@@ -293,6 +322,7 @@ Un grand couturier, schizophrène, est spécialisé dans les robes de mariées. 
 - di 14 juil 17h15 GF  
 - lu 22 juil 17h00 GF
 
+[100650]  
 **Roy Colt et Winchester Jack**  
 **(Roy Colt e Winchester Jack)**  
 de Mario Bava  
@@ -303,6 +333,7 @@ Deux _pistoleros_, Roy et Jack, à la fois amis et rivaux, décident de prendre 
 - ve 12 juil 17h00 GF  
 - me 17 juil 17h00 GF
 
+[100644]  
 **La Ruée des vikings**  
 **(Gli Invasori)**  
 de Mario Bava  
@@ -314,6 +345,7 @@ Restauré en 2K par les Sociétés Arrow Films, Cinématographique Lyre et Comec
 - di 7 juil 19h45 GF  
 - je 18 juil 21h00 GF
 
+[83125]  
 **Six femmes pour l'assassin**  
 **(Sei donne per l'assassino)**  
 de Mario Bava  
@@ -325,6 +357,7 @@ Restauration 2k réalisée d'après le négatif caméra par les Sociétés Arrow
 - sa 6 juil 14h30 HL  
 - sa 20 juil 17h30 GF
 
+[41943]  
 **Les Travaux d'Hercule**  
 **(Le Fatiche di Ercole)**  
 de Pietro Francisci  
@@ -336,6 +369,7 @@ Mario Bava occupe le poste de chef opérateur mais serait intervenu à la réali
 
 - ve 26 juil 19h00 GF
 
+[42596]  
 **Les Trois visages de la peur**  
 **(I Tre volti della paura)**  
 de Mario Bava  
@@ -348,6 +382,7 @@ Film à sketches. _Le Téléphone_ : Une femme est victime de menaces téléphon
 Ouverture de la rétrospective  
 - sa 27 juil 19h30 GF
 
+[32360]  
 **Les Vampires**  
 **(I Vampiri)**  
 de Riccardo Freda  
@@ -359,6 +394,7 @@ Mario Bava est officiellement Directeur de la photographie et des effets spécia
 - me 10 juil 17h00 GF  
 - me 24 juil 14h30 GF
 
+[83664]  
 **La Venere d'Ille**  
 de Mario Bava, Lamberto Bava  
 Italie / 1978 / 60 min / VOSTF / Numérique  
@@ -367,6 +403,8 @@ Découvrant dans sa propriété une statue de Vénus, M. de Peyhorade demande à
 _Sous réserve_
 
 - di 28 juil 21h30 GF
+
+## Autour de Mario Bava
 
 ## Rencontres et conférences
 
