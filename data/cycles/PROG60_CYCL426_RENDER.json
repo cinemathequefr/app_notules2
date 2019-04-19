@@ -41,52 +41,6 @@
       "items": [
         {
           "idCycle": 426,
-          "idFilm": 31065,
-          "titre": "Ainsi va l'amour",
-          "titreVo": "Minnie and Moskowitz",
-          "realisateurs": "John Cassavetes",
-          "annee": 1971,
-          "pays": "États-Unis",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Seymour Moskowitz, beatnik vieillissant, gardien de parking, quitte New York pour Los Angeles. Il y rencontre Minnie Moore, une blonde sophistiquée employée dans un musée. Tout les sépare, excepté leur solitude et leur maladresse."
-            }
-          ],
-          "generique": [
-            "Gena Rowlands",
-            "Seymour Cassel",
-            "Val Avery",
-            "John Cassavetes"
-          ],
-          "duree": 115,
-          "format": "DCP",
-          "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 30004,
-              "ordre": 1,
-              "idEvenement": 19113,
-              "dateHeure": "2019-06-08T18:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "idSeance": 30049,
-              "ordre": 1,
-              "idEvenement": 19113,
-              "dateHeure": "2019-06-15T21:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCycle": 426,
           "idFilm": 31048,
           "titre": "Bal des vauriens = Meurtre d'un bookmaker chinois",
           "art": "Le",
@@ -153,7 +107,7 @@
             "Stella Stevens",
             "John Cassavetes"
           ],
-          "duree": 98,
+          "duree": 103,
           "format": "35 mm",
           "version": "VOSTF",
           "seance": [
@@ -191,6 +145,10 @@
             {
               "typeTexte": 9,
               "texte": "Parce qu'il a besoin d'argent pour envoyer ses fils étudier à Yale, un courtier en assurances accepte d'établir un contrat frauduleux pour un couple étrange."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film sous réserve."
             }
           ],
           "generique": [
@@ -341,7 +299,6 @@
               "idSeance": 30520,
               "ordre": 1,
               "idEvenement": 19118,
-              "titreEvenement": "Maris",
               "dateHeure": "2019-06-01T16:30:00",
               "idSalle": [
                 "HL",
@@ -352,7 +309,6 @@
               "idSeance": 30035,
               "ordre": 1,
               "idEvenement": 19118,
-              "titreEvenement": "Maris",
               "dateHeure": "2019-06-13T19:00:00",
               "idSalle": [
                 "HL",
@@ -364,8 +320,8 @@
         {
           "idCycle": 426,
           "idFilm": 31059,
-          "titre": "Love Streams (Torrents d'amour)",
-          "titreVo": "Love Streams",
+          "titre": "Love Streams",
+          "titreVo": "",
           "realisateurs": "John Cassavetes",
           "annee": 1983,
           "pays": "États-Unis",
@@ -390,7 +346,6 @@
               "idSeance": 30019,
               "ordre": 1,
               "idEvenement": 19116,
-              "titreEvenement": "Torrents d'amour",
               "dateHeure": "2019-06-10T17:00:00",
               "idSalle": [
                 "HL",
@@ -401,8 +356,53 @@
               "idSeance": 30502,
               "ordre": 1,
               "idEvenement": 19116,
-              "titreEvenement": "Torrents d'amour",
               "dateHeure": "2019-06-14T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCycle": 426,
+          "idFilm": 31065,
+          "titre": "Minnie and Moskowitz",
+          "titreVo": "",
+          "realisateurs": "John Cassavetes",
+          "annee": 1971,
+          "pays": "États-Unis",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Seymour Moskowitz, beatnik vieillissant, gardien de parking, quitte New York pour Los Angeles. Il y rencontre Minnie Moore, une blonde sophistiquée employée dans un musée. Tout les sépare, excepté leur solitude et leur maladresse."
+            }
+          ],
+          "generique": [
+            "Gena Rowlands",
+            "Seymour Cassel",
+            "Val Avery",
+            "John Cassavetes"
+          ],
+          "duree": 115,
+          "format": "DCP",
+          "version": "VOSTF",
+          "seance": [
+            {
+              "idSeance": 30004,
+              "ordre": 1,
+              "idEvenement": 19113,
+              "dateHeure": "2019-06-08T18:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 30049,
+              "ordre": 1,
+              "idEvenement": 19113,
+              "dateHeure": "2019-06-15T21:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -477,17 +477,6 @@
           "format": "DCP",
           "version": "VOSTF",
           "seance": [
-            {
-              "idSeance": 30519,
-              "ordre": 1,
-              "idEvenement": 19111,
-              "dateHeure": "2019-05-30T21:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
-              "mention": "Ouverture de la rétrospective"
-            },
             {
               "idSeance": 30036,
               "ordre": 1,
@@ -645,47 +634,36 @@
         },
         {
           "idCycle": 426,
-          "idFilm": 35811,
-          "titre": "Bébé de Rosemary",
-          "art": "Le",
-          "titreVo": "Rosemary's Baby",
-          "realisateurs": "Roman Polanski",
+          "idFilm": 33096,
+          "titre": "Anges de l'enfer",
+          "art": "Les",
+          "titreVo": "Devil's Angels",
+          "realisateurs": "Daniel Haller",
           "annee": 1967,
           "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un ancien immeuble de Manhattan, que leur fidèle ami Hutch juge maléfique. Leurs voisins, un couple de retraités excentriques, se montrent rapidement envahissants."
+              "texte": "Cody et sa bande de blousons noirs, les « Skulls », quittent leur ville où la police les a trop vus. Ils arrivent bientôt à Brookville, une petite cité qui paraît déserte au premier abord."
             }
           ],
-          "adaptation": "D'après le roman _Rosemary's baby_ d'Ira Levin.",
           "generique": [
             "John Cassavetes",
-            "Mia Farrow",
-            "Ruth Gordon"
+            "Beverly Adams",
+            "Mimsy Farmer"
           ],
-          "duree": 137,
+          "duree": 84,
           "format": "35 mm",
           "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 29989,
+              "idSeance": 31399,
               "ordre": 1,
-              "idEvenement": 19119,
-              "dateHeure": "2019-06-06T19:00:00",
+              "idEvenement": 19401,
+              "dateHeure": "2019-06-07T20:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
-              ]
-            },
-            {
-              "idSeance": 30034,
-              "ordre": 1,
-              "idEvenement": 19119,
-              "dateHeure": "2019-06-13T16:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
               ]
             }
           ]
@@ -797,24 +775,14 @@
             "Daryl Hannah"
           ],
           "duree": 117,
-          "format": "35 mm",
+          "format": "Numérique",
           "version": "VOSTF",
           "seance": [
-            {
-              "idSeance": 30039,
-              "ordre": 1,
-              "idEvenement": 19122,
-              "dateHeure": "2019-06-14T14:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            },
             {
               "idSeance": 30082,
               "ordre": 1,
               "idEvenement": 19122,
-              "dateHeure": "2019-06-21T14:30:00",
+              "dateHeure": "2019-06-21T17:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -871,38 +839,46 @@
         },
         {
           "idCycle": 426,
-          "idFilm": 53564,
-          "titre": "Intouchables",
-          "art": "Les",
-          "titreVo": "Intoccabili",
-          "artVo": "Gli",
-          "realisateurs": "Giuliano Montaldo",
-          "annee": 1968,
-          "pays": "Italie",
+          "idFilm": 35811,
+          "titre": "Rosemary's Baby",
+          "titreVo": "",
+          "realisateurs": "Roman Polanski",
+          "annee": 1967,
+          "pays": "États-Unis",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Hank McCain vient de sortir de prison après douze années de détention. Son fils Jack le convainc de dévaliser un casino de Las Vegas appartenant à la mafia."
+              "texte": "Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un ancien immeuble de Manhattan, que leur fidèle ami Hutch juge maléfique. Leurs voisins, un couple de retraités excentriques, se montrent rapidement envahissants."
             }
           ],
+          "adaptation": "D'après le roman _Rosemary's baby_ d'Ira Levin.",
           "generique": [
             "John Cassavetes",
-            "Florinda Bolkan",
-            "Peter Falk",
-            "Gena Rowlands"
+            "Mia Farrow",
+            "Ruth Gordon"
           ],
-          "duree": 96,
-          "format": "35 mm",
+          "duree": 137,
+          "format": "DCP",
           "version": "VOSTF",
           "seance": [
             {
-              "idSeance": 31398,
+              "idSeance": 29989,
               "ordre": 1,
-              "idEvenement": 19426,
-              "dateHeure": "2019-06-21T17:00:00",
+              "idEvenement": 19119,
+              "dateHeure": "2019-06-06T19:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 30034,
+              "ordre": 1,
+              "idEvenement": 19119,
+              "dateHeure": "2019-06-13T16:15:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
               ]
             }
           ]
@@ -961,42 +937,6 @@
       "items": [
         {
           "idCycle": 426,
-          "idFilm": 33096,
-          "titre": "Anges de l'enfer",
-          "art": "Les",
-          "titreVo": "Devil's Angels",
-          "realisateurs": "Daniel Haller",
-          "annee": 1967,
-          "pays": "États-Unis",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Cody et sa bande de blousons noirs les « skulls » vivent en marge de la société et décident de quitter la ville dans laquelle ils sont à présent trop connus des services de police. Ils arrivent bientôt dans la petite ville de Brookville qui parait déserte ..."
-            }
-          ],
-          "generique": [
-            "John Cassavetes",
-            "Beverly Adams",
-            "Mimsy Farmer"
-          ],
-          "duree": 84,
-          "format": "35 mm",
-          "version": "VOSTF",
-          "seance": [
-            {
-              "idSeance": 31399,
-              "ordre": 1,
-              "idEvenement": 19401,
-              "dateHeure": "2019-06-07T20:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
-        },
-        {
-          "idCycle": 426,
           "idFilm": 65068,
           "titre": "John Cassavetes (Hollywood 1965, Paris 1968)",
           "titreVo": "",
@@ -1013,16 +953,6 @@
           "format": "Numérique",
           "version": "VOSTF",
           "seance": [
-            {
-              "idSeance": 30518,
-              "ordre": 1,
-              "idEvenement": 19123,
-              "dateHeure": "2019-05-30T20:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
             {
               "idSeance": 30031,
               "ordre": 1,

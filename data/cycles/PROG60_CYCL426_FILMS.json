@@ -5,7 +5,6 @@
     "artVo": "The",
     "idFilm": 44746,
     "idCycle": 426,
-    "idCategorie": 1935,
     "ageMinimal": 0,
     "realisateurs": "Don Siegel",
     "annee": 1964,
@@ -24,35 +23,11 @@
     "adaptation": "D'après le roman _The Killers_ d'Ernest Hemingway."
   },
   {
-    "titre": "Ainsi va l'amour",
-    "titreVo": "Minnie and Moskowitz",
-    "idFilm": 31065,
-    "idCycle": 426,
-    "idCategorie": 1927,
-    "ageMinimal": null,
-    "realisateurs": "John Cassavetes",
-    "annee": 1971,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Seymour Moskowitz, beatnik vieillissant, gardien de parking, quitte New York pour Los Angeles. Il y rencontre Minnie Moore, une blonde sophistiquée employée dans un musée. Tout les sépare, excepté leur solitude et leur maladresse."
-      }
-    ],
-    "generique": [
-      "Gena Rowlands",
-      "Seymour Cassel",
-      "Val Avery",
-      "John Cassavetes"
-    ]
-  },
-  {
     "titre": "Anges de l'enfer",
     "art": "Les",
     "titreVo": "Devil's Angels",
     "idFilm": 33096,
     "idCycle": 426,
-    "idCategorie": 1936,
     "ageMinimal": null,
     "realisateurs": "Daniel Haller",
     "annee": 1967,
@@ -60,7 +35,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Cody et sa bande de blousons noirs les « skulls » vivent en marge de la société et décident de quitter la ville dans laquelle ils sont à présent trop connus des services de police. Ils arrivent bientôt dans la petite ville de Brookville qui parait déserte ..."
+        "texte": "Cody et sa bande de blousons noirs, les « Skulls », quittent leur ville où la police les a trop vus. Ils arrivent bientôt à Brookville, une petite cité qui paraît déserte au premier abord."
       }
     ],
     "generique": [
@@ -76,7 +51,6 @@
     "artVo": "The",
     "idFilm": 31048,
     "idCycle": 426,
-    "idCategorie": 1927,
     "ageMinimal": 0,
     "realisateurs": "John Cassavetes",
     "annee": 1976,
@@ -98,7 +72,6 @@
     "titreVo": "Too Late Blues",
     "idFilm": 31074,
     "idCycle": 426,
-    "idCategorie": 1927,
     "ageMinimal": null,
     "realisateurs": "John Cassavetes",
     "annee": 1961,
@@ -116,35 +89,10 @@
     ]
   },
   {
-    "titre": "Bébé de Rosemary",
-    "art": "Le",
-    "titreVo": "Rosemary's Baby",
-    "idFilm": 35811,
-    "idCycle": 426,
-    "idCategorie": 1935,
-    "ageMinimal": null,
-    "realisateurs": "Roman Polanski",
-    "annee": 1967,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un ancien immeuble de Manhattan, que leur fidèle ami Hutch juge maléfique. Leurs voisins, un couple de retraités excentriques, se montrent rapidement envahissants."
-      }
-    ],
-    "generique": [
-      "John Cassavetes",
-      "Mia Farrow",
-      "Ruth Gordon"
-    ],
-    "adaptation": "D'après le roman _Rosemary's baby_ d'Ira Levin."
-  },
-  {
     "titre": "Big Trouble",
     "titreVo": "",
     "idFilm": 80369,
     "idCycle": 426,
-    "idCategorie": 1927,
     "ageMinimal": null,
     "realisateurs": "John Cassavetes",
     "annee": 1984,
@@ -153,6 +101,10 @@
       {
         "typeTexte": 9,
         "texte": "Parce qu'il a besoin d'argent pour envoyer ses fils étudier à Yale, un courtier en assurances accepte d'établir un contrat frauduleux pour un couple étrange."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film sous réserve."
       }
     ],
     "generique": [
@@ -167,7 +119,6 @@
     "titreVo": "Brass Target",
     "idFilm": 31920,
     "idCycle": 426,
-    "idCategorie": 1935,
     "ageMinimal": null,
     "realisateurs": "John Hough",
     "annee": 1978,
@@ -192,7 +143,6 @@
     "artVo": "The",
     "idFilm": 45368,
     "idCycle": 426,
-    "idCategorie": 1935,
     "ageMinimal": null,
     "realisateurs": "Robert Aldrich",
     "annee": 1966,
@@ -215,7 +165,6 @@
     "titreVo": "",
     "idFilm": 31041,
     "idCycle": 426,
-    "idCategorie": 1927,
     "ageMinimal": null,
     "realisateurs": "John Cassavetes",
     "annee": 1965,
@@ -238,7 +187,6 @@
     "artVo": "The",
     "idFilm": 31442,
     "idCycle": 426,
-    "idCategorie": 1935,
     "ageMinimal": null,
     "realisateurs": "Brian De Palma",
     "annee": 1978,
@@ -261,7 +209,6 @@
     "titreVo": "",
     "idFilm": 31044,
     "idCycle": 426,
-    "idCategorie": 1927,
     "ageMinimal": null,
     "realisateurs": "John Cassavetes",
     "annee": 1979,
@@ -284,7 +231,6 @@
     "titreVo": "Edge of the City",
     "idFilm": 45218,
     "idCycle": 426,
-    "idCategorie": 1935,
     "ageMinimal": null,
     "realisateurs": "Martin Ritt",
     "annee": 1956,
@@ -307,8 +253,7 @@
     "titreVo": "",
     "idFilm": 57072,
     "idCycle": 426,
-    "idCategorie": 1927,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "John Cassavetes",
     "annee": 1969,
     "pays": "États-Unis",
@@ -327,11 +272,10 @@
   {
     "titre": "Intouchables",
     "art": "Les",
-    "titreVo": "Intoccabili",
+    "titreVo": "intoccabili",
     "artVo": "Gli",
     "idFilm": 53564,
     "idCycle": 426,
-    "idCategorie": 1935,
     "ageMinimal": null,
     "realisateurs": "Giuliano Montaldo",
     "annee": 1968,
@@ -340,6 +284,10 @@
       {
         "typeTexte": 9,
         "texte": "Hank McCain vient de sortir de prison après douze années de détention. Son fils Jack le convainc de dévaliser un casino de Las Vegas appartenant à la mafia."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film sous réserve."
       }
     ],
     "generique": [
@@ -347,14 +295,14 @@
       "Florinda Bolkan",
       "Peter Falk",
       "Gena Rowlands"
-    ]
+    ],
+    "adaptation": "D'après le roman _Candyleg_ d'Ovid Demaris."
   },
   {
     "titre": "John Cassavetes (Hollywood 1965, Paris 1968)",
     "titreVo": "",
     "idFilm": 65068,
     "idCycle": 426,
-    "idCategorie": 1936,
     "ageMinimal": null,
     "realisateurs": "Hubert Knapp, André S. Labarthe",
     "annee": 1998,
@@ -367,11 +315,10 @@
     ]
   },
   {
-    "titre": "Love Streams (Torrents d'amour)",
-    "titreVo": "Love Streams",
+    "titre": "Love Streams",
+    "titreVo": "",
     "idFilm": 31059,
     "idCycle": 426,
-    "idCategorie": 1927,
     "ageMinimal": 0,
     "realisateurs": "John Cassavetes",
     "annee": 1983,
@@ -391,11 +338,32 @@
     "adaptation": "D'après la pièce _Love Streams_ de Ted Allan."
   },
   {
+    "titre": "Minnie and Moskowitz",
+    "titreVo": "",
+    "idFilm": 31065,
+    "idCycle": 426,
+    "ageMinimal": 0,
+    "realisateurs": "John Cassavetes",
+    "annee": 1971,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Seymour Moskowitz, beatnik vieillissant, gardien de parking, quitte New York pour Los Angeles. Il y rencontre Minnie Moore, une blonde sophistiquée employée dans un musée. Tout les sépare, excepté leur solitude et leur maladresse."
+      }
+    ],
+    "generique": [
+      "Gena Rowlands",
+      "Seymour Cassel",
+      "Val Avery",
+      "John Cassavetes"
+    ]
+  },
+  {
     "titre": "Opening Night",
     "titreVo": "",
     "idFilm": 31070,
     "idCycle": 426,
-    "idCategorie": 1927,
     "ageMinimal": null,
     "realisateurs": "John Cassavetes",
     "annee": 1977,
@@ -413,11 +381,32 @@
     ]
   },
   {
+    "titre": "Rosemary's Baby",
+    "titreVo": "",
+    "idFilm": 35811,
+    "idCycle": 426,
+    "ageMinimal": 0,
+    "realisateurs": "Roman Polanski",
+    "annee": 1967,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un ancien immeuble de Manhattan, que leur fidèle ami Hutch juge maléfique. Leurs voisins, un couple de retraités excentriques, se montrent rapidement envahissants."
+      }
+    ],
+    "generique": [
+      "John Cassavetes",
+      "Mia Farrow",
+      "Ruth Gordon"
+    ],
+    "adaptation": "D'après le roman _Rosemary's baby_ d'Ira Levin."
+  },
+  {
     "titre": "Shadows",
     "titreVo": "",
     "idFilm": 31061,
     "idCycle": 426,
-    "idCategorie": 1927,
     "ageMinimal": null,
     "realisateurs": "John Cassavetes",
     "annee": 1959,
@@ -438,7 +427,6 @@
     "titreVo": "A Child Is Waiting",
     "idFilm": 31013,
     "idCycle": 426,
-    "idCategorie": 1927,
     "ageMinimal": null,
     "realisateurs": "John Cassavetes",
     "annee": 1962,
@@ -460,7 +448,6 @@
     "titreVo": "Two-minute Warning",
     "idFilm": 35750,
     "idCycle": 426,
-    "idCategorie": 1935,
     "ageMinimal": null,
     "realisateurs": "Larry Peerce",
     "annee": 1976,
@@ -483,7 +470,6 @@
     "titreVo": "A Woman Under the Influence",
     "idFilm": 31019,
     "idCycle": 426,
-    "idCategorie": 1927,
     "ageMinimal": null,
     "realisateurs": "John Cassavetes",
     "annee": 1974,

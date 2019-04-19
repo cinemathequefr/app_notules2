@@ -2,12 +2,13 @@
 <vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
 <pstyle:CATEGORIE>Les films
 
-<pstyle:TITRE>Adieu, plancher des vaches !
+<pstyle:TITRE>Adieu, plancher des vaches<0x00A0>!
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>France-Suisse-Italie/1998/117'/DCP
 <pstyle:TECHNIQUE>Avec Nico Tarielashvili, Lily Lavina, Otar Iosseliani, Philippe Bas.
-<pstyle:SYNOPSIS>Nicolas vit dans un château régi par sa mère, une femme d'affaires autoritaire. Son père boit et joue au train électrique. Nicolas fuit chaque jour le domaine familial pour rejoindre ses amis à Paris, clochards ou voyoux. Il participe au <ct:Italic>hold-up<ct:> d'un supermarché.
-s<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX15h00XXX
+<pstyle:SYNOPSIS>Nicolas vit dans un château régi par sa mère, une femme d'affaires autoritaire. Son père boit et joue au train électrique. Nicolas fuit chaque jour le domaine familial pour rejoindre à Paris ses amis, clochards ou voyous.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K<0x00A0><0x2013><0x00A0>avec le soutien du CNC. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX15h00XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>lu 17 juinXXX19h00XXX
 <cstyle:SALLESBLEUES>B
@@ -17,14 +18,17 @@ s<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX15h00XXX
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>URSS/1961/50'/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec Tania Tchantouria, Guia Tchirakadze, Alexandre Tchikvaidze.
-<pstyle:SYNOPSIS>Un couple s'installe dans un appartement neuf, équipé du strict nécessaire. Ils sont heureux. Autour d'eux, les habitants de l'immeuble achètent frénétiquement du mobilier. Le jeune couple se met également à consommer. Bientôt, il se querellent.
-s<pstyle:SUIVI_DE>Suivi de
+<pstyle:SYNOPSIS>De jeunes mariés s'installent dans un appartement neuf, équipé du strict nécessaire, et y vivent heureux. Les habitants de l'immeuble achètent frénétiquement du mobilier, et lorsque le couple se met également à consommer, les querelles éclatent.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:SUIVI_DE>Suivi de
 <pstyle:TITRE>Sept pièces pour cinéma noir et blanc
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>France/1982/25'/DCP
 <pstyle:TECHNIQUE>Avec Philippe Cousin, Otar Iosseliani, Antonine Catzéflis.
-<pstyle:SYNOPSIS>Série de saynètes entrecoupées de plans tournés dans les rues de Paris. Le film est un hommage affectueux aux habitants de Paris.
-s<pstyle:><cstyle:INFOSBLEUES>je 30 maiXXX19h30XXX
+<pstyle:SYNOPSIS>Série de saynètes entrecoupées de plans tournés dans les rues de Paris, en hommage affectueux à la ville et à ses habitants.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:><cstyle:INFOSBLEUES>je 30 maiXXX19h30XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>sa 08 juinXXX17h30XXX
 <cstyle:SALLESBLEUES>C
@@ -33,38 +37,42 @@ s<pstyle:><cstyle:INFOSBLEUES>je 30 maiXXX19h30XXX
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>France-Suisse-URSS-Italie/1995/129'/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec Amiran Amiranachvili, Dato Gogibedachvili, Guio Tzintsadze, Nino Ordjonikidze.
-<pstyle:SYNOPSIS>Portraits de brigands du Moyen-Age à aujourd'hui. Bourreaux médiévaux, tortionnaires bolcheviks ou vulgaires mafieux contemporains, ils trahissent et torturent.
-s<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX21h00XXX
+<pstyle:SYNOPSIS>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K<0x00A0><0x2013><0x00A0>avec le soutien du CNC. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:SYNOPSIS>Quelques portraits de brigands, du Moyen-Âge à aujourd'hui. Bourreaux médiévaux, tortionnaires bolcheviks ou vulgaires mafieux contemporains, ils trahissent et torturent.
+<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX21h00XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>di 16 juinXXX20h45XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Chant d'hiver
 <pstyle:TECHNIQUE>d'Otar Iosseliani
-<pstyle:TECHNIQUE>France/2014/117'/DCP
+<pstyle:TECHNIQUE>France/2014/117'/VO/DCP
 <pstyle:TECHNIQUE>Avec Rufus, Amiran Amiranashvili, Mathias Jung, Enrico Ghezzi.
-<pstyle:SYNOPSIS>Trois histoires se succèdent<0x00A0>: une fiction historique pendant a Révolution française, un film de guerre montrant terreur, pillage et viol, et une chronique parisienne contemporaine.
-s<pstyle:><cstyle:INFOSBLEUES>sa 08 juinXXX15h00XXX
+<pstyle:SYNOPSIS>Trois histoires se succèdent, avec un même personnage<0x00A0>: une fiction historique sous la Terreur, un conflit violent dans un pays en guerre, et une chronique policière burlesque dans le Paris d'aujourd'hui.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:><cstyle:INFOSBLEUES>sa 08 juinXXX15h00XXX
 <cstyle:SALLESBLEUES>C
 <cstyle:INFOSBLEUES>sa 22 juinXXX20h00XXX
 <cstyle:SALLESBLEUES>C
 
 <pstyle:TITRE>Chantrapas
 <pstyle:TECHNIQUE>d'Otar Iosseliani
-<pstyle:TECHNIQUE>France-Géorgie-Ukraine/2009/122'/DCP
+<pstyle:TECHNIQUE>France-Géorgie-Ukraine/2009/122'/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec Dato Tarielashvili, Tamuna Karumidze, Fanny Gonin, Bulle Ogier.
-<pstyle:SYNOPSIS>Nicolas est un cinéaste géorgien. Lassé d'être en but aux pressions des «<0x00A0>idéologues<0x00A0>» qui l'empêchent de s'exprimer, Nicolas quitte son pays d'origine pour la France, terre de liberté et de démocratie.
-s<pstyle:><cstyle:INFOSBLEUES>di 02 juinXXX19h30XXX
+<pstyle:SYNOPSIS>Nicolas, cinéaste géorgien, ne supporte plus les pressions des idéologues qui entravent sa liberté créatrice. Il s'exile en France, où il affrontera une autre forme de censure, économique.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:><cstyle:INFOSBLEUES>di 02 juinXXX19h30XXX
 <cstyle:SALLESBLEUES>B
-<cstyle:INFOSBLEUES>je 06 juinXXX19h00XXX
-<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>je 06 juinXXX20h30XXX
+<cstyle:SALLESBLEUES>C
 
 <pstyle:TITRE>La Chasse aux papillons
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>France-Allemagne-Italie/1991/115'/DCP
 <pstyle:TECHNIQUE>Avec Narda Blanchet, Pierrette Pompon-Bailhache, Alexandre Tcherkassoff, Thamar Tarassachvili.
-<pstyle:SYNOPSIS>Deux vieilles dames vivent en autarcie dans le vieux château de famille. L'une joue du trombone dans la fanfare locale, tandis que l'autre s'enferme dans ses souvenirs. Un jour, la propriétaire du domaine meurt et les héritiers se présentent.
-s<pstyle:><cstyle:INFOSBLEUES>me 29 maiXXX20h00XXX
+<pstyle:SYNOPSIS>Deux vieilles dames vivent en autarcie dans le vieux château familial. L'une joue du trombone dans la fanfare locale, tandis que l'autre s'enferme dans ses souvenirs. Un jour, l'une meurt et les héritiers se présentent.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K<0x00A0><0x2013><0x00A0>avec le soutien du CNC. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:><cstyle:INFOSBLEUES>me 29 maiXXX20h00XXX
 <cstyle:SALLESBLEUES>A
 <pstyle:EVENEMENT>Ouverture de la rétrospective<cstyle:INFOSBLEUES>di 16 juinXXX18h15XXX
 <cstyle:SALLESBLEUES>B
@@ -74,8 +82,9 @@ s<pstyle:><cstyle:INFOSBLEUES>me 29 maiXXX20h00XXX
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>URSS/1966/100'/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec Ramaz Guiorgobiani, Marina Kartsivadze, Gogui Kharabadze.
-<pstyle:SYNOPSIS>Fraîchement diplômés de l'Institut du vin de Tbilissi, Niko et Otar entrent dans une coopérative vinicole comme <0x0153>nologues. Otar, plus âgé et plus assuré, se conforme aux exigences des chefs, alors que Niko, naïf et sincère, éprouve des difficultés.
-s<pstyle:><cstyle:INFOSBLEUES>je 30 maiXXX21h30XXX
+<pstyle:SYNOPSIS>Fraîchement diplômés de l'Institut d'<0x0153>nologie de Tbilissi, Niko et Otar entrent dans une coopérative vinicole. Otar, plus âgé et plus assuré, se conforme aux exigences des chefs, alors que Niko, naïf et sincère, éprouve quelques difficultés.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:><cstyle:INFOSBLEUES>je 30 maiXXX21h30XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>je 06 juinXXX22h00XXX
 <cstyle:SALLESBLEUES>B
@@ -85,9 +94,9 @@ s<pstyle:><cstyle:INFOSBLEUES>je 30 maiXXX21h30XXX
 <pstyle:TECHNIQUE>France-Allemagne-Italie/1989/103'/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Sigalon Sagna, Saly Badji, Binta Cissé, Marie-Christine Dième.
 <pstyle:SYNOPSIS>En Afrique, dans un village au c<0x0153>ur de la forêt mystérieuse, un peuple vit heureux, au rythme des coutumes ancestrales. Jusqu'au jour où l'arrivée de bûcherons bouleverse l'existence des habitants.
-s<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX18h45XXX
+<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX18h45XXX
 <cstyle:SALLESBLEUES>B
-<cstyle:INFOSBLEUES>sa 15 juinXXX21h45XXX
+<cstyle:INFOSBLEUES>sa 15 juinXXX21h30XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Les Favoris de la lune
@@ -95,9 +104,10 @@ s<pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX18h45XXX
 <pstyle:TECHNIQUE>France/1984/101'/DCP
 <pstyle:TECHNIQUE>Avec Pascal Aubier, Alix de Montaigu, Gaspard Flori, Mathieu Amalric.
 <pstyle:SYNOPSIS>Des personnages divers se croisent dans Paris<0x00A0>: un armurier trompé par sa femme avec un policier, des clochards qui font sauter une statue, un cambrioleur qui forme son fils...
-s<pstyle:><cstyle:INFOSBLEUES>di 02 juinXXX14h30XXX
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K<0x00A0><0x2013><0x00A0>avec le soutien du CNC. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:><cstyle:INFOSBLEUES>di 02 juinXXX14h30XXX
 <cstyle:SALLESBLEUES>B
-<cstyle:INFOSBLEUES>sa 15 juinXXX19h30XXX
+<cstyle:INFOSBLEUES>sa 15 juinXXX19h00XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Il était une fois un merle chanteur
@@ -105,8 +115,9 @@ s<pstyle:><cstyle:INFOSBLEUES>di 02 juinXXX14h30XXX
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>URSS/1971/85'/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec Gogi Chkheidze, Guela Kandelaki, Irina Djandieri.
-<pstyle:SYNOPSIS>Plongée dans la vie d'un jeune percussionniste de l'orchestre d'opéra de Tbilissi. Rêveur et insouciant, il erre dans les rues, au gré de rencontres amicales et sentimentales.
-s<pstyle:><cstyle:INFOSBLEUES>ve 31 maiXXX19h30XXX
+<pstyle:SYNOPSIS>Plongée dans la vie d'un jeune percussionniste de l'opéra de Tbilissi. Rêveur et insouciant, il erre dans les rues, au gré de rencontres amicales et sentimentales.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:><cstyle:INFOSBLEUES>ve 31 maiXXX19h30XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>di 09 juinXXX16h30XXX
 <cstyle:SALLESBLEUES>B
@@ -115,8 +126,9 @@ s<pstyle:><cstyle:INFOSBLEUES>ve 31 maiXXX19h30XXX
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>France/2005/117'/DCP
 <pstyle:TECHNIQUE>Avec Séverin Blanchet, Michel Piccoli, Muriel Motte.
-<pstyle:SYNOPSIS>Vincent, un bon vivant, aime le pouvoir et sait profiter de ses fonctions de ministre pour mener la grande vie. Mais lorsqu'une succession de manifestations le pousse à démissionner, ce petit univers factice s'effondre.
-s<pstyle:><cstyle:INFOSBLEUES>me 05 juinXXX19h00XXX
+<pstyle:SYNOPSIS>Vincent, bon vivant, profite pleinement des avantages que lui confère sa fonction de ministre. Lorsqu'une succession de manifestations le pousse à démissionner, il redécouvre la vie et la liberté loin du pouvoir.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:><cstyle:INFOSBLEUES>me 05 juinXXX19h00XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>lu 17 juinXXX21h30XXX
 <cstyle:SALLESBLEUES>B
@@ -125,9 +137,9 @@ s<pstyle:><cstyle:INFOSBLEUES>me 05 juinXXX19h00XXX
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>France-Italie/2001/122'/DCP
 <pstyle:TECHNIQUE>Avec Jacques Bidou, Anne Kravz-Tarnavsky, Narda Blanchet.
-<pstyle:SYNOPSIS>Vincent habite dans un petit village où il croise régulièrement les mêmes personnes. Tous les matins, il se rend à l'usine chimique pour travailler, et le soir, il s'occupe de sa famille. Un jour, il décide de partir en voyage avec l'argent donné par son père.
-<pstyle:SYNOPSIS>Texte à saisir
-s<pstyle:><cstyle:INFOSBLEUES>me 05 juinXXX21h30XXX
+<pstyle:SYNOPSIS>Vincent, ouvrier soudeur dans la vallée du Rhône, ne supporte plus la routine de l'usine et les contrariétés de la vie de famille. Un matin, sur un coup de tête, il quitte son village sans prévenir personne et se met en route pour l'Italie.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:><cstyle:INFOSBLEUES>me 05 juinXXX21h30XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>di 16 juinXXX15h45XXX
 <cstyle:SALLESBLEUES>B
@@ -137,8 +149,9 @@ s<pstyle:><cstyle:INFOSBLEUES>me 05 juinXXX21h30XXX
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>URSS/1976/95'/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec Rezo Tcharkhalachvili, Lia Tokhadze-Djougueli, Marina Kartsivadze, Nana Iosseliani.
-<pstyle:SYNOPSIS>Quatre musiciens arrivent de la ville dans un village perdu pour se reposer. Ils logent dans une famille où cohabitent trois générations. La jeune fille de la maison tombe amoureuse de l'un d'eux.
-s<pstyle:><cstyle:INFOSBLEUES>me 12 juinXXX16h00XXX
+<pstyle:SYNOPSIS>Quatre musiciens arrivent de la ville dans un hameau perdu pour se reposer. Ils logent dans une famille où cohabitent trois générations. La jeune fille de la maison tombe amoureuse de l'un d'eux.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:><cstyle:INFOSBLEUES>me 12 juinXXX16h00XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>me 19 juinXXX14h30XXX
 <cstyle:SALLESBLEUES>B
@@ -151,25 +164,26 @@ s<pstyle:><cstyle:INFOSBLEUES>me 12 juinXXX16h00XXX
 <pstyle:TECHNIQUE>URSS/1958/10'/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec Guennadi Kracheninnikov, Sofiko Tchiaoureli.
 <pstyle:SYNOPSIS>Une femme blanchisseuse et son mari ivrogne se disputent. Le mari se réfugie dans un musée.
-s<pstyle:SUIVI_DE>Suivi de
+<pstyle:SUIVI_DE>Suivi de
 <pstyle:TITRE>Le Chant de la fleur introuvable
 <pstyle:TITRE_ANG>(Sapovnela)
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>URSS/1959/20'/VOSTF/DCP
-<pstyle:SYNOPSIS>Un homme âgé réalise de belles compositions florales. Les tracteurs envahissent les champs de fleurs.
-s<pstyle:SUIVI_DE>Suivi de
+<pstyle:SYNOPSIS>Un vieil homme, amoureux de la nature, réalise de magnifiques compositions florales. Mais des tracteurs envahissent peu à peu les champs de fleurs.
+<pstyle:SUIVI_DE>Suivi de
 <pstyle:TITRE>La Fonte
 <pstyle:TITRE_ANG>(Toudji)
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>URSS/1964/20'/VOSTF/DCP
 <pstyle:SYNOPSIS>La dure vie de quatre ouvriers de Rustavi dans une usine métallurgique.
-s<pstyle:SUIVI_DE>Suivi de
+<pstyle:SUIVI_DE>Suivi de
 <pstyle:TITRE>Vieilles chansons Georgiennes
 <pstyle:TITRE_ANG>(Starinnaja gruzinskaja pesnja)
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>URSS/1968/20'/VOSTF/DCP
 <pstyle:SYNOPSIS>Un hommage en musique à la culture géorgienne.
-s<pstyle:><cstyle:INFOSBLEUES>ve 31 maiXXX21h30XXX
+<pstyle:INFOS_UTILES>Films restaurés par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
+<pstyle:><cstyle:INFOSBLEUES>ve 31 maiXXX21h30XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>di 09 juinXXX15h30XXX
 <cstyle:SALLESBLEUES>C
@@ -179,7 +193,8 @@ s<pstyle:><cstyle:INFOSBLEUES>ve 31 maiXXX21h30XXX
 <pstyle:TITRE>Euskadi = Euzkadi été 1982
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>France/1982/55'/DCP
-<pstyle:SYNOPSIS>Film tourné au Pays-Basque à l'été 1982 pendant la préparation de la Pastorale jouée et chantée par les habitants de Pagolle.
+<pstyle:SYNOPSIS>Film tourné au Pays basque à l'été 1982, pendant la préparation de la pastorale jouée et chantée par les habitants de Pagolle.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
 <pstyle:><cstyle:INFOSBLEUES>sa 08 juinXXX19h45XXX
 <cstyle:SALLESBLEUES>C
 <cstyle:INFOSBLEUES>sa 22 juinXXX18h30XXX
@@ -187,8 +202,9 @@ s<pstyle:><cstyle:INFOSBLEUES>ve 31 maiXXX21h30XXX
 
 <pstyle:TITRE>Seule, Géorgie
 <pstyle:TECHNIQUE>d'Otar Iosseliani
-<pstyle:TECHNIQUE>France/1993/236'
-<pstyle:SYNOPSIS>Ce documentaire retrace 2000 ans de l'histoire mouvementée de la Géorgie notamment à travers des documents filmés et des extraits de films. Il est composé de 3 parties<0x00A0>: <ct:Italic>Prélude<ct:> (86 minutes), <ct:Italic>Tentation<ct:> (65 minutes) et <ct:Italic>L'Epreuve<ct:> (83 minutes).
+<pstyle:TECHNIQUE>France/1993/236'/DCP
+<pstyle:SYNOPSIS>Documentaire en trois parties (<ct:Italic>Prélude<ct:>, <ct:Italic>Tentation<ct:> et <ct:Italic>L'Épreuve<ct:>), qui retrace 2000 ans de l'histoire mouvementée de la Géorgie à travers des documents filmés et des extraits de films.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
 <pstyle:><cstyle:INFOSBLEUES>ve 07 juinXXX15h30XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>di 09 juinXXX17h30XXX
@@ -197,7 +213,8 @@ s<pstyle:><cstyle:INFOSBLEUES>ve 31 maiXXX21h30XXX
 <pstyle:TITRE>Un petit monastère en Toscane
 <pstyle:TECHNIQUE>d'Otar Iosseliani
 <pstyle:TECHNIQUE>France/1988/54'/DCP
-<pstyle:SYNOPSIS>En Toscane, cinq moines augustins français font revivre un petit monastère. Leur quotidien s'organise autour des prières, chants, réfections de manuscrits et offices. A côté de cette existence austère, les paysans des alentours travaillent et les nobles sortent.
+<pstyle:SYNOPSIS>Autour des prières, chants, réfections de manuscrits et offices, la vie de cinq moines augustins français dans un petit monastère de Toscane.
+<pstyle:INFOS_UTILES>Film restauré par Pastorale Productions au laboratoire Hiventy d'après les éléments de tirage originaux numérisés en 4K. Les travaux image et son ont été supervisés par Otar Iosseliani, grâce au soutien de Vadim Moshkovich.
 <pstyle:><cstyle:INFOSBLEUES>lu 03 juinXXX17h00XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>ve 21 juinXXX20h30XXX
@@ -208,7 +225,7 @@ s<pstyle:><cstyle:INFOSBLEUES>ve 31 maiXXX21h30XXX
 <pstyle:TITRE>Otar Iosseliani, le merle siffleur
 <pstyle:TECHNIQUE>de Julieeeeeee Bertuccelli
 <pstyle:TECHNIQUE>France/2006/92'/35mm
-<pstyle:SYNOPSIS>Julie Bertucelli filme son mentor et ami pendant la préparation de son film <ct:Italic>Jardins d'automne<ct:>. Elle montre son travail de mise en scène, ainsi que ses doutes.
+<pstyle:SYNOPSIS>Julie Bertucelli accompagne son mentor et ami pendant la préparation de son film Jardins d'automne. Elle filme son travail de mise en scène, ses doutes artistiques et sa folie douce.
 <pstyle:><cstyle:INFOSBLEUES>ve 07 juinXXX20h00XXX
 <cstyle:SALLESBLEUES>C
 <pstyle:EVENEMENT>Séance présentée par Julie Bertuccelli

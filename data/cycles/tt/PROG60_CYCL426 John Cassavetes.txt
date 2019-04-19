@@ -2,17 +2,6 @@
 <vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
 <pstyle:CATEGORIE>Les films
 
-<pstyle:TITRE>Ainsi va l'amour
-<pstyle:TITRE_ANG>(Minnie and Moskowitz)
-<pstyle:TECHNIQUE>de John Cassavetes
-<pstyle:TECHNIQUE>États-Unis/1971/115'/VOSTF/DCP
-<pstyle:TECHNIQUE>Avec Gena Rowlands, Seymour Cassel, Val Avery, John Cassavetes.
-<pstyle:SYNOPSIS>Seymour Moskowitz, beatnik vieillissant, gardien de parking, quitte New York pour Los Angeles. Il y rencontre Minnie Moore, une blonde sophistiquée employée dans un musée. Tout les sépare, excepté leur solitude et leur maladresse.
-<pstyle:><cstyle:INFOSBLEUES>sa 08 juinXXX18h30XXX
-<cstyle:SALLESBLEUES>A
-<cstyle:INFOSBLEUES>sa 15 juinXXX21h00XXX
-<cstyle:SALLESBLEUES>A
-
 <pstyle:TITRE>Le Bal des vauriens = Meurtre d'un bookmaker chinois
 <pstyle:TITRE_ANG>(The Killing of a Chinese Bookie)
 <pstyle:TECHNIQUE>de John Cassavetes
@@ -27,7 +16,7 @@
 <pstyle:TITRE>La Ballade des sans-espoir
 <pstyle:TITRE_ANG>(Too Late Blues)
 <pstyle:TECHNIQUE>de John Cassavetes
-<pstyle:TECHNIQUE>États-Unis/1961/98'/VOSTF/35mm
+<pstyle:TECHNIQUE>États-Unis/1961/103'/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Bobby Darin, Stella Stevens, John Cassavetes.
 <pstyle:SYNOPSIS>Chronique de la vie d'un groupe de musiciens de jazz qui refusent, en vain, de se soumettre à un monde conformiste et hostile.
 <pstyle:><cstyle:INFOSBLEUES>sa 01 juinXXX19h15XXX
@@ -40,6 +29,7 @@
 <pstyle:TECHNIQUE>États-Unis/1984/83'/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Peter Falk, Robert Stack, Valerie Curtin.
 <pstyle:SYNOPSIS>Parce qu'il a besoin d'argent pour envoyer ses fils étudier à Yale, un courtier en assurances accepte d'établir un contrat frauduleux pour un couple étrange.
+<pstyle:INFOS_UTILES>Film sous réserve.
 <pstyle:><cstyle:INFOSBLEUES>lu 03 juinXXX19h00XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>je 20 juinXXX20h30XXX
@@ -75,8 +65,7 @@
 <cstyle:INFOSBLEUES>je 13 juinXXX19h00XXX
 <cstyle:SALLESBLEUES>A
 
-<pstyle:TITRE>Love Streams (Torrents d'amour)
-<pstyle:TITRE_ANG>(Love Streams)
+<pstyle:TITRE>Love Streams
 <pstyle:TECHNIQUE>de John Cassavetes
 <pstyle:TECHNIQUE>États-Unis/1983/141'/VOSTF/DCP
 <pstyle:TECHNIQUE>D'après la pièce <cSkew:9>Love Streams<cSkew:> de Ted Allan.
@@ -85,6 +74,16 @@
 <pstyle:><cstyle:INFOSBLEUES>lu 10 juinXXX17h00XXX
 <cstyle:SALLESBLEUES>A
 <cstyle:INFOSBLEUES>ve 14 juinXXX21h30XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Minnie and Moskowitz
+<pstyle:TECHNIQUE>de John Cassavetes
+<pstyle:TECHNIQUE>États-Unis/1971/115'/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Gena Rowlands, Seymour Cassel, Val Avery, John Cassavetes.
+<pstyle:SYNOPSIS>Seymour Moskowitz, beatnik vieillissant, gardien de parking, quitte New York pour Los Angeles. Il y rencontre Minnie Moore, une blonde sophistiquée employée dans un musée. Tout les sépare, excepté leur solitude et leur maladresse.
+<pstyle:><cstyle:INFOSBLEUES>sa 08 juinXXX18h30XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>sa 15 juinXXX21h00XXX
 <cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Opening Night
@@ -102,10 +101,7 @@
 <pstyle:TECHNIQUE>États-Unis/1959/87'/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec Ben Carruthers, Lelia Goldoni.
 <pstyle:SYNOPSIS>Benny, Hugh et Lelia sont trois jeunes afro-américains, frères et s<0x0153>ur, et partagent le même appartement à New York. Alors que Benny passe ses journées entre la rue et les bars, Hugh tente de faire carrière comme chanteur de jazz. Lelia, quant à elle, rêve d'écrire.
-<pstyle:><cstyle:INFOSBLEUES>je 30 maiXXX21h00XXX
-<cstyle:SALLESBLEUES>A
-<pstyle:EVENEMENT>Ouverture de la rétrospective
-<cstyle:INFOSBLEUES>je 13 juinXXX21h45XXX
+<pstyle:><cstyle:INFOSBLEUES>je 13 juinXXX21h45XXX
 <cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Un enfant attend
@@ -144,17 +140,14 @@
 <cstyle:INFOSBLEUES>sa 22 juinXXX14h30XXX
 <cstyle:SALLESBLEUES>A
 
-<pstyle:TITRE>Le Bébé de Rosemary
-<pstyle:TITRE_ANG>(Rosemary's Baby)
-<pstyle:TECHNIQUE>de Roman Polanski
-<pstyle:TECHNIQUE>États-Unis/1967/137'/VOSTF/35mm
-<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Rosemary's baby<cSkew:> d'Ira Levin.
-<pstyle:TECHNIQUE>Avec John Cassavetes, Mia Farrow, Ruth Gordon.
-<pstyle:SYNOPSIS>Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un ancien immeuble de Manhattan, que leur fidèle ami Hutch juge maléfique. Leurs voisins, un couple de retraités excentriques, se montrent rapidement envahissants.
-<pstyle:><cstyle:INFOSBLEUES>je 06 juinXXX19h00XXX
+<pstyle:TITRE>Les Anges de l'enfer
+<pstyle:TITRE_ANG>(Devil's Angels)
+<pstyle:TECHNIQUE>de Daniel Haller
+<pstyle:TECHNIQUE>États-Unis/1967/84'/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec John Cassavetes, Beverly Adams, Mimsy Farmer.
+<pstyle:SYNOPSIS>Cody et sa bande de blousons noirs, les «<0x00A0>Skulls<0x00A0>», quittent leur ville où la police les a trop vus. Ils arrivent bientôt à Brookville, une petite cité qui paraît déserte au premier abord.
+<pstyle:><cstyle:INFOSBLEUES>ve 07 juinXXX20h00XXX
 <cstyle:SALLESBLEUES>B
-<cstyle:INFOSBLEUES>je 13 juinXXX16h15XXX
-<cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>La Cible étoilée
 <pstyle:TITRE_ANG>(Brass Target)
@@ -181,20 +174,18 @@
 <pstyle:TITRE>Furie
 <pstyle:TITRE_ANG>(The Fury)
 <pstyle:TECHNIQUE>de Brian De Palma
-<pstyle:TECHNIQUE>États-Unis/1978/117'/VOSTF/35mm
+<pstyle:TECHNIQUE>États-Unis/1978/117'/VOSTF/Numérique
 <pstyle:TECHNIQUE>D'après le roman <cSkew:9>Furie<cSkew:> de John Farris.
 <pstyle:TECHNIQUE>Avec Kirk Douglas, John Cassavetes, Daryl Hannah.
 <pstyle:SYNOPSIS>Un jeune homme doué de perception extrasensorielle est enlevé par une agence de contre-espionnage qui veut utiliser ses aptitudes paranormales à des fins politiques. Son père le recherche activement, aidé par une jeune étudiante dotée des mêmes pouvoirs.
-<pstyle:><cstyle:INFOSBLEUES>ve 14 juinXXX14h30XXX
-<cstyle:SALLESBLEUES>B
-<cstyle:INFOSBLEUES>ve 21 juinXXX14h30XXX
+<pstyle:><cstyle:INFOSBLEUES>ve 21 juinXXX17h00XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>L'Homme qui tua la peur
 <pstyle:TITRE_ANG>(Edge of the City)
 <pstyle:TECHNIQUE>de Martin Ritt
 <pstyle:TECHNIQUE>États-Unis/1956/85'/VOSTF/35mm
-<pstyle:TECHNIQUE>D'après <cSkew:9>A Man Is Ten Feet Tall<ct:>, épisode de la série télé <ct:Italic>The Philco Television Playhouse<cSkew:> de Robert Alan Aurthur.
+<pstyle:TECHNIQUE>D'après <cSkew:9>A Man Is Ten Feet Tall<cSkew:>, épisode de la série télé <cSkew:9>The Philco Television Playhouse<cSkew:> de Robert Alan Aurthur.
 <pstyle:TECHNIQUE>Avec John Cassavetes, Sidney Poitier, Jack Warden.
 <pstyle:SYNOPSIS>Un déserteur trouve un emploi dans les docks, où il se lie avec un ouvrier noir. Mais leur amitié irrite le chef de chantier.
 <pstyle:><cstyle:INFOSBLEUES>lu 10 juinXXX17h30XXX
@@ -202,14 +193,16 @@
 <cstyle:INFOSBLEUES>je 20 juinXXX17h00XXX
 <cstyle:SALLESBLEUES>A
 
-<pstyle:TITRE>Les Intouchables
-<pstyle:TITRE_ANG>(Gli Intoccabili)
-<pstyle:TECHNIQUE>de Giuliano Montaldo
-<pstyle:TECHNIQUE>Italie/1968/96'/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec John Cassavetes, Florinda Bolkan, Peter Falk, Gena Rowlands.
-<pstyle:SYNOPSIS>Hank McCain vient de sortir de prison après douze années de détention. Son fils Jack le convainc de dévaliser un casino de Las Vegas appartenant à la mafia.
-<pstyle:><cstyle:INFOSBLEUES>ve 21 juinXXX17h00XXX
+<pstyle:TITRE>Rosemary's Baby
+<pstyle:TECHNIQUE>de Roman Polanski
+<pstyle:TECHNIQUE>États-Unis/1967/137'/VOSTF/DCP
+<pstyle:TECHNIQUE>D'après le roman <cSkew:9>Rosemary's baby<cSkew:> d'Ira Levin.
+<pstyle:TECHNIQUE>Avec John Cassavetes, Mia Farrow, Ruth Gordon.
+<pstyle:SYNOPSIS>Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un ancien immeuble de Manhattan, que leur fidèle ami Hutch juge maléfique. Leurs voisins, un couple de retraités excentriques, se montrent rapidement envahissants.
+<pstyle:><cstyle:INFOSBLEUES>je 06 juinXXX19h00XXX
 <cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>je 13 juinXXX16h15XXX
+<cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Un tueur dans la foule
 <pstyle:TITRE_ANG>(Two-minute Warning)
@@ -225,22 +218,11 @@
 
 <pstyle:CATEGORIE>Autour de John Cassavetes
 
-<pstyle:TITRE>Les Anges de l'enfer
-<pstyle:TITRE_ANG>(Devil's Angels)
-<pstyle:TECHNIQUE>de Daniel Haller
-<pstyle:TECHNIQUE>États-Unis/1967/84'/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec John Cassavetes, Beverly Adams, Mimsy Farmer.
-<pstyle:SYNOPSIS><ct:Italic>«<0x00A0>skulls<0x00A0>»<ct:> vivent en marge de la société et décident de quitter la ville dans laquelle ils sont à présent trop connus des services de police. Ils arrivent bientôt dans la petite ville de Brookville qui parait déserte ...
-<pstyle:><cstyle:INFOSBLEUES>ve 07 juinXXX20h00XXX
-<cstyle:SALLESBLEUES>B
-
 <pstyle:TITRE>John Cassavetes (Hollywood 1965, Paris 1968)
 <pstyle:TECHNIQUE>de Hubert Knapp, André S. Labarthe
 <pstyle:TECHNIQUE>France/1998/50'/VOSTF/Numérique
 <pstyle:SYNOPSIS>En 1965, André Labarthe et Hubert Knapp partent à Hollywood et rencontrent John Cassavetes, le futur chef de file du jeune cinéma indépendant américain. En 1968, ils le retrouvent à Paris à l'occasion de la sortie de <ct:Italic>Faces<ct:>. De ces rencontres improvisées va naître l'un des épisodes mythiques de la série <ct:Italic>Cinéastes de notre temps<ct:>.
-<pstyle:><cstyle:INFOSBLEUES>je 30 maiXXX20h00XXX
-<cstyle:SALLESBLEUES>A
-<cstyle:INFOSBLEUES>me 12 juinXXX20h30XXX
+<pstyle:><cstyle:INFOSBLEUES>me 12 juinXXX20h30XXX
 <cstyle:SALLESBLEUES>C
 
 <pstyle:CATEGORIE>Rencontres et conférences

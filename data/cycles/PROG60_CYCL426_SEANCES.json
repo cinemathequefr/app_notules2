@@ -1,56 +1,6 @@
 [
   {
     "idCycle": 426,
-    "idCategorie": 1936,
-    "idEvenement": 19123,
-    "idSeance": 30518,
-    "dateHeure": "2019-05-30T20:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "titreEvenement": "John Cassavetes (Hollywood 1965, Paris 1968)",
-    "items": [
-      {
-        "idFilm": 65068,
-        "ordre": 1,
-        "idSeance": 30518,
-        "idCopie": 18413,
-        "duree": 50,
-        "version": "VOSTF",
-        "format": "Numérique",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 426,
-    "idCategorie": 1927,
-    "idEvenement": 19111,
-    "idSeance": 30519,
-    "dateHeure": "2019-05-30T21:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "typeSeance": 44,
-    "titreEvenement": "Shadows",
-    "items": [
-      {
-        "idFilm": 31061,
-        "ordre": 1,
-        "idSeance": 30519,
-        "idCopie": 16136,
-        "duree": 87,
-        "version": "VOSTF",
-        "format": "DCP",
-        "valide": 0
-      }
-    ],
-    "mention": "Ouverture de la rétrospective"
-  },
-  {
-    "idCycle": 426,
     "idCategorie": 1935,
     "idEvenement": 19150,
     "idSeance": 29954,
@@ -84,6 +34,8 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Meurtre d'un bookmaker chinois (Le)",
+    "idSeanceAssoc": 29956,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 31048,
@@ -131,7 +83,7 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Maris",
+    "titreEvenement": "Husbands",
     "items": [
       {
         "idFilm": 57072,
@@ -161,11 +113,11 @@
         "idFilm": 31074,
         "ordre": 1,
         "idSeance": 29962,
-        "idCopie": 18166,
-        "duree": 98,
+        "idCopie": 18546,
+        "duree": 103,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -299,23 +251,23 @@
       "GF",
       "Georges Franju"
     ],
-    "titreEvenement": "Bébé de Rosemary (Le)",
+    "titreEvenement": "Rosemary's Baby",
     "items": [
       {
         "idFilm": 35811,
         "ordre": 1,
         "idSeance": 29989,
-        "idCopie": 18545,
+        "idCopie": 12459,
         "duree": 137,
         "version": "VOSTF",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 0
       }
     ]
   },
   {
     "idCycle": 426,
-    "idCategorie": 1936,
+    "idCategorie": 1935,
     "idEvenement": 19401,
     "idSeance": 31399,
     "dateHeure": "2019-06-07T20:00:00",
@@ -372,6 +324,8 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Faces",
+    "idSeanceAssoc": 30398,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 31041,
@@ -395,7 +349,7 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Ainsi va l'amour",
+    "titreEvenement": "Minnie and Moskowitz",
     "items": [
       {
         "idFilm": 31065,
@@ -443,7 +397,7 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Torrents d'amour",
+    "titreEvenement": "Love Streams",
     "items": [
       {
         "idFilm": 31059,
@@ -515,16 +469,16 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Bébé de Rosemary (Le)",
+    "titreEvenement": "Rosemary's Baby",
     "items": [
       {
         "idFilm": 35811,
         "ordre": 1,
         "idSeance": 30034,
-        "idCopie": 18545,
+        "idCopie": 12459,
         "duree": 137,
         "version": "VOSTF",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 0
       }
     ]
@@ -539,7 +493,7 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Maris",
+    "titreEvenement": "Husbands",
     "items": [
       {
         "idFilm": 57072,
@@ -579,30 +533,6 @@
   },
   {
     "idCycle": 426,
-    "idCategorie": 1935,
-    "idEvenement": 19122,
-    "idSeance": 30039,
-    "dateHeure": "2019-06-14T14:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Furie",
-    "items": [
-      {
-        "idFilm": 31442,
-        "ordre": 1,
-        "idSeance": 30039,
-        "idCopie": 981,
-        "duree": 117,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 426,
     "idCategorie": 1927,
     "idEvenement": 19116,
     "idSeance": 30502,
@@ -611,7 +541,7 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Torrents d'amour",
+    "titreEvenement": "Love Streams",
     "items": [
       {
         "idFilm": 31059,
@@ -683,7 +613,7 @@
       "HL",
       "Henri Langlois"
     ],
-    "titreEvenement": "Ainsi va l'amour",
+    "titreEvenement": "Minnie and Moskowitz",
     "items": [
       {
         "idFilm": 31065,
@@ -708,6 +638,8 @@
       "Henri Langlois"
     ],
     "titreEvenement": "Opening Night",
+    "idSeanceAssoc": 30055,
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 31070,
@@ -761,11 +693,11 @@
         "idFilm": 31074,
         "ordre": 1,
         "idSeance": 30057,
-        "idCopie": 18166,
-        "duree": 98,
+        "idCopie": 18546,
+        "duree": 103,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -894,7 +826,7 @@
     "idCategorie": 1935,
     "idEvenement": 19122,
     "idSeance": 30082,
-    "dateHeure": "2019-06-21T14:30:00",
+    "dateHeure": "2019-06-21T17:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -905,34 +837,10 @@
         "idFilm": 31442,
         "ordre": 1,
         "idSeance": 30082,
-        "idCopie": 981,
+        "idCopie": 15614,
         "duree": 117,
         "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCycle": 426,
-    "idCategorie": 1935,
-    "idEvenement": 19426,
-    "idSeance": 31398,
-    "dateHeure": "2019-06-21T17:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "titreEvenement": "Intouchables (Les)",
-    "items": [
-      {
-        "idFilm": 53564,
-        "ordre": 1,
-        "idSeance": 31398,
-        "idCopie": 18178,
-        "duree": 96,
-        "version": "VOSTF",
-        "format": "35 mm",
+        "format": "Numérique",
         "valide": 0
       }
     ]

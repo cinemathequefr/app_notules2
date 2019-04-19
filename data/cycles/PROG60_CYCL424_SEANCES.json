@@ -244,6 +244,8 @@
       "Georges Franju"
     ],
     "titreEvenement": "Favoris de la lune (Les)",
+    "idSeanceAssoc": 30431,
+    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 52619,
@@ -358,10 +360,10 @@
     "idCategorie": 1925,
     "idEvenement": 19091,
     "idSeance": 30691,
-    "dateHeure": "2019-06-06T19:00:00",
+    "dateHeure": "2019-06-06T20:30:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "titreEvenement": "Chantrapas",
     "items": [
@@ -663,7 +665,7 @@
     "idCategorie": 1925,
     "idEvenement": 19095,
     "idSeance": 30606,
-    "dateHeure": "2019-06-15T19:30:00",
+    "dateHeure": "2019-06-15T19:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -687,7 +689,7 @@
     "idCategorie": 1925,
     "idEvenement": 19094,
     "idSeance": 30607,
-    "dateHeure": "2019-06-15T21:45:00",
+    "dateHeure": "2019-06-15T21:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"

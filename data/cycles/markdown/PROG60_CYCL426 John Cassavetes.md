@@ -2,17 +2,6 @@
 
 ## Les films
 
-[31065]  
-**Ainsi va l'amour**  
-**(Minnie and Moskowitz)**  
-de John Cassavetes  
-États-Unis / 1971 / 115 min / VOSTF / DCP  
-Avec Gena Rowlands, Seymour Cassel, Val Avery, John Cassavetes.  
-Seymour Moskowitz, beatnik vieillissant, gardien de parking, quitte New York pour Los Angeles. Il y rencontre Minnie Moore, une blonde sophistiquée employée dans un musée. Tout les sépare, excepté leur solitude et leur maladresse.
-
-- sa 8 juin 18h30 HL  
-- sa 15 juin 21h00 HL
-
 [31048]  
 **Le Bal des vauriens = Meurtre d'un bookmaker chinois**  
 **(The Killing of a Chinese Bookie)**  
@@ -28,7 +17,7 @@ Cosmo Vitelli vient de rembourser la dernière hypothèque de sa boîte de nuit 
 **La Ballade des sans-espoir**  
 **(Too Late Blues)**  
 de John Cassavetes  
-États-Unis / 1961 / 98 min / VOSTF / 35 mm  
+États-Unis / 1961 / 103 min / VOSTF / 35 mm  
 Avec Bobby Darin, Stella Stevens, John Cassavetes.  
 Chronique de la vie d'un groupe de musiciens de jazz qui refusent, en vain, de se soumettre à un monde conformiste et hostile.
 
@@ -40,7 +29,8 @@ Chronique de la vie d'un groupe de musiciens de jazz qui refusent, en vain, de s
 de John Cassavetes  
 États-Unis / 1984 / 83 min / VOSTF / 35 mm  
 Avec Peter Falk, Robert Stack, Valerie Curtin.  
-Parce qu'il a besoin d'argent pour envoyer ses fils étudier à Yale, un courtier en assurances accepte d'établir un contrat frauduleux pour un couple étrange.
+Parce qu'il a besoin d'argent pour envoyer ses fils étudier à Yale, un courtier en assurances accepte d'établir un contrat frauduleux pour un couple étrange.  
+Film sous réserve.
 
 - lu 3 juin 19h00 GF  
 - je 20 juin 20h30 GF
@@ -76,8 +66,7 @@ Après avoir enterré l'un de leurs amis, trois quadragénaires plutôt tranquil
 - je 13 juin 19h00 HL
 
 [31059]  
-**Love Streams (Torrents d'amour)**  
-**(Love Streams)**  
+**Love Streams**  
 de John Cassavetes  
 États-Unis / 1983 / 141 min / VOSTF / DCP  
 D'après la pièce _Love Streams_ de Ted Allan.  
@@ -86,6 +75,16 @@ Les tendres et solides relations entre un frère et une sœur. Lui, écrivain, f
 
 - lu 10 juin 17h00 HL  
 - ve 14 juin 21h30 HL
+
+[31065]  
+**Minnie and Moskowitz**  
+de John Cassavetes  
+États-Unis / 1971 / 115 min / VOSTF / DCP  
+Avec Gena Rowlands, Seymour Cassel, Val Avery, John Cassavetes.  
+Seymour Moskowitz, beatnik vieillissant, gardien de parking, quitte New York pour Los Angeles. Il y rencontre Minnie Moore, une blonde sophistiquée employée dans un musée. Tout les sépare, excepté leur solitude et leur maladresse.
+
+- sa 8 juin 18h30 HL  
+- sa 15 juin 21h00 HL
 
 [31070]  
 **Opening Night**  
@@ -104,8 +103,6 @@ de John Cassavetes
 Avec Ben Carruthers, Lelia Goldoni.  
 Benny, Hugh et Lelia sont trois jeunes afro-américains, frères et sœur, et partagent le même appartement à New York. Alors que Benny passe ses journées entre la rue et les bars, Hugh tente de faire carrière comme chanteur de jazz. Lelia, quant à elle, rêve d'écrire.
 
-- je 30 mai 21h00 HL  
-Ouverture de la rétrospective  
 - je 13 juin 21h45 HL
 
 [31013]  
@@ -144,17 +141,15 @@ Après l'exécution d'un contrat, deux tueurs cherchent à connaître le passé 
 - sa 1 juin 14h30 HL  
 - sa 22 juin 14h30 HL
 
-[35811]  
-**Le Bébé de Rosemary**  
-**(Rosemary's Baby)**  
-de Roman Polanski  
-États-Unis / 1967 / 137 min / VOSTF / 35 mm  
-D'après le roman _Rosemary's baby_ d'Ira Levin.  
-Avec John Cassavetes, Mia Farrow, Ruth Gordon.  
-Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un ancien immeuble de Manhattan, que leur fidèle ami Hutch juge maléfique. Leurs voisins, un couple de retraités excentriques, se montrent rapidement envahissants.
+[33096]  
+**Les Anges de l'enfer**  
+**(Devil's Angels)**  
+de Daniel Haller  
+États-Unis / 1967 / 84 min / VOSTF / 35 mm  
+Avec John Cassavetes, Beverly Adams, Mimsy Farmer.  
+Cody et sa bande de blousons noirs, les « Skulls », quittent leur ville où la police les a trop vus. Ils arrivent bientôt à Brookville, une petite cité qui paraît déserte au premier abord.
 
-- je 6 juin 19h00 GF  
-- je 13 juin 16h15 HL
+- ve 7 juin 20h00 GF
 
 [31920]  
 **La Cible étoilée**  
@@ -183,13 +178,12 @@ En 1944, douze soldats américains, condamnés à mort ou à de fortes peines, o
 **Furie**  
 **(The Fury)**  
 de Brian De Palma  
-États-Unis / 1978 / 117 min / VOSTF / 35 mm  
+États-Unis / 1978 / 117 min / VOSTF / Numérique  
 D'après le roman _Furie_ de John Farris.  
 Avec Kirk Douglas, John Cassavetes, Daryl Hannah.  
 Un jeune homme doué de perception extrasensorielle est enlevé par une agence de contre-espionnage qui veut utiliser ses aptitudes paranormales à des fins politiques. Son père le recherche activement, aidé par une jeune étudiante dotée des mêmes pouvoirs.
 
-- ve 14 juin 14h30 GF  
-- ve 21 juin 14h30 GF
+- ve 21 juin 17h00 GF
 
 [45218]  
 **L'Homme qui tua la peur**  
@@ -203,15 +197,16 @@ Un déserteur trouve un emploi dans les docks, où il se lie avec un ouvrier noi
 - lu 10 juin 17h30 GF  
 - je 20 juin 17h00 HL
 
-[53564]  
-**Les Intouchables**  
-**(Gli Intoccabili)**  
-de Giuliano Montaldo  
-Italie / 1968 / 96 min / VOSTF / 35 mm  
-Avec John Cassavetes, Florinda Bolkan, Peter Falk, Gena Rowlands.  
-Hank McCain vient de sortir de prison après douze années de détention. Son fils Jack le convainc de dévaliser un casino de Las Vegas appartenant à la mafia.
+[35811]  
+**Rosemary's Baby**  
+de Roman Polanski  
+États-Unis / 1967 / 137 min / VOSTF / DCP  
+D'après le roman _Rosemary's baby_ d'Ira Levin.  
+Avec John Cassavetes, Mia Farrow, Ruth Gordon.  
+Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un ancien immeuble de Manhattan, que leur fidèle ami Hutch juge maléfique. Leurs voisins, un couple de retraités excentriques, se montrent rapidement envahissants.
 
-- ve 21 juin 17h00 GF
+- je 6 juin 19h00 GF  
+- je 13 juin 16h15 HL
 
 [35750]  
 **Un tueur dans la foule**  
@@ -227,23 +222,12 @@ Un tireur embusqué menace de tirer sur la foule lors d'un match de championnat 
 
 ## Autour de John Cassavetes
 
-[33096]  
-**Les Anges de l'enfer**  
-**(Devil's Angels)**  
-de Daniel Haller  
-États-Unis / 1967 / 84 min / VOSTF / 35 mm  
-Avec John Cassavetes, Beverly Adams, Mimsy Farmer.  
-Cody et sa bande de blousons noirs les « skulls » vivent en marge de la société et décident de quitter la ville dans laquelle ils sont à présent trop connus des services de police. Ils arrivent bientôt dans la petite ville de Brookville qui parait déserte ...
-
-- ve 7 juin 20h00 GF
-
 [65068]  
 **John Cassavetes (Hollywood 1965, Paris 1968)**  
 de Hubert Knapp, André S. Labarthe  
 France / 1998 / 50 min / VOSTF / Numérique  
 En 1965, André Labarthe et Hubert Knapp partent à Hollywood et rencontrent John Cassavetes, le futur chef de file du jeune cinéma indépendant américain. En 1968, ils le retrouvent à Paris à l'occasion de la sortie de _Faces_. De ces rencontres improvisées va naître l'un des épisodes mythiques de la série _Cinéastes de notre temps_.
 
-- je 30 mai 20h00 HL  
 - me 12 juin 20h30 JE
 
 ## Rencontres et conférences
