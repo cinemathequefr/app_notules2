@@ -8,6 +8,7 @@ const database = require("./lib/database");
 const config = require("./lib/config");
 const seances = require("./lib/query/seances.js");
 const films = require("./lib/query/films.js");
+const confs = require("./lib/query/confs.js");
 const helpers = require("./lib/helpers.js");
 const {
   promisify
@@ -38,38 +39,41 @@ const timestamp = helpers.timestamp();
     console.log("Connecté à la base de données.");
 
     // Films
-    let f = await films(db, cycleConfig);
-    console.log(`Films : ${_.map(f).length} items.`);
+    /*
+        let f = await films(db, cycleConfig);
+        console.log(`Films : ${_.map(f).length} items.`);
+
+        await writeFile(
+          `data/cycles/PROG${idProg}_CYCL${idCycle}_FILMS.json`,
+          JSON.stringify(f, null, 2),
+          "utf8"
+        );
+    */
+
+    // Confs
+    let c = await confs(db, cycleConfig);
+    console.log(`Conférences : ${_.map(c).length} items.`)
 
     await writeFile(
-      `data/cycles/PROG${idProg}_CYCL${idCycle}_FILMS.json`,
-      JSON.stringify(f, null, 2),
+      `data/cycles/PROG${idProg}_CYCL${idCycle}_CONFS.json`,
+      JSON.stringify(c, null, 2),
       "utf8"
     );
 
-    // TEMPORAIREMENT DESACTIVE: copie du fichier avec timestamp
-    // await copyFile(
-    //   `data/cycles/PROG${idProg}_CYCL${idCycle}_FILMS.json`,
-    //   `data/cycles/ts/PROG${idProg}_CYCL${idCycle}_FILMS ${timestamp}.json`
-    // );
+
+
 
     // Séances
-    let s = await seances(db, cycleConfig);
+    /*
+        let s = await seances(db, cycleConfig);
+        console.log(`Séances : ${s.length} items.`);
 
-
-    console.log(`Séances : ${s.length} items.`);
-
-    await writeFile(
-      `data/cycles/PROG${idProg}_CYCL${idCycle}_SEANCES.json`,
-      JSON.stringify(s, null, 2),
-      "utf8"
-    );
-
-    // TEMPORAIREMENT DESACTIVE: copie du fichier avec timestamp
-    // await copyFile(
-    //   `data/cycles/PROG${idProg}_CYCL${idCycle}_SEANCES.json`,
-    //   `data/cycles/ts/PROG${idProg}_CYCL${idCycle}_SEANCES ${timestamp}.json`
-    // );
+        await writeFile(
+          `data/cycles/PROG${idProg}_CYCL${idCycle}_SEANCES.json`,
+          JSON.stringify(s, null, 2),
+          "utf8"
+        );
+    */
 
     database.detach(db);
   } catch (e) {

@@ -1,0 +1,18 @@
+{
+  "19213": {
+    "idCategorie": 1941,
+    "idEvenement": 19213,
+    "titre": "* « Mario Bava : l'image qui saigne » *",
+    "duree": 90,
+    "idTypeConference": 55,
+    "typeConference": "Conférence"
+  },
+  "19292": {
+    "idCategorie": 1941,
+    "idEvenement": 19292,
+    "titre": "* Mario Bava, un cinéaste rouge profond *",
+    "duree": 60,
+    "idTypeConference": 146,
+    "typeConference": "Conversation"
+  }
+}
